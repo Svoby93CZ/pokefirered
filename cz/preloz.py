@@ -121,8 +121,8 @@ def main():
         n = re.escape(nazev)
         if inc:
             vzor = re.compile(r"(^" + n + r"::?[ \t]*\n(?:\w+::?[ \t]*\n)*)((?:[ \t]*\.string \"[^\"\n]*\"[^\n]*\n)+)", re.M)
-        else:  # NAZEV[] = _("…"); nebo [NAZEV] = _("…"), v poli
-            vzor = re.compile(r"((?:\b" + n + r"\[\]|\[" + n + r'\])\s*=\s*_\(")(.*?)("\))')
+        else:  # NAZEV[] = _("…"); nebo [NAZEV] = _("…"), v poli; i _( "…" "…" ) na víc řádků
+            vzor = re.compile(r"((?:\b" + n + r"\[\]|\[" + n + r'\])\s*=\s*_\()(\s*(?:"(?:[^"\\]|\\.)*"\s*)+)(\))')
         nalezy = list(vzor.finditer(zdroj))
         if len(nalezy) != 1:
             raise SystemExit(f"{nazev}: nalezeno {len(nalezy)}×, nic nezapsáno")
@@ -137,9 +137,14 @@ def main():
             odsazeni = re.match(r"[ \t]*", m.group(2)).group()
             nahrada = m.group(1) + "".join(f'{odsazeni}.string "{k}"\n' for k in kusy)
         else:
-            stary = m.group(2)
+            stary = "".join(re.findall(r'"((?:[^"\\]|\\.)*)"', m.group(2)))
             novy = zalom(novy)
-            nahrada = m.group(1) + novy + m.group(3)
+            if "\n" in m.group(2):  # víc řádků: jeden literál na řádek jako v originále
+                odsazeni = re.search(r"\n([ \t]*)\"", m.group(2)).group(1)
+                kusy = [k for k in re.split(r"(?<=\\[nlp])", novy) if k] or [""]
+                nahrada = m.group(1) + "".join(f'\n{odsazeni}"{k}"' for k in kusy) + m.group(3)
+            else:
+                nahrada = m.group(1) + '"' + novy + '"' + m.group(3)
         s, n = max(radky(stary)), max(radky(novy))
         znacka = "!!" if n > DIALOG_PX else "!" if n > s else ""
         print(f"{znacka:2} {s:3} -> {n:3}  {nazev}: {novy}")

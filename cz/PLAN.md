@@ -10,10 +10,10 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     zadávání jmen, líhnutí, rybaření, školka, učení útoků
 - [x] **2. Souboje**: `src/battle_message.c`, třídy trenérů (`src/data/text/trainer_class_names.h`).
   Texty Trainer Tower (TIME BOARD…) jsou v části 7.
-- [ ] **3. Společné hlášky**
+- [x] **3. Společné hlášky**
   - [x] 3a `data/text/*.inc` (úvod hry, ukládání, PC, obchod, školka, Safari, POKé DUDE, hodnocení Pokédexu…),
     `data/event_scripts.s`, `data/scripts/field_moves.inc`, `repel.inc`
-  - [ ] 3b `data/text/trainers.inc` (VS Seeker + odvety trenérů), `src/data/text/quest_log.h`, `teachy_tv.h`
+  - [x] 3b `data/text/trainers.inc` (VS Seeker + odvety trenérů), `src/data/text/quest_log.h`, `teachy_tv.h`
 - [ ] **4. Příběh**: `data/maps/*/text.inc`, po oblastech:
   - [ ] 4a Pallet, Viridian, Pewter, Route 1–3, Viridian Forest
   - [ ] 4b Mt. Moon, Cerulean, Vermilion, S.S. Anne, Route 4–11
@@ -34,6 +34,8 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 - **Hráč** (`{PLAYER}`) může být kluk i holka, proto žádné minulé časy s rodem.
   Místo „{PLAYER} použil“ piš „{PLAYER} používá“ nebo „Použito: …“.
 - **Pokémon** jako podmět je v mužském rodě („{STR_VAR_1} se naučil…“).
+- NPC mluví v 1. osobě podle svého rodu (podle jména a třídy: „Nasbírala jsem…“); věty o hráči
+  zůstávají bezrodé („Taky nos kraťasy!“ místo „Taky bys měl…“). Quest log vypráví v přítomném čase.
 - Proměnná jména (`{STR_VAR_1}`, `{DYNAMIC}`) se neskloňují, věty se stavějí kolem nich
   („Získáno: {STR_VAR_1}.“). Pevná jména se skloňovat smí, když to zní přirozeně (PC PROF. OAKA, BILLOVO PC).
 - Zkratky stavů PSN, PAR, SLP, BRN, FRZ zůstávají, protože ikony stavů ve hře jsou obrázky.
