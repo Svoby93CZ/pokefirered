@@ -1,26 +1,25 @@
 gText_WouldYouLikeToSaveTheGame::
-	.string "Would you like to save the game?$"
+	.string "Chceš uložit hru?$"
 
 gText_AlreadySaveFile_WouldLikeToOverwrite::
-	.string "There is already a saved file.\n"
-	.string "Is it okay to overwrite it?$"
+	.string "Uložená hra už existuje.\n"
+	.string "Můžu ji přepsat?$"
 
 gText_SavingDontTurnOffThePower::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "UKLÁDÁM…\n"
+	.string "NEVYPÍNEJ KONZOLI.$"
 
 gText_PlayerSavedTheGame::
-	.string "{PLAYER} saved the game.$"
+	.string "Hra je uložena.$"
 
 gText_SaveFailed2::
 	.string "セーブに　しっぱい　しました‥$"
 
 gText_DifferentGameFile::
-	.string "WARNING!\p"
-	.string "There is a different game file that\n"
-	.string "is already saved.\p"
-	.string "If you save now, the other file's\n"
-	.string "adventure, including items and\l"
-	.string "POKéMON, will be entirely lost.\p"
-	.string "Are you sure you want to save now\n"
-	.string "and overwrite the other save file?$"
+	.string "VAROVÁNÍ!\p"
+	.string "Už je uložena jiná hra.\p"
+	.string "Když teď uložíš, dobrodružství z\n"
+	.string "druhé hry včetně předmětů a\l"
+	.string "POKéMONŮ bude úplně ztraceno.\p"
+	.string "Opravdu chceš teď uložit a přepsat\n"
+	.string "druhou uloženou hru?$"

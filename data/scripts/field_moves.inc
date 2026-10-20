@@ -45,16 +45,16 @@ EventScript_DontCutTree::
 	end
 
 Text_CutTreeDown::
-	.string "This tree looks like it can be CUT\n"
-	.string "down!\p"
-	.string "Would you like to CUT it?$"
+	.string "Vypadá to, že tenhle strom jde\n"
+	.string "pokácet útokem CUT!\p"
+	.string "Chceš použít CUT?$"
 
 Text_MonUsedMove::
-	.string "{STR_VAR_1} used {STR_VAR_2}!$"
+	.string "{STR_VAR_1} používá {STR_VAR_2}!$"
 
 Text_TreeCanBeCutDown::
-	.string "This tree looks like it can be CUT\n"
-	.string "down!$"
+	.string "Vypadá to, že tenhle strom jde\n"
+	.string "pokácet útokem CUT!$"
 
 EventScript_RockSmash::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -109,12 +109,12 @@ EventScript_DontSmashRock::
 	end
 
 Text_UseRockSmash::
-	.string "This rock appears to be breakable.\n"
-	.string "Would you like to use ROCK SMASH?$"
+	.string "Tenhle kámen asi jde rozbít.\n"
+	.string "Chceš použít ROCK SMASH?$"
 
 Text_MonMaySmashRock::
-	.string "It's a rugged rock, but a POKéMON\n"
-	.string "may be able to smash it.$"
+	.string "Je to drsný kámen, ale POKéMON by\n"
+	.string "ho možná dokázal rozbít.$"
 
 EventScript_StrengthBoulder::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -158,22 +158,22 @@ EventScript_DontUseStrength::
 	end
 
 Text_UseStrength::
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.\p"
-	.string "Would you like to use STRENGTH?$"
+	.string "Je to velký balvan, ale POKéMON\n"
+	.string "by ho možná dokázal odsunout.\p"
+	.string "Chceš použít STRENGTH?$"
 
 Text_MonUsedStrengthCanMoveBoulders::
-	.string "{STR_VAR_1} used STRENGTH!\p"
-	.string "{STR_VAR_1}'s STRENGTH made it\n"
-	.string "possible to move boulders around!$"
+	.string "{STR_VAR_1} používá STRENGTH!\p"
+	.string "Díky STRENGTH teď jde posouvat\n"
+	.string "balvany!$"
 
 Text_MonMayPushBoulder::
-	.string "It's a big boulder, but a POKéMON\n"
-	.string "may be able to push it aside.$"
+	.string "Je to velký balvan, ale POKéMON\n"
+	.string "by ho možná dokázal odsunout.$"
 
 Text_StrengthMadeMovingBouldersPossible::
-	.string "STRENGTH made it possible to move\n"
-	.string "boulders around.$"
+	.string "Díky STRENGTH teď jde posouvat\n"
+	.string "balvany.$"
 
 EventScript_Waterfall::
 	goto_if_questlog EventScript_ReleaseEnd
@@ -197,15 +197,15 @@ EventScript_EndWaterfall:
 	end
 
 Text_WallOfWaterCrashingDown::
-	.string "A wall of water is crashing down\n"
-	.string "with a mighty roar.$"
+	.string "Stěna vody se s mohutným hukotem\n"
+	.string "řítí dolů.$"
 
 Text_UseWaterfall::
-	.string "It's a large waterfall.\n"
-	.string "Would you like to use WATERFALL?$"
+	.string "Je to velký vodopád.\n"
+	.string "Chceš použít WATERFALL?$"
 
 Text_MonUsedWaterfall::
-	.string "{STR_VAR_1} used WATERFALL.$"
+	.string "{STR_VAR_1} používá WATERFALL.$"
 
 @ Unused leftover from R/S
 EventScript_DeepWater::
@@ -255,31 +255,31 @@ EventScript_EndSurface:
 	end
 
 Text_MonMayGoUnderwater::
-	.string "The sea is deep here. A POKéMON\n"
-	.string "may be able to go underwater.$"
+	.string "Moře je tu hluboké. POKéMON by se\n"
+	.string "možná dokázal potopit.$"
 
 Text_SeaIsDeepUseDive::
-	.string "The sea is deep here.\n"
-	.string "Would you like to use DIVE?$"
+	.string "Moře je tu hluboké.\n"
+	.string "Chceš použít DIVE?$"
 
 Text_MonUsedDive::
-	.string "{STR_VAR_1} used DIVE.$"
+	.string "{STR_VAR_1} používá DIVE.$"
 
 Text_MonMaySurface::
-	.string "Light is filtering down from above.\n"
-	.string "A POKéMON may be able to surface.$"
+	.string "Shora prosvítá světlo. POKéMON by\n"
+	.string "se možná dokázal vynořit.$"
 
 Text_LightFilteringUseDive::
-	.string "Light is filtering down from above.\n"
-	.string "Would you like to use DIVE?$"
+	.string "Shora prosvítá světlo.\n"
+	.string "Chceš použít DIVE?$"
 
 Text_DiveCantBeUsedHere::
-	.string "There is an obstacle above.\n"
-	.string "DIVE can't be used here.$"
+	.string "Nahoře je překážka.\n"
+	.string "DIVE tu použít nejde.$"
 
 EventScript_FailSweetScent::
 	msgbox Text_LooksLikeNothingHere, MSGBOX_SIGN
 	end
 
 Text_LooksLikeNothingHere::
-	.string "Looks like there's nothing here…$"
+	.string "Vypadá to, že tu nic není…$"

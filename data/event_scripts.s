@@ -809,42 +809,42 @@ gStdScriptsEnd::
 
 @ Unused
 Text_WouldYouLikeToMixRecords::
-	.string "Would you like to mix records with\n"
-	.string "other TRAINERS?$"
+	.string "Chceš si vyměnit záznamy\n"
+	.string "s jinými TRENÉRY?$"
 
 @ Unused
 Text_WeHopeToSeeYouAgain2::
-	.string "We hope to see you again!$"
+	.string "Těšíme se na další návštěvu!$"
 
 	.include "data/text/pc.inc"
 
 @ Unused
 Text_WelcomeTradeCenter::
-	.string "Welcome to the POKéMON CABLE CLUB\n"
+	.string "Vítejte v POKéMON CABLE CLUB\n"
 	.string "TRADE CENTER.$"
 
 @ Unused
 Text_WelcomeColosseum::
-	.string "Welcome to the POKéMON CABLE CLUB\n"
+	.string "Vítejte v POKéMON CABLE CLUB\n"
 	.string "COLOSSEUM.$"
 
 @ Unused
 Text_WelcomeTimeCapsule::
-	.string "Welcome to the POKéMON CABLE CLUB\n"
+	.string "Vítejte v POKéMON CABLE CLUB\n"
 	.string "TIME CAPSULE.$"
 
 Text_PleaseComeAgain::
-	.string "Please come again!$"
+	.string "Přijďte zas!$"
 
 @ Unused
 Text_HavingDiscountSaleToday::
-	.string "Welcome!\p"
-	.string "We're having a discount sale today!$"
+	.string "Vítejte!\p"
+	.string "Dnes máme slevovou akci!$"
 
 @ Unused
 Text_PlayerWhatCanIDoForYou::
-	.string "{PLAYER}{KUN}, welcome!\p"
-	.string "What can I do for you?$"
+	.string "{PLAYER}{KUN}, vítej!\p"
+	.string "Co pro tebe můžu udělat?$"
 
 	.include "data/text/obtain_item.inc"
 
@@ -852,11 +852,12 @@ Text_MakingPreparations::
 	.string "じゅんびちゅうです！$"
 
 Text_WantWhichFloor::
-	.string "Which floor do you want?$"
+	.string "Do kterého patra?$"
 
 Text_BagItemCanBeRegistered::
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
+	.string "Předmět z BATOHU můžeš přiřadit\n"
+	.string "k tlačítku SELECT a snadno ho\l"
+	.string "použít.$"
 
 @ Unused (email from R/S Rivals computer)
 Text_TrainerSchoolEmail::
@@ -870,7 +871,7 @@ Text_TrainerSchoolEmail::
 	.string "‥‥　‥‥　‥‥$"
 
 Text_PlayerBootedUpPC::
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER} zapíná PC.$"
 
 @ Unused
 Text_LinkWasCanceled::
@@ -878,29 +879,27 @@ Text_LinkWasCanceled::
 
 @ Unused
 Text_GiveNicknameToReceivedMon::
-	.string "Want to give a nickname to the\n"
-	.string "{STR_VAR_2} you received?$"
+	.string "Chceš dát přezdívku\n"
+	.string "získanému POKéMONOVI {STR_VAR_2}?$"
 
 gText_PkmnFainted3::
-	.string "{STR_VAR_1} fainted…\p"
-	.string "$"
+	.string "{STR_VAR_1} omdlel…\p$"
 
 Text_WelcomeWantToHealPkmn::
-	.string "Welcome to our POKéMON CENTER!\p"
-	.string "Would you like me to heal your\n"
-	.string "POKéMON back to perfect health?$"
+	.string "Vítejte v POKéMON CENTER!\p"
+	.string "Mám vaše POKéMONY vyléčit do\n"
+	.string "plného zdraví?$"
 
 Text_TakeYourPkmnForFewSeconds::
-	.string "Okay, I'll take your POKéMON for a\n"
-	.string "few seconds.$"
+	.string "Dobře, na pár vteřin si vaše\n"
+	.string "POKéMONY vezmu.$"
 
 Text_WeHopeToSeeYouAgain::
-	.string "We hope to see you again!$"
+	.string "Těšíme se na další návštěvu!$"
 
 Text_RestoredPkmnToFullHealth::
-	.string "Thank you for waiting.\n"
-	.string "We've restored your POKéMON to\l"
-	.string "full health.$"
+	.string "Děkuji za počkání.\n"
+	.string "Vaši POKéMONI jsou zcela vyléčeni.$"
 
 	.include "data/text/surf.inc"
 
@@ -915,21 +914,21 @@ Text_BigHoleInTheWall::
 	.string "おおきな　あなが　あいている！$"
 
 Text_WirelessClubUndergoingAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+	.string "Velice se omlouvám.\n"
+	.string "POKéMON WIRELESS CLUB se právě\l"
+	.string "upravuje.$"
 
 Text_AppearsToBeUndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+	.string "Zdá se, že se tu něco\n"
+	.string "upravuje…$"
 
 Text_HandedOverItem::
-	.string "{PLAYER} handed over the\n"
+	.string "{PLAYER} předává\n"
 	.string "{STR_VAR_1}.$"
 
 Text_GiveNicknameToThisMon::
-	.string "Do you want to give a nickname to\n"
-	.string "this {STR_VAR_1}?$"
+	.string "Chceš dát přezdívku\n"
+	.string "POKéMONOVI {STR_VAR_1}?$"
 
 	.include "data/text/itemfinder.inc"
 	.include "data/text/route23.inc"
@@ -937,28 +936,28 @@ Text_GiveNicknameToThisMon::
 	.include "data/text/ingame_trade.inc"
 
 Text_CardKeyOpenedDoor::
-	.string "Bingo!\n"
-	.string "The CARD KEY opened the door!$"
+	.string "Trefa!\n"
+	.string "CARD KEY otevřel dveře!$"
 
 Text_ItNeedsCardKey::
-	.string "No!\n"
-	.string "It needs a CARD KEY!$"
+	.string "Nic!\n"
+	.string "Je potřeba CARD KEY!$"
 
 Text_AccessedProfOaksPC::
-	.string "Accessed PROF. OAK's PC…\p"
-	.string "Accessed the POKéDEX Rating\n"
-	.string "System…$"
+	.string "Připojeno: PC PROF. OAKA…\p"
+	.string "Připojeno k systému hodnocení\n"
+	.string "POKéDEXU…$"
 
 Text_HavePokedexRated::
-	.string "Would you like to have your\n"
-	.string "POKéDEX rated?$"
+	.string "Chceš nechat ohodnotit svůj\n"
+	.string "POKéDEX?$"
 
 Text_ClosedLinkToProfOaksPC::
-	.string "Closed link to PROF. OAK's PC.$"
+	.string "Spojení s PC PROF. OAKA ukončeno.$"
 
 Text_VoiceRangOutDontRunAway::
-	.string "Someone's voice rang out,\n"
-	.string "“Don't run away!”$"
+	.string "Ozval se něčí hlas:\n"
+	.string "“Neutíkej!”$"
 
 @ Uncear what the below unused JP texts were for
 Text_IdLikeToSeeRequest::
@@ -983,22 +982,22 @@ Text_TheDoorIsClosed::
 	.string "ドアは　しまっている‥$"
 
 Text_TheDoorIsOpen::
-	.string "The door is open…$"
+	.string "Dveře jsou otevřené…$"
 
 	.include "data/text/pc_transfer.inc"
 	.include "data/text/white_out.inc"
 	.include "data/text/poke_mart.inc"
 
 Text_MonFlewAway::
-	.string "The {STR_VAR_1} flew away!$"
+	.string "{STR_VAR_1} odletěl!$"
 
 Text_TheresBedLetsRest::
 	.string "ベッドが　ある‥‥\n"
 	.string "やすんでいこう$"
 
 Text_FoundTMHMContainsMove::
-	.string "{PLAYER} found a {STR_VAR_2}!\n"
-	.string "It contains {STR_VAR_1}.$"
+	.string "{PLAYER} nachází {STR_VAR_2}!\n"
+	.string "Obsahuje {STR_VAR_1}.$"
 
 	.include "data/text/seagallop.inc"
 
@@ -1007,8 +1006,8 @@ Text_Gyaoo::
 	.string "Gyaoo!$"
 
 Text_MoveCanOnlyBeLearnedOnce::
-	.string "This move can be learned only\n"
-	.string "once. Is that okay?$"
+	.string "Tenhle útok se dá naučit jen\n"
+	.string "jednou. Nevadí?$"
 
 EventScript_ResetAllMapFlags::
 	setflag FLAG_HIDE_OAK_IN_HIS_LAB

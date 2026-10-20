@@ -1,130 +1,131 @@
 @ Same as Hoenn's day-care text, used by the Four Island Day-Care. Unused text translated in Emerald
 
 DayCare_Text_ImDaycareManSpeakToMyWife::
-	.string "I'm the DAY-CARE MAN.\p"
-	.string "I help take care of the precious\n"
-	.string "POKéMON of TRAINERS.\p"
-	.string "If you'd like me to raise your\n"
-	.string "POKéMON, have a word with my wife.$"
+	.string "Já jsem pán ze ŠKOLKY.\p"
+	.string "Starám se o vzácné POKéMONY\n"
+	.string "TRENÉRŮ.\p"
+	.string "Jestli chceš, abych ti vychoval\n"
+	.string "POKéMONA, promluv si s mou ženou.$"
 
 DayCare_Text_DoYouWantEgg::
-	.string "Ah, it's you!\p"
-	.string "We were raising your POKéMON, and\n"
-	.string "my goodness, were we surprised!\p"
-	.string "Your POKéMON had an EGG!\p"
-	.string "We don't know how it got there,\n"
-	.string "but your POKéMON had it.\p"
-	.string "You do want it, yes?$"
+	.string "Á, to jsi ty!\p"
+	.string "Starali jsme se o tvoje POKéMONY\n"
+	.string "a představ si, jak jsme se divili!\p"
+	.string "Tvůj POKéMON měl VEJCE!\p"
+	.string "Nevíme, jak se tam vzalo, ale tvůj\n"
+	.string "POKéMON ho měl.\p"
+	.string "Chceš ho, že ano?$"
 
 DayCare_Text_YourMonIsDoingFine::
-	.string "Ah, it's you! Good to see you.\n"
-	.string "Your {STR_VAR_1}'s doing fine.$"
+	.string "Á, to jsi ty! Rád tě vidím.\n"
+	.string "Tvůj {STR_VAR_1} se má dobře.$"
 
 DayCare_Text_IllKeepIt::
-	.string "Well then, I'll keep it.\n"
-	.string "Thanks!$"
+	.string "Tak si ho nechám.\n"
+	.string "Díky!$"
 
 DayCare_Text_YouHaveNoRoomForIt::
-	.string "You have no room for it…\n"
-	.string "Come back when you've made room.$"
+	.string "Nemáš pro něj místo…\n"
+	.string "Vrať se, až si uděláš místo.$"
 
 DayCare_Text_ReceivedEgg::
-	.string "{PLAYER} received the EGG from\n"
-	.string "the DAY-CARE MAN.$"
+	.string "{PLAYER} dostává VEJCE\n"
+	.string "od pána ze ŠKOLKY.$"
 
 DayCare_Text_TakeGoodCareOfIt::
-	.string "Take good care of it.$"
+	.string "Dobře se o něj starej.$"
 
 DayCare_Text_SeeWifeIfYouWantToPickUpMon::
 	.string "ポケモンを　ひきとりたい　ときは\n"
 	.string "ばさんに　いって　おくれ$"
 
 DayCare_Text_YourMonsAreDoingFine::
-	.string "Ah, it's you! Your {STR_VAR_1} and\n"
-	.string "{STR_VAR_2} are doing fine.$"
+	.string "Á, to jsi ty! {STR_VAR_1} a\n"
+	.string "{STR_VAR_2} se mají dobře.$"
 
 DayCare_Text_IWillKeepDoYouWantIt::
-	.string "I really will keep it.\n"
-	.string "You do want this, yes?$"
+	.string "Já si ho fakt nechám.\n"
+	.string "Chceš ho, že ano?$"
 
 DayCare_Text_WouldYouLikeUsToRaiseMon::
-	.string "I'm the DAY-CARE LADY.\p"
-	.string "We can raise POKéMON for you.\p"
-	.string "Would you like us to raise one?$"
+	.string "Já jsem paní ze ŠKOLKY.\p"
+	.string "Můžeme ti vychovat POKéMONA.\p"
+	.string "Chceš, abychom se o nějakého\n"
+	.string "postarali?$"
 
 DayCare_Text_WhichMonShouldWeRaise::
-	.string "Which POKéMON should we raise for\n"
-	.string "you?$"
+	.string "Kterého POKéMONA ti\n"
+	.string "máme vychovat?$"
 
 DayCare_Text_WellRaiseYourMon::
-	.string "Fine, we'll raise your {STR_VAR_1}\n"
-	.string "for a while.\p"
-	.string "Come back for it later.$"
+	.string "Dobře, {STR_VAR_1} u nás\n"
+	.string "chvíli zůstane.\p"
+	.string "Vrať se pro něj později.$"
 
 DayCare_Text_WeCanRaiseOneMore::
-	.string "We can raise two of your POKéMON.\p"
-	.string "Would you like us to raise one\n"
-	.string "more POKéMON for you?$"
+	.string "Můžeme vychovávat dva tvoje\n"
+	.string "POKéMONY.\p"
+	.string "Máme se postarat ještě o jednoho?$"
 
 DayCare_Text_HusbandWasLookingForYou::
-	.string "My husband was looking for you.$"
+	.string "Můj muž tě hledal.$"
 
 DayCare_Text_FineThenComeAgain::
-	.string "Oh, fine, then.\n"
-	.string "Come again.$"
+	.string "Ach tak, dobře.\n"
+	.string "Přijď zas.$"
 
 DayCare_Text_NotEnoughMoney::
-	.string "You don't have enough money…$"
+	.string "Nemáš dost peněz…$"
 
 DayCare_Text_TakeOtherOneBackToo::
-	.string "Will you take back the other one,\n"
-	.string "too?$"
+	.string "Vezmeš si zpátky i toho\n"
+	.string "druhého?$"
 
 DayCare_Text_ComeAgain::
-	.string "Fine.\n"
-	.string "Come again.$"
+	.string "Dobře.\n"
+	.string "Přijď zas.$"
 
 DayCare_Text_GoodToSeeYou::
-	.string "Ah, it's you!\n"
-	.string "Good to see you.\p"
-	.string "Your POKéMON can only be doing\n"
-	.string "good!$"
+	.string "Á, to jsi ty!\n"
+	.string "Ráda tě vidím.\p"
+	.string "Tvým POKéMONŮM se tu může vést\n"
+	.string "jen dobře!$"
 
 DayCare_Text_YourMonHasGrownXLevels::
-	.string "By level, your {STR_VAR_1} has\n"
-	.string "grown by {STR_VAR_2}.$"
+	.string "Tvůj {STR_VAR_1} je\n"
+	.string "o {STR_VAR_2} Lv. výš.$"
 
 DayCare_Text_YourPartyIsFull::
-	.string "Your POKéMON party is full.\n"
-	.string "Make room, then come see me.$"
+	.string "Tvůj tým je plný.\n"
+	.string "Udělej místo a pak přijď.$"
 
 DayCare_Text_TakeBackWhichMon::
 	.string "どっちの　ポケモンを　ひきとるかい？$"
 
 DayCare_Text_ItWillCostX::
-	.string "If you want your {STR_VAR_1} back,\n"
-	.string "it will cost ¥{STR_VAR_2}.$"
+	.string "Jestli chceš {STR_VAR_1} zpátky,\n"
+	.string "bude to stát ¥{STR_VAR_2}.$"
 
 DayCare_Text_HeresYourMon::
-	.string "Perfect!\n"
-	.string "Here's your POKéMON.$"
+	.string "Výborně!\n"
+	.string "Tady je tvůj POKéMON.$"
 
 DayCare_Text_TookBackMon::
-	.string "{PLAYER} took back {STR_VAR_1} from\n"
-	.string "the DAY-CARE LADY.$"
+	.string "{PLAYER} si od paní ze ŠKOLKY\n"
+	.string "bere zpět {STR_VAR_1}.$"
 
 DayCare_Text_YouHaveJustOneMon::
-	.string "Oh? But you have just one\n"
-	.string "POKéMON.\p"
-	.string "Come back another time.$"
+	.string "Cože? Vždyť máš jen jednoho\n"
+	.string "POKéMONA.\p"
+	.string "Přijď jindy.$"
 
 DayCare_Text_TakeYourMonBack::
-	.string "Will you take your POKéMON back?$"
+	.string "Vezmeš si POKéMONA zpátky?$"
 
 DayCare_Text_WhatWillYouBattleWith::
-	.string "If you leave me that POKéMON,\n"
-	.string "what will you battle with?\p"
-	.string "Come back another time.$"
+	.string "Když mi necháš tohohle POKéMONA,\n"
+	.string "s čím budeš bojovat?\p"
+	.string "Přijď jindy.$"
 
 DayCare_Text_Huh::
-	.string "Huh?$"
+	.string "Cože?$"

@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
-"""Vymění texty _("...") v C souboru podle názvu proměnné a změří jejich šířku.
+r"""Vymění texty _("...") v C souboru podle názvu proměnné a změří jejich šířku.
 
 Spouštěj z kořene repozitáře:
     python3 cz/preloz.py src/strings.c <<'EOF'
     gText_MenuBag = BATOH
     gText_MenuSave = ULOŽIT
     EOF
+Funguje i pro data/**/*.inc a *.s (Label:: + řádky .string "…", koncové $ doplní samo).
+Text bez \n a \l se zalomí automaticky (odstavce odděluj \p).
 Bez vstupu (python3 cz/preloz.py src/strings.c < /dev/null) jen nic nezmění.
 Výpis: šířka nejdelšího řádku v px (normální font, s argumentem 'maly' malý) původní -> nová;
 argument 'boj' = texty soubojů (limit 216 px, jména s předponou „Soupeřův “);
@@ -82,24 +84,66 @@ def radky(text):
     return vysledek
 
 
+def zalom(text):
+    """Odstavce (\\p) bez ručních zlomů (\\n, \\l) zalomí do DIALOG_PX:
+    2. řádek odstavce začíná \\n, každý další \\l (jako v originále).
+    Jednopísmenná slova (v, s, k, a…) nenechá na konci řádku."""
+    odstavce = []
+    for odstavec in text.split("\\p"):
+        if "\\n" in odstavec or "\\l" in odstavec:
+            odstavce.append(odstavec)
+            continue
+        slova = []
+        for slovo in re.split(r" (?![^{]*\})", odstavec):  # ne uvnitř {PAUSE 0x60}
+            if slova and len(slova[-1]) == 1 and slova[-1].isalpha():
+                slova[-1] += " " + slovo
+            else:
+                slova.append(slovo)
+        radky_ = []
+        for slovo in slova:
+            if radky_ and max(radky(radky_[-1] + " " + slovo)) <= DIALOG_PX:
+                radky_[-1] += " " + slovo
+            else:
+                radky_.append(slovo)
+        odstavce.append("".join(("\\n" if i == 1 else "\\l" if i else "") + r for i, r in enumerate(radky_)))
+    return "\\p".join(odstavce)
+
+
 def main():
     soubor = Path(sys.argv[1])
     zdroj = soubor.read_text(encoding="utf-8")
+    inc = soubor.suffix in (".inc", ".s")  # Label:: + řádky .string "…"
     for radek in sys.stdin.read().splitlines():
         if not radek.strip() or radek.startswith("#"):
             continue
         nazev, novy = radek.split(" = ", 1)  # mezeru na konci textu nechat
         nazev = nazev.strip()
-        n = re.escape(nazev)  # NAZEV[] = _("…"); nebo [NAZEV] = _("…"), v poli
-        vzor = re.compile(r"((?:\b" + n + r"\[\]|\[" + n + r'\])\s*=\s*_\(")(.*?)("\))')
-        nalezy = vzor.findall(zdroj)
+        n = re.escape(nazev)
+        if inc:
+            vzor = re.compile(r"(^" + n + r"::?[ \t]*\n(?:\w+::?[ \t]*\n)*)((?:[ \t]*\.string \"[^\"\n]*\"[^\n]*\n)+)", re.M)
+        else:  # NAZEV[] = _("…"); nebo [NAZEV] = _("…"), v poli
+            vzor = re.compile(r"((?:\b" + n + r"\[\]|\[" + n + r'\])\s*=\s*_\(")(.*?)("\))')
+        nalezy = list(vzor.finditer(zdroj))
         if len(nalezy) != 1:
             raise SystemExit(f"{nazev}: nalezeno {len(nalezy)}×, nic nezapsáno")
-        stary = nalezy[0][1]
+        m = nalezy[0]
+        if inc:
+            stary = "".join(re.findall(r'\.string "([^"\n]*)"', m.group(2)))
+            konec = "$" if stary.endswith("$") else ""
+            stary = stary.removesuffix("$")
+            novy = zalom(novy.removesuffix("$"))
+            kusy = [k for k in re.split(r"(?<=\\[nlp])", novy) if k] or [""]
+            kusy[-1] += konec
+            odsazeni = re.match(r"[ \t]*", m.group(2)).group()
+            nahrada = m.group(1) + "".join(f'{odsazeni}.string "{k}"\n' for k in kusy)
+        else:
+            stary = m.group(2)
+            novy = zalom(novy)
+            nahrada = m.group(1) + novy + m.group(3)
         s, n = max(radky(stary)), max(radky(novy))
         znacka = "!!" if n > DIALOG_PX else "!" if n > s else ""
         print(f"{znacka:2} {s:3} -> {n:3}  {nazev}: {novy}")
-        zdroj = vzor.sub(lambda m: m.group(1) + novy + m.group(3), zdroj)
+        zdroj = zdroj[:m.start()] + nahrada + zdroj[m.end():]
     soubor.write_text(zdroj, encoding="utf-8")
 
 

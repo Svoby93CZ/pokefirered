@@ -10,8 +10,10 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     zadávání jmen, líhnutí, rybaření, školka, učení útoků
 - [x] **2. Souboje**: `src/battle_message.c`, třídy trenérů (`src/data/text/trainer_class_names.h`).
   Texty Trainer Tower (TIME BOARD…) jsou v části 7.
-- [ ] **3. Společné hlášky**: `data/text/*.inc` (úvod hry, ukládání, PC, obchod, školka, Safari…),
-  kromě nápovědy a Fame Checkeru; taky `src/data/text/quest_log.h` a `teachy_tv.h`.
+- [ ] **3. Společné hlášky**
+  - [x] 3a `data/text/*.inc` (úvod hry, ukládání, PC, obchod, školka, Safari, POKé DUDE, hodnocení Pokédexu…),
+    `data/event_scripts.s`, `data/scripts/field_moves.inc`, `repel.inc`
+  - [ ] 3b `data/text/trainers.inc` (VS Seeker + odvety trenérů), `src/data/text/quest_log.h`, `teachy_tv.h`
 - [ ] **4. Příběh**: `data/maps/*/text.inc`, po oblastech:
   - [ ] 4a Pallet, Viridian, Pewter, Route 1–3, Viridian Forest
   - [ ] 4b Mt. Moon, Cerulean, Vermilion, S.S. Anne, Route 4–11
@@ -73,6 +75,13 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 | CHAMPION | ŠAMPION |
 | ELITE FOUR, TEAM ROCKET | zůstávají (jména skupin) |
 | GHOST (neznámý duch) | DUCH |
+| DAY-CARE | ŠKOLKA (pán/paní ze ŠKOLKY) |
+| TRAINER TIPS | RADY PRO TRENÉRY |
+| MOM / PA (hlasatel) | MÁMA / HLASATEL |
+| STICKER | SAMOLEPKA |
+| AIDE | ASISTENT |
+
+Oslovení: sestra v POKéMON CENTER a prodavači vykají, ostatní tykají.
 | item | předmět |
 | move | útok |
 | HP, PP, Lv. | HP, PP, Lv. |
@@ -93,7 +102,10 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
    ```
    Přidej `maly`, když se text vypisuje malým fontem (FONT_SMALL). Zápis je „všechno, nebo nic“:
    při chybě se nic nezmění. U řádků s `!` dohledej v kódu šířku okna, `!!` je přes dialogový limit 196 px.
-3. Texty v `data/**/*.inc` (`Label::` + řádky `.string "…"`) nástroj zatím neumí, před částí 3 ho rozšiř.
+3. Texty v `data/**/*.inc` a `*.s` (`Label::` + řádky `.string "…"`) jdou stejně: `Label = text`.
+   Odstavec bez `\n`/`\l` nástroj zalomí sám (do 196 px, `\n` pak `\l`, jednopísmenná slova
+   nenechá na konci řádku), takže u dialogů stačí psát odstavce oddělené `\p`.
+   Znaky mimo `charmap.txt` (třeba pomlčka „–“) nástroj odmítne — použij čárku nebo „-“.
 4. `make -j4` musí projít bez chyb, test: `mgba-qt pokefirered.gba`.
 5. Odškrtni část výše, commit `CZ část N: …` a `git push`.
 
