@@ -7,7 +7,7 @@ Spouštěj z kořene repozitáře:
     gText_MenuSave = ULOŽIT
     EOF
 Bez vstupu (python3 cz/preloz.py src/strings.c < /dev/null) jen nic nezmění.
-Výpis: šířka nejdelšího řádku v px (normální font) původní -> nová;
+Výpis: šířka nejdelšího řádku v px (normální font, s argumentem 'maly' malý) původní -> nová;
 '!' = nový text je širší než původní, ověř okno; '!!' = širší než dialogové okno.
 """
 import re
@@ -31,14 +31,15 @@ def nacti_charmap():
     return znaky, kody
 
 
-def nacti_sirky():
+def nacti_sirky(font):
     text_c = Path("src/text.c").read_text(encoding="utf-8")
-    m = re.search(r"sFontNormalLatinGlyphWidths\[\]\s*=\s*\{(.*?)\};", text_c, re.S)
+    m = re.search(font + r"\[\]\s*=\s*\{(.*?)\};", text_c, re.S)
     return [int(x) for x in re.findall(r"\d+", m.group(1))]
 
 
 ZNAKY, KODY = nacti_charmap()
-SIRKY = nacti_sirky()
+MALY = "maly" in sys.argv[2:]  # měřit malým fontem (FONT_SMALL)
+SIRKY = nacti_sirky("sFontSmallLatinGlyphWidths" if MALY else "sFontNormalLatinGlyphWidths")
 
 
 def sirka_kodu(nazev):
@@ -50,7 +51,9 @@ def sirka_kodu(nazev):
         return 0
     if bajty[0] in (0xF7, 0xFD):  # STR_VAR_1, DYNAMIC, ...
         return 60
-    if bajty[0] in (0xF8, 0xF9):  # ikony tlačítek, Lv, PP, No
+    if bajty[0] == 0xF8:  # ikony tlačítek (gKeypadIcons v src/text.c)
+        return {2: 16, 3: 16, 4: 24, 5: 24}.get(bajty[1], 8)
+    if bajty[0] == 0xF9:  # Lv, PP, No…
         return 10
     return sum(SIRKY[b] for b in bajty)
 
