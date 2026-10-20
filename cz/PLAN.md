@@ -66,3 +66,21 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 | YES / NO | ANO / NE |
 | CANCEL | ZPĚT |
 | EXIT / QUIT | KONEC |
+
+## Jak pokračovat (pro další sezení)
+
+1. Přečti tenhle soubor, hlavně Pravidla a Slovníček.
+2. Překlad textů `_("…")` v C souborech:
+   ```
+   python3 cz/preloz.py src/soubor.c <<'EOF'
+   gText_Nazev = Český text\ns novým řádkem
+   EOF
+   ```
+   Přidej `maly`, když se text vypisuje malým fontem (FONT_SMALL). Zápis je „všechno, nebo nic“:
+   při chybě se nic nezmění. U řádků s `!` dohledej v kódu šířku okna, `!!` je přes dialogový limit 196 px.
+3. Texty v `data/**/*.inc` (`Label::` + řádky `.string "…"`) nástroj zatím neumí, před částí 3 ho rozšiř.
+4. `make -j4` musí projít bez chyb, test: `mgba-qt pokefirered.gba`.
+5. Odškrtni část výše, commit `CZ část N: …` a `git push`.
+
+Rozsah (slova): strings.c 4,9k · battle_message.c 2,3k · popisy útoků 4,6k · data/text 18k
+(z toho nápověda 7k, Fame Checker 3,5k) · mapy 44,6k · Pokédex a předměty zatím nezměřeno.
