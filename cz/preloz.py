@@ -48,7 +48,7 @@ def sirka_kodu(nazev):
     bajty = KODY.get(nazev, [])
     if not bajty or bajty[0] in (0xFC, 0xFE):  # barvy, pauzy, zvuky, písmo
         return 0
-    if bajty[0] == 0xFD:  # STR_VAR_1, ...
+    if bajty[0] in (0xF7, 0xFD):  # STR_VAR_1, DYNAMIC, ...
         return 60
     if bajty[0] in (0xF8, 0xF9):  # ikony tlačítek, Lv, PP, No
         return 10
@@ -77,7 +77,8 @@ def main():
     for radek in sys.stdin.read().splitlines():
         if not radek.strip() or radek.startswith("#"):
             continue
-        nazev, novy = radek.strip().split(" = ", 1)
+        nazev, novy = radek.split(" = ", 1)  # mezeru na konci textu nechat
+        nazev = nazev.strip()
         vzor = re.compile(r"(\b" + re.escape(nazev) + r'\[\]\s*=\s*_\(")(.*?)("\);)')
         nalezy = vzor.findall(zdroj)
         if len(nalezy) != 1:
