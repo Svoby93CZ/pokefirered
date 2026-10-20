@@ -8,7 +8,8 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
   - [x] 1a začátek `strings.c`: hlavní a start menu, Pokédex, batoh, obchod, tým, PC, herna
   - [x] 1b zbytek `strings.c`: boxy v PC, přehled pokémona, trenérská karta, nastavení, mapa regionu,
     zadávání jmen, líhnutí, rybaření, školka, učení útoků
-- [ ] **2. Souboje**: `src/battle_message.c` a další texty bojů.
+- [x] **2. Souboje**: `src/battle_message.c`, třídy trenérů (`src/data/text/trainer_class_names.h`).
+  Texty Trainer Tower (TIME BOARD…) jsou v části 7.
 - [ ] **3. Společné hlášky**: `data/text/*.inc` (úvod hry, ukládání, PC, obchod, školka, Safari…),
   kromě nápovědy a Fame Checkeru; taky `src/data/text/quest_log.h` a `teachy_tv.h`.
 - [ ] **4. Příběh**: `data/maps/*/text.inc`, po oblastech:
@@ -42,7 +43,13 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
   název stránky v přehledu 100 px, ovládání v přehledu 84 px (malé), lišta mapy 40 px (malé),
   nastavení: popisek < 122 px, hodnota ≤ 70 px, okno přezdívky 128 px (jméno druhu + titulek).
   Výběrová menu ze skriptů (`script_menu.c`) si šířku počítají sama.
-- Japonské a nepoužité texty se nepřekládají.
+- Japonské a nepoužité texty se nepřekládají (taky třídy trenérů z Ruby/Sapphire `RS_*`, AQUA, MAGMA).
+- **Souboje** (`python3 cz/preloz.py src/battle_message.c boj`): děj v přítomném čase („používá“, „vysílá“),
+  jméno s předponou („Divoký “/„Soupeřův “, spojenec „Tvůj“) vždy v 1. pádě — jinak dvojtečka
+  („{B_SCR_ACTIVE_NAME_WITH_PREFIX}: {B_SCR_ACTIVE_ABILITY}!“) nebo věta bez jména.
+  Okno zpráv 224 px, limit 216 px. Bojové menu: 2. sloupec max 40 px (x=56 v okně 96 px).
+- Pozor na buffery: kousky kopírované do `gBattleTextBuff1–3` mají max 15 znaků (pole 16 B),
+  třídy trenérů max 12 znaků (`gTrainerClassNames[][13]`, `{PKMN}` = 2 znaky).
 
 ## Slovníček
 
@@ -59,6 +66,13 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 | HALL OF FAME | SÍŇ SLÁVY |
 | SUMMARY | PŘEHLED |
 | MAILBOX | SCHRÁNKA |
+| fainted | omdlel |
+| FIGHT / RUN | BOJ / ÚTĚK |
+| BAIT / ROCK (Safari) | KRMENÍ / KÁMEN |
+| GYM LEADER | VŮDCE (stadionu) |
+| CHAMPION | ŠAMPION |
+| ELITE FOUR, TEAM ROCKET | zůstávají (jména skupin) |
+| GHOST (neznámý duch) | DUCH |
 | item | předmět |
 | move | útok |
 | HP, PP, Lv. | HP, PP, Lv. |

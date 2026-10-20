@@ -8,14 +8,20 @@ Spouštěj z kořene repozitáře:
     EOF
 Bez vstupu (python3 cz/preloz.py src/strings.c < /dev/null) jen nic nezmění.
 Výpis: šířka nejdelšího řádku v px (normální font, s argumentem 'maly' malý) původní -> nová;
+argument 'boj' = texty soubojů (limit 216 px, jména s předponou „Soupeřův “);
 '!' = nový text je širší než původní, ověř okno; '!!' = širší než dialogové okno.
 """
 import re
 import sys
 from pathlib import Path
 
-DIALOG_PX = 196  # nejširší anglický řádek v dialozích (okno 208 px, vpravo šipka)
+BOJ = "boj" in sys.argv[2:]  # texty soubojů: okno 224 px, nejširší anglický řádek ~213 px
+DIALOG_PX = 216 if BOJ else 196  # nejširší anglický řádek v dialozích (okno 208 px, vpravo šipka)
 ZASTUPCI = {"PLAYER": 42, "RIVAL": 42}  # ostatní {STR_VAR_x} apod. počítá jako 60 px
+PREDPONA_PX = 53  # "Soupeřův " před jménem pokémona v boji
+# části názvů bojových zástupců -> šířka; první shoda vyhrává
+BOJOVE = [("WITH_PREFIX", 60 + PREDPONA_PX), ("PREFIX", PREDPONA_PX), ("CLASS", 66),
+          ("MOVE", 72), ("ABILITY", 72), ("ITEM", 72), ("PLAYER_NAME", 42), ("TRAINER", 42)]
 
 
 def nacti_charmap():
@@ -46,6 +52,8 @@ def sirka_kodu(nazev):
     nazev = nazev.split()[0]
     if nazev in ZASTUPCI:
         return ZASTUPCI[nazev]
+    if nazev.startswith("B_"):
+        return next((px for cast, px in BOJOVE if cast in nazev), 60)
     bajty = KODY.get(nazev, [])
     if not bajty or bajty[0] in (0xFC, 0xFE):  # barvy, pauzy, zvuky, písmo
         return 0
@@ -82,7 +90,8 @@ def main():
             continue
         nazev, novy = radek.split(" = ", 1)  # mezeru na konci textu nechat
         nazev = nazev.strip()
-        vzor = re.compile(r"(\b" + re.escape(nazev) + r'\[\]\s*=\s*_\(")(.*?)("\);)')
+        n = re.escape(nazev)  # NAZEV[] = _("…"); nebo [NAZEV] = _("…"), v poli
+        vzor = re.compile(r"((?:\b" + n + r"\[\]|\[" + n + r'\])\s*=\s*_\(")(.*?)("\))')
         nalezy = vzor.findall(zdroj)
         if len(nalezy) != 1:
             raise SystemExit(f"{nazev}: nalezeno {len(nalezy)}×, nic nezapsáno")
