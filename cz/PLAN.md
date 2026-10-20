@@ -20,7 +20,8 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
   - [ ] 4f Sevii Islands
 - [ ] **5. Popisy**: útoky, předměty, Pokédex, bobule.
 - [ ] **6. Nápověda a Fame Checker**: `help_system.inc`, `fame_checker.inc`, `gFameCheckerText_*` v `strings.c`.
-- [ ] **7. Ostatní**: klávesnice pro jména s češtinou (`naming_screen.c`), Trainer Tower, Union Room, Wireless,
+- [ ] **7. Ostatní**: klávesnice pro jména s češtinou (`naming_screen.c`; tlačítka lower/BACK/OK/START/SELECT
+  jsou obrázky v `graphics/naming_screen/`, ověřeno v mGBA), Trainer Tower, Union Room, Wireless,
   minihry (Berry Crush, Pokémon Jump, Dodrio), Mystery Gift, Easy Chat, titulky — vše v `strings.c` ještě anglicky.
 
 ## Pravidla
