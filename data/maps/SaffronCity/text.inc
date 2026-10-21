@@ -1,115 +1,117 @@
 SaffronCity_Text_WhatDoYouWantGetLost::
-    .string "What do you want?\n"
-    .string "Get lost!$"
+    .string "Co chceš?\n"
+    .string "Zmiz!$"
 
 SaffronCity_Text_BossTakeTownForTeamRocket::
-    .string "BOSS said he'll take this town\n"
-    .string "in the name of TEAM ROCKET!$"
+    .string "ŠÉF říkal, že tohle město zabere\n"
+    .string "ve jménu TEAM ROCKET!$"
 
 SaffronCity_Text_DontGetDefiantOrIllHurtYou::
-    .string "Don't get defiant!\n"
-    .string "Or I'll have to hurt you!$"
+    .string "Nevzdoruj!\n"
+    .string "Nebo ti budu muset ublížit!$"
 
 SaffronCity_Text_SaffronBelongsToTeamRocket::
-    .string "SAFFRON belongs to TEAM ROCKET!$"
+    .string "SAFFRON patří TEAM ROCKET!$"
 
 SaffronCity_Text_CriminalLifeMakesMeFeelAlive::
-    .string "My life as a criminal makes me feel\n"
-    .string "so alive!$"
+    .string "Zločinecký život mi dává pocit, že\n"
+    .string "opravdu žiju!$"
 
 SaffronCity_Text_WatchWhereYoureWalking::
-    .string "Ow!\n"
-    .string "Watch where you're walking!$"
+    .string "Au!\n"
+    .string "Koukej, kam šlapeš!$"
 
 SaffronCity_Text_WeCanExploitMonsAroundWorld::
-    .string "With SILPH under control, we can\n"
-    .string "exploit POKéMON around the world!\p"
-    .string "We'll get stinking rich, yeahah!$"
+    .string "Když máme SILPH pod kontrolou,\n"
+    .string "můžeme zneužívat POKéMONY po\l"
+    .string "celém světě!\p"
+    .string "Budeme nechutně bohatí, jéé!$"
 
 SaffronCity_Text_YouBeatTeamRocket::
-    .string "You beat TEAM ROCKET all alone?\n"
-    .string "That's amazing!$"
+    .string "TEAM ROCKET je pryč, a to jen\n"
+    .string "díky tobě? To je úžasné!$"
 
 SaffronCity_Text_SafeToGoOutAgain::
-    .string "Yeah! TEAM ROCKET is gone!\n"
-    .string "It's safe to go out again!$"
+    .string "Jo! TEAM ROCKET je pryč!\n"
+    .string "Už je zase bezpečné chodit ven!$"
 
 SaffronCity_Text_PeopleComingBackToSaffron::
-    .string "People fled from here in droves\n"
-    .string "when those ROCKETS came.\p"
-    .string "They should be flocking back to\n"
-    .string "SAFFRON now.$"
+    .string "Když přišli ROCKETI, lidi odsud\n"
+    .string "houfně utíkali.\p"
+    .string "Teď by se do SAFFRON měli zase\n"
+    .string "hrnout zpátky.$"
 
 SaffronCity_Text_FlewHereOnPidgeot::
-    .string "I flew here on my PIDGEOT when\n"
-    .string "I read about SILPH.\p"
-    .string "It's already over?\n"
-    .string "I missed the media action…$"
+    .string "Přiletěl jsem sem na svém PIDGEOT,\n"
+    .string "když jsem si přečetl o SILPH.\p"
+    .string "Už je konec?\n"
+    .string "Propásl jsem všechno to dění…$"
 
 SaffronCity_Text_Pidgeot::
     .string "PIDGEOT: Bi bibii!$"
 
 SaffronCity_Text_SawRocketBossEscaping::
-    .string "I saw the ROCKET BOSS escaping\n"
-    .string "SILPH's building.$"
+    .string "Viděl jsem ŠÉFA ROCKETŮ utíkat\n"
+    .string "z budovy SILPH.$"
 
 SaffronCity_Text_ImASecurityGuard::
-    .string "I'm a security guard.\p"
-    .string "Suspicious kids I don't allow in!$"
+    .string "Jsem ochranka.\p"
+    .string "Podezřelé děti dovnitř nepouštím!$"
 
 SaffronCity_Text_HesTakingASnooze::
     .string "…\n"
-    .string "Snore…\p"
-    .string "Hah! He's taking a snooze!$"
+    .string "Chrr…\p"
+    .string "Ha! On si dává šlofíka!$"
 
 SaffronCity_Text_CitySign::
     .string "SAFFRON CITY\n"
-    .string "Shining, Golden Land of Commerce$"
+    .string "Zářivá zlatá země obchodu$"
 
 SaffronCity_Text_FightingDojo::
     .string "FIGHTING DOJO$"
 
 SaffronCity_Text_GymSign::
-    .string "SAFFRON CITY POKéMON GYM\n"
-    .string "LEADER: SABRINA\l"
-    .string "The Master of PSYCHIC POKéMON!$"
+    .string "POKéMON STADION SAFFRON CITY\n"
+    .string "VŮDKYNĚ: SABRINA\l"
+    .string "Mistryně PSYCHIC POKéMONŮ!$"
 
 SaffronCity_Text_FullHealCuresStatus::
-    .string "TRAINER TIPS\p"
-    .string "FULL HEAL cures all ailments like\n"
-    .string "burns, paralysis, poisoning,\l"
-    .string "freezing, and sleep.\p"
-    .string "It costs a bit more, but it's more\n"
-    .string "convenient than buying other items.$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "FULL HEAL léčí všechny potíže\n"
+    .string "jako popáleniny, paralýzu, otravu,\l"
+    .string "zmrznutí a spánek.\p"
+    .string "Stojí trochu víc, ale je\n"
+    .string "pohodlnější než kupovat jiné\l"
+    .string "předměty.$"
 
 SaffronCity_Text_GreatBallImprovedCatchRate::
-    .string "TRAINER TIPS\p"
-    .string "The new GREAT BALL offers improved\n"
-    .string "catching rates.\p"
-    .string "Try it on those hard-to-catch\n"
-    .string "POKéMON.$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "Nový GREAT BALL nabízí lepší\n"
+    .string "šanci na chycení.\p"
+    .string "Zkus ho na POKéMONY, které se\n"
+    .string "těžko chytají.$"
 
 SaffronCity_Text_SilphCoSign::
-    .string "SILPH CO. OFFICE BUILDING$"
+    .string "KANCELÁŘSKÁ BUDOVA SILPH CO.$"
 
 SaffronCity_Text_MrPsychicsHouse::
-    .string "MR. PSYCHIC'S HOUSE$"
+    .string "DŮM MR. PSYCHICA$"
 
 SaffronCity_Text_SilphsLatestProduct::
-    .string "SILPH's latest product!\n"
-    .string "Release to be determined…$"
+    .string "Nejnovější výrobek SILPH!\n"
+    .string "Datum uvedení zatím neznámé…$"
 
 SaffronCity_Text_TrainerFanClubSign::
     .string "POKéMON TRAINER FAN CLUB\p"
-    .string "Many TRAINERS have scribbled their\n"
-    .string "names on this sign.$"
+    .string "Na tuhle ceduli načmárala svá\n"
+    .string "jména spousta TRENÉRŮ.$"
 
 SaffronCity_Text_HowCanClubNotRecognizeLance::
-    .string "This FAN CLUB…\n"
-    .string "No one here has a clue!\p"
-    .string "How could they not recognize\n"
-    .string "the brilliance that is LANCE?\p"
-    .string "He stands for justice!\n"
-    .string "He's cool, and yet passionate!\l"
-    .string "He's the greatest, LANCE!$"
+    .string "Tenhle FAN CLUB…\n"
+    .string "Nikdo tady nemá ani ponětí!\p"
+    .string "Jak můžou nepoznat genialitu,\n"
+    .string "kterou je LANCE?\p"
+    .string "Zastává spravedlnost!\n"
+    .string "Je cool, a přitom vášnivý!\l"
+    .string "Je nejlepší, LANCE!$"
 

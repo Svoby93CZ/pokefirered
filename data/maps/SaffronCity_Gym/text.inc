@@ -1,160 +1,163 @@
 SaffronCity_Gym_Text_SabrinaIntro::
-    .string "I had a vision of your arrival.\p"
-    .string "I have had psychic powers since\n"
-    .string "I was a child.\p"
-    .string "It started when a spoon I\n"
-    .string "carelessly tossed, bent.\p"
-    .string "I dislike battling, but if you wish,\n"
-    .string "I will show you my powers!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "Viděla jsem tvůj příchod předem.\p"
+    .string "Psychické schopnosti mám od\n"
+    .string "dětství.\p"
+    .string "Začalo to, když se ohnula lžička,\n"
+    .string "kterou jsem nedbale odhodila.\p"
+    .string "Boje nemám ráda, ale jestli chceš,\n"
+    .string "ukážu ti své schopnosti!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 SaffronCity_Gym_Text_SabrinaDefeat::
-    .string "This loss shocks me!\n"
-    .string "But, a loss is a loss.\p"
-    .string "I admit, I didn't work hard enough\n"
-    .string "to win.\p"
-    .string "Your victory has earned you the\n"
-    .string "MARSHBADGE.$"
+    .string "Ta porážka mě šokuje!\n"
+    .string "Ale prohra je prohra.\p"
+    .string "Přiznávám, že jsem se o výhru dost\n"
+    .string "nesnažila.\p"
+    .string "Za vítězství ti náleží MARSHBADGE.$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle::
-    .string "Psychic power isn't something that\n"
-    .string "only a few people have.\p"
-    .string "Everyone has psychic power.\n"
-    .string "People just don't realize it.$"
+    .string "Psychická síla není něco, co má\n"
+    .string "jen pár lidí.\p"
+    .string "Má ji každý.\n"
+    .string "Lidi si to jen neuvědomují.$"
 
 SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
-    .string "The MARSHBADGE makes POKéMON up\n"
-    .string "to Lv. 70 obey you.\p"
-    .string "Stronger POKéMON will become wild,\n"
-    .string "ignoring your orders in battle.\p"
-    .string "Just don't raise your POKéMON too\n"
-    .string "much to avoid that problem.\p"
-    .string "Wait, please take this TM with you.$"
+    .string "Díky MARSHBADGE tě poslechnou\n"
+    .string "POKéMONI až do Lv. 70.\p"
+    .string "Silnější POKéMONI zdivočí a v\n"
+    .string "souboji budou ignorovat tvé\l"
+    .string "rozkazy.\p"
+    .string "Proto své POKéMONY moc\n"
+    .string "nepřetrénuj.\p"
+    .string "Počkej, vezmi si prosím s sebou\n"
+    .string "i tohle TM.$"
 
 SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
-    .string "{PLAYER} received TM04 from\n"
-    .string "SABRINA.$"
+    .string "{PLAYER} dostává od SABRINY\n"
+    .string "TM04.$"
 
 SaffronCity_Gym_Text_ExplainTM04::
-    .string "TM04 is CALM MIND.\p"
-    .string "It makes the POKéMON concentrate\n"
-    .string "to raise both SP. ATK and SP. DEF.$"
+    .string "TM04 je CALM MIND.\p"
+    .string "POKéMON se soustředí a zvýší si\n"
+    .string "SP. ÚTOK i SP. OBR.$"
 
 SaffronCity_Gym_Text_BagFullOfOtherItems::
-    .string "Your BAG is full of other items.$"
+    .string "BATOH je plný jiných předmětů.$"
 
 SaffronCity_Gym_Text_AmandaIntro::
-    .string "SABRINA is far younger than I,\n"
-    .string "but she has earned my respect.$"
+    .string "SABRINA je mnohem mladší než já,\n"
+    .string "ale získala si můj respekt.$"
 
 SaffronCity_Gym_Text_AmandaDefeat::
-    .string "Not good enough!$"
+    .string "Nestačilo to!$"
 
 SaffronCity_Gym_Text_AmandaPostBattle::
-    .string "In a battle of equals, the one\n"
-    .string "with the stronger will wins.\p"
-    .string "If you wish to beat SABRINA, focus\n"
-    .string "and will yourself to victory.$"
+    .string "V boji rovnocenných vyhrává ten se\n"
+    .string "silnější vůlí.\p"
+    .string "Jestli chceš SABRINU porazit,\n"
+    .string "soustřeď se a vůlí si vítězství\l"
+    .string "vynuť.$"
 
 SaffronCity_Gym_Text_JohanIntro::
-    .string "Does our unseen power scare you?$"
+    .string "Děsí tě naše neviditelná síla?$"
 
 SaffronCity_Gym_Text_JohanDefeat::
-    .string "I never foresaw this!$"
+    .string "Tohle jsem nepředvídal!$"
 
 SaffronCity_Gym_Text_JohanPostBattle::
-    .string "PSYCHIC POKéMON fear only ghosts\n"
-    .string "and bugs!$"
+    .string "PSYCHIC POKéMONI se bojí jen\n"
+    .string "duchů a brouků!$"
 
 SaffronCity_Gym_Text_StacyIntro::
-    .string "POKéMON take on the appearance of\n"
-    .string "their TRAINERS.\p"
-    .string "Your POKéMON must be tough, then!$"
+    .string "POKéMONI přebírají vzhled svých\n"
+    .string "TRENÉRŮ.\p"
+    .string "Tvoji POKéMONI tedy musí být\n"
+    .string "drsní!$"
 
 SaffronCity_Gym_Text_StacyDefeat::
-    .string "I knew it!$"
+    .string "Já to věděla!$"
 
 SaffronCity_Gym_Text_StacyPostBattle::
-    .string "I have much to learn still…\p"
-    .string "I must master PSYCHIC and teach it\n"
-    .string "to my POKéMON…$"
+    .string "Ještě se mám hodně co učit…\p"
+    .string "Musím zvládnout PSYCHIC a naučit\n"
+    .string "ho své POKéMONY…$"
 
 SaffronCity_Gym_Text_TyronIntro::
-    .string "You understand, don't you?\p"
-    .string "That power alone isn't enough to\n"
-    .string "win in the world of POKéMON?$"
+    .string "Ty to chápeš, že?\p"
+    .string "Že ve světě POKéMONŮ k vítězství\n"
+    .string "samotná síla nestačí?$"
 
 SaffronCity_Gym_Text_TyronDefeat::
-    .string "I don't believe this!$"
+    .string "Tomu nevěřím!$"
 
 SaffronCity_Gym_Text_TyronPostBattle::
-    .string "SABRINA just wiped out the KARATE\n"
-    .string "MASTER next door.$"
+    .string "SABRINA zrovna rozdrtila MISTRA\n"
+    .string "KARATE od vedle.$"
 
 SaffronCity_Gym_Text_TashaIntro::
-    .string "You and I, our POKéMON shall\n"
-    .string "battle!$"
+    .string "Ty a já, naši POKéMONI se utkají!$"
 
 SaffronCity_Gym_Text_TashaDefeat::
-    .string "I lost after all!$"
+    .string "Nakonec jsem prohrála!$"
 
 SaffronCity_Gym_Text_TashaPostBattle::
-    .string "I knew that this was going to take\n"
-    .string "place.$"
+    .string "Věděla jsem, že se to stane.$"
 
 SaffronCity_Gym_Text_CameronIntro::
-    .string "SABRINA is young, but she's also\n"
-    .string "our highly skilled LEADER.\p"
-    .string "You won't reach her easily!$"
+    .string "SABRINA je mladá, ale je to naše\n"
+    .string "velmi schopná VŮDKYNĚ.\p"
+    .string "Tak snadno se k ní nedostaneš!$"
 
 SaffronCity_Gym_Text_CameronDefeat::
-    .string "Ow!\n"
-    .string "Down and out!$"
+    .string "Au!\n"
+    .string "Jsem na lopatkách!$"
 
 SaffronCity_Gym_Text_CameronPostBattle::
-    .string "There used to be two POKéMON GYMS\n"
-    .string "in SAFFRON.\p"
-    .string "The FIGHTING DOJO next door lost\n"
-    .string "its GYM status, though.\p"
-    .string "We simply creamed them when we\n"
-    .string "decided to have just one GYM.$"
+    .string "V SAFFRON bývaly dva POKéMON\n"
+    .string "STADIONY.\p"
+    .string "FIGHTING DOJO vedle ale o status\n"
+    .string "STADIONU přišlo.\p"
+    .string "Když se rozhodlo, že bude jen\n"
+    .string "jeden STADION, prostě jsme je\l"
+    .string "rozdrtili.$"
 
 SaffronCity_Gym_Text_PrestonIntro::
-    .string "SAFFRON POKéMON GYM is famous for\n"
-    .string "training psychics.\p"
-    .string "You want to see SABRINA, don't\n"
-    .string "you? I can tell!$"
+    .string "POKéMON STADION v SAFFRON je\n"
+    .string "slavný tím, že tu trénují\l"
+    .string "jasnovidci.\p"
+    .string "Chceš za SABRINOU, že jo? Poznám\n"
+    .string "to!$"
 
 SaffronCity_Gym_Text_PrestonDefeat::
     .string "Arrrgh!$"
 
 SaffronCity_Gym_Text_PrestonPostBattle::
-    .string "That's right! I used telepathy to\n"
-    .string "read your mind!$"
+    .string "Přesně tak! Telepatií jsem ti\n"
+    .string "přečetl myšlenky!$"
 
 SaffronCity_Gym_Text_GymGuyAdvice::
-    .string "Yo!\n"
-    .string "Champ in the making!\p"
-    .string "SABRINA's POKéMON use psychic\n"
-    .string "power instead of force.\p"
-    .string "FIGHTING POKéMON are especially\n"
-    .string "weak against PSYCHIC POKéMON.\p"
-    .string "They'll get destroyed before they\n"
-    .string "can even aim a punch!$"
+    .string "Čau!\n"
+    .string "Ty budoucí hvězdo!\p"
+    .string "POKéMONI SABRINY místo síly\n"
+    .string "používají psychickou moc.\p"
+    .string "FIGHTING POKéMONI jsou proti\n"
+    .string "PSYCHIC POKéMONŮM obzvlášť slabí.\p"
+    .string "Zničí je dřív, než stihnou vůbec\n"
+    .string "napřáhnout ruku!$"
 
 SaffronCity_Gym_Text_GymGuyPostVictory::
-    .string "Psychic power, huh?\p"
-    .string "If I had that, I'd make a bundle\n"
-    .string "at the slots!$"
+    .string "Psychická síla, co?\p"
+    .string "Kdybych ji měl, vydělal bych balík\n"
+    .string "na automatech!$"
 
 SaffronCity_Gym_Text_GymStatue::
-    .string "SAFFRON POKéMON GYM\n"
-    .string "LEADER: SABRINA\p"
-    .string "WINNING TRAINERS:\n"
+    .string "POKéMON STADION SAFFRON\n"
+    .string "VŮDKYNĚ: SABRINA\p"
+    .string "VÍTĚZNÍ TRENÉŘI:\n"
     .string "{RIVAL}$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
-    .string "SAFFRON POKéMON GYM\n"
-    .string "LEADER: SABRINA\p"
-    .string "WINNING TRAINERS:\n"
+    .string "POKéMON STADION SAFFRON\n"
+    .string "VŮDKYNĚ: SABRINA\p"
+    .string "VÍTĚZNÍ TRENÉŘI:\n"
     .string "{RIVAL}, {PLAYER}$"
 
