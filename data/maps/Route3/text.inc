@@ -1,104 +1,102 @@
 Route3_Text_TunnelFromCeruleanTiring::
-    .string "Whew… I better take a rest…\n"
-    .string "Groan…\p"
-    .string "That tunnel from CERULEAN takes a\n"
-    .string "lot out of you!$"
+    .string "Uf… Radši si odpočinu…\n"
+    .string "Uch…\p"
+    .string "Ten tunel z CERULEANU dá člověku\n"
+    .string "zabrat!$"
 
 Route3_Text_ColtonIntro::
-    .string "Hey!\n"
-    .string "I saw you in VIRIDIAN FOREST!$"
+    .string "Hej!\n"
+    .string "Viděl jsem tě ve VIRIDIAN FOREST!$"
 
 Route3_Text_ColtonDefeat::
-    .string "You beat me again!$"
+    .string "Zase prohrávám!$"
 
 Route3_Text_ColtonPostBattle::
-    .string "There are other kinds of POKéMON\n"
-    .string "than the ones you find in forests.$"
+    .string "Existují i jiní POKéMONI než ti, co\n"
+    .string "najdeš v lesích.$"
 
 Route3_Text_BenIntro::
-    .string "Hi!\n"
-    .string "I like shorts!\p"
-    .string "They're delightfully comfy and\n"
-    .string "easy to wear!$"
+    .string "Ahoj!\n"
+    .string "Mám rád kraťasy!\p"
+    .string "Jsou úžasně pohodlné a snadno se\n"
+    .string "nosí!$"
 
 Route3_Text_BenDefeat::
-    .string "I don't believe it!$"
+    .string "Tomu nevěřím!$"
 
 Route3_Text_BenPostBattle::
-    .string "Are you using a POKéMON CENTER's\n"
-    .string "PC for storing your POKéMON?\p"
-    .string "Each BOX can hold up to\n"
-    .string "30 POKéMON.$"
+    .string "Ukládáš POKéMONY do PC v POKéMON\n"
+    .string "CENTER?\p"
+    .string "Do každého BOXU se vejde až 30\n"
+    .string "POKéMONŮ.$"
 
 Route3_Text_JaniceIntro::
-    .string "Excuse me!\n"
-    .string "You looked at me, didn't you?$"
+    .string "Promiň!\n"
+    .string "Ty se na mě díváš, že jo?$"
 
 Route3_Text_JaniceDefeat::
-    .string "You're mean!$"
+    .string "To je od tebe zlé!$"
 
 Route3_Text_JanicePostBattle::
-    .string "You shouldn't be staring if you\n"
-    .string "don't want to battle!$"
+    .string "Když nechceš bojovat, tak nezírej!$"
 
 Route3_Text_GregIntro::
-    .string "Are you a TRAINER?\n"
-    .string "Let's get with it right away!$"
+    .string "Jsi TRENÉR?\n"
+    .string "Tak se do toho hned pusťme!$"
 
 Route3_Text_GregDefeat::
-    .string "If I had new POKéMON, I would've\n"
-    .string "won!$"
+    .string "Kdybych měl nové POKéMONY, vyhrál\n"
+    .string "bych!$"
 
 Route3_Text_GregPostBattle::
-    .string "If a POKéMON BOX on the PC gets\n"
-    .string "full, just switch to another BOX.$"
+    .string "Když se BOX v PC zaplní, prostě\n"
+    .string "přepni na jiný BOX.$"
 
 Route3_Text_SallyIntro::
-    .string "That look you gave me…\n"
-    .string "It's so intriguing!$"
+    .string "Ten tvůj pohled…\n"
+    .string "Je tak zajímavý!$"
 
 Route3_Text_SallyDefeat::
-    .string "Be nice!$"
+    .string "Chovej se hezky!$"
 
 Route3_Text_SallyPostBattle::
-    .string "You can avoid battles by not\n"
-    .string "letting TRAINERS see you.$"
+    .string "Soubojům se vyhneš, když tě\n"
+    .string "TRENÉŘI neuvidí.$"
 
 Route3_Text_CalvinIntro::
-    .string "Hey! You're not wearing shorts!\n"
-    .string "What's wrong with you?$"
+    .string "Hej! Ty nenosíš kraťasy!\n"
+    .string "Co je s tebou?$"
 
 Route3_Text_CalvinDefeat::
-    .string "Lost!\n"
-    .string "Lost! Lost!$"
+    .string "Prohra!\n"
+    .string "Prohra! Prohra!$"
 
 Route3_Text_CalvinPostBattle::
-    .string "I always wear shorts, even in\n"
-    .string "winter. That's my policy.$"
+    .string "Kraťasy nosím vždycky, i v zimě.\n"
+    .string "To je moje zásada.$"
 
 Route3_Text_JamesIntro::
-    .string "I'll battle you with the POKéMON\n"
-    .string "I just caught.$"
+    .string "Budu s tebou bojovat s POKéMONY,\n"
+    .string "které jsem právě chytil.$"
 
 Route3_Text_JamesDefeat::
-    .string "Done like dinner!$"
+    .string "Jsem vyřízený!$"
 
 Route3_Text_JamesPostBattle::
-    .string "Trained POKéMON are stronger than\n"
-    .string "the wild ones.$"
+    .string "Trénovaní POKéMONI jsou silnější\n"
+    .string "než divocí.$"
 
 Route3_Text_RobinIntro::
-    .string "Eek!\n"
-    .string "Did you touch me?$"
+    .string "Íík!\n"
+    .string "Ty se mě dotýkáš?$"
 
 Route3_Text_RobinDefeat::
-    .string "That's it?$"
+    .string "To je všechno?$"
 
 Route3_Text_RobinPostBattle::
-    .string "ROUTE 4 is at the foot of\n"
-    .string "MT. MOON.$"
+    .string "ROUTE 4 je na úpatí MT. MOON.$"
 
 Route3_Text_RouteSign::
     .string "ROUTE 3\n"
-    .string "MT. MOON AHEAD$"
+    .string "DÁL MT. MOON$"
 

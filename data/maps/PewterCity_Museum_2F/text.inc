@@ -1,54 +1,56 @@
 Text_SeismicTossTeach::
-    .string "The secrets of space…\n"
-    .string "The mysteries of earth…\p"
-    .string "There are so many things about\n"
-    .string "which we know so little.\p"
-    .string "But that should spur us to study\n"
-    .string "harder, not toss in the towel.\p"
-    .string "The only thing you should toss…\p"
-    .string "Well, how about SEISMIC TOSS?\n"
-    .string "Should I teach that to a POKéMON?$"
+    .string "Tajemství vesmíru…\n"
+    .string "Záhady Země…\p"
+    .string "Je tolik věcí, o kterých víme tak\n"
+    .string "málo.\p"
+    .string "To by nás ale mělo hnát ke studiu,\n"
+    .string "ne k házení flinty do žita.\p"
+    .string "Jediné, co se vyplatí hodit…\p"
+    .string "No, co třeba SEISMIC TOSS? Mám ho\n"
+    .string "naučit nějakého POKéMONA?$"
 
 Text_SeismicTossDeclined::
-    .string "Is that so?\n"
-    .string "I'm sure you'll be back for it.$"
+    .string "Opravdu?\n"
+    .string "Určitě se pro něj vrátíš.$"
 
 Text_SeismicTossWhichMon::
-    .string "Which POKéMON wants to learn\n"
+    .string "Který POKéMON se chce naučit\n"
     .string "SEISMIC TOSS?$"
 
 Text_SeismicTossTaught::
-    .string "I hope you won't toss in the towel.\n"
-    .string "Keep it up.$"
+    .string "Doufám, že flintu do žita neházíš.\n"
+    .string "Jen tak dál.$"
 
 PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStone::
-    .string "MOON STONE, huh?\p"
-    .string "What's so special about it?\n"
-    .string "Looks like an ordinary rock to me.$"
+    .string "MOON STONE, jo?\p"
+    .string "Co je na něm tak zvláštního? Mně\n"
+    .string "připadá jako obyčejný kámen.$"
 
 PewterCity_Museum_1F_Text_BoughtColorTVForMoonLanding::
-    .string "July 20, 1969!\p"
-    .string "Humankind first set foot on the\n"
-    .string "moon that day.\p"
-    .string "I bought a color TV just so I\n"
-    .string "could watch that news.$"
+    .string "20. července 1969!\p"
+    .string "Ten den poprvé vstoupil člověk na\n"
+    .string "Měsíc.\p"
+    .string "Koupil jsem si barevnou televizi\n"
+    .string "jen proto, abych mohl sledovat ty\l"
+    .string "zprávy.$"
 
 PewterCity_Museum_1F_Text_RunningSpaceExhibitThisMonth::
-    .string "This month, we're running a space\n"
-    .string "exhibit.$"
+    .string "Tento měsíc pořádáme výstavu\n"
+    .string "o vesmíru.$"
 
 PewterCity_Museum_1F_Text_AskedDaddyToCatchPikachu::
-    .string "I want a PIKACHU!\n"
-    .string "It's so cute!\p"
-    .string "I asked my daddy to catch me one!$"
+    .string "Chci PIKACHU!\n"
+    .string "Je tak roztomilý!\p"
+    .string "Poprosila jsem tátu, ať mi ho\n"
+    .string "chytí!$"
 
 PewterCity_Museum_1F_Text_PikachuSoonIPromise::
-    .string "Yeah, a PIKACHU soon, I promise!$"
+    .string "Jo, PIKACHU brzy bude, slibuju!$"
 
 PewterCity_Museum_1F_Text_SpaceShuttle::
-    .string "Space Shuttle$"
+    .string "Raketoplán$"
 
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon::
-    .string "A meteorite that fell on MT. MOON.\n"
-    .string "It is thought to be a MOON STONE.$"
+    .string "Meteorit, který spadl na MT. MOON.\n"
+    .string "Má se za to, že je to MOON STONE.$"
 

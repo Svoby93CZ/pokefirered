@@ -1,87 +1,87 @@
 PewterCity_Museum_1F_Text_Its50YForChildsTicket::
-    .string "Yes, yes.\n"
-    .string "It's ¥50 for a child's ticket.\p"
-    .string "Would you like to come in?$"
+    .string "Ano, ano.\n"
+    .string "Dětská vstupenka stojí ¥50.\p"
+    .string "Přejete si vstoupit?$"
 
 PewterCity_Museum_1F_Text_ComeAgain::
-    .string "Come again!$"
+    .string "Přijďte zas!$"
 
 PewterCity_Museum_1F_Text_Right50YThankYou::
-    .string "Right, ¥50!\n"
-    .string "Thank you!$"
+    .string "Dobře, ¥50!\n"
+    .string "Děkuji!$"
 
 PewterCity_Museum_1F_Text_DontHaveEnoughMoney::
-    .string "You don't have enough money.$"
+    .string "Nemáte dost peněz.$"
 
 PewterCity_Museum_1F_Text_PleaseEnjoyYourself::
-    .string "Please enjoy yourself.$"
+    .string "Užijte si prohlídku.$"
 
 PewterCity_Museum_1F_Text_DoYouKnowWhatAmberIs::
-    .string "You can't sneak in the back way!\n"
-    .string "Nice try, kid, but no.\p"
-    .string "Oh, whatever!\n"
-    .string "Do you know what AMBER is?$"
+    .string "Zadem se dovnitř nedostaneš! Pěkný\n"
+    .string "pokus, děcko, ale ne.\p"
+    .string "Ale co už!\n"
+    .string "Víš, co je jantar?$"
 
 PewterCity_Museum_1F_Text_AmberContainsGeneticMatter::
-    .string "AMBER contains the genetic matter\n"
-    .string "of ancient POKéMON.\p"
-    .string "There's a LAB somewhere trying to\n"
-    .string "resurrect POKéMON from AMBER.$"
+    .string "Jantar obsahuje genetický materiál\n"
+    .string "dávných POKéMONŮ.\p"
+    .string "Někde je LABORATOŘ, která se snaží\n"
+    .string "POKéMONY z jantaru oživit.$"
 
 PewterCity_Museum_1F_Text_AmberIsFossilizedSap::
-    .string "AMBER is actually sap, that gooey\n"
-    .string "stuff that oozes from trees.\p"
-    .string "The ancient sap fossilized over\n"
-    .string "time to become rock-hard AMBER.$"
+    .string "Jantar je vlastně pryskyřice, ta\n"
+    .string "lepkavá hmota, co vytéká ze\l"
+    .string "stromů.\p"
+    .string "Dávná pryskyřice časem zkameněla\n"
+    .string "a stal se z ní tvrdý jantar.$"
 
 @ Unused
 PewterCity_Museum_1F_Text_PleaseGoAround::
     .string "あちらへ　おまわりください$"
 
 PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLife::
-    .string "I should be grateful for my long\n"
-    .string "life.\p"
-    .string "Never did I think I would get to\n"
-    .string "see the bones of a dragon!$"
+    .string "Měl bych být vděčný za svůj\n"
+    .string "dlouhý život.\p"
+    .string "Nikdy by mě nenapadlo, že uvidím\n"
+    .string "kosti draka!$"
 
 PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
-    .string "Ssh! Listen, I need to share a\n"
-    .string "secret with someone.\p"
-    .string "I think that this chunk of AMBER\n"
-    .string "contains POKéMON DNA!\p"
-    .string "It would be a shattering scientific\n"
-    .string "breakthrough if POKéMON could be\l"
-    .string "resurrected from it.\p"
-    .string "But, my colleagues just ignore\n"
-    .string "what I have to say.\p"
-    .string "So, I have a favor to ask!\p"
-    .string "I want you to get this examined at\n"
-    .string "a POKéMON LAB somewhere.$"
+    .string "Pst! Poslouchej, musím se s někým\n"
+    .string "podělit o tajemství.\p"
+    .string "Myslím, že tenhle kus jantaru\n"
+    .string "obsahuje DNA POKéMONA!\p"
+    .string "Kdyby se z něj dal POKéMON oživit,\n"
+    .string "byl by to převratný vědecký objev.\p"
+    .string "Ale moji kolegové mě vůbec\n"
+    .string "neposlouchají.\p"
+    .string "Tak mám prosbu!\p"
+    .string "Zanes to prosím k prozkoumání do\n"
+    .string "nějaké POKéMON LABORATOŘE.$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
-    .string "{PLAYER} received the OLD AMBER\n"
-    .string "from the man.$"
+    .string "{PLAYER} dostává od muže\n"
+    .string "OLD AMBER.$"
 
 PewterCity_Museum_1F_Text_GetOldAmberChecked::
-    .string "Ssh!\n"
-    .string "Get the OLD AMBER checked!$"
+    .string "Pst!\n"
+    .string "Nech OLD AMBER prozkoumat!$"
 
 PewterCity_Museum_1F_Text_DontHaveSpaceForThis::
-    .string "You don't have space for this.$"
+    .string "Na tohle nemáš místo.$"
 
 PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibit::
-    .string "We have two fossils of rare,\n"
-    .string "prehistoric POKéMON on exhibit.$"
+    .string "Vystavujeme dvě fosilie vzácných\n"
+    .string "pravěkých POKéMONŮ.$"
 
 PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
-    .string "There is a beautiful piece of\n"
-    .string "AMBER in a clear gold color.$"
+    .string "Je tu krásný kus jantaru čistě\n"
+    .string "zlaté barvy.$"
 
 PewterCity_Museum_1F_Text_AerodactylFossil::
-    .string "AERODACTYL Fossil\n"
-    .string "A primitive and rare POKéMON.$"
+    .string "Fosilie: AERODACTYL\n"
+    .string "Pravěký a vzácný POKéMON.$"
 
 PewterCity_Museum_1F_Text_KabutopsFossil::
-    .string "KABUTOPS Fossil\n"
-    .string "A primitive and rare POKéMON.$"
+    .string "Fosilie: KABUTOPS\n"
+    .string "Pravěký a vzácný POKéMON.$"
 

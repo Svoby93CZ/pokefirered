@@ -1,105 +1,101 @@
 ViridianForest_Text_FriendsItchingToBattle::
-    .string "I came here with some friends to\n"
-    .string "catch us some BUG POKéMON!\p"
-    .string "They're all itching to get into\n"
-    .string "some POKéMON battles!$"
+    .string "Přišel jsem sem s kamarády chytat\n"
+    .string "POKéMONY typu BUG!\p"
+    .string "Všichni se nemůžou dočkat soubojů!$"
 
 ViridianForest_Text_RickIntro::
-    .string "Hey! You have POKéMON!\n"
-    .string "Come on!\l"
-    .string "Let's battle 'em!$"
+    .string "Hej! Ty máš POKéMONY!\n"
+    .string "No tak!\l"
+    .string "Pojď se utkat!$"
 
 ViridianForest_Text_RickDefeat::
-    .string "No!\nCATERPIE can't hack it!$"
+    .string "Ne!\n"
+    .string "CATERPIE na to nemá!$"
 
 ViridianForest_Text_RickPostBattle::
-    .string "Ssh! You'll scare the bugs away.\n"
-    .string "Another time, okay?$"
+    .string "Pst! Vyplašíš brouky.\n"
+    .string "Jindy, jo?$"
 
 ViridianForest_Text_DougIntro::
-    .string "Yo!\n"
-    .string "You can't jam out if you're a\l"
-    .string "POKéMON TRAINER!$"
+    .string "Čau! Jako POKéMON TRENÉR nemůžeš\n"
+    .string "utéct!$"
 
 ViridianForest_Text_DougDefeat::
-    .string "Huh?\n"
-    .string "I ran out of POKéMON!$"
+    .string "Cože?\n"
+    .string "Došli mi POKéMONI!$"
 
 ViridianForest_Text_DougPostBattle::
-    .string "That totally stinks! I'm going to\n"
-    .string "catch some stronger ones!$"
+    .string "To je fakt otrava! Chytím si\n"
+    .string "nějaké silnější!$"
 
 ViridianForest_Text_SammyIntro::
-    .string "Hey, wait up!\n"
-    .string "What's the hurry? Why the rush?$"
+    .string "Hej, počkej!\n"
+    .string "Kam tak spěcháš?$"
 
 ViridianForest_Text_SammyDefeat::
-    .string "I give!\n"
-    .string "You're good at this!$"
+    .string "Vzdávám se!\n"
+    .string "Tobě to jde!$"
 
 ViridianForest_Text_SammyPostBattle::
-    .string "Sometimes, you can find stuff on\n"
-    .string "the ground.\p"
-    .string "I'm looking for the stuff I\n"
-    .string "dropped. Can you help me?$"
+    .string "Na zemi se občas dají najít věci.\p"
+    .string "Hledám věci, co jsem ztratil.\n"
+    .string "Pomůžeš mi?$"
 
 ViridianForest_Text_AnthonyIntro::
-    .string "I might be little, but I won't like\n"
-    .string "it if you go easy on me!$"
+    .string "Možná jsem malý, ale žádné\n"
+    .string "šetření, jo?$"
 
 ViridianForest_Text_AnthonyDefeat::
-    .string "Oh, boo.\n"
-    .string "Nothing went right.$"
+    .string "Ach jo.\n"
+    .string "Nic mi nevyšlo.$"
 
 ViridianForest_Text_AnthonyPostBattle::
-    .string "I lost some of my allowance…$"
+    .string "Přišel jsem o část kapesného…$"
 
 ViridianForest_Text_CharlieIntro::
-    .string "Did you know that POKéMON evolve?$"
+    .string "Víš, že se POKéMONI vyvíjejí?$"
 
 ViridianForest_Text_CharlieDefeat::
-    .string "Oh!\n"
-    .string "I lost!$"
+    .string "Ó!\n"
+    .string "Prohrál jsem!$"
 
 ViridianForest_Text_CharliePostBattle::
-    .string "BUG POKéMON evolve quickly.\n"
-    .string "They're a lot of fun!$"
+    .string "POKéMONI typu BUG se vyvíjejí\n"
+    .string "rychle. Je s nimi spousta zábavy!$"
 
 ViridianForest_Text_RanOutOfPokeBalls::
-    .string "I was throwing POKé BALLS to\n"
-    .string "catch POKéMON, and I ran out.\p"
-    .string "That's why you can never have too\n"
-    .string "many POKé BALLS.$"
+    .string "Házel jsem POKé BALLY na POKéMONY\n"
+    .string "a došly mi.\p"
+    .string "Proto POKé BALLŮ nikdy není dost.$"
 
 ViridianForest_Text_AvoidGrassyAreasWhenWeak::
-    .string "TRAINER TIPS\p"
-    .string "If your POKéMON are weak and you\n"
-    .string "want to avoid battles, stay away\l"
-    .string "from grassy areas!$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "Když jsou tvoji POKéMONI slabí\n"
+    .string "a chceš se vyhnout soubojům, drž\l"
+    .string "se dál od trávy!$"
 
 ViridianForest_Text_UseAntidoteForPoison::
-    .string "For poison, use ANTIDOTE!\n"
-    .string "Get it at POKéMON MARTS!$"
+    .string "Na otravu použij ANTIDOTE!\n"
+    .string "Koupíš ho v POKéMON MARTU!$"
 
 ViridianForest_Text_ContactOakViaPCToRatePokedex::
-    .string "TRAINER TIPS\p"
-    .string "Contact PROF. OAK via a PC to\n"
-    .string "get your POKéDEX evaluated!$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "Spoj se přes PC s PROF. OAKEM\n"
+    .string "a nech si ohodnotit POKéDEX!$"
 
 ViridianForest_Text_CantCatchOwnedMons::
-    .string "TRAINER TIPS\p"
-    .string "You can't catch a POKéMON that\n"
-    .string "belongs to someone else.\p"
-    .string "Throw POKé BALLS only at wild\n"
-    .string "POKéMON to catch them!$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "POKéMONA, který patří někomu\n"
+    .string "jinému, chytit nemůžeš.\p"
+    .string "POKé BALLY házej jen na divoké\n"
+    .string "POKéMONY!$"
 
 ViridianForest_Text_WeakenMonsBeforeCapture::
-    .string "TRAINER TIPS\p"
-    .string "Weaken POKéMON before attempting\n"
-    .string "capture!\p"
-    .string "When healthy, they may escape!$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "Před chytáním POKéMONY oslab!\p"
+    .string "Zdraví mohou utéct!$"
 
 ViridianForest_Text_LeavingViridianForest::
-    .string "LEAVING VIRIDIAN FOREST\n"
-    .string "PEWTER CITY AHEAD$"
+    .string "KONEC VIRIDIAN FOREST\n"
+    .string "DÁL PEWTER CITY$"
 

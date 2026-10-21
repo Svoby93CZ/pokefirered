@@ -15,9 +15,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     `data/event_scripts.s`, `data/scripts/field_moves.inc`, `repel.inc`
   - [x] 3b `data/text/trainers.inc` (VS Seeker + odvety trenérů), `src/data/text/quest_log.h`, `teachy_tv.h`
 - [ ] **4. Příběh**: `data/maps/*/text.inc`, po oblastech:
-  - [ ] 4a Pallet, Viridian, Pewter, Route 1–3, Viridian Forest
-    - [x] Pallet Town (domy, Oakova laboratoř)
-    - [x] Viridian City (vč. stadionu), Route 1, Route 22
+  - [x] 4a Pallet, Viridian (vč. stadionu), Pewter, Route 1–3, Route 22, Viridian Forest
   - [ ] 4b Mt. Moon, Cerulean, Vermilion, S.S. Anne, Route 4–11
   - [ ] 4c Rock Tunnel, Lavender, Celadon, Rocket Hideout, Pokémon Tower
   - [ ] 4d Saffron, Silph Co., Fuchsia, Safari Zone, Cinnabar
@@ -36,6 +34,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 - **Hráč** (`{PLAYER}`) může být kluk i holka, proto žádné minulé časy s rodem.
   Místo „{PLAYER} použil“ piš „{PLAYER} používá“ nebo „Použito: …“.
 - **Pokémon** jako podmět je v mužském rodě („{STR_VAR_1} se naučil…“).
+- Pozor na minulý čas ve 2. osobě („Všiml sis…“, „Už jsi chytil…“) — je rodový, přeformuluj („Vidíš…“, „Už máš…“).
 - NPC mluví v 1. osobě podle svého rodu (podle jména a třídy: „Nasbírala jsem…“); věty o hráči
   zůstávají bezrodé („Taky nos kraťasy!“ místo „Taky bys měl…“). Quest log vypráví v přítomném čase.
 - Proměnná jména (`{STR_VAR_1}`, `{DYNAMIC}`) se neskloňují, věty se stavějí kolem nich
