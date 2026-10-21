@@ -1,63 +1,63 @@
 Route5_PokemonDayCare_Text_WantMeToRaiseMon::
-	.string "I run the DAY-CARE service.\p"
-	.string "Would you like me to raise one of\n"
-	.string "your POKéMON?$"
+	.string "Provozuji POKéMON ŠKOLKU.\p"
+	.string "Mám ti vychovat některého z tvých\n"
+	.string "POKéMONŮ?$"
 
 Route5_PokemonDayCare_Text_ComeAgain::
-	.string "Come again.$"
+	.string "Přijď zas.$"
 
 Route5_PokemonDayCare_Text_WhichMonShouldIRaise::
-	.string "Which POKéMON should I raise?$"
+	.string "Kterého POKéMONA mám vychovat?$"
 
 Route5_PokemonDayCare_Text_ComeAnytimeYouLike::
-	.string "Fine.\n"
-	.string "Come anytime you like.$"
+	.string "Dobře.\n"
+	.string "Přijď, kdykoli budeš chtít.$"
 
 Route5_PokemonDayCare_Text_LookAfterMonForAWhile::
-	.string "Fine, I'll look after your\n"
-	.string "{STR_VAR_1} for a while.$"
+	.string "Dobře, {STR_VAR_1} u mě chvíli\n"
+	.string "zůstane.$"
 
 Route5_PokemonDayCare_Text_ComeSeeMeInAWhile::
-	.string "Come see me in a while.$"
+	.string "Za čas se za mnou zastav.$"
 
 Route5_PokemonDayCare_Text_MonNeedsToSpendMoreTime::
-	.string "You're back already?\p"
-	.string "Your {STR_VAR_1} needs to spend\n"
-	.string "some more time with me.$"
+	.string "Už jsi zpátky?\p"
+	.string "Tvůj {STR_VAR_1} se mnou ještě\n"
+	.string "potřebuje strávit nějaký čas.$"
 
 Route5_PokemonDayCare_Text_OweMeXForMonsReturn::
-	.string "You owe me ¥{STR_VAR_2} for the return\n"
-	.string "of this POKéMON.$"
+	.string "Za vrácení tohoto POKéMONA mi\n"
+	.string "dlužíš ¥{STR_VAR_2}.$"
 
 Route5_PokemonDayCare_Text_ThankYouHeresMon::
-	.string "Thank you!\n"
-	.string "Here's your POKéMON.$"
+	.string "Děkuji!\n"
+	.string "Tady je tvůj POKéMON.$"
 
 Route5_PokemonDayCare_Text_PlayerGotMonBack::
-	.string "{PLAYER} got {STR_VAR_1} back\n"
-	.string "from the DAY-CARE MAN.$"
+	.string "{PLAYER} si od pána ze ŠKOLKY bere\n"
+	.string "zpět {STR_VAR_1}.$"
 
 Route5_PokemonDayCare_Text_OnlyHaveOneMonWithYou::
-	.string "Oh? You only have one POKéMON\n"
-	.string "with you.$"
+	.string "Cože? Vždyť máš u sebe jen\n"
+	.string "jednoho POKéMONA.$"
 
 Route5_PokemonDayCare_Text_WhatWillYouBattleWith::
-	.string "If you leave me that POKéMON,\n"
-	.string "what will you battle with?$"
+	.string "Když mi necháš tohohle POKéMONA,\n"
+	.string "s čím budeš bojovat?$"
 
 Route5_PokemonDayCare_Text_MonHasGrownByXLevels::
-	.string "Your {STR_VAR_1} has grown a lot.\n"
-	.string "Yes, quite a lot, I'd say.\p"
-	.string "Let me see…\n"
-	.string "By level, it's grown by {STR_VAR_2}.\p"
-	.string "Aren't I great?$"
+	.string "Tvůj {STR_VAR_1} hodně vyrostl.\n"
+	.string "Ano, řekl bych, že dost.\p"
+	.string "Podívejme…\n"
+	.string "Je o {STR_VAR_2} Lv. výš.\p"
+	.string "Nejsem skvělý?$"
 
 Route5_PokemonDayCare_Text_YouveGotNoRoomForIt::
-	.string "You can't take this POKéMON back\n"
-	.string "if you've got no room for it.$"
+	.string "Když pro POKéMONA nemáš místo,\n"
+	.string "nemůžeš si ho vzít zpátky.$"
 
 Route5_PokemonDayCare_Text_DontHaveEnoughMoney::
-	.string "You don't have enough money.$"
+	.string "Nemáš dost peněz.$"
 
 Route5_PokemonDayCare_Text_WantMeToTakeALookAtYours::
     .string "きみの\n"
