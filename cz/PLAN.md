@@ -17,6 +17,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 - [ ] **4. Příběh**: `data/maps/*/text.inc`, po oblastech:
   - [ ] 4a Pallet, Viridian, Pewter, Route 1–3, Viridian Forest
     - [x] Pallet Town (domy, Oakova laboratoř)
+    - [x] Viridian City (vč. stadionu), Route 1, Route 22
   - [ ] 4b Mt. Moon, Cerulean, Vermilion, S.S. Anne, Route 4–11
   - [ ] 4c Rock Tunnel, Lavender, Celadon, Rocket Hideout, Pokémon Tower
   - [ ] 4d Saffron, Silph Co., Fuchsia, Safari Zone, Cinnabar
@@ -93,6 +94,8 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 | EXIT / QUIT | KONEC |
 | Gramps (rival o Oakovi) | dědo |
 | SIS | ségra |
+| GYM | STADION |
+| Champ in the making! | Ty budoucí hvězdo! |
 
 Oslovení: sestra v POKéMON CENTER a prodavači vykají, ostatní tykají.
 STARTÉRY a jiná jména pokémonů ve větách neskloňuj („Tvoje volba je SQUIRTLE“).

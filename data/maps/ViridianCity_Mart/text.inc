@@ -1,26 +1,27 @@
 ViridianCity_Mart_Text_YouCameFromPallet::
-    .string "Hey!\n"
-    .string "You came from PALLET TOWN?$"
+    .string "Hej!\n"
+    .string "Vy jste z PALLET TOWN?$"
 
 ViridianCity_Mart_Text_TakeThisToProfOak::
-    .string "You know PROF. OAK, right?\p"
-    .string "His order came in.\n"
-    .string "Can I get you to take it to him?$"
+    .string "Znáte PROF. OAKA, že?\p"
+    .string "Přišla jeho objednávka.\n"
+    .string "Můžete mu ji prosím vzít s sebou?$"
 
 ViridianCity_Mart_Text_ReceivedOaksParcelFromClerk::
-    .string "{PLAYER} received OAK'S PARCEL\n"
-    .string "from the POKéMON MART clerk.$"
+    .string "{PLAYER} dostává od prodavače\n"
+    .string "z POKéMON MARTU OAK'S PARCEL.$"
 
 ViridianCity_Mart_Text_SayHiToOakForMe::
-    .string "Okay, thanks! Please say hi to\n"
-    .string "PROF. OAK for me, too.$"
+    .string "Dobře, díky! Pozdravujte ode mě\n"
+    .string "taky PROF. OAKA.$"
 
 ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotes::
-    .string "This shop does good business in\n"
-    .string "ANTIDOTES, I've heard.$"
+    .string "Prý tenhle obchod dobře prodává\n"
+    .string "ANTIDOTES.$"
 
 ViridianCity_Mart_Text_GotToBuySomePotions::
-    .string "I've got to buy some POTIONS.\p"
-    .string "You never know when your POKéMON\n"
-    .string "will need quick healing.$"
+    .string "Musím koupit nějaké POTIONS.\p"
+    .string "Člověk nikdy neví, kdy budou\n"
+    .string "POKéMONI potřebovat rychle\l"
+    .string "vyléčit.$"
 
