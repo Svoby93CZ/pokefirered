@@ -1,14 +1,14 @@
 SixIsland_Text_IslandSign::
     .string "SIX ISLAND\n"
-    .string "Fortune Island of Aged Wisdom$"
+    .string "Fortune, ostrov dávné moudrosti$"
 
 SixIsland_Text_ThatWayToWaterPathRuinValley::
-    .string "Keep going this way and you'll get\n"
-    .string "to the WATER PATH.\p"
-    .string "Stay on that and you'll get to\n"
-    .string "the RUIN VALLEY.$"
+    .string "Když půjdeš tudy dál, dostaneš se\n"
+    .string "na WATER PATH.\p"
+    .string "A když se jí budeš držet, dojdeš\n"
+    .string "do RUIN VALLEY.$"
 
 SixIsland_Text_SkyAtNightIsFantastic::
-    .string "When you're this far away from the\n"
-    .string "city, the sky at night is fantastic.$"
+    .string "Takhle daleko od města je noční\n"
+    .string "obloha fantastická.$"
 
