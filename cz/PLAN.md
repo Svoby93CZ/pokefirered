@@ -21,9 +21,10 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     - [x] Route 24–25 (Bill), Route 5–6, školka, podchody, Diglett's Cave
     - [x] Vermilion City, S.S. Anne
     - [x] Route 7–11
-  - [ ] 4c Rock Tunnel, Lavender, Celadon, Rocket Hideout, Pokémon Tower
+  - [x] 4c Rock Tunnel, Lavender, Celadon, Rocket Hideout, Pokémon Tower
     - [x] Rock Tunnel, Lavender Town
     - [x] Celadon City (obchodní dům, Game Corner, stadion)
+    - [x] Rocket Hideout, Pokémon Tower
   - [ ] 4d Saffron, Silph Co., Fuchsia, Safari Zone, Cinnabar
   - [ ] 4e Victory Road, Indigo Plateau, zbylé cesty
   - [ ] 4f Sevii Islands
