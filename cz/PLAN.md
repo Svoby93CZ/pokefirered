@@ -35,6 +35,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     - [x] Route 16–21, Cycling Road, Seafoam Islands
     - [x] Route 23, Victory Road, Indigo Plateau, ELITE FOUR a šampion
   - [ ] 4f Sevii Islands
+    - [x] One Island, Kindle Road, Mt. Ember
 - [ ] **5. Popisy**: útoky, předměty, Pokédex, bobule.
 - [ ] **6. Nápověda a Fame Checker**: `help_system.inc`, `fame_checker.inc`, `gFameCheckerText_*` v `strings.c`.
 - [ ] **7. Ostatní**: klávesnice pro jména s češtinou (`naming_screen.c`; tlačítka lower/BACK/OK/START/SELECT
@@ -116,6 +117,8 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 | BOSS (Rocketi o Giovannim) | ŠÉF |
 | DRUGSTORE | LÉKÁRNA; CELADON DEPT. STORE, GAME CORNER, PRIZE EXCHANGE zůstávají (názvy) |
 | COINS (Game Corner) | ŽETONY; COIN CASE zůstává |
+| Hesla do ROCKET WAREHOUSE | “GOLDEEN potřebuje poleno.” a “Jo, ne, CHANSEY.” |
+| Network Machine (CELIO) | Síťový přístroj |
 
 Oslovení: sestra v POKéMON CENTER a prodavači vykají, ostatní tykají.
 STARTÉRY a jiná jména pokémonů ve větách neskloňuj („Tvoje volba je SQUIRTLE“).

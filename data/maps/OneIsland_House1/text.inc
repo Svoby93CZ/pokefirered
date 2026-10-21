@@ -1,9 +1,9 @@
 OneIsland_House1_Text_GazeUponVolcanoOnSunnyDays::
-    .string "On sunny days, I step out and gaze\n"
-    .string "upon the volcano.\p"
-    .string "That's my daily routine.$"
+    .string "Za slunečných dnů vyjdu ven\n"
+    .string "a dívám se na sopku.\p"
+    .string "To je můj každodenní zvyk.$"
 
 OneIsland_House1_Text_LastTimeMtEmberErupted::
-    .string "Let me think… When was the last\n"
-    .string "time MT. EMBER erupted?$"
+    .string "Počkej, ať si vzpomenu… Kdy\n"
+    .string "naposledy vybuchla MT. EMBER?$"
 
