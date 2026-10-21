@@ -14,7 +14,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
   - [x] 3a `data/text/*.inc` (úvod hry, ukládání, PC, obchod, školka, Safari, POKé DUDE, hodnocení Pokédexu…),
     `data/event_scripts.s`, `data/scripts/field_moves.inc`, `repel.inc`
   - [x] 3b `data/text/trainers.inc` (VS Seeker + odvety trenérů), `src/data/text/quest_log.h`, `teachy_tv.h`
-- [ ] **4. Příběh**: `data/maps/*/text.inc`, po oblastech:
+- [x] **4. Příběh**: `data/maps/*/text.inc`, po oblastech:
   - [x] 4a Pallet, Viridian (vč. stadionu), Pewter, Route 1–3, Route 22, Viridian Forest
   - [x] 4b Mt. Moon, Cerulean, Vermilion, S.S. Anne, Route 4–11
     - [x] Route 4, Mt. Moon, Cerulean City
@@ -34,11 +34,12 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     - [x] Route 12–15 (Snorlax, rybářský dům, brány)
     - [x] Route 16–21, Cycling Road, Seafoam Islands
     - [x] Route 23, Victory Road, Indigo Plateau, ELITE FOUR a šampion
-  - [ ] 4f Sevii Islands
+  - [x] 4f Sevii Islands
     - [x] One Island, Kindle Road, Mt. Ember
     - [x] Two Island, Three Island (LOSTELLE, motorkáři, Berry Forest)
     - [x] Four Island, Five Island (LORELEI, Rocket Warehouse, SELPHY)
     - [x] Six Island (Pattern Bush, Ruin Valley, Water Path)
+    - [x] Seven Island, Sevault Canyon, Tanoby Ruins, Trainer Tower
 - [ ] **5. Popisy**: útoky, předměty, Pokédex, bobule.
 - [ ] **6. Nápověda a Fame Checker**: `help_system.inc`, `fame_checker.inc`, `gFameCheckerText_*` v `strings.c`.
 - [ ] **7. Ostatní**: klávesnice pro jména s češtinou (`naming_screen.c`; tlačítka lower/BACK/OK/START/SELECT

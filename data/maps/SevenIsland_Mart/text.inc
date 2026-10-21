@@ -1,17 +1,19 @@
 SevenIsland_Mart_Text_MonHavePersonalitiesOfTheirOwn::
-    .string "POKéMON have personalities of their\n"
-    .string "own, just like people.\p"
-    .string "My PIKACHU has a HASTY nature,\n"
-    .string "so it grew to be a speedy POKéMON.$"
+    .string "POKéMONI mají vlastní povahy,\n"
+    .string "stejně jako lidé.\p"
+    .string "Můj PIKACHU má povahu HASTY,\n"
+    .string "takže z něj vyrostl rychlý\l"
+    .string "POKéMON.$"
 
 SevenIsland_Mart_Text_PreparationsCompleteForRuins::
-    .string "Okay, preparations are complete\n"
-    .string "for me to explore the RUINS.$"
+    .string "Dobře, přípravy na průzkum RUIN\n"
+    .string "jsou hotové.$"
 
 SevenIsland_Mart_Text_NeedToFishOnSevenIsland::
-    .string "I need to fish on SEVEN ISLAND.\p"
-    .string "That will complete my fishing tour\n"
-    .string "of the SEVII ISLANDS.\p"
-    .string "I'd better stock up on some\n"
-    .string "POKé BALLS first, though.$"
+    .string "Potřebuju si zarybařit na SEVEN\n"
+    .string "ISLAND.\p"
+    .string "Tím dokončím svou rybářskou cestu\n"
+    .string "po SEVII ISLANDS.\p"
+    .string "Ale nejdřív se radši zásobím POKé\n"
+    .string "BALLY.$"
 

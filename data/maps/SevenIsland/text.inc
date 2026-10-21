@@ -1,38 +1,39 @@
 Text_SwordsDanceTeach::
-    .string "Not many people come out here.\p"
-    .string "If I train here, I'm convinced that\n"
-    .string "I'll get stronger and stronger.\p"
-    .string "Yep, stronger and stronger…\p"
-    .string "How would you like to learn a move\n"
-    .string "like that? It's SWORDS DANCE.$"
+    .string "Moc lidí sem nechodí.\p"
+    .string "Když tu budu trénovat, jsem\n"
+    .string "přesvědčený, že budu silnější\l"
+    .string "a silnější.\p"
+    .string "Jo, silnější a silnější…\p"
+    .string "Co kdyby se tvůj POKéMON naučil\n"
+    .string "takový útok? Je to SWORDS DANCE.$"
 
 Text_SwordsDanceDeclined::
-    .string "Well, that's fine, too.$"
+    .string "No, to je taky v pořádku.$"
 
 Text_SwordsDanceWhichMon::
-    .string "All right, pick which POKéMON\n"
-    .string "I should teach it to.$"
+    .string "Dobře, vyber, kterého POKéMONA to\n"
+    .string "mám naučit.$"
 
 Text_SwordsDanceTaught::
-    .string "If only we could keep getting\n"
-    .string "stronger and stronger, eh?$"
+    .string "Kdybychom tak mohli být pořád\n"
+    .string "silnější a silnější, co?$"
 
 SevenIsland_Text_IslandSign::
     .string "SEVEN ISLAND\n"
-    .string "Quest Island of Infinity$"
+    .string "Quest, ostrov nekonečna$"
 
 SevenIsland_Text_IslandsMadeInSevenDays::
-    .string "These islands are called the SEVII\n"
-    .string "ISLANDS because there are seven.\p"
-    .string "…Or at least that's what the young\n"
-    .string "people believe.\p"
-    .string "The truth is, these islands are so\n"
-    .string "named because they are said to\l"
-    .string "have been made in seven days.$"
+    .string "Těmhle ostrovům se říká SEVII\n"
+    .string "ISLANDS, protože jich je sedm.\p"
+    .string "…Nebo tomu aspoň věří mladí.\p"
+    .string "Ve skutečnosti se tak jmenují\n"
+    .string "proto, že prý byly stvořeny za\l"
+    .string "sedm dní.$"
 
 SevenIsland_Text_IslandVirtuallyUntouched::
-    .string "This island has been left virtually\n"
-    .string "untouched in its natural state.\p"
-    .string "It could be a little difficult to\n"
-    .string "hike around because of that.$"
+    .string "Tenhle ostrov zůstal téměř\n"
+    .string "nedotčený ve svém přirozeném\l"
+    .string "stavu.\p"
+    .string "Kvůli tomu se tu možná trochu hůř\n"
+    .string "chodí.$"
 
