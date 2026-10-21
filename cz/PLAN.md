@@ -31,6 +31,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     - [x] Fuchsia City, Safari Zone
     - [x] Cinnabar Island, Pokémon Mansion
   - [ ] 4e Victory Road, Indigo Plateau, zbylé cesty
+    - [x] Route 12–15 (Snorlax, rybářský dům, brány)
   - [ ] 4f Sevii Islands
 - [ ] **5. Popisy**: útoky, předměty, Pokédex, bobule.
 - [ ] **6. Nápověda a Fame Checker**: `help_system.inc`, `fame_checker.inc`, `gFameCheckerText_*` v `strings.c`.

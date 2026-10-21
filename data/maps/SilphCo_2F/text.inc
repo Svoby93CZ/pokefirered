@@ -6,8 +6,8 @@ SilphCo_2F_Text_ConnorDefeat::
     .string "Jak to, že víš, že jsem ROCKET?$"
 
 SilphCo_2F_Text_ConnorPostBattle::
-    .string "Pracuju pro SILPH i pro TEAM\n"
-    .string "ROCKET.$"
+    .string "Pracuju pro SILPH i pro\n"
+    .string "TEAM ROCKET.$"
 
 SilphCo_2F_Text_JerryIntro::
     .string "Sem je vstup zakázán!\n"
@@ -40,8 +40,8 @@ SilphCo_2F_Text_Grunt2Defeat::
     .string "Pokazil jsem to!$"
 
 SilphCo_2F_Text_Grunt2PostBattle::
-    .string "SILPH CO. bude spojena s TEAM\n"
-    .string "ROCKET!$"
+    .string "SILPH CO. bude spojena\n"
+    .string "s TEAM ROCKET!$"
 
 Text_ThunderWaveTeach::
     .string "Ííík!\n"

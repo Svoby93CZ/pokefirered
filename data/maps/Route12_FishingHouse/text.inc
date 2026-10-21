@@ -1,89 +1,88 @@
 Route12_FishingHouse_Text_DoYouLikeToFish::
-    .string "I'm the FISHING GURU's younger\n"
-    .string "brother.\p"
-    .string "I simply looove fishing!\n"
-    .string "I can't bear to go without.\p"
-    .string "Tell me, do you like to fish?$"
+    .string "Jsem mladší bratr RYBÁŘSKÉHO\n"
+    .string "GURU.\p"
+    .string "Rybaření prostě zbóóóžňuju!\n"
+    .string "Bez něj nemůžu žít.\p"
+    .string "Řekni, baví tě rybaření?$"
 
 Route12_FishingHouse_Text_TakeThisAndFish::
-    .string "Grand! I like your style.\n"
-    .string "I think we can be friends.\p"
-    .string "Take this and fish, young friend!$"
+    .string "Báječné! Líbí se mi tvůj styl.\n"
+    .string "Myslím, že budeme přátelé.\p"
+    .string "Vezmi si tohle a jdi rybařit!$"
 
 Route12_FishingHouse_Text_ReceivedSuperRod::
-    .string "{PLAYER} received a SUPER ROD from\n"
-    .string "the FISHING GURU's brother.$"
+    .string "{PLAYER} dostává SUPER ROD od\n"
+    .string "bratra RYBÁŘSKÉHO GURU.$"
 
 Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
-    .string "Fishing is a way of life!\n"
-    .string "It is like the finest poetry.\p"
-    .string "From the seas to rivers, go out\n"
-    .string "and land the big one, my friend.\p"
-    .string "Now, I have a request.\p"
-    .string "If you catch a big MAGIKARP \n"
-    .string "with that ROD, I want to see it.\p"
-    .string "As much as I love to fish, I also\n"
-    .string "love seeing gigantic MAGIKARP.$"
+    .string "Rybaření je způsob života!\n"
+    .string "Je jako ta nejlepší poezie.\p"
+    .string "Od moří po řeky, jdi a chyť tu\n"
+    .string "velkou rybu!\p"
+    .string "A teď mám prosbu.\p"
+    .string "Jestli tím prutem chytíš velkého\n"
+    .string "MAGIKARP, chci ho vidět.\p"
+    .string "Rybaření miluju, ale stejně tak\n"
+    .string "miluju pohled na obrovské\l"
+    .string "MAGIKARP.$"
 
 Route12_FishingHouse_Text_OhThatsDisappointing::
-    .string "Oh…\n"
-    .string "That's so disappointing…$"
+    .string "Ach…\n"
+    .string "To je takové zklamání…$"
 
 Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
-    .string "Hello there, {PLAYER}!\n"
-    .string "Have you been fishing?\p"
-    .string "Try fishing with the SUPER ROD in\n"
-    .string "any body of water.\p"
-    .string "You'll find different POKéMON in\n"
-    .string "different places.\p"
-    .string "Oh, and don't forget to bring me\n"
-    .string "gigantic MAGIKARP.$"
+    .string "Ahoj, {PLAYER}!\n"
+    .string "Rybaříš?\p"
+    .string "Zkus SUPER ROD v jakékoli vodě.\p"
+    .string "Na různých místech najdeš různé\n"
+    .string "POKéMONY.\p"
+    .string "Á, a nezapomeň mi přinést\n"
+    .string "obrovského MAGIKARP.$"
 
 Route12_FishingHouse_Text_OhMagikarpAllowMeToSee::
-    .string "Oh? {PLAYER}?\n"
-    .string "Why, if it isn't a MAGIKARP!\p"
-    .string "Allow me to see it, quick!$"
+    .string "Ó? {PLAYER}?\n"
+    .string "Vždyť je to MAGIKARP!\p"
+    .string "Ukaž mi ho, rychle!$"
 
 Route12_FishingHouse_Text_WhoaXInchesTakeThis::
-    .string "… … …Whoa!\n"
-    .string "{STR_VAR_2} inches!\p"
-    .string "You have a rare appreciation for\n"
-    .string "the fine, poetic aspects of fishing!\p"
-    .string "You must take this.\n"
-    .string "I insist!$"
+    .string "… … …Páni!\n"
+    .string "{STR_VAR_2} palců!\p"
+    .string "Ty máš vzácný smysl pro jemnou,\n"
+    .string "poetickou stránku rybaření!\p"
+    .string "Tohle si musíš vzít.\n"
+    .string "Trvám na tom!$"
 
 Route12_FishingHouse_Text_LookForwardToGreaterRecords::
-    .string "I'll look forward to seeing greater\n"
-    .string "records from you!$"
+    .string "Těším se na tvoje další rekordy!$"
 
 Route12_FishingHouse_Text_HuhXInchesSameSizeAsLast::
-    .string "Huh?\n"
-    .string "{STR_VAR_2} inches?\p"
-    .string "This is the same size as the one\n"
-    .string "I saw before.$"
+    .string "Cože?\n"
+    .string "{STR_VAR_2} palců?\p"
+    .string "To je stejná velikost jako ten, co\n"
+    .string "jsem viděl minule.$"
 
 Route12_FishingHouse_Text_HmmXInchesDoesntMeasureUp::
     .string "Hmm…\n"
-    .string "This one is {STR_VAR_2} inches long.\p"
-    .string "It doesn't measure up to the\n"
-    .string "{STR_VAR_3}-inch one you brought before.$"
+    .string "Tenhle měří {STR_VAR_2} palců.\p"
+    .string "Na ten {STR_VAR_3}palcový z minula\n"
+    .string "nemá.$"
 
 Route12_FishingHouse_Text_DoesntLookLikeMagikarp::
-    .string "Uh… That doesn't look much like\n"
-    .string "a MAGIKARP.$"
+    .string "Ehm… To moc nevypadá jako\n"
+    .string "MAGIKARP.$"
 
 Route12_FishingHouse_Text_NoRoomForGift::
-    .string "Oh, no!\p"
-    .string "I had a gift for you, but you have\n"
-    .string "no room for it.$"
+    .string "Ale ne!\p"
+    .string "Měl jsem pro tebe dárek, ale nemáš\n"
+    .string "na něj místo.$"
 
 Route12_FishingHouse_Text_MostGiganticMagikarpXInches::
-    .string "The most gigantic MAGIKARP\n"
-    .string "I have ever witnessed…\p"
-    .string "{STR_VAR_3} inches!$"
+    .string "Největší MAGIKARP, jakého jsem\n"
+    .string "kdy viděl…\p"
+    .string "{STR_VAR_3} palců!$"
 
 Route12_FishingHouse_Text_BlankChartOfSomeSort::
-    .string "It's a blank chart of some sort.\p"
-    .string "It has spaces for writing in\n"
-    .string "records of some kind.$"
+    .string "Je to nějaká prázdná tabulka.\p"
+    .string "Jsou v ní kolonky na zapisování\n"
+    .string "nějakých rekordů.$"
 

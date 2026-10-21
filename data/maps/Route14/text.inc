@@ -1,156 +1,154 @@
 Route14_Text_CarterIntro::
-    .string "You need to use TMs to teach good\n"
-    .string "moves to POKéMON.$"
+    .string "K naučení dobrých útoků potřebuješ\n"
+    .string "TM.$"
 
 Route14_Text_CarterDefeat::
-    .string "Not good enough quite yet.$"
+    .string "Ještě to není ono.$"
 
 Route14_Text_CarterPostBattle::
-    .string "You have some HMs, right? POKéMON\n"
-    .string "can't forget those moves easily.$"
+    .string "Máš nějaké HM, že? Ty útoky\n"
+    .string "POKéMONI jen tak nezapomenou.$"
 
 Route14_Text_MitchIntro::
-    .string "My bird POKéMON should be ready\n"
-    .string "for battle.$"
+    .string "Moji ptačí POKéMONI by měli být\n"
+    .string "připravení na souboj.$"
 
 Route14_Text_MitchDefeat::
-    .string "Not ready yet!$"
+    .string "Ještě nejsou připravení!$"
 
 Route14_Text_MitchPostBattle::
-    .string "My bird POKéMON need to learn\n"
-    .string "better moves.$"
+    .string "Moji ptačí POKéMONI se musí naučit\n"
+    .string "lepší útoky.$"
 
 Route14_Text_BeckIntro::
-    .string "They have TMs on sale at the\n"
-    .string "CELADON DEPT. STORE.\p"
-    .string "TMs aren't really rare, but not\n"
-    .string "many people have HMs.$"
+    .string "V CELADON DEPT. STORE prodávají\n"
+    .string "TM.\p"
+    .string "TM nejsou nijak vzácné, ale HM moc\n"
+    .string "lidí nemá.$"
 
 Route14_Text_BeckDefeat::
-    .string "Aww, bummer!$"
+    .string "Ach jo, smůla!$"
 
 Route14_Text_BeckPostBattle::
-    .string "Try teaching POKéMON a move that's\n"
-    .string "the same type as it.\p"
-    .string "That apparently boosts the power\n"
-    .string "of the move.$"
+    .string "Zkus POKéMONA naučit útok stejného\n"
+    .string "typu, jako je on.\p"
+    .string "To prý zvyšuje sílu útoku.$"
 
 Route14_Text_MarlonIntro::
-    .string "Have you taught your bird POKéMON\n"
-    .string "how to FLY?\p"
-    .string "You'll be able to soar with it into\n"
-    .string "the sky!$"
+    .string "Umí tvůj ptačí POKéMON FLY?\p"
+    .string "Vznesete se s ním do nebe!$"
 
 Route14_Text_MarlonDefeat::
-    .string "Shot down in flames!$"
+    .string "Sestřelený v plamenech!$"
 
 Route14_Text_MarlonPostBattle::
-    .string "Bird POKéMON are my one true love.\n"
-    .string "I don't want to raise anything else.$"
+    .string "Ptačí POKéMONI jsou moje jediná\n"
+    .string "pravá láska. Nic jiného chovat\l"
+    .string "nechci.$"
 
 Route14_Text_DonaldIntro::
-    .string "Have you heard the legend of the\n"
-    .string "winged mirages?$"
+    .string "Znáš legendu o okřídlených\n"
+    .string "přízracích?$"
 
 Route14_Text_DonaldDefeat::
-    .string "Why?\n"
-    .string "Why'd I lose?$"
+    .string "Proč?\n"
+    .string "Proč jsem prohrál?$"
 
 Route14_Text_DonaldPostBattle::
-    .string "Well, the winged mirages are the\n"
-    .string "legendary bird POKéMON.\p"
-    .string "There are three of them: ARTICUNO,\n"
-    .string "ZAPDOS, and MOLTRES.$"
+    .string "No, okřídlené přízraky jsou\n"
+    .string "legendární ptačí POKéMONI.\p"
+    .string "Jsou tři: ARTICUNO, ZAPDOS\n"
+    .string "a MOLTRES.$"
 
 Route14_Text_BennyIntro::
-    .string "I'm not into it, but okay.\n"
-    .string "Let's go!$"
+    .string "Moc mě to neláká, ale dobře.\n"
+    .string "Jdeme na to!$"
 
 Route14_Text_BennyDefeat::
-    .string "I knew it!$"
+    .string "Já to věděl!$"
 
 Route14_Text_BennyPostBattle::
-    .string "Winning, losing… It's insignificant\n"
-    .string "under this huge sky.$"
+    .string "Výhra, prohra… Pod tímhle\n"
+    .string "obrovským nebem to nic neznamená.$"
 
 Route14_Text_LukasIntro::
-    .string "C'mon, c'mon.\n"
-    .string "Let's go, let's go, let's go!$"
+    .string "No tak, no tak.\n"
+    .string "Jdeme, jdeme, jdeme!$"
 
 Route14_Text_LukasDefeat::
     .string "Arrg!\n"
-    .string "Lost! Get lost!$"
+    .string "Prohra! Zmiz!$"
 
 Route14_Text_LukasPostBattle::
-    .string "What, what, what?\n"
-    .string "What do you want still?$"
+    .string "Co, co, co?\n"
+    .string "Co ještě chceš?$"
 
 Route14_Text_IsaacIntro::
-    .string "I need to burn some time.\n"
-    .string "Shut up and battle.$"
+    .string "Potřebuju zabít čas.\n"
+    .string "Drž hubu a bojuj.$"
 
 Route14_Text_IsaacDefeat::
-    .string "What?\n"
-    .string "You!?$"
+    .string "Cože?\n"
+    .string "Ty!?$"
 
 Route14_Text_IsaacPostBattle::
-    .string "Raising POKéMON is a drag, man.$"
+    .string "Vychovávat POKéMONY je otrava,\n"
+    .string "kámo.$"
 
 Route14_Text_GeraldIntro::
-    .string "We ride out here because of the\n"
-    .string "wide-open spaces.$"
+    .string "Jezdíme sem, protože je tu spousta\n"
+    .string "volného prostoru.$"
 
 Route14_Text_GeraldDefeat::
-    .string "Wipeout!$"
+    .string "Totální pád!$"
 
 Route14_Text_GeraldPostBattle::
-    .string "It's cool you made your POKéMON so\n"
-    .string "strong.\p"
-    .string "Might is right!\n"
-    .string "And you know it!$"
+    .string "Je super, jak silné máš POKéMONY.\p"
+    .string "Síla je právo!\n"
+    .string "A ty to víš!$"
 
 Route14_Text_MalikIntro::
-    .string "POKéMON battle?\n"
-    .string "Cool! Rumble!$"
+    .string "Souboj POKéMONŮ?\n"
+    .string "Super! Do toho!$"
 
 Route14_Text_MalikDefeat::
-    .string "Blown away!$"
+    .string "Odfouklo mě to!$"
 
 Route14_Text_MalikPostBattle::
-    .string "You know who'd win, you and me\n"
-    .string "one-on-one!$"
+    .string "Kdyby to bylo jen ty a já, víš,\n"
+    .string "kdo by vyhrál!$"
 
 Route14_Text_RouteSign::
     .string "ROUTE 14\n"
-    .string "West to FUCHSIA CITY$"
+    .string "Na západ do FUCHSIA CITY$"
 
 Route14_Text_KiriIntro::
-    .string "KIRI: JAN, let's try really,\n"
-    .string "really hard together.$"
+    .string "KIRI: JAN, budeme se moc a moc\n"
+    .string "snažit spolu.$"
 
 Route14_Text_KiriDefeat::
-    .string "KIRI: Whimper…\n"
-    .string "We lost, didn't we?$"
+    .string "KIRI: Fňuk…\n"
+    .string "Prohrály jsme, že jo?$"
 
 Route14_Text_KiriPostBattle::
-    .string "KIRI: Did we lose because of me?$"
+    .string "KIRI: Prohrály jsme kvůli mně?$"
 
 Route14_Text_KiriNotEnoughMons::
-    .string "KIRI: We can battle if you have\n"
-    .string "two POKéMON.$"
+    .string "KIRI: Můžeme bojovat, když máš\n"
+    .string "dva POKéMONY.$"
 
 Route14_Text_JanIntro::
-    .string "JAN: KIRI, here we go!\n"
-    .string "We have to try hard!$"
+    .string "JAN: KIRI, jdeme na to!\n"
+    .string "Musíme se snažit!$"
 
 Route14_Text_JanDefeat::
-    .string "JAN: Eeeeh!\n"
-    .string "No fair!$"
+    .string "JAN: Ééé!\n"
+    .string "To není fér!$"
 
 Route14_Text_JanPostBattle::
-    .string "JAN: KIRI, don't cry!\n"
-    .string "We'll just try harder next time.$"
+    .string "JAN: KIRI, nebreč!\n"
+    .string "Příště se budeme snažit víc.$"
 
 Route14_Text_JanNotEnoughMons::
-    .string "JAN: You want to battle?\n"
-    .string "You don't have enough POKéMON.$"
+    .string "JAN: Chceš bojovat?\n"
+    .string "Nemáš dost POKéMONŮ.$"

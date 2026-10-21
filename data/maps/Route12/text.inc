@@ -1,144 +1,141 @@
 Route12_Text_MonSprawledOutInSlumber::
-    .string "A POKéMON is sprawled out in\n"
-    .string "a deep and comfortable slumber.$"
+    .string "POKéMON tu leží rozvalený\n"
+    .string "v hlubokém a pohodlném spánku.$"
 
 Text_SnorlaxWokeUp::
-    .string "SNORLAX woke up!\p"
-    .string "It attacked in a grumpy rage!$"
+    .string "SNORLAX se probudil!\p"
+    .string "V mrzuté zuřivosti zaútočil!$"
 
 Text_SnorlaxReturnedToMountains::
-    .string "SNORLAX calmed down.\n"
-    .string "It gave a huge yawn…\l"
-    .string "And returned to the mountains.$"
+    .string "SNORLAX se uklidnil.\n"
+    .string "Obrovsky zívl…\l"
+    .string "A vrátil se do hor.$"
 
 Text_WantToUsePokeFlute::
-    .string "Want to use the POKé FLUTE?$"
+    .string "Chceš použít POKé FLUTE?$"
 
 Text_PlayedPokeFlute::
-    .string "{PLAYER} played the POKé FLUTE.$"
+    .string "{PLAYER} hraje na POKé FLUTE.$"
 
 Route12_Text_NedIntro::
-    .string "Yeah!\n"
-    .string "I got a bite here!$"
+    .string "Jo!\n"
+    .string "Něco mi tu bere!$"
 
 Route12_Text_NedDefeat::
     .string "Tch!\n"
-    .string "Just a small fry…$"
+    .string "Jen malá rybka…$"
 
 Route12_Text_NedPostBattle::
-    .string "Hang on!\n"
-    .string "My line's snagged!$"
+    .string "Počkej!\n"
+    .string "Zasekl se mi vlasec!$"
 
 Route12_Text_ChipIntro::
-    .string "Be patient.\n"
-    .string "Fishing is a waiting game.$"
+    .string "Trpělivost.\n"
+    .string "Rybaření je o čekání.$"
 
 Route12_Text_ChipDefeat::
-    .string "That one got away!$"
+    .string "Ta mi utekla!$"
 
 Route12_Text_ChipPostBattle::
-    .string "With a better ROD, I could catch\n"
-    .string "better POKéMON…$"
+    .string "S lepším prutem bych chytil lepší\n"
+    .string "POKéMONY…$"
 
 Route12_Text_JustinIntro::
-    .string "I'm searching for a MOON STONE.\n"
-    .string "Have you found one?$"
+    .string "Hledám MOON STONE.\n"
+    .string "Nemáš náhodou nějaký?$"
 
 Route12_Text_JustinDefeat::
-    .string "Oww!$"
+    .string "Au!$"
 
 Route12_Text_JustinPostBattle::
-    .string "I could have made my POKéMON\n"
-    .string "evolve with a MOON STONE.\p"
-    .string "I would have won then, I bet.$"
+    .string "S MOON STONE bych mohl své\n"
+    .string "POKéMONY vyvinout.\p"
+    .string "Pak bych určitě vyhrál.$"
 
 Route12_Text_LucaIntro::
-    .string "Electricity is my specialty.\p"
-    .string "I don't know a thing about POKéMON\n"
-    .string "of the sea, though.$"
+    .string "Elektřina je moje specialita.\p"
+    .string "O mořských POKéMONECH ale nevím\n"
+    .string "vůbec nic.$"
 
 Route12_Text_LucaDefeat::
-    .string "Unplugged!$"
+    .string "Odpojeno!$"
 
 Route12_Text_LucaPostBattle::
-    .string "Water conducts electricity, so you\n"
-    .string "should zap sea POKéMON.$"
+    .string "Voda vede elektřinu, takže na\n"
+    .string "mořské POKéMONY platí elektřina.$"
 
 Route12_Text_HankIntro::
-    .string "The FISHING FOOL versus POKéMON\n"
-    .string "KID!$"
+    .string "BLÁZEN DO RYBAŘENÍ proti POKéMON\n"
+    .string "DĚCKU!$"
 
 Route12_Text_HankDefeat::
-    .string "Touch too much!$"
+    .string "To bylo trochu moc!$"
 
 Route12_Text_HankPostBattle::
-    .string "I guess you get to be good at\n"
-    .string "what you like.\p"
-    .string "Well, you beat me at POKéMON,\n"
-    .string "but you can't top me at fishing.$"
+    .string "V tom, co má člověk rád, se asi\n"
+    .string "zlepší.\p"
+    .string "V POKéMONECH mám sice prohráno,\n"
+    .string "ale v rybaření mě nepředčíš.$"
 
 Route12_Text_ElliotIntro::
-    .string "I love fishing, don't get me wrong.\p"
-    .string "But it'd be best if I also had more\n"
-    .string "work.$"
+    .string "Rybaření miluju, nechápej mě\n"
+    .string "špatně.\p"
+    .string "Ale bylo by fajn mít i víc práce.$"
 
 Route12_Text_ElliotDefeat::
-    .string "It's not easy…$"
+    .string "Není to snadné…$"
 
 Route12_Text_ElliotPostBattle::
-    .string "It's all right.\n"
-    .string "Losing doesn't bug me anymore.$"
+    .string "To nic.\n"
+    .string "Prohry mě už netrápí.$"
 
 Route12_Text_AndrewIntro::
-    .string "What's catching?\p"
-    .string "You never know what you could\n"
-    .string "catch!$"
+    .string "Co bere?\p"
+    .string "Nikdy nevíš, co chytíš!$"
 
 Route12_Text_AndrewDefeat::
-    .string "Lost it!$"
+    .string "Utekla!$"
 
 Route12_Text_AndrewPostBattle::
-    .string "What, MAGIKARP?\p"
-    .string "I catch them all the time, sure.\n"
-    .string "But, boy are they wimpy.$"
+    .string "Cože, MAGIKARP?\p"
+    .string "Ty chytám pořád, jasně.\n"
+    .string "Ale jsou to teda slaboši.$"
 
 Route12_Text_RouteSign::
-    .string "ROUTE 12 \n"
-    .string "North to LAVENDER$"
+    .string "ROUTE 12\n"
+    .string "Na sever do LAVENDER$"
 
 Route12_Text_SportfishingArea::
-    .string "SPORTFISHING AREA$"
+    .string "SPORTOVNÍ RYBOLOV$"
 
 Route12_Text_JesIntro::
-    .string "JES: If I win, I'm going to\n"
-    .string "propose to GIA.$"
+    .string "JES: Jestli vyhrajeme, požádám GIU\n"
+    .string "o ruku.$"
 
 Route12_Text_JesDefeat::
-    .string "JES: Oh, please, why couldn't you\n"
-    .string "let us win?$"
+    .string "JES: Ach, proč nám to nevyšlo?$"
 
 Route12_Text_JesPostBattle::
-    .string "JES: Oh, GIA, forgive me,\n"
-    .string "my love!$"
+    .string "JES: Ach, GIO, odpusť mi, lásko!$"
 
 Route12_Text_JesNotEnoughMons::
-    .string "JES: GIA and I, we'll be\n"
-    .string "together forever.\p"
-    .string "We won't battle unless you have\n"
-    .string "two POKéMON of your own.$"
+    .string "JES: GIA a já budeme navždy\n"
+    .string "spolu.\p"
+    .string "Bojovat budeme, jen když máš dva\n"
+    .string "vlastní POKéMONY.$"
 
 Route12_Text_GiaIntro::
-    .string "GIA: Hey, JES…\p"
-    .string "If we win, I'll marry you!$"
+    .string "GIA: Hele, JESI…\p"
+    .string "Jestli vyhrajeme, vezmu si tě!$"
 
 Route12_Text_GiaDefeat::
-    .string "GIA: Oh, but why?$"
+    .string "GIA: Ale proč?$"
 
 Route12_Text_GiaPostBattle::
-    .string "GIA: JES, you silly!\n"
-    .string "You ruined this!$"
+    .string "GIA: JESI, ty trdlo!\n"
+    .string "Tys to pokazil!$"
 
 Route12_Text_GiaNotEnoughMons::
-    .string "GIA: I can't bear to battle\n"
-    .string "without my JES!\p"
-    .string "Don't you have one more POKéMON?$"
+    .string "GIA: Bez svého JESE nesnesu\n"
+    .string "bojovat!\p"
+    .string "Nemáš ještě jednoho POKéMONA?$"
