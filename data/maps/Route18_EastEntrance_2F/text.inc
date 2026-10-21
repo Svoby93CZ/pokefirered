@@ -1,10 +1,8 @@
 Route18_EastEntrance_2F_Text_PalletTownInWest::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "PALLET TOWN is in the west.$"
+    .string "Copak ukáže dalekohled…\p"
+    .string "Na západě je PALLET TOWN.$"
 
 Route18_EastEntrance_2F_Text_PeopleSwimming::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "There are people swimming.$"
+    .string "Copak ukáže dalekohled…\p"
+    .string "Plavou tam lidi.$"
 

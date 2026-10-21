@@ -1,21 +1,21 @@
 Route16_House_Text_FoundMySecretRetreat::
-    .string "Oh, dear.\n"
-    .string "You've found my secret retreat.\p"
-    .string "Please don't tell anyone I'm here.\n"
-    .string "I'll make it up to you with this!$"
+    .string "Ach, bože. Tak tohle je konec\n"
+    .string "mého tajného úkrytu.\p"
+    .string "Prosím, nikomu neříkej, že tu jsem.\n"
+    .string "Vynahradím ti to tímhle!$"
 
 Route16_House_Text_ReceivedHM02FromGirl::
-    .string "{PLAYER} received HM02\n"
-    .string "from the girl.$"
+    .string "{PLAYER} dostává od dívky\n"
+    .string "HM02.$"
 
 Route16_House_Text_ExplainHM02::
-    .string "HM02 is FLY.\n"
-    .string "It's a wonderfully convenient move.\p"
-    .string "Please, put it to good use.$"
+    .string "HM02 je FLY.\n"
+    .string "Je to úžasně praktický útok.\p"
+    .string "Prosím, dobře ho využij.$"
 
 Route16_House_Text_DontHaveAnyRoomForThis::
-    .string "You don't have any room for this.$"
+    .string "Na tohle nemáš místo.$"
 
 Route16_House_Text_Fearow::
-    .string "FEAROW: Kyueen!$"
+    .string "FEAROW: Kjúín!$"
 

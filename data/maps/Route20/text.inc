@@ -1,120 +1,123 @@
 Route20_Text_BarryIntro::
-    .string "The water is shallow here.\n"
-    .string "There are many people swimming.$"
+    .string "Voda je tu mělká.\n"
+    .string "Plave tu spousta lidí.$"
 
 Route20_Text_BarryDefeat::
-    .string "Splash!$"
+    .string "Šplouch!$"
 
 Route20_Text_BarryPostBattle::
-    .string "I wish I could ride my POKéMON.\n"
-    .string "I bet you're not tired.$"
+    .string "Kéž bych mohl jezdit na svém\n"
+    .string "POKéMONOVI.\p"
+    .string "Tebe to asi neunavuje.$"
 
 Route20_Text_ShirleyIntro::
-    .string "SEAFOAM is a quiet getaway.\n"
-    .string "I'm vacationing here.$"
+    .string "SEAFOAM je tiché útočiště.\n"
+    .string "Jsem tu na dovolené.$"
 
 Route20_Text_ShirleyDefeat::
-    .string "Quit it!$"
+    .string "Nech toho!$"
 
 Route20_Text_ShirleyPostBattle::
-    .string "There's a huge cavern underneath\n"
-    .string "this island.$"
+    .string "Pod tímhle ostrovem je obrovská\n"
+    .string "jeskyně.$"
 
 Route20_Text_TiffanyIntro::
-    .string "I love floating with the fishes\n"
-    .string "here among the waves.$"
+    .string "Miluju se tu vznášet s rybami mezi\n"
+    .string "vlnami.$"
 
 Route20_Text_TiffanyDefeat::
-    .string "Yowch!$"
+    .string "Au!$"
 
 Route20_Text_TiffanyPostBattle::
-    .string "Want to float with me?$"
+    .string "Chceš se vznášet se mnou?$"
 
 Route20_Text_IreneIntro::
-    .string "Are you on vacation, too?$"
+    .string "Jsi tu taky na dovolené?$"
 
 Route20_Text_IreneDefeat::
-    .string "No mercy at all!$"
+    .string "Vůbec žádné slitování!$"
 
 Route20_Text_IrenePostBattle::
-    .string "SEAFOAM used to be a single island\n"
-    .string "in the distant past.$"
+    .string "SEAFOAM byl v dávné minulosti\n"
+    .string "jediný ostrov.$"
 
 Route20_Text_DeanIntro::
-    .string "Check out my buff physique!$"
+    .string "Koukni na moji vypracovanou\n"
+    .string "postavu!$"
 
 Route20_Text_DeanDefeat::
-    .string "Wimpy!$"
+    .string "Ubohé!$"
 
 Route20_Text_DeanPostBattle::
-    .string "I should've been buffing up my\n"
-    .string "POKéMON, not me!$"
+    .string "Měl jsem posilovat své POKéMONY,\n"
+    .string "ne sebe!$"
 
 Route20_Text_DarrinIntro::
-    .string "Why are you riding a POKéMON?\n"
-    .string "Can't you swim?$"
+    .string "Proč jezdíš na POKéMONOVI?\n"
+    .string "Neumíš plavat?$"
 
 Route20_Text_DarrinDefeat::
-    .string "Ouch!\n"
-    .string "Torpedoed!$"
+    .string "Au!\n"
+    .string "Zasažen torpédem!$"
 
 Route20_Text_DarrinPostBattle::
-    .string "Riding a POKéMON sure looks fun!$"
+    .string "Jezdit na POKéMONOVI vypadá jako\n"
+    .string "zábava!$"
 
 Route20_Text_RogerIntro::
-    .string "I rode my bird POKéMON here.$"
+    .string "Přiletěl jsem sem na svém ptačím\n"
+    .string "POKéMONOVI.$"
 
 Route20_Text_RogerDefeat::
-    .string "Oh, no!\n"
-    .string "Now what am I to do?$"
+    .string "Ach ne!\n"
+    .string "Co teď budu dělat?$"
 
 Route20_Text_RogerPostBattle::
-    .string "My birds are exhausted.\n"
-    .string "They can't FLY me back!$"
+    .string "Moji ptáci jsou vyčerpaní.\n"
+    .string "Zpátky mě pomocí FLY neodnesou!$"
 
 Route20_Text_NoraIntro::
-    .string "My boyfriend gave me big pearls.$"
+    .string "Přítel mi dal velké perly.$"
 
 Route20_Text_NoraDefeat::
-    .string "Oh, no!\n"
-    .string "My pearls were in them!$"
+    .string "Ach ne!\n"
+    .string "V nich byly moje perly!$"
 
 Route20_Text_NoraPostBattle::
-    .string "Will my pearls grow bigger inside\n"
-    .string "CLOYSTER?$"
+    .string "Zvětší se moje perly v CLOYSTER?$"
 
 Route20_Text_MissyIntro::
-    .string "I swam here from CINNABAR ISLAND.\n"
-    .string "It wasn't easy, I tell you.$"
+    .string "Doplavala jsem sem z CINNABAR\n"
+    .string "ISLAND. Říkám ti, nebylo to\l"
+    .string "snadné.$"
 
 Route20_Text_MissyDefeat::
-    .string "I'm so disappointed!$"
+    .string "Jsem tak zklamaná!$"
 
 Route20_Text_MissyPostBattle::
-    .string "POKéMON have taken over an\n"
-    .string "abandoned mansion on CINNABAR.\p"
-    .string "They call it the POKéMON MANSION\n"
-    .string "now.$"
+    .string "POKéMONI ovládli opuštěnou vilu na\n"
+    .string "CINNABAR.\p"
+    .string "Teď se jí říká POKéMON MANSION.$"
 
 Route20_Text_MelissaIntro::
-    .string "CINNABAR, in the west, has a LAB\n"
-    .string "for POKéMON.\p"
-    .string "My daddy works there.$"
+    .string "Na CINNABAR na západě je\n"
+    .string "LABORATOŘ pro POKéMONY.\p"
+    .string "Pracuje tam můj táta.$"
 
 Route20_Text_MelissaDefeat::
-    .string "Wait!\n"
-    .string "You're supposed to wait!$"
+    .string "Počkej!\n"
+    .string "Máš počkat!$"
 
 Route20_Text_MelissaPostBattle::
-    .string "CINNABAR is a volcanic island.\p"
-    .string "I heard it rose out of the sea\n"
-    .string "when a volcano erupted.$"
+    .string "CINNABAR je sopečný ostrov.\p"
+    .string "Prý se vynořil z moře, když\n"
+    .string "vybuchla sopka.$"
 
 Route20_Text_SeafoamIslands::
     .string "SEAFOAM ISLANDS$"
 
 Route20_Text_MistyTrainsHere::
-    .string "Strong TRAINERS and WATER POKéMON\n"
-    .string "are common sights in these parts.\p"
-    .string "They say that MISTY of the\n"
-    .string "CERULEAN GYM trains here.$"
+    .string "Silní TRENÉŘI a WATER POKéMONI\n"
+    .string "jsou tu běžným jevem.\p"
+    .string "Prý tu trénuje MISTY ze STADIONU\n"
+    .string "v CERULEAN.$"

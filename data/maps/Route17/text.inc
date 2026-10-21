@@ -1,131 +1,131 @@
 Route17_Text_RaulIntro::
-    .string "There's no getting rich quick in\n"
-    .string "battling kids.$"
+    .string "Na soubojích s dětmi rychle\n"
+    .string "nezbohatneš.$"
 
 Route17_Text_RaulDefeat::
-    .string "Burned out!$"
+    .string "Vyhořel jsem!$"
 
 Route17_Text_RaulPostBattle::
-    .string "You can find good stuff lying\n"
-    .string "around on CYCLING ROAD.\p"
-    .string "There's good money in picking them\n"
-    .string "up and selling them.$"
+    .string "Na CYCLING ROAD se válejí dobré\n"
+    .string "věci.\p"
+    .string "Sbírat je a prodávat se vyplácí.$"
 
 Route17_Text_IsaiahIntro::
-    .string "I'm mighty proud of my bod, kiddo.\n"
-    .string "Come on!$"
+    .string "Jsem na svoje tělo pořádně hrdý,\n"
+    .string "prcku.\p"
+    .string "Tak pojď!$"
 
 Route17_Text_IsaiahDefeat::
-    .string "Whoo!$"
+    .string "Hú!$"
 
 Route17_Text_IsaiahPostBattle::
-    .string "I could belly-bump you outta\n"
-    .string "here!$"
+    .string "Mohl bych tě odsud vyhodit\n"
+    .string "břichem!$"
 
 Route17_Text_VirgilIntro::
-    .string "You heading to FUCHSIA?$"
+    .string "Míříš do FUCHSIA?$"
 
 Route17_Text_VirgilDefeat::
-    .string "Crash and burn!$"
+    .string "Havárie!$"
 
 Route17_Text_VirgilPostBattle::
-    .string "I love racing downhill!$"
+    .string "Miluju závody z kopce!$"
 
 Route17_Text_BillyIntro::
-    .string "We're BIKERS!\n"
-    .string "We rule the roads, man!$"
+    .string "My jsme MOTORKÁŘI!\n"
+    .string "Silnice patří nám, kámo!$"
 
 Route17_Text_BillyDefeat::
-    .string "Smoked!$"
+    .string "Spálený!$"
 
 Route17_Text_BillyPostBattle::
-    .string "Are you looking for adventure?$"
+    .string "Hledáš dobrodružství?$"
 
 Route17_Text_NikolasIntro::
-    .string "Let VOLTORB electrify you!$"
+    .string "Ať tě VOLTORB pořádně nabije!$"
 
 Route17_Text_NikolasDefeat::
-    .string "Grounded out!$"
+    .string "Uzemněno!$"
 
 Route17_Text_NikolasPostBattle::
-    .string "I got my VOLTORB at the abandoned\n"
+    .string "VOLTORB jsem chytil v opuštěné\n"
     .string "POWER PLANT.$"
 
 Route17_Text_ZeekIntro::
-    .string "I leveled up my POKéMON, but it\n"
-    .string "won't evolve. Why?$"
+    .string "Můj POKéMON postoupil o úroveň,\n"
+    .string "ale nevyvíjí se. Proč?$"
 
 Route17_Text_ZeekDefeat::
-    .string "Why, you!$"
+    .string "Ty jeden!$"
 
 Route17_Text_ZeekPostBattle::
-    .string "Maybe some POKéMON need element\n"
-    .string "STONES to evolve.$"
+    .string "Možná někteří POKéMONI potřebují\n"
+    .string "k vývoji KAMENY živlů.$"
 
 Route17_Text_JamalIntro::
-    .string "I need a little exercise!$"
+    .string "Potřebuju se trochu protáhnout!$"
 
 Route17_Text_JamalDefeat::
-    .string "Whew!\n"
-    .string "Good workout!$"
+    .string "Uf!\n"
+    .string "Dobrý trénink!$"
 
 Route17_Text_JamalPostBattle::
-    .string "I'm sure I lost weight there!$"
+    .string "Určitě jsem u toho zhubl!$"
 
 Route17_Text_CoreyIntro::
-    .string "Be a rebel!$"
+    .string "Buď rebel!$"
 
 Route17_Text_CoreyDefeat::
     .string "Aaaargh!$"
 
 Route17_Text_CoreyPostBattle::
-    .string "Be ready to fight for your beliefs!$"
+    .string "Bojuj za to, čemu věříš!$"
 
 Route17_Text_JaxonIntro::
-    .string "Nice BIKE!\n"
-    .string "How's it handle?$"
+    .string "Pěkný BIKE!\n"
+    .string "Jak se řídí?$"
 
 Route17_Text_JaxonDefeat::
-    .string "Shoot!$"
+    .string "Sakra!$"
 
 Route17_Text_JaxonPostBattle::
-    .string "The slope makes it hard to steer.$"
+    .string "Ve svahu se těžko zatáčí.$"
 
 Route17_Text_WilliamIntro::
-    .string "Get lost, kid!\n"
-    .string "I'm bushed!$"
+    .string "Zmiz, prcku!\n"
+    .string "Jsem úplně hotový!$"
 
 Route17_Text_WilliamDefeat::
-    .string "Are you satisfied?$"
+    .string "Stačí ti to?$"
 
 Route17_Text_WilliamPostBattle::
-    .string "I need to catch a few z's!$"
+    .string "Potřebuju si dáchnout!$"
 
 Route17_Text_WatchOutForDiscardedItems::
-    .string "It's a notice.\p"
-    .string "Watch out for discarded items.$"
+    .string "Je to oznámení.\p"
+    .string "Pozor na odhozené předměty.$"
 
 Route17_Text_SameSpeciesGrowDifferentRates::
-    .string "TRAINER TIPS\p"
-    .string "All POKéMON are unique.\p"
-    .string "Even POKéMON of the same species\n"
-    .string "and level grow at different rates.$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "Každý POKéMON je jedinečný.\p"
+    .string "I POKéMONI stejného druhu\n"
+    .string "a úrovně rostou různým tempem.$"
 
 Route17_Text_PressBToStayInPlace::
-    .string "TRAINER TIPS\p"
-    .string "Press the B Button to stay in place\n"
-    .string "while on a slope.$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "Ve svahu zůstaneš stát na místě\n"
+    .string "tlačítkem B.$"
 
 Route17_Text_RouteSign::
     .string "ROUTE 17\n"
     .string "CELADON CITY - FUCHSIA CITY$"
 
 Route17_Text_DontThrowGameThrowBalls::
-    .string "It's a notice!\p"
-    .string "Don't throw the game, throw POKé\n"
-    .string "BALLS instead!$"
+    .string "Je to oznámení!\p"
+    .string "Nehaž flintu do žita, házej radši\n"
+    .string "POKé BALLY!$"
 
 Route17_Text_CyclingRoadSign::
     .string "CYCLING ROAD\n"
-    .string "Slope ends here!$"
+    .string "Tady svah končí!$"
 
