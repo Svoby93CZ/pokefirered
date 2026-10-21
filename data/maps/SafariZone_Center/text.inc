@@ -1,11 +1,11 @@
 SafariZone_Center_Text_RestHouse::
-    .string "REST HOUSE$"
+    .string "ODPOČÍVÁRNA$"
 
 SafariZone_Center_Text_PressStartToCheckTime::
-    .string "TRAINER TIPS\p"
-    .string "Press START to check\n"
-    .string "remaining time.$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "Zbývající čas zjistíš stisknutím\n"
+    .string "START.$"
 
 SafariZone_Center_Text_CenterArea::
-    .string "CENTER AREA$"
+    .string "STŘEDNÍ OBLAST$"
 

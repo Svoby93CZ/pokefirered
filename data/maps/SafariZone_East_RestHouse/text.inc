@@ -1,12 +1,12 @@
 SafariZone_East_Text_HowManyDidYouCatch::
-    .string "How many did you catch?\n"
-    .string "I'm bushed from the effort!$"
+    .string "Kolik máš úlovků?\n"
+    .string "Já jsem z té námahy úplně hotový!$"
 
 SafariZone_East_Text_CaughtChanseyAllWorthwhile::
-    .string "I caught a CHANSEY!\p"
-    .string "That makes this all worthwhile.$"
+    .string "Chytil jsem CHANSEY!\p"
+    .string "Kvůli tomu to všechno stálo za to.$"
 
 SafariZone_East_Text_TiredFromAllTheFun::
-    .string "Whew!\n"
-    .string "I'm tired from all the fun!$"
+    .string "Uf!\n"
+    .string "Jsem z té zábavy úplně unavený!$"
 

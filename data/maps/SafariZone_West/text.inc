@@ -1,20 +1,20 @@
 SafariZone_West_Text_RestHouse::
-    .string "REST HOUSE$"
+    .string "ODPOČÍVÁRNA$"
 
 SafariZone_West_Text_PleaseFindWardensLostTeeth::
-    .string "REQUEST NOTICE\p"
-    .string "Please find the SAFARI WARDEN's\n"
-    .string "lost GOLD TEETH.\l"
-    .string "They're around here somewhere.\p"
-    .string "Reward offered!\n"
-    .string "Contact: WARDEN$"
+    .string "ŽÁDOST\p"
+    .string "Najděte prosím ztracené GOLD\n"
+    .string "TEETH SPRÁVCE SAFARI. Jsou někde\l"
+    .string "tady v okolí.\p"
+    .string "Odměna zaručena!\n"
+    .string "Kontakt: SPRÁVCE$"
 
 SafariZone_West_Text_SearchForSecretHouse::
-    .string "TRAINER TIPS\p"
-    .string "Zone Exploration Campaign!\n"
-    .string "The Search for the SECRET HOUSE!$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "Kampaň za průzkum zóny!\n"
+    .string "Pátrání po SECRET HOUSE!$"
 
 SafariZone_West_Text_AreaSign::
-    .string "AREA 3\n"
-    .string "EAST: CENTER AREA$"
+    .string "OBLAST 3\n"
+    .string "VÝCHOD: STŘEDNÍ OBLAST$"
 
