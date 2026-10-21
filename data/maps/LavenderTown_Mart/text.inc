@@ -1,22 +1,20 @@
 LavenderTown_Mart_Text_SearchingForStatRaiseItems::
-    .string "I'm searching for items that raise\n"
-    .string "the stats of POKéMON.\p"
-    .string "They're effective over the course\n"
-    .string "of a single battle.\p"
-    .string "X ATTACK, X DEFEND, X SPEED, \n"
-    .string "and X SPECIAL are what I'm after.\p"
-    .string "Do you know where I can get them?$"
+    .string "Hledám předměty, které zvyšují\n"
+    .string "vlastnosti POKéMONŮ.\p"
+    .string "Účinkují po dobu jednoho souboje.\p"
+    .string "Chci X ATTACK, X DEFEND, X SPEED\n"
+    .string "a X SPECIAL.\p"
+    .string "Nevíš, kde je seženu?$"
 
 LavenderTown_Mart_Text_DidYouBuyRevives::
-    .string "Did you buy some REVIVES?\n"
-    .string "They revive any fainted POKéMON!$"
+    .string "Máš nějaké REVIVE?\n"
+    .string "Oživí každého omdlelého POKéMONA!$"
 
 LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
-    .string "Sometimes, a TRAINER duo will\n"
-    .string "challenge you with two POKéMON\l"
-    .string "at the same time.\p"
-    .string "If that happens, you have to send\n"
-    .string "out two POKéMON to battle, too.$"
+    .string "Občas tě dvojice TRENÉRŮ vyzve se\n"
+    .string "dvěma POKéMONY najednou.\p"
+    .string "V tom případě musíš do boje\n"
+    .string "vyslat taky dva POKéMONY.$"
 
 LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::
     .string "この　あいだ　やまおくで\n"

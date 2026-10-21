@@ -1,81 +1,82 @@
 RockTunnel_1F_Text_LennyIntro::
-    .string "This tunnel goes a long way, kid!$"
+    .string "Tenhle tunel je pořádně dlouhý,\n"
+    .string "prcku!$"
 
 RockTunnel_1F_Text_LennyDefeat::
-    .string "Doh!\n"
-    .string "You win!$"
+    .string "Do háje!\n"
+    .string "Vyhráváš!$"
 
 RockTunnel_1F_Text_LennyPostBattle::
-    .string "Watch for ONIX.\n"
-    .string "They appear only occasionally.\p"
-    .string "High-level ones can put the\n"
-    .string "squeeze on you!$"
+    .string "Dej si pozor na POKéMONY ONIX.\n"
+    .string "Objevují se jen občas.\p"
+    .string "Ti silní tě umí pořádně zmáčknout!$"
 
 RockTunnel_1F_Text_OliverIntro::
     .string "Hmm.\n"
-    .string "Maybe I'm lost in here…$"
+    .string "Možná jsem se tu ztratil…$"
 
 RockTunnel_1F_Text_OliverDefeat::
-    .string "Ease up!\n"
-    .string "What am I doing?\l"
-    .string "Which way is out?$"
+    .string "Zpomal!\n"
+    .string "Co to dělám?\l"
+    .string "Kudy ven?$"
 
 RockTunnel_1F_Text_OliverPostBattle::
-    .string "That sleeping POKéMON on ROUTE 12\n"
-    .string "forced me to take this detour.$"
+    .string "Kvůli tomu spícímu POKéMONOVI na\n"
+    .string "ROUTE 12 musím jít oklikou.$"
 
 RockTunnel_1F_Text_LucasIntro::
-    .string "Outsiders like you need to show me\n"
-    .string "some respect!$"
+    .string "Cizáci jako ty by mi měli projevit\n"
+    .string "úctu!$"
 
 RockTunnel_1F_Text_LucasDefeat::
-    .string "I give!$"
+    .string "Vzdávám se!$"
 
 RockTunnel_1F_Text_LucasPostBattle::
-    .string "You're talented enough to hike!$"
+    .string "Na turistiku máš dost talentu!$"
 
 RockTunnel_1F_Text_AshtonIntro::
-    .string "POKéMON fight!\n"
-    .string "Ready, go!$"
+    .string "POKéMON souboj!\n"
+    .string "Připravit, start!$"
 
 RockTunnel_1F_Text_AshtonDefeat::
-    .string "Game over!$"
+    .string "Konec hry!$"
 
 RockTunnel_1F_Text_AshtonPostBattle::
-    .string "Oh well, I'll get a ZUBAT as I go!$"
+    .string "Nevadí, cestou si chytím ZUBAT!$"
 
 RockTunnel_1F_Text_LeahIntro::
-    .string "Eek!\p"
-    .string "Don't try anything funny in the\n"
-    .string "dark!$"
+    .string "Íí!\p"
+    .string "Ať tě ve tmě nenapadne nic\n"
+    .string "zkoušet!$"
 
 RockTunnel_1F_Text_LeahDefeat::
-    .string "It was too dark…$"
+    .string "Byla moc velká tma…$"
 
 RockTunnel_1F_Text_LeahPostBattle::
-    .string "I saw a MACHOP in this tunnel.$"
+    .string "V tomhle tunelu jsem viděla\n"
+    .string "MACHOP.$"
 
 RockTunnel_1F_Text_DanaIntro::
-    .string "I came this far looking for wild\n"
-    .string "POKéMON.$"
+    .string "Došla jsem až sem, protože hledám\n"
+    .string "divoké POKéMONY.$"
 
 RockTunnel_1F_Text_DanaDefeat::
-    .string "I'm out of POKéMON!$"
+    .string "Došli mi POKéMONI!$"
 
 RockTunnel_1F_Text_DanaPostBattle::
-    .string "You looked cute and harmless.\n"
-    .string "Was I ever wrong!$"
+    .string "Působíš tak roztomile a neškodně.\n"
+    .string "To jsem se ale spletla!$"
 
 RockTunnel_1F_Text_ArianaIntro::
-    .string "You have POKéMON!\n"
-    .string "Let's start!$"
+    .string "Máš POKéMONY!\n"
+    .string "Tak začneme!$"
 
 RockTunnel_1F_Text_ArianaDefeat::
-    .string "You play hard!$"
+    .string "Ty hraješ tvrdě!$"
 
 RockTunnel_1F_Text_ArianaPostBattle::
-    .string "Whew!\n"
-    .string "I'm all sweaty now.$"
+    .string "Uf!\n"
+    .string "Jsem celá zpocená.$"
 
 RockTunnel_1F_Text_RouteSign::
     .string "ROCK TUNNEL\n"
