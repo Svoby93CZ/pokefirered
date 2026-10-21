@@ -11,8 +11,8 @@ PokemonTower_7F_Text_Grunt1PostBattle::
 PokemonTower_7F_Text_Grunt2Intro::
     .string "Tenhle dědek si to namířil rovnou\n"
     .string "k našemu ÚKRYTU.\p"
-    .string "A pak začne vykládat, jak TEAM\n"
-    .string "ROCKET týrá POKéMONY.\p"
+    .string "A pak začne vykládat, jak\n"
+    .string "TEAM ROCKET týrá POKéMONY.\p"
     .string "Tak si to s ním probíráme jako\n"
     .string "dospělí.$"
 

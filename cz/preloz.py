@@ -101,7 +101,8 @@ def zalom(text):
             continue
         slova = []
         for slovo in re.split(r" (?![^{]*\})", odstavec):  # ne uvnitř {PAUSE 0x60}
-            if slova and (len(slova[-1]) == 1 and slova[-1].isalpha() or slova[-1] in VAZBY):
+            posledni = slova[-1].rsplit(" ", 1)[-1] if slova else ""  # „s TEAM“ + „ROCKET“ drží pohromadě
+            if posledni and (len(posledni) == 1 and posledni.isalpha() or posledni in VAZBY):
                 slova[-1] += " " + slovo
             else:
                 slova.append(slovo)

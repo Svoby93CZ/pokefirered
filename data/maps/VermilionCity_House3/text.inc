@@ -8,8 +8,8 @@ VermilionCity_House3_Text_Pidgey::
 VermilionCity_House3_Text_DearPippiLetter::
     .string "Milá PIPPI,\n"
     .string "doufám, že se brzy uvidíme.\p"
-    .string "Prý má SAFFRON potíže s TEAM\n"
-    .string "ROCKET.\p"
+    .string "Prý má SAFFRON potíže\n"
+    .string "s TEAM ROCKET.\p"
     .string "Ve VERMILIONU je zdá se bezpečno.$"
 
 VermilionCity_House3_Text_SendMyPidgeyToUnionRoom::

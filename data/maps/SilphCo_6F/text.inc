@@ -51,8 +51,8 @@ SilphCo_6F_Text_TaylorIntro::
     .string "Ten prohnilý PREZIDENT!\p"
     .string "Dobře mu tak, když mě poslal do\n"
     .string "POBOČKY TIKSI!\p"
-    .string "Proto si pro nás přišel TEAM\n"
-    .string "ROCKET, tím jsem si jistý!$"
+    .string "Proto si pro nás přišel\n"
+    .string "TEAM ROCKET, tím jsem si jistý!$"
 
 SilphCo_6F_Text_TaylorDefeat::
     .string "Sakra!$"
@@ -62,8 +62,8 @@ SilphCo_6F_Text_TaylorPostBattle::
     .string "Ta je v ruské pustině!$"
 
 SilphCo_6F_Text_Grunt2Intro::
-    .string "Ty se opovažuješ zradit TEAM\n"
-    .string "ROCKET?$"
+    .string "Ty se opovažuješ zradit\n"
+    .string "TEAM ROCKET?$"
 
 SilphCo_6F_Text_Grunt2Defeat::
     .string "Zrada!$"

@@ -1,6 +1,6 @@
 RocketHideout_B3F_Text_Grunt1Intro::
-    .string "Přestaň se plést do věcí TEAM\n"
-    .string "ROCKET, nebo uvidíš!$"
+    .string "Přestaň se plést do věcí\n"
+    .string "TEAM ROCKET, nebo uvidíš!$"
 
 RocketHideout_B3F_Text_Grunt1Defeat::
     .string "Uf!\n"
