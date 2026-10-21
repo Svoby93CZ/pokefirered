@@ -1,23 +1,22 @@
 SSAnne_2F_Room2_Text_BrooksIntro::
-    .string "Competing against the young keeps\n"
-    .string "me youthful.$"
+    .string "Soupeření s mladými mě udržuje\n"
+    .string "mladým.$"
 
 SSAnne_2F_Room2_Text_BrooksDefeat::
-    .string "Good match!\n"
-    .string "Ah, I feel young again!$"
+    .string "Dobrý zápas!\n"
+    .string "Á, cítím se zase mladý!$"
 
 SSAnne_2F_Room2_Text_BrooksPostBattle::
-    .string "Fifteen years ago, I would\n"
-    .string "have won!$"
+    .string "Před patnácti lety bych vyhrál!$"
 
 SSAnne_2F_Room2_Text_DaleIntro::
-    .string "Check out what I fished up!$"
+    .string "Koukni, co jsem chytil!$"
 
 SSAnne_2F_Room2_Text_DaleDefeat::
-    .string "I'm all out!$"
+    .string "Už nemám nic!$"
 
 SSAnne_2F_Room2_Text_DalePostBattle::
-    .string "Party?\p"
-    .string "The cruise ship's party should be\n"
-    .string "over by now.$"
+    .string "Večírek?\p"
+    .string "Večírek na výletní lodi by už měl\n"
+    .string "být u konce.$"
 

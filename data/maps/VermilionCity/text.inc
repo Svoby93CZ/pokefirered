@@ -1,131 +1,134 @@
 VermilionCity_Text_GrimerMultipliesInSludge::
-    .string "We're careful about pollution here.\p"
-    .string "We've heard GRIMER multiplies in\n"
-    .string "toxic sludge.$"
+    .string "Tady si na znečištění dáváme\n"
+    .string "pozor.\p"
+    .string "Slyšeli jsme, že GRIMER se množí\n"
+    .string "v jedovatém kalu.$"
 
 VermilionCity_Text_DidYouSeeSSAnneInHarbor::
-    .string "Did you see the S.S. ANNE moored\n"
-    .string "in the harbor?$"
+    .string "Vidíš tu S.S. ANNE kotvící\n"
+    .string "v přístavu?$"
 
 VermilionCity_Text_SSAnneHasDepartedForYear::
-    .string "So, the S.S. ANNE has departed?\p"
-    .string "She'll be back in VERMILION about\n"
-    .string "this time next year.$"
+    .string "Takže S.S. ANNE už odplula?\p"
+    .string "Do VERMILIONU se vrátí zhruba za\n"
+    .string "rok touhle dobou.$"
 
 VermilionCity_Text_BuildingOnThisLand::
-    .string "I'm putting up a building on this\n"
-    .string "plot of land. I own it all.\p"
-    .string "My POKéMON is tamping the land\n"
-    .string "to lay the foundation.$"
+    .string "Stavím na tomhle pozemku budovu.\n"
+    .string "Celý mi patří.\p"
+    .string "Můj POKéMON udusává půdu pro\n"
+    .string "základy.$"
 
 VermilionCity_Text_Machop::
     .string "MACHOP: Guoh! Gogogoh!$"
 
 VermilionCity_Text_MachopStompingLandFlat::
-    .string "A MACHOP is stomping the land flat.$"
+    .string "MACHOP udupává půdu do roviny.$"
 
 VermilionCity_Text_SSAnneVisitsOnceAYear::
-    .string "The S.S. ANNE is a famous luxury\n"
-    .string "cruise ship.\p"
-    .string "It visits VERMILION once a year.$"
+    .string "S.S. ANNE je slavná luxusní\n"
+    .string "výletní loď.\p"
+    .string "Do VERMILIONU připlouvá jednou za\n"
+    .string "rok.$"
 
 VermilionCity_Text_CitySign::
     .string "VERMILION CITY\n"
-    .string "The Port of Exquisite Sunsets$"
+    .string "Přístav nádherných západů slunce$"
 
 VermilionCity_Text_SnorlaxBlockingRoute12::
-    .string "NOTICE!\p"
-    .string "ROUTE 12 may be blocked off by a\n"
-    .string "sleeping POKéMON.\p"
-    .string "Detour through ROCK TUNNEL to\n"
+    .string "UPOZORNĚNÍ!\p"
+    .string "ROUTE 12 může blokovat spící\n"
+    .string "POKéMON.\p"
+    .string "Objížďka přes ROCK TUNNEL do\n"
     .string "LAVENDER TOWN.\p"
-    .string "VERMILION POLICE$"
+    .string "POLICIE VERMILION$"
 
 VermilionCity_Text_PokemonFanClubSign::
     .string "POKéMON FAN CLUB\n"
-    .string "All POKéMON fans welcome!$"
+    .string "Vítáni všichni fanoušci POKéMONŮ!$"
 
 VermilionCity_Text_GymSign::
-    .string "VERMILION CITY POKéMON GYM\n"
-    .string "LEADER: LT. SURGE\l"
-    .string "The Lightning American!$"
+    .string "POKéMON STADION VERMILION CITY\n"
+    .string "VŮDCE: LT. SURGE\l"
+    .string "Bleskový Američan!$"
 
 VermilionCity_Text_VermilionHarbor::
-    .string "VERMILION HARBOR$"
+    .string "PŘÍSTAV VERMILION$"
 
 VermilionCity_Text_WelcomeToTheSSAnne::
-    .string "Welcome to the S.S. ANNE!$"
+    .string "Vítejte na S.S. ANNE!$"
 
 VermilionCity_Text_DoYouHaveATicket::
-    .string "Welcome to the S.S. ANNE!\p"
-    .string "Excuse me, do you have a ticket?$"
+    .string "Vítejte na S.S. ANNE!\p"
+    .string "Promiňte, máte lístek?$"
 
 VermilionCity_Text_FlashedSSTicket::
-    .string "{FONT_NORMAL}{PLAYER} flashed the S.S. TICKET!\p"
-    .string "{FONT_MALE}Great!\n"
-    .string "Welcome to the S.S. ANNE!$"
+    .string "{FONT_NORMAL}{PLAYER} ukazuje S.S. TICKET!\p"
+    .string "{FONT_MALE}Výborně!\n"
+    .string "Vítejte na S.S. ANNE!$"
 
 VermilionCity_Text_DontHaveNeededSSTicket::
-    .string "{FONT_NORMAL}{PLAYER} doesn't have the needed\n"
+    .string "{FONT_NORMAL}{PLAYER} nemá potřebný\n"
     .string "S.S. TICKET.\p"
-    .string "{FONT_MALE}Sorry!\p"
-    .string "You need a ticket to get aboard.$"
+    .string "{FONT_MALE}Promiňte!\p"
+    .string "Na palubu potřebujete lístek.$"
 
 VermilionCity_Text_TheShipSetSail::
-    .string "The ship set sail.$"
+    .string "Loď vyplula.$"
 
 VermilionCity_Text_BoardSeagallopTriPass::
-    .string "Ah, you have a TRI-PASS.\p"
-    .string "Would you like to board\n"
-    .string "a SEAGALLOP ferry?$"
+    .string "Á, máte TRI-PASS.\p"
+    .string "Přejete si nastoupit na trajekt\n"
+    .string "SEAGALLOP?$"
 
 VermilionCity_Text_Seagallop7Departing::
-    .string "Okay, everything's in order.\p"
-    .string "SEAGALLOP HI-SPEED 7 will be\n"
-    .string "departing immediately.$"
+    .string "Dobře, vše je v pořádku.\p"
+    .string "SEAGALLOP HI-SPEED 7 ihned\n"
+    .string "vyplouvá.$"
 
 VermilionCity_Text_BoardSeagallopRainbowPass::
-    .string "Ah, you have a RAINBOW PASS.\p"
-    .string "Would you like to board\n"
-    .string "a SEAGALLOP ferry?$"
+    .string "Á, máte RAINBOW PASS.\p"
+    .string "Přejete si nastoupit na trajekt\n"
+    .string "SEAGALLOP?$"
 
 VermilionCity_Text_OhMysticTicketTakeYouToNavelRock::
-    .string "Oh! That's a MYSTICTICKET!\n"
-    .string "Now that is rare.\p"
-    .string "We'll be happy to take you to\n"
-    .string "NAVEL ROCK anytime.$"
+    .string "Ó! To je MYSTICTICKET!\n"
+    .string "To je ale vzácnost.\p"
+    .string "Na NAVEL ROCK vás rádi kdykoli\n"
+    .string "dopravíme.$"
 
 VermilionCity_Text_OhAuroraTicketTakeYouToBirthIsland::
-    .string "Oh! That's an AURORATICKET!\n"
-    .string "Now that is rare.\p"
-    .string "We'll be happy to take you to\n"
-    .string "BIRTH ISLAND anytime.$"
+    .string "Ó! To je AURORATICKET!\n"
+    .string "To je ale vzácnost.\p"
+    .string "Na BIRTH ISLAND vás rádi kdykoli\n"
+    .string "dopravíme.$"
 
 VermilionCity_Text_BoardSeagallopFerry::
-    .string "Would you like to board\n"
-    .string "a SEAGALLOP ferry?$"
+    .string "Přejete si nastoupit na trajekt\n"
+    .string "SEAGALLOP?$"
 
 VermilionCity_Text_Seagallop10Departing::
-    .string "Okay, everything's in order for you\n"
-    .string "to board a special ferry.\p"
-    .string "SEAGALLOP HI-SPEED 10 will be\n"
-    .string "departing immediately.$"
+    .string "Dobře, vše je připraveno k nástupu\n"
+    .string "na zvláštní trajekt.\p"
+    .string "SEAGALLOP HI-SPEED 10 ihned\n"
+    .string "vyplouvá.$"
 
 VermilionCity_Text_Seagallop12Departing::
-    .string "Okay, everything's in order for you\n"
-    .string "to board a special ferry.\p"
-    .string "SEAGALLOP HI-SPEED 12 will be\n"
-    .string "departing immediately.$"
+    .string "Dobře, vše je připraveno k nástupu\n"
+    .string "na zvláštní trajekt.\p"
+    .string "SEAGALLOP HI-SPEED 12 ihned\n"
+    .string "vyplouvá.$"
 
 VermilionCity_Text_Route2AideHasPackageForYou::
-    .string "Oh, hello, {PLAYER}!\n"
-    .string "How are you doing?\p"
-    .string "It's me, one of PROF. OAK's AIDES.\p"
-    .string "Did you meet the other AIDE?\p"
-    .string "He had a package from PROF. OAK\n"
-    .string "for you, {PLAYER}.\p"
-    .string "He said he'd look for you around\n"
+    .string "Á, ahoj, {PLAYER}!\n"
+    .string "Jak se máš?\p"
+    .string "To jsem já, jeden z ASISTENTŮ\n"
+    .string "PROF. OAKA.\p"
+    .string "Znáš toho druhého ASISTENTA?\p"
+    .string "Má pro tebe, {PLAYER}, balíček od\n"
+    .string "PROF. OAKA.\p"
+    .string "Říkal, že tě bude hledat kolem\n"
     .string "ROUTE 2, {PLAYER}.\p"
-    .string "If you're in the ROUTE 2 area,\n"
-    .string "please look for him.$"
+    .string "Až budeš u ROUTE 2, poohlédni se\n"
+    .string "po něm.$"
 

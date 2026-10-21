@@ -1,12 +1,12 @@
 SSAnne_1F_Room5_Text_ArthurIntro::
-    .string "You insolent pup!\n"
-    .string "How dare you barge in!$"
+    .string "Ty drzé štěně!\n"
+    .string "Jak se opovažuješ sem vtrhnout!$"
 
 SSAnne_1F_Room5_Text_ArthurDefeat::
-    .string "Humph! You rude child!\n"
-    .string "You have no sense of courtesy!$"
+    .string "Hmpf! Ty nevychované dítě!\n"
+    .string "Nemáš žádné způsoby!$"
 
 SSAnne_1F_Room5_Text_ArthurPostBattle::
-    .string "I wish to be left alone!\n"
-    .string "Get out!$"
+    .string "Chci mít klid!\n"
+    .string "Ven!$"
 

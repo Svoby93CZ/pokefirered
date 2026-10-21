@@ -1,53 +1,51 @@
 SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick::
-    .string "CAPTAIN: Ooargh…\n"
-    .string "I feel hideous…\l"
-    .string "Urrp! Seasick…$"
+    .string "KAPITÁN: Uáárgh…\n"
+    .string "Je mi hrozně…\l"
+    .string "Urp! Mořská nemoc…$"
 
 SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
-    .string "{PLAYER} rubbed the CAPTAIN's\n"
-    .string "back!\p"
-    .string "Rub-rub…\n"
-    .string "Rub-rub…$"
+    .string "{PLAYER} mne KAPITÁNOVI záda!\p"
+    .string "Mnu-mnu…\n"
+    .string "Mnu-mnu…$"
 
 SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
-    .string "CAPTAIN: Whew! Thank you!\n"
-    .string "I'm feeling much better now.\p"
-    .string "You want to see my hidden CUT\n"
-    .string "technique?\p"
-    .string "I could show you my prized CUT\n"
-    .string "technique if I weren't so ill…\p"
-    .string "I know! You can have this!\n"
-    .string "This HIDDEN MACHINE!\p"
-    .string "Teach CUT to your POKéMON, and\n"
-    .string "you can see it CUT anytime!$"
+    .string "KAPITÁN: Uf! Děkuji!\n"
+    .string "Už je mi mnohem líp.\p"
+    .string "Chceš vidět mou tajnou techniku\n"
+    .string "CUT?\p"
+    .string "Ukázal bych ti svou cennou\n"
+    .string "techniku CUT, kdyby mi nebylo tak\l"
+    .string "zle…\p"
+    .string "Vím co! Můžeš si vzít tohle!\n"
+    .string "Tenhle SKRYTÝ STROJ!\p"
+    .string "Nauč CUT svého POKéMONA a uvidíš\n"
+    .string "ho kdykoli!$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
-    .string "{PLAYER} obtained HM01\n"
-    .string "from the CAPTAIN!$"
+    .string "{PLAYER} dostává od KAPITÁNA\n"
+    .string "HM01!$"
 
 SSAnne_CaptainsOffice_Text_ExplainCut::
-    .string "Using CUT, you can chop down\n"
-    .string "small trees.\p"
-    .string "Why not try it with the trees\n"
-    .string "around VERMILION CITY?$"
+    .string "Útokem CUT pokácíš malé stromky.\p"
+    .string "Zkus to se stromky kolem VERMILION\n"
+    .string "CITY!$"
 
 SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
-    .string "CAPTAIN: …Whew!\p"
-    .string "Now that I'm not sick anymore,\n"
-    .string "I guess it's time.\p"
-    .string "The S.S. ANNE will set sail soon!\p"
-    .string "Farewell, until our return to\n"
+    .string "KAPITÁN: …Uf!\p"
+    .string "Když už mi není zle, je asi čas.\p"
+    .string "S.S. ANNE brzy vypluje!\p"
+    .string "Sbohem, až do našeho návratu do\n"
     .string "VERMILION CITY!$"
 
 SSAnne_CaptainsOffice_Text_YouHaveNoRoomForThis::
-    .string "Oh, no!\n"
-    .string "You have no room for this!$"
+    .string "Ale ne!\n"
+    .string "Na tohle nemáš místo!$"
 
 SSAnne_CaptainsOffice_Text_YuckShouldntHaveLooked::
-    .string "Yuck!\n"
-    .string "Shouldn't have looked!$"
+    .string "Fuj!\n"
+    .string "Na tohle se nemělo koukat!$"
 
 SSAnne_CaptainsOffice_Text_HowToConquerSeasickness::
-    .string "How to Conquer Seasickness…\n"
-    .string "The CAPTAIN's reading this!$"
+    .string "Jak přemoci mořskou nemoc…\n"
+    .string "Tohle si KAPITÁN čte!$"
 

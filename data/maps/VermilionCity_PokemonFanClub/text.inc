@@ -1,96 +1,95 @@
 VermilionCity_PokemonFanClub_Text_AdmirePikachusTail::
-    .string "Won't you admire my PIKACHU's\n"
-    .string "adorable tail?$"
+    .string "Nechceš se pokochat roztomilým\n"
+    .string "ocáskem mého PIKACHU?$"
 
 VermilionCity_PokemonFanClub_Text_PikachuTwiceAsCute::
-    .string "Humph!\p"
-    .string "My PIKACHU is twice as cute as\n"
-    .string "that one!$"
+    .string "Hmpf!\p"
+    .string "Můj PIKACHU je dvakrát\n"
+    .string "roztomilejší než tamten!$"
 
 VermilionCity_PokemonFanClub_Text_AdoreMySeel::
-    .string "I just adore my SEEL!\n"
-    .string "It's so lovable!\p"
-    .string "It squeals, “Kyuuuh,” when I\n"
-    .string "hug it!$"
+    .string "Můj SEEL je prostě k zulíbání! Je\n"
+    .string "tak roztomilý!\p"
+    .string "Když ho obejmu, zakvičí: “Kjůůů!”$"
 
 VermilionCity_PokemonFanClub_Text_SeelFarMoreAttractive::
-    .string "Oh, dear!\p"
-    .string "My SEEL is far more attractive.\n"
-    .string "By double, I would say.$"
+    .string "Ale ne!\p"
+    .string "Můj SEEL je mnohem přitažlivější.\n"
+    .string "Řekněme, že dvakrát.$"
 
 VermilionCity_PokemonFanClub_Text_Pikachu::
-    .string "PIKACHU: Chu! Pikachu!$"
+    .string "PIKACHU: Pika! Pikachu!$"
 
 VermilionCity_PokemonFanClub_Text_Seel::
-    .string "SEEL: Kyuoo!$"
+    .string "SEEL: Kjuóó!$"
 
 VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
-    .string "I chair the POKéMON Fan Club!\p"
-    .string "I raise more than a hundred\n"
-    .string "POKéMON!\p"
-    .string "I'm very fussy when it comes to\n"
-    .string "POKéMON! I surely am!\p"
-    .string "So…\p"
-    .string "Did you come visit to hear about\n"
-    .string "my POKéMON?$"
+    .string "Jsem předseda POKéMON Fan Clubu!\p"
+    .string "Vychovávám přes sto POKéMONŮ!\p"
+    .string "Pokud jde o POKéMONY, jsem hrozně\n"
+    .string "puntičkářský! To tedy jsem!\p"
+    .string "Takže…\p"
+    .string "Chceš si poslechnout o mých\n"
+    .string "POKéMONECH?$"
 
 VermilionCity_PokemonFanClub_Text_ChairmansStory::
-    .string "Good!\n"
-    .string "Then listen up!\p"
-    .string "My favorite RAPIDASH…\p"
-    .string "It's…cute…lovely…smart… \n"
-    .string "plus…amazing…you think so?…\l"
-    .string "oh yes…it's…stunning…\l"
-    .string "kindly…love it!\p"
-    .string "Hug it…when…sleeping…warm\n"
-    .string "and cuddly…spectacular…\l"
-    .string "ravishing…\l"
-    .string "…Oops! Look at the time!\l"
-    .string "I kept you too long!\p"
-    .string "Thanks for hearing me out!\n"
-    .string "I want you to have this!$"
+    .string "Dobře!\n"
+    .string "Tak poslouchej!\p"
+    .string "Můj oblíbený RAPIDASH…\p"
+    .string "Je…roztomilý…krásný…chytrý…\n"
+    .string "navíc…úžasný…že jo?…\l"
+    .string "Ó ano…je…ohromující…\l"
+    .string "hodný…zbožňuju ho!\p"
+    .string "Objímám ho…když…spí…teplý\n"
+    .string "a mazlivý…velkolepý…\l"
+    .string "okouzlující…\l"
+    .string "…Jejda! Kolik je hodin!\l"
+    .string "Zdržel jsem tě moc dlouho!\p"
+    .string "Díky za vyslechnutí!\n"
+    .string "Tohle je pro tebe!$"
 
 VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman::
-    .string "{PLAYER} received a BIKE VOUCHER\n"
-    .string "from the CHAIRMAN.$"
+    .string "{PLAYER} dostává od PŘEDSEDY\n"
+    .string "BIKE VOUCHER.$"
 
 VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
-    .string "Take that BIKE VOUCHER to the\n"
-    .string "BIKE SHOP in CERULEAN CITY.\p"
-    .string "Exchange that for a BICYCLE\n"
-    .string "free of charge!\p"
-    .string "Don't worry, my favorite FEAROW\n"
-    .string "will FLY me anywhere I need to go.\p"
-    .string "So, I have no need for a BICYCLE.\p"
-    .string "I hope you like cycling!$"
+    .string "Zanes ten BIKE VOUCHER do BIKE\n"
+    .string "SHOPU v CERULEAN CITY.\p"
+    .string "Vyměníš ho tam zdarma za BICYCLE!\p"
+    .string "Neboj, mě můj oblíbený FEAROW\n"
+    .string "donese pomocí FLY, kam potřebuju.\p"
+    .string "Takže BICYCLE nepotřebuju.\p"
+    .string "Doufám, že tě bude cyklistika\n"
+    .string "bavit!$"
 
 VermilionCity_PokemonFanClub_Text_ComeBackToHearStory::
-    .string "Oh. Come back when you want to\n"
-    .string "hear my story!$"
+    .string "Aha. Přijď, až budeš chtít slyšet\n"
+    .string "můj příběh!$"
 
 VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain::
-    .string "Hello, {PLAYER}!\p"
-    .string "Did you come see me about my\n"
-    .string "POKéMON again?\p"
-    .string "No?\n"
-    .string "Too bad!$"
+    .string "Ahoj, {PLAYER}!\p"
+    .string "Jdeš si zase poslechnout o mých\n"
+    .string "POKéMONECH?\p"
+    .string "Ne?\n"
+    .string "To je škoda!$"
 
 VermilionCity_PokemonFanClub_Text_MakeRoomForThis::
-    .string "Make room for this!$"
+    .string "Udělej si na tohle místo!$"
 
 VermilionCity_PokemonFanClub_Text_ChairmanVeryVocalAboutPokemon::
-    .string "Our CHAIRMAN is very vocal about\n"
-    .string "POKéMON.$"
+    .string "Náš PŘEDSEDA o POKéMONECH hrozně\n"
+    .string "rád mluví.$"
 
 VermilionCity_PokemonFanClub_Text_ListenPolitelyToOtherTrainers::
-    .string "Let's all listen politely to other\n"
-    .string "TRAINERS!$"
+    .string "Poslouchejme ostatní TRENÉRY\n"
+    .string "slušně!$"
 
 VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack::
-    .string "If someone brags, brag right back!$"
+    .string "Když se někdo chlubí, chlub se\n"
+    .string "taky!$"
 
 VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMons::
-    .string "Our CHAIRMAN really does adore his\n"
-    .string "POKéMON.\p"
-    .string "But the person who is most liked by\n"
-    .string "POKéMON is DAISY, I think.$"
+    .string "Náš PŘEDSEDA své POKéMONY opravdu\n"
+    .string "zbožňuje.\p"
+    .string "Ale POKéMONI mají nejradši asi\n"
+    .string "DAISY.$"

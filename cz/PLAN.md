@@ -19,6 +19,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
   - [ ] 4b Mt. Moon, Cerulean, Vermilion, S.S. Anne, Route 4–11
     - [x] Route 4, Mt. Moon, Cerulean City
     - [x] Route 24–25 (Bill), Route 5–6, školka, podchody, Diglett's Cave
+    - [x] Vermilion City, S.S. Anne
   - [ ] 4c Rock Tunnel, Lavender, Celadon, Rocket Hideout, Pokémon Tower
   - [ ] 4d Saffron, Silph Co., Fuchsia, Safari Zone, Cinnabar
   - [ ] 4e Victory Road, Indigo Plateau, zbylé cesty

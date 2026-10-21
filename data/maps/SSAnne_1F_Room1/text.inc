@@ -1,6 +1,6 @@
 SSAnne_1F_Room1_Text_ImAGlobalPoliceAgent::
-    .string "Ssh…!\n"
-    .string "I'm a GLOBAL POLICE agent.\p"
-    .string "I'm on the trail of TEAM ROCKET.\n"
-    .string "They're up to nothing good!$"
+    .string "Pst…!\n"
+    .string "Jsem agent MEZINÁRODNÍ POLICIE.\p"
+    .string "Jdu po stopě TEAM ROCKET.\n"
+    .string "Chystají něco zlého!$"
 
