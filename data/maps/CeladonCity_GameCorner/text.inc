@@ -1,148 +1,146 @@
 CeladonCity_GameCorner_Text_CanExchangeCoinsNextDoor::
-    .string "Welcome!\p"
-    .string "You can exchange your COINS for\n"
-    .string "fabulous prizes next door.$"
+    .string "Vítejte!\p"
+    .string "ŽETONY můžete vedle vyměnit za\n"
+    .string "báječné ceny.$"
 
 CeladonCity_GameCorner_Text_WelcomeBuySomeCoins::
-    .string "Welcome to ROCKET GAME CORNER!\p"
-    .string "Do you need some game COINS?\n"
-    .string "Would you like to buy some?$"
+    .string "Vítejte v ROCKET GAME CORNER!\p"
+    .string "Potřebujete herní ŽETONY?\n"
+    .string "Chcete si nějaké koupit?$"
 
 CeladonCity_GameCorner_Text_ComePlaySometime::
-    .string "No?\n"
-    .string "Please come play sometime!$"
+    .string "Ne?\n"
+    .string "Přijďte si někdy zahrát!$"
 
 CeladonCity_GameCorner_Text_SorryDontHaveCoinCase::
-    .string "Oh, I'm sorry.\n"
-    .string "You don't have a COIN CASE.$"
+    .string "Á, promiňte.\n"
+    .string "Nemáte COIN CASE.$"
 
 CeladonCity_GameCorner_Text_CoinCaseIsFull::
-    .string "Whoops!\n"
-    .string "Your COIN CASE is full.$"
+    .string "Jejda!\n"
+    .string "Do COIN CASE se už nic nevejde.$"
 
 CeladonCity_GameCorner_Text_CantAffordCoins::
-    .string "You can't afford the COINS.$"
+    .string "Na ŽETONY nemáte dost peněz.$"
 
 CeladonCity_GameCorner_Text_HereAreYourCoins::
-    .string "Thank you.\n"
-    .string "Here are your COINS!$"
+    .string "Děkuji.\n"
+    .string "Tady jsou vaše ŽETONY!$"
 
 CeladonCity_GameCorner_Text_RumoredTeamRocketRunsThisPlace::
-    .string "Keep this quiet.\p"
-    .string "It's rumored that this place is run\n"
-    .string "by TEAM ROCKET.$"
+    .string "Ale nikomu to neříkej.\p"
+    .string "Prý tohle místo vede TEAM ROCKET.$"
 
 CeladonCity_GameCorner_Text_ThinkMachinesHaveDifferentOdds::
-    .string "I think these machines have\n"
-    .string "different odds.$"
+    .string "Myslím, že každý automat má jinou\n"
+    .string "šanci na výhru.$"
 
 CeladonCity_GameCorner_Text_DoYouWantToPlay::
-    .string "Kid, do you want to play?$"
+    .string "Prcku, chceš si zahrát?$"
 
 CeladonCity_GameCorner_Text_Received10CoinsFromMan::
-    .string "{PLAYER} received 10 COINS\n"
-    .string "from the man.$"
+    .string "{PLAYER} dostává od pána\n"
+    .string "10 ŽETONŮ.$"
 
 CeladonCity_GameCorner_Text_DontNeedMyCoins::
-    .string "You don't need my COINS!$"
+    .string "Moje ŽETONY nepotřebuješ!$"
 
 CeladonCity_GameCorner_Text_WinsComeAndGo::
-    .string "Wins seem to come and go.\n"
-    .string "Nothing's a sure thing.$"
+    .string "Výhry přicházejí a odcházejí.\n"
+    .string "Nic není jisté.$"
 
 CeladonCity_GameCorner_Text_WinOrLoseItsOnlyLuck::
-    .string "These slot games…\n"
-    .string "Win or lose, it's only by luck.$"
+    .string "Tyhle automaty… Výhra nebo prohra,\n"
+    .string "je to jen o štěstí.$"
 
 CeladonCity_GameCorner_Text_GymGuyAdvice::
-    .string "Hey!\p"
-    .string "You have better things to do,\n"
-    .string "champ in the making!\p"
-    .string "CELADON GYM's LEADER is ERIKA.\p"
-    .string "She is a user of GRASS-type\n"
-    .string "POKéMON, and at one with nature.\p"
-    .string "She might appear docile because of\n"
-    .string "her flower arranging…\p"
-    .string "But she's not one to be taken\n"
-    .string "lightly!$"
+    .string "Čau!\p"
+    .string "Máš na práci lepší věci, ty\n"
+    .string "budoucí hvězdo!\p"
+    .string "VŮDKYNĚ STADIONU v CELADON je\n"
+    .string "ERIKA.\p"
+    .string "Používá POKéMONY typu GRASS a je\n"
+    .string "jedno s přírodou.\p"
+    .string "Kvůli aranžování květin se může\n"
+    .string "zdát mírná…\p"
+    .string "Ale rozhodně se nedá brát na\n"
+    .string "lehkou váhu!$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
-    .string "They offer rare POKéMON that can\n"
-    .string "be exchanged for your COINS.\p"
-    .string "But, I just can't seem to win!$"
+    .string "Nabízejí tu vzácné POKéMONY,\n"
+    .string "které se dají vyměnit za ŽETONY.\p"
+    .string "Ale mně se prostě nedaří vyhrát!$"
 
 CeladonCity_GameCorner_Text_SoEasyToGetHooked::
-    .string "Games are scary!\n"
-    .string "It's so easy to get hooked!$"
+    .string "Hry jsou děsivé!\n"
+    .string "Tak snadno na nich člověk ujede!$"
 
 CeladonCity_GameCorner_Text_WantSomeCoins::
-    .string "What's up?\n"
-    .string "Want some COINS?$"
+    .string "Co je?\n"
+    .string "Chceš nějaké ŽETONY?$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuy::
-    .string "{PLAYER} received 20 COINS\n"
-    .string "from the nice guy.$"
+    .string "{PLAYER} dostává od milého pána\n"
+    .string "20 ŽETONŮ.$"
 
 CeladonCity_GameCorner_Text_YouHaveLotsOfCoins::
-    .string "You have lots of COINS!$"
+    .string "Máš spoustu ŽETONŮ!$"
 
 CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant::
-    .string "Darn! I need more COINS for the\n"
-    .string "POKéMON I want!$"
+    .string "Sakra! Na POKéMONA, kterého chci,\n"
+    .string "potřebuju víc ŽETONŮ!$"
 
 CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
-    .string "Hey, what? You're throwing me off!\n"
-    .string "Here are some COINS, so shoo!$"
+    .string "Hej, co je? Rušíš mě!\n"
+    .string "Tady máš pár ŽETONŮ, a zmiz!$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromMan::
-    .string "{PLAYER} received 20 COINS\n"
-    .string "from the man.$"
+    .string "{PLAYER} dostává od pána\n"
+    .string "20 ŽETONŮ.$"
 
 CeladonCity_GameCorner_Text_YouveGotPlentyCoins::
-    .string "You've got plenty of your own\n"
-    .string "COINS!$"
+    .string "Máš dost vlastních ŽETONŮ!$"
 
 CeladonCity_GameCorner_Text_WatchReelsClosely::
-    .string "The trick is to watch the reels\n"
-    .string "closely.$"
+    .string "Trik je pozorně sledovat válce.$"
 
 CeladonCity_GameCorner_Text_GruntIntro::
-    .string "I'm guarding this poster!\n"
-    .string "Go away, or else!$"
+    .string "Hlídám tenhle plakát!\n"
+    .string "Zmiz, nebo uvidíš!$"
 
 CeladonCity_GameCorner_Text_GruntDefeat::
-    .string "Dang!$"
+    .string "Sakra!$"
 
 CeladonCity_GameCorner_Text_GruntPostBattle::
-    .string "The TEAM ROCKET HIDEOUT might\n"
-    .string "be discovered!\p"
-    .string "I better tell BOSS!$"
+    .string "Úkryt TEAM ROCKET by mohl být\n"
+    .string "odhalen!\p"
+    .string "Radši to řeknu ŠÉFOVI!$"
 
 CeladonCity_GameCorner_Text_SwitchBehindPosterPushIt::
-    .string "Hey!\p"
-    .string "A switch behind the poster!?\n"
-    .string "Let's push it!$"
+    .string "Hej!\p"
+    .string "Za plakátem je vypínač!?\n"
+    .string "Zmáčkneme ho!$"
 
 CeladonCity_GameCorner_Text_CoinCaseIsRequired::
-    .string "A COIN CASE is required…$"
+    .string "Je potřeba COIN CASE…$"
 
 CeladonCity_GameCorner_Text_DontHaveCoinCase::
-    .string "Oops!\n"
-    .string "Don't have the COIN CASE!$"
+    .string "Jejda!\n"
+    .string "Nemáš COIN CASE!$"
 
 CeladonCity_GameCorner_Text_SlotMachineWantToPlay::
-    .string "A slot machine!\n"
-    .string "Want to play?$"
+    .string "Hrací automat!\n"
+    .string "Chceš si zahrát?$"
 
 CeladonCity_GameCorner_Text_OutOfOrder::
-    .string "OUT OF ORDER\n"
-    .string "This is broken.$"
+    .string "MIMO PROVOZ\n"
+    .string "Tenhle je rozbitý.$"
 
 CeladonCity_GameCorner_Text_OutToLunch::
-    .string "OUT TO LUNCH\n"
-    .string "This is reserved.$"
+    .string "NA OBĚDĚ\n"
+    .string "Tenhle je zamluvený.$"
 
 CeladonCity_GameCorner_Text_SomeonesKeys::
-    .string "Someone's keys!\n"
-    .string "They'll be back.$"
+    .string "Něčí klíče!\n"
+    .string "Majitel se vrátí.$"
 

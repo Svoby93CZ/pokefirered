@@ -2,28 +2,28 @@ CeladonCity_Condominiums_1F_Text_Meowth::
     .string "MEOWTH: Meow!$"
 
 CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
-    .string "You shouldn't spend all your money\n"
-    .string "on drinks.\p"
-    .string "Try this instead.$"
+    .string "Neutrácej všechny peníze za pití.\p"
+    .string "Zkus radši tohle.$"
 
 CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
-    .string "Nothing beats thirst like some hot\n"
+    .string "Žízeň nic nezažene tak jako horký\n"
     .string "TEA.\p"
-    .string "It really is the best.$"
+    .string "Je opravdu nejlepší.$"
 
 CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
-    .string "My dear POKéMON keep me company.\n"
-    .string "MEOWTH even brings money home!$"
+    .string "Moji milí POKéMONI mi dělají\n"
+    .string "společnost. MEOWTH dokonce nosí\l"
+    .string "domů peníze!$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
-    .string "Oh, hello, dearie.\n"
-    .string "Did you enjoy my TEA?\p"
-    .string "By the way, dear. Are you, by any\n"
-    .string "chance, from PALLET TOWN?\p"
-    .string "A girl from PALLET TOWN, DAISY,\n"
-    .string "she enjoys TEA every day.\p"
-    .string "She visits the CELADON DEPT. STORE\n"
-    .string "to buy some TEA.$"
+    .string "Á, ahoj, zlatíčko.\n"
+    .string "Chutnal ti můj TEA?\p"
+    .string "Mimochodem, zlato. Nejsi náhodou\n"
+    .string "z PALLET TOWN?\p"
+    .string "Jedna dívka z PALLET TOWN, DAISY,\n"
+    .string "si každý den dává TEA.\p"
+    .string "Chodí si ho kupovat do CELADON\n"
+    .string "DEPT. STORE.$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::
     .string "CLEFAIRY: Pi pippippi!$"
@@ -33,5 +33,5 @@ CeladonCity_Condominiums_1F_Text_Nidoran::
 
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
     .string "CELADON MANSION\n"
-    .string "Manager's Suite$"
+    .string "Apartmá správce$"
 

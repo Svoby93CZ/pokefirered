@@ -23,6 +23,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     - [x] Route 7–11
   - [ ] 4c Rock Tunnel, Lavender, Celadon, Rocket Hideout, Pokémon Tower
     - [x] Rock Tunnel, Lavender Town
+    - [x] Celadon City (obchodní dům, Game Corner, stadion)
   - [ ] 4d Saffron, Silph Co., Fuchsia, Safari Zone, Cinnabar
   - [ ] 4e Victory Road, Indigo Plateau, zbylé cesty
   - [ ] 4f Sevii Islands
@@ -104,6 +105,9 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 | (ženská) LEADER | VŮDKYNĚ |
 | BERRIES (běžně v textu) | BOBULE; názvy předmětů (BERRY POWDER, ORAN BERRY…) zůstávají |
 | Champ in the making! | Ty budoucí hvězdo! |
+| BOSS (Rocketi o Giovannim) | ŠÉF |
+| DRUGSTORE | LÉKÁRNA; CELADON DEPT. STORE, GAME CORNER, PRIZE EXCHANGE zůstávají (názvy) |
+| COINS (Game Corner) | ŽETONY; COIN CASE zůstává |
 
 Oslovení: sestra v POKéMON CENTER a prodavači vykají, ostatní tykají.
 STARTÉRY a jiná jména pokémonů ve větách neskloňuj („Tvoje volba je SQUIRTLE“).

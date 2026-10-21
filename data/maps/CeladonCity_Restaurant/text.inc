@@ -1,37 +1,37 @@
 CeladonCity_Restaurant_Text_TakingBreakRightNow::
-    .string "Hi!\p"
-    .string "Sorry, but we're taking a break\n"
-    .string "right now.$"
+    .string "Dobrý den!\p"
+    .string "Promiňte, ale zrovna máme\n"
+    .string "přestávku.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-    .string "My POKéMON are weak, so I often\n"
-    .string "have to go to the DRUGSTORE.$"
+    .string "Moji POKéMONI jsou slabí, takže\n"
+    .string "často musím chodit do LÉKÁRNY.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
-    .string "Psst! There's a basement under the\n"
-    .string "GAME CORNER, I hear.$"
+    .string "Pst! Prý je pod GAME CORNER\n"
+    .string "sklep.$"
 
 CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
-    .string "Munch…\p"
-    .string "The man at that table lost it all\n"
-    .string "at the slots.$"
+    .string "Mlask…\p"
+    .string "Ten pán u toho stolu prohrál na\n"
+    .string "automatech všechno.$"
 
 CeladonCity_Restaurant_Text_TakeThisImBusted::
-    .string "Go ahead! Laugh!\n"
-    .string "I'm flat-out busted!\p"
-    .string "No more slots for me!\n"
-    .string "I'm going straight!\p"
-    .string "Here!\n"
-    .string "I won't be needing this anymore!$"
+    .string "No jen se směj!\n"
+    .string "Jsem úplně na dně!\p"
+    .string "Už žádné automaty!\n"
+    .string "Od teď žiju poctivě!\p"
+    .string "Tady!\n"
+    .string "Tohle už nebudu potřebovat!$"
 
 CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
-    .string "{PLAYER} received a COIN CASE\n"
-    .string "from the man.$"
+    .string "{PLAYER} dostává od pána\n"
+    .string "COIN CASE.$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::
-    .string "Make room for this!$"
+    .string "Udělej si na tohle místo!$"
 
 CeladonCity_Restaurant_Text_ThoughtIdWinItBack::
-    .string "I always thought I was going to\n"
-    .string "win it back…$"
+    .string "Vždycky jsem si myslel, že to\n"
+    .string "vyhraju zpátky…$"
 
