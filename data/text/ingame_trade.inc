@@ -55,7 +55,7 @@ Trade_Text_ThisIsNoMon::
 	.string "mnou.$"
 
 Trade_Text_ThanksYoureAPal::
-	.string "Díky, jsi kamarád!$"
+	.string "Díky, to je od tebe hezké!$"
 
 Trade_Text_HowIsMyOldMon::
 	.string "Jak se má můj starý {STR_VAR_2}?\n"

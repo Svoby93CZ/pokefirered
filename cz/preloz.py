@@ -12,7 +12,8 @@ Bez vstupu (python3 cz/preloz.py src/strings.c < /dev/null) jen nic nezmění.
 python3 cz/preloz.py SOUBOR.inc vypis = vypíše texty souboru ve tvaru pro vstup.
 Výpis: šířka nejdelšího řádku v px (normální font, s argumentem 'maly' malý) původní -> nová;
 argument 'boj' = texty soubojů (limit 216 px, jména s předponou „Soupeřův “);
-'!' = nový text je širší než původní, ověř okno; '!!' = širší než dialogové okno.
+'!' = nový text je širší než původní, ověř okno; '!!' = širší než dialogové okno;
+'R' = možná rodový tvar vůči hráči (jsi chytil, bys musel…), přeformuluj.
 """
 import re
 import sys
@@ -22,6 +23,9 @@ BOJ = "boj" in sys.argv[2:]  # texty soubojů: okno 224 px, nejširší anglick�
 DIALOG_PX = 216 if BOJ else 196  # nejširší anglický řádek v dialozích (okno 208 px, vpravo šipka)
 ZASTUPCI = {"PLAYER": 42, "RIVAL": 42}  # ostatní {STR_VAR_x} apod. počítá jako 60 px
 PREDPONA_PX = 53  # "Soupeřův " před jménem pokémona v boji
+# 2. osoba + příčestí na -l = rodový tvar vůči hráči („jsi chytil“, „bys musel“) -> varování R
+ROD = re.compile(r"\b(?:jsi|bys|abys|kdybys|sis|ses)\b[^.!?\\]{0,30}?\b\w{2,}l\b|\b\w{2,}l (?:jsi|bys|sis|ses)\b"
+                 r"|\b(?:jsi|nejsi|buď|budeš)\s+(?:\w+\s+){0,2}?\w*(?:ý|rád)\b", re.I)
 VAZBY = {"PROF.", "MT.", "S.S.", "Lv.", "LV.", "č.", "SEAGALLOP"}  # při zalamování drží s dalším slovem
 # části názvů bojových zástupců -> šířka; první shoda vyhrává
 BOJOVE = [("WITH_PREFIX", 60 + PREDPONA_PX), ("PREFIX", PREDPONA_PX), ("CLASS", 66),
@@ -159,7 +163,8 @@ def main():
                 nahrada = m.group(1) + '"' + novy + '"' + m.group(3)
         s, n = max(radky(stary)), max(radky(novy))
         znacka = "!!" if n > DIALOG_PX else "!" if n > s else ""
-        print(f"{znacka:2} {s:3} -> {n:3}  {nazev}: {novy}")
+        znacka = ("R" if ROD.search(novy) else "") + znacka
+        print(f"{znacka:3} {s:3} -> {n:3}  {nazev}: {novy}")
         zdroj = zdroj[:m.start()] + nahrada + zdroj[m.end():]
     soubor.write_text(zdroj, encoding="utf-8")
 

@@ -17,6 +17,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 - [ ] **4. Příběh**: `data/maps/*/text.inc`, po oblastech:
   - [x] 4a Pallet, Viridian (vč. stadionu), Pewter, Route 1–3, Route 22, Viridian Forest
   - [ ] 4b Mt. Moon, Cerulean, Vermilion, S.S. Anne, Route 4–11
+    - [x] Route 4, Mt. Moon, Cerulean City
   - [ ] 4c Rock Tunnel, Lavender, Celadon, Rocket Hideout, Pokémon Tower
   - [ ] 4d Saffron, Silph Co., Fuchsia, Safari Zone, Cinnabar
   - [ ] 4e Victory Road, Indigo Plateau, zbylé cesty
@@ -34,6 +35,8 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 - **Hráč** (`{PLAYER}`) může být kluk i holka, proto žádné minulé časy s rodem.
   Místo „{PLAYER} použil“ piš „{PLAYER} používá“ nebo „Použito: …“.
 - **Pokémon** jako podmět je v mužském rodě („{STR_VAR_1} se naučil…“).
+- Nástroj značí `R` možný rodový tvar vůči hráči (jsi chytil, bys musel, jsi dobrý…) — vždy přeformuluj,
+  pokud věta míří na hráče (u NPC k NPC je rod v pořádku).
 - Pozor na minulý čas ve 2. osobě („Všiml sis…“, „Už jsi chytil…“) — je rodový, přeformuluj („Vidíš…“, „Už máš…“).
 - NPC mluví v 1. osobě podle svého rodu (podle jména a třídy: „Nasbírala jsem…“); věty o hráči
   zůstávají bezrodé („Taky nos kraťasy!“ místo „Taky bys měl…“). Quest log vypráví v přítomném čase.
@@ -94,6 +97,8 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 | Gramps (rival o Oakovi) | dědo |
 | SIS | ségra |
 | GYM | STADION |
+| (ženská) LEADER | VŮDKYNĚ |
+| BERRIES (běžně v textu) | BOBULE; názvy předmětů (BERRY POWDER, ORAN BERRY…) zůstávají |
 | Champ in the making! | Ty budoucí hvězdo! |
 
 Oslovení: sestra v POKéMON CENTER a prodavači vykají, ostatní tykají.
