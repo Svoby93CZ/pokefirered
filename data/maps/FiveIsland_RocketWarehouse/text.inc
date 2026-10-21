@@ -1,137 +1,133 @@
 FiveIsland_RocketWarehouse_Text_ManyMonsLockedInPen::
-    .string "There are many POKéMON locked\n"
-    .string "away in the pen…$"
+    .string "V ohradě je zavřená spousta\n"
+    .string "POKéMONŮ…$"
 
 FiveIsland_RocketWarehouse_Text_PenUnlockedMonsFled::
-    .string "The pen door is unlocked.\n"
-    .string "The POKéMON appear to have fled.$"
+    .string "Dveře ohrady jsou odemčené.\n"
+    .string "POKéMONI zřejmě utekli.$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2Intro::
-    .string "Did you come here knowing it's\n"
-    .string "TEAM ROCKET's WAREHOUSE?$"
+    .string "Víš vůbec, že tohle je SKLAD\n"
+    .string "TEAM ROCKET?$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2Defeat::
-    .string "What do you think you're doing?!$"
+    .string "Co si myslíš, že děláš?!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2PostBattle::
-    .string "TEAM ROCKET broke up?\n"
-    .string "What planet are you from?$"
+    .string "TEAM ROCKET se rozpadl?\n"
+    .string "Z jaké jsi planety?$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1Intro::
-    .string "Oh, now your POKéMON look strong.\n"
-    .string "You're willing to sell them?\p"
-    .string "Oh?\n"
-    .string "You wanted to battle?$"
+    .string "Á, tvoji POKéMONI vypadají silně.\n"
+    .string "Prodáš je?\p"
+    .string "Á?\n"
+    .string "Ty chceš bojovat?$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1Defeat::
-    .string "Oh, but…\n"
-    .string "Too much!$"
+    .string "Ach, ale…\n"
+    .string "To je moc!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt1PostBattle::
-    .string "We can give you a great price.\n"
-    .string "Sell us your POKéMON!$"
+    .string "Dáme ti skvělou cenu.\n"
+    .string "Prodej nám své POKéMONY!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt3Intro::
-    .string "I got word about you from the\n"
-    .string "others.\p"
-    .string "But there's no way a kid like you'd\n"
-    .string "know our BOSS GIOVANNI!$"
+    .string "Ostatní mi o tobě dali vědět.\p"
+    .string "Ale děcko jako ty přece nemůže\n"
+    .string "znát našeho ŠÉFA GIOVANNIHO!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt3Defeat::
-    .string "Don't…you…dare…laugh…$"
+    .string "Opovaž…se…smát…$"
 
 FiveIsland_RocketWarehouse_Text_Grunt3PostBattle::
-    .string "Don't mess in the doings of adults,\n"
-    .string "you jumped-up pip-squeak!$"
+    .string "Neplet se do věcí dospělých, ty\n"
+    .string "nafoukaný prcku!$"
 
 FiveIsland_RocketWarehouse_Text_Admin1Intro::
-    .string "I don't know or care if what I'm\n"
-    .string "doing is right or wrong…\p"
-    .string "I just put my faith in GIOVANNI\n"
-    .string "and do as I am told.$"
+    .string "Nevím a je mi jedno, jestli to, co\n"
+    .string "dělám, je správné, nebo špatné…\p"
+    .string "Prostě věřím GIOVANNIMU a dělám,\n"
+    .string "co se mi řekne.$"
 
 FiveIsland_RocketWarehouse_Text_Admin1Defeat::
-    .string "I…\n"
-    .string "I'm shattered…$"
+    .string "Já…\n"
+    .string "Jsem zdrcená…$"
 
 FiveIsland_RocketWarehouse_Text_Admin1PostBattle::
-    .string "You're doing things according to\n"
-    .string "your beliefs and morals.\p"
-    .string "I understand now…$"
+    .string "Ty jednáš podle svého přesvědčení\n"
+    .string "a morálky.\p"
+    .string "Už to chápu…$"
 
 FiveIsland_RocketWarehouse_Text_MadeItSoYouCanComeBackThrough::
-    .string "I've made it so you can come back\n"
-    .string "in through there.\p"
-    .string "Why don't you go get rested and\n"
-    .string "refreshed for what lies ahead?\p"
-    .string "The ADMIN after me outranks me\n"
-    .string "thoroughly as a TRAINER.\p"
-    .string "You'd better steel yourself for one\n"
-    .string "harsh challenge.$"
+    .string "Cestu zpátky sem jsem ti otevřela.\p"
+    .string "Nechceš si odpočinout a nabrat\n"
+    .string "síly na to, co tě čeká?\p"
+    .string "ADMIN po mně je jako TRENÉR\n"
+    .string "o hodně lepší než já.\p"
+    .string "Připrav se na tvrdou zkoušku.$"
 
 FiveIsland_RocketWarehouse_Text_Admin2Intro::
-    .string "That's quite enough of you \n"
-    .string "playing the hero, kid.\p"
-    .string "Spreading lies about how TEAM\n"
-    .string "ROCKET has disbanded…\p"
-    .string "It's such an obvious attempt to\n"
-    .string "cause confusion in our ranks.\p"
-    .string "Fortunately, we're not so ignorant\n"
-    .string "to fall for the lies of a child!\p"
-    .string "And now, I'll show you how scary\n"
-    .string "an angry adult can be!$"
+    .string "Dost toho hraní na hrdinu, prcku.\p"
+    .string "Šíříš lži o tom, že se TEAM ROCKET\n"
+    .string "rozpadl…\p"
+    .string "Je to tak průhledný pokus vnést\n"
+    .string "zmatek do našich řad.\p"
+    .string "Naštěstí nejsme tak hloupí,\n"
+    .string "abychom naletěli lžím dítěte!\p"
+    .string "A teď ti ukážu, jak děsivý umí být\n"
+    .string "rozzlobený dospělý!$"
 
 FiveIsland_RocketWarehouse_Text_Admin2Defeat::
     .string "Urgh…\n"
-    .string "You were too strong…\p"
+    .string "Na tebe jsem neměl…\p"
     .string "…\n"
-    .string "Th-that's GIOVANNI's BADGE!\p"
-    .string "So it's true?\n"
-    .string "TEAM ROCKET really has disbanded?$"
+    .string "T-to je GIOVANNIHO ODZNAK!\p"
+    .string "Takže je to pravda?\n"
+    .string "TEAM ROCKET se opravdu rozpadl?$"
 
 FiveIsland_RocketWarehouse_Text_Admin2PostBattle::
-    .string "We will abandon this WAREHOUSE…\p"
-    .string "But don't think this is over.\n"
-    .string "I won't let this be the end.\p"
-    .string "I will find GIOVANNI.\n"
-    .string "And I will resurrect TEAM ROCKET!\l"
-    .string "I will…\p"
-    .string "Until then, farewell!$"
+    .string "Opustíme tenhle SKLAD…\p"
+    .string "Ale nemysli si, že je konec.\n"
+    .string "Takhle to neskončí.\p"
+    .string "Najdu GIOVANNIHO.\n"
+    .string "A obnovím TEAM ROCKET!\l"
+    .string "To udělám…\p"
+    .string "Do té doby sbohem!$"
 
 FiveIsland_RocketWarehouse_Text_ReportWithGraphsAndText::
-    .string "A report with graphs and text is on\n"
-    .string "the PC monitor.\p"
-    .string "“The Influence of Magnetic Waves\n"
-    .string "on POKéMON Evolution”…\p"
+    .string "Na monitoru PC je zpráva s grafy\n"
+    .string "a textem.\p"
+    .string "“Vliv magnetických vln na vývoj\n"
+    .string "POKéMONŮ”…\p"
     .string "… … … … … …\p"
-    .string "It's too difficult to understand…$"
+    .string "Je to moc složité na pochopení…$"
 
 FiveIsland_RocketWarehouse_Text_GideonIntro::
-    .string "I almost managed to sell the\n"
-    .string "SAPPHIRE for huge money…\p"
-    .string "Then, you just had to come along\n"
-    .string "and blow the whole deal apart!\p"
+    .string "Skoro se mi podařilo prodat\n"
+    .string "SAPPHIRE za obrovské peníze…\p"
+    .string "A pak se tu objevíš ty a celý\n"
+    .string "obchod zhatíš!\p"
     .string "Fufu… Fufufufu…\n"
-    .string "There's no forgiveness for you!$"
+    .string "To ti neodpustím!$"
 
 FiveIsland_RocketWarehouse_Text_GideonDefeat::
-    .string "Gah! Darn!\n"
-    .string "Darn! Darn!$"
+    .string "Gah! Sakra!\n"
+    .string "Sakra! Sakra!$"
 
 FiveIsland_RocketWarehouse_Text_GideonPostBattle::
-    .string "If I can't sell it, it's worthless!\n"
-    .string "Go ahead, take it!$"
+    .string "Když to nemůžu prodat, je to\n"
+    .string "k ničemu! Klidně si to vezmi!$"
 
 FiveIsland_RocketWarehouse_Text_GetLostLeaveMeBe::
-    .string "What do you want now?\n"
-    .string "Go on, get lost, leave me be.$"
+    .string "Co zase chceš?\n"
+    .string "Běž, zmiz, nech mě být.$"
 
 FiveIsland_RocketWarehouse_Text_GiovannisKidHasRedHair::
-    .string "What, you again?\p"
-    .string "You… You're not GIOVANNI's kid,\n"
-    .string "are you?\p"
-    .string "No, that can't be right!\n"
-    .string "GIOVANNI's kid has red hair.\p"
-    .string "You don't have any reasons for\n"
-    .string "bugging me. Leave me alone!$"
+    .string "Cože, zase ty?\p"
+    .string "Ty… Ty nejsi GIOVANNIHO dítě, že\n"
+    .string "ne?\p"
+    .string "Ne, to nemůže být!\n"
+    .string "GIOVANNIHO dítě má červené vlasy.\p"
+    .string "Nemáš důvod mě otravovat. Nech mě\n"
+    .string "být!$"
 

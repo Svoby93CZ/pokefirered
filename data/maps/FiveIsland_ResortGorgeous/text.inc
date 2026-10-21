@@ -1,93 +1,94 @@
 FiveIsland_ResortGorgeous_Text_DaisyIntro::
-    .string "With these hands, I will create\n"
-    .string "my victory!$"
+    .string "Těmito rukama si vytvořím\n"
+    .string "vítězství!$"
 
 FiveIsland_ResortGorgeous_Text_DaisyDefeat::
-    .string "The shame of this…\n"
-    .string "I'm red-faced…$"
+    .string "Ta hanba…\n"
+    .string "Jsem rudá až za ušima…$"
 
 FiveIsland_ResortGorgeous_Text_DaisyPostBattle::
-    .string "Uh-oh, my paint tubes have\n"
-    .string "scattered everywhere!$"
+    .string "Ajaj, tuby s barvami se mi\n"
+    .string "rozkutálely všude!$"
 
 FiveIsland_ResortGorgeous_Text_CelinaIntro::
-    .string "Excuse me!\n"
-    .string "I'm trying to paint.\l"
-    .string "Please keep out of my sight!$"
+    .string "Promiň!\n"
+    .string "Snažím se malovat.\l"
+    .string "Prosím, nelez mi do zorného pole!$"
 
 FiveIsland_ResortGorgeous_Text_CelinaDefeat::
-    .string "This loss…\n"
-    .string "I feel like I'm whiting out…$"
+    .string "Tahle prohra…\n"
+    .string "Jako bych celá zbělela…$"
 
 FiveIsland_ResortGorgeous_Text_CelinaPostBattle::
     .string "GILLIAN?\n"
-    .string "Please tilt your head slightly…\l"
-    .string "There! That's the look I want!$"
+    .string "Nakloň prosím trochu hlavu…\l"
+    .string "Tak! Přesně tenhle výraz chci!$"
 
 FiveIsland_ResortGorgeous_Text_RaynaIntro::
     .string "Hmm…\n"
-    .string "The angle, it is not quite there…$"
+    .string "Ten úhel, ten není úplně ono…$"
 
 FiveIsland_ResortGorgeous_Text_RaynaDefeat::
-    .string "Oh…\n"
-    .string "My feelings, they are blue…$"
+    .string "Ach…\n"
+    .string "Mám v duši samou modř…$"
 
 FiveIsland_ResortGorgeous_Text_RaynaPostBattle::
-    .string "The sky and the sea…\n"
-    .string "They are so fickle.\p"
-    .string "Their changing expressions make\n"
-    .string "them difficult to capture.$"
+    .string "Nebe a moře…\n"
+    .string "Jsou tak vrtkavé.\p"
+    .string "Jejich měnící se výrazy se těžko\n"
+    .string "zachycují.$"
 
 FiveIsland_ResortGorgeous_Text_JackiIntro::
-    .string "I am visiting my friend's retreat,\n"
-    .string "if you must know.$"
+    .string "Navštěvuji sídlo své přítelkyně,\n"
+    .string "když to musíš vědět.$"
 
 FiveIsland_ResortGorgeous_Text_JackiDefeat::
-    .string "Oh, my, so strong.$"
+    .string "Páni, taková síla.$"
 
 FiveIsland_ResortGorgeous_Text_JackiPostBattle::
-    .string "I find it pleasurable to leisurely\n"
-    .string "battle in the gentle sea breeze.$"
+    .string "Pokládám za příjemné nenuceně\n"
+    .string "bojovat v jemném mořském vánku.$"
 
 FiveIsland_ResortGorgeous_Text_GillianIntro::
-    .string "I'm thinking of having a pool\n"
-    .string "made specially for POKéMON.$"
+    .string "Uvažuji, že si nechám postavit\n"
+    .string "bazén speciálně pro POKéMONY.$"
 
 FiveIsland_ResortGorgeous_Text_GillianDefeat::
-    .string "Oh, my goodness gracious!$"
+    .string "Ach, proboha!$"
 
 FiveIsland_ResortGorgeous_Text_GillianPostBattle::
-    .string "A pool would be nice, but I must\n"
-    .string "say, a sun-room may be sublime.$"
+    .string "Bazén by byl pěkný, ale musím\n"
+    .string "říct, že zimní zahrada by mohla\l"
+    .string "být nádherná.$"
 
 FiveIsland_ResortGorgeous_Text_DestinIntro::
-    .string "I'm a good runner.\n"
-    .string "I'm really fast!$"
+    .string "Umím dobře běhat.\n"
+    .string "Jsem fakt rychlý!$"
 
 FiveIsland_ResortGorgeous_Text_DestinDefeat::
-    .string "Oops!\n"
-    .string "I rushed things!$"
+    .string "Jejda!\n"
+    .string "Uspěchal jsem to!$"
 
 FiveIsland_ResortGorgeous_Text_DestinPostBattle::
-    .string "When I run with the wind, it feels\n"
-    .string "like I could fly!$"
+    .string "Když běžím s větrem, mám pocit, že\n"
+    .string "bych mohl letět!$"
 
 FiveIsland_ResortGorgeous_Text_TobyIntro::
-    .string "I say, this marine life here at\n"
-    .string "this resort agrees with me.$"
+    .string "Řeknu ti, zdejší mořský život\n"
+    .string "v tomhle letovisku mi svědčí.$"
 
 FiveIsland_ResortGorgeous_Text_TobyDefeat::
-    .string "That's a shocker!\n"
-    .string "You must be joking.$"
+    .string "To je šok!\n"
+    .string "To si děláš legraci.$"
 
 FiveIsland_ResortGorgeous_Text_TobyPostBattle::
-    .string "Getting so serious over this…\n"
-    .string "How nonsensical.$"
+    .string "Brát to takhle vážně…\n"
+    .string "Jak nesmyslné.$"
 
 FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow::
-    .string "SELPHY: Thank you.\p"
-    .string "You may go now.$"
+    .string "SELPHY: Děkuji.\p"
+    .string "Teď můžeš jít.$"
 
 FiveIsland_ResortGorgeous_Text_SelphysHouse::
-    .string "SELPHY'S HOUSE$"
+    .string "DŮM SELPHY$"
 

@@ -1,29 +1,27 @@
 FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
-    .string "LORELEI: There's something weighing\n"
-    .string "heavily on my mind.\p"
-    .string "If anything were to happen on\n"
-    .string "the island where I was born…\p"
-    .string "I wouldn't know about it if I were\n"
-    .string "in the POKéMON LEAGUE.\p"
-    .string "I wonder if that would make me\n"
-    .string "irresponsible to my home…$"
+    .string "LORELEI: Něco mě tíží.\p"
+    .string "Kdyby se na ostrově, kde jsem se\n"
+    .string "narodila, něco stalo…\p"
+    .string "V POKéMON LEAGUE bych se o tom\n"
+    .string "nedozvěděla.\p"
+    .string "Nebylo by to vůči mému domovu\n"
+    .string "nezodpovědné…$"
 
 FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
-    .string "LORELEI: So, you managed to solve\n"
-    .string "all the problems here?\p"
-    .string "That's wonderful.\p"
-    .string "That means there isn't any reason\n"
-    .string "for me to be here all the time.\p"
-    .string "Thank you…\p"
-    .string "I'll return to the POKéMON LEAGUE\n"
-    .string "in a short while.$"
+    .string "LORELEI: Takže se ti podařilo\n"
+    .string "vyřešit všechny zdejší problémy?\p"
+    .string "To je skvělé.\p"
+    .string "To znamená, že tu nemusím být\n"
+    .string "pořád.\p"
+    .string "Děkuju…\p"
+    .string "Za chvíli se vrátím do POKéMON\n"
+    .string "LEAGUE.$"
 
 FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
-    .string "I don't know what will happen in\n"
-    .string "the future, but…\p"
-    .string "I will do what I can here and now.\n"
-    .string "That's all I can do.$"
+    .string "Nevím, co přinese budoucnost, ale…\p"
+    .string "Udělám, co můžu, tady a teď.\n"
+    .string "Víc udělat nemůžu.$"
 
 FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
-    .string "Stuffed POKéMON dolls galore!$"
+    .string "Spousta plyšových POKéMONŮ!$"
 
