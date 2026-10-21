@@ -36,6 +36,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     - [x] Route 23, Victory Road, Indigo Plateau, ELITE FOUR a šampion
   - [ ] 4f Sevii Islands
     - [x] One Island, Kindle Road, Mt. Ember
+    - [x] Two Island, Three Island (LOSTELLE, motorkáři, Berry Forest)
 - [ ] **5. Popisy**: útoky, předměty, Pokédex, bobule.
 - [ ] **6. Nápověda a Fame Checker**: `help_system.inc`, `fame_checker.inc`, `gFameCheckerText_*` v `strings.c`.
 - [ ] **7. Ostatní**: klávesnice pro jména s češtinou (`naming_screen.c`; tlačítka lower/BACK/OK/START/SELECT

@@ -1,9 +1,10 @@
 ThreeIsland_House1_Text_YoureAlwaysSoCool::
-    .string "LOSTELLE: Hi, {PLAYER}!\n"
-    .string "You're always so cool!\p"
-    .string "I'll make lunch for you, too, one\n"
-    .string "day, {PLAYER}.$"
+    .string "LOSTELLE: Ahoj, {PLAYER}!\n"
+    .string "Jsi prostě super!\p"
+    .string "Jednou ti taky udělám oběd,\n"
+    .string "{PLAYER}.$"
 
 ThreeIsland_House1_Text_RareRocksGemsDisplayed::
-    .string "Rare rocks and gems are displayed.$"
+    .string "Jsou tu vystavené vzácné kameny\n"
+    .string "a drahokamy.$"
 

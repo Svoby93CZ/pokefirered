@@ -1,26 +1,26 @@
 ThreeIsland_Port_Text_WereKantoRiderFederation::
-    .string "We're the KANTO RIDER FEDERATION!\n"
-    .string "Vroom! Vavavavooom! Vroom!\p"
-    .string "My bike's wimpy, so I have to\n"
-    .string "make exhaust noises myself!$"
+    .string "Jsme FEDERACE JEZDCŮ Z KANTA!\n"
+    .string "Vrrm! Vavavavrrm! Vrrm!\p"
+    .string "Moje motorka je slabá, tak musím\n"
+    .string "zvuky výfuku dělat sám!$"
 
 ThreeIsland_Port_Text_ForkOverMoney::
-    .string "Hey, hey, lady!\n"
-    .string "Fork over some spending money!$"
+    .string "Hej, hej, paninko!\n"
+    .string "Vysypej nějaké drobné!$"
 
 ThreeIsland_Port_Text_IllCallThePolice::
-    .string "Aiyeeh!\p"
-    .string "Wh-who are you?!\n"
-    .string "I… I'll call the police!$"
+    .string "Ajééé!\p"
+    .string "K-kdo jste?!\n"
+    .string "J… Já zavolám policii!$"
 
 ThreeIsland_Port_Text_ThankGoodnessBikersGone::
-    .string "Those BIKERS…\n"
-    .string "Are they gone?\p"
-    .string "Oh, thank goodness!\n"
-    .string "They certainly had me terrified!$"
+    .string "Ti MOTORKÁŘI…\n"
+    .string "Jsou pryč?\p"
+    .string "Á, zaplaťpánbůh!\n"
+    .string "Ti mi ale nahnali strach!$"
 
 ThreeIsland_Port_Text_EverythingTurnedOutForBest::
-    .string "Those BIKERS ran off, and\n"
-    .string "LOSTELLE was found safe.\p"
-    .string "Everything turned out for the best!$"
+    .string "MOTORKÁŘI utekli a LOSTELLE se\n"
+    .string "našla v pořádku.\p"
+    .string "Všechno dobře dopadlo!$"
 
