@@ -1,82 +1,83 @@
 Route10_Text_MarkIntro::
-    .string "Wow, you came all the way here?\n"
-    .string "Maybe you're a POKéMANIAC, too?\l"
-    .string "Want to see my collection?$"
+    .string "Páni, takovou dálku až sem? Nejsi\n"
+    .string "taky POKéMANIAK?\p"
+    .string "Chceš vidět mou sbírku?$"
 
 Route10_Text_MarkDefeat::
-    .string "Humph.\n"
-    .string "I'm not angry!$"
+    .string "Hmpf.\n"
+    .string "Vůbec se nezlobím!$"
 
 Route10_Text_MarkPostBattle::
-    .string "I have more rare POKéMON at home!$"
+    .string "Doma mám další vzácné POKéMONY!$"
 
 Route10_Text_ClarkIntro::
-    .string "Ha-hahah-ah-ha!$"
+    .string "Cha-chachach-ach-cha!$"
 
 Route10_Text_ClarkDefeat::
-    .string "Ha-haha!\n"
-    .string "Not laughing!\l"
-    .string "Ha-hay fever! Haha-ha-choo!$"
+    .string "Cha-chacha!\n"
+    .string "Já se nesměju!\l"
+    .string "Sen-senná rýma! Cha-cha-hepčí!$"
 
 Route10_Text_ClarkPostBattle::
-    .string "Haha-ha-choo!\n"
-    .string "Ha-choo!\l"
-    .string "Snort! Snivel!$"
+    .string "Cha-cha-hepčí!\n"
+    .string "Hepčí!\l"
+    .string "Frk! Smrk!$"
 
 Route10_Text_HermanIntro::
-    .string "Hi, kid!\n"
-    .string "Want to see my POKéMON?$"
+    .string "Ahoj, prcku!\n"
+    .string "Chceš vidět moje POKéMONY?$"
 
 Route10_Text_HermanDefeat::
-    .string "Oh, no!\n"
-    .string "My POKéMON!$"
+    .string "Ale ne!\n"
+    .string "Moji POKéMONI!$"
 
 Route10_Text_HermanPostBattle::
-    .string "I don't like you.\n"
-    .string "I don't like anyone better than me!$"
+    .string "Nemám tě rád. Nemám rád nikoho,\n"
+    .string "kdo je lepší než já!$"
 
 Route10_Text_HeidiIntro::
-    .string "I've been out at a POKéMON GYM\n"
-    .string "a few times.\p"
-    .string "…But I always lose.$"
+    .string "Párkrát jsem zkoušela POKéMON\n"
+    .string "STADION.\p"
+    .string "…Ale vždycky prohraju.$"
 
 Route10_Text_HeidiDefeat::
-    .string "Ohh!\n"
-    .string "After all my training!$"
+    .string "Ach!\n"
+    .string "Po všem tom tréninku!$"
 
 Route10_Text_HeidiPostBattle::
-    .string "I noticed some POKéMANIACS\n"
-    .string "prowling around.\p"
-    .string "Can you imagine? Them?\n"
-    .string "Up here in the mountains?$"
+    .string "Všimla jsem si, že se tu potulují\n"
+    .string "nějací POKéMANIACI.\p"
+    .string "Dovedeš si to představit? Oni? Tady\n"
+    .string "nahoře v horách?$"
 
 Route10_Text_TrentIntro::
-    .string "Ah!\n"
-    .string "This mountain air is delicious!$"
+    .string "Á!\n"
+    .string "Ten horský vzduch je lahodný!$"
 
 Route10_Text_TrentDefeat::
-    .string "That cleared my head!$"
+    .string "To mi pročistilo hlavu!$"
 
 Route10_Text_TrentPostBattle::
-    .string "I feel bloated on mountain air!$"
+    .string "Z toho horského vzduchu jsem celý\n"
+    .string "nafouklý!$"
 
 Route10_Text_CarolIntro::
-    .string "I'm feeling a bit faint.\n"
-    .string "I haven't hiked in some time.$"
+    .string "Je mi trochu slabo.\n"
+    .string "Dlouho jsem nebyla na túře.$"
 
 Route10_Text_CarolDefeat::
-    .string "I'm too tired.\n"
-    .string "I wasn't up for it.$"
+    .string "Jsem moc unavená.\n"
+    .string "Na tohle jsem neměla.$"
 
 Route10_Text_CarolPostBattle::
-    .string "The POKéMON here in the mountains\n"
-    .string "are so chunky…\p"
-    .string "I wish there were pink POKéMON\n"
-    .string "with a floral pattern!$"
+    .string "POKéMONI tady v horách jsou tak\n"
+    .string "zavalití…\p"
+    .string "Kéž by tu byli růžoví POKéMONI\n"
+    .string "s květinovým vzorem!$"
 
 Route10_Text_RockTunnelDetourToLavender::
     .string "ROCK TUNNEL\n"
-    .string "Detour to LAVENDER TOWN$"
+    .string "Objížďka do LAVENDER TOWN$"
 
 Route10_Text_RockTunnel::
     .string "ROCK TUNNEL$"
