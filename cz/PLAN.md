@@ -25,10 +25,11 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     - [x] Rock Tunnel, Lavender Town
     - [x] Celadon City (obchodní dům, Game Corner, stadion)
     - [x] Rocket Hideout, Pokémon Tower
-  - [ ] 4d Saffron, Silph Co., Fuchsia, Safari Zone, Cinnabar
+  - [x] 4d Saffron, Silph Co., Fuchsia, Safari Zone, Cinnabar
     - [x] Saffron City (dojo, stadion, fan club, Copycat)
     - [x] Silph Co.
     - [x] Fuchsia City, Safari Zone
+    - [x] Cinnabar Island, Pokémon Mansion
   - [ ] 4e Victory Road, Indigo Plateau, zbylé cesty
   - [ ] 4f Sevii Islands
 - [ ] **5. Popisy**: útoky, předměty, Pokédex, bobule.
