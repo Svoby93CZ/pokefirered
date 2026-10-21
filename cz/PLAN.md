@@ -16,6 +16,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
   - [x] 3b `data/text/trainers.inc` (VS Seeker + odvety trenérů), `src/data/text/quest_log.h`, `teachy_tv.h`
 - [ ] **4. Příběh**: `data/maps/*/text.inc`, po oblastech:
   - [ ] 4a Pallet, Viridian, Pewter, Route 1–3, Viridian Forest
+    - [x] Pallet Town (domy, Oakova laboratoř)
   - [ ] 4b Mt. Moon, Cerulean, Vermilion, S.S. Anne, Route 4–11
   - [ ] 4c Rock Tunnel, Lavender, Celadon, Rocket Hideout, Pokémon Tower
   - [ ] 4d Saffron, Silph Co., Fuchsia, Safari Zone, Cinnabar
@@ -82,8 +83,6 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 | MOM / PA (hlasatel) | MÁMA / HLASATEL |
 | STICKER | SAMOLEPKA |
 | AIDE | ASISTENT |
-
-Oslovení: sestra v POKéMON CENTER a prodavači vykají, ostatní tykají.
 | item | předmět |
 | move | útok |
 | HP, PP, Lv. | HP, PP, Lv. |
@@ -92,6 +91,11 @@ Oslovení: sestra v POKéMON CENTER a prodavači vykají, ostatní tykají.
 | YES / NO | ANO / NE |
 | CANCEL | ZPĚT |
 | EXIT / QUIT | KONEC |
+| Gramps (rival o Oakovi) | dědo |
+| SIS | ségra |
+
+Oslovení: sestra v POKéMON CENTER a prodavači vykají, ostatní tykají.
+STARTÉRY a jiná jména pokémonů ve větách neskloňuj („Tvoje volba je SQUIRTLE“).
 
 ## Jak pokračovat (pro další sezení)
 
