@@ -1,74 +1,73 @@
 SilphCo_2F_Text_ConnorIntro::
-    .string "Help!\n"
-    .string "I'm a SILPH employee.$"
+    .string "Pomoc!\n"
+    .string "Jsem zaměstnanec SILPH.$"
 
 SilphCo_2F_Text_ConnorDefeat::
-    .string "How did you know\n"
-    .string "I was a ROCKET?$"
+    .string "Jak to, že víš, že jsem ROCKET?$"
 
 SilphCo_2F_Text_ConnorPostBattle::
-    .string "I work for both SILPH and TEAM\n"
+    .string "Pracuju pro SILPH i pro TEAM\n"
     .string "ROCKET.$"
 
 SilphCo_2F_Text_JerryIntro::
-    .string "It's off-limits here!\n"
-    .string "Go home!$"
+    .string "Sem je vstup zakázán!\n"
+    .string "Běž domů!$"
 
 SilphCo_2F_Text_JerryDefeat::
-    .string "You're good.$"
+    .string "Jde ti to.$"
 
 SilphCo_2F_Text_JerryPostBattle::
-    .string "Can you solve the maze in here?\n"
-    .string "It's not easy, I tell you!$"
+    .string "Vyřešíš zdejší bludiště?\n"
+    .string "Říkám ti, není to snadné!$"
 
 SilphCo_2F_Text_Grunt1Intro::
-    .string "No kids are allowed in here!$"
+    .string "Děti sem nesmějí!$"
 
 SilphCo_2F_Text_Grunt1Defeat::
-    .string "Tough!$"
+    .string "Drsné!$"
 
 SilphCo_2F_Text_Grunt1PostBattle::
-    .string "Diamond-shaped tiles are teleport\n"
-    .string "blocks.\p"
-    .string "They're transporters for this\n"
-    .string "high-tech building.$"
+    .string "Dlaždice ve tvaru kosočtverce jsou\n"
+    .string "teleportační bloky.\p"
+    .string "V téhle moderní budově slouží\n"
+    .string "k přesunům.$"
 
 SilphCo_2F_Text_Grunt2Intro::
-    .string "Hey, kid!\n"
-    .string "What are you wandering here for?$"
+    .string "Hej, prcku!\n"
+    .string "Co tu bloumáš?$"
 
 SilphCo_2F_Text_Grunt2Defeat::
-    .string "I goofed!$"
+    .string "Pokazil jsem to!$"
 
 SilphCo_2F_Text_Grunt2PostBattle::
-    .string "SILPH CO. will be associated with\n"
-    .string "TEAM ROCKET!$"
+    .string "SILPH CO. bude spojena s TEAM\n"
+    .string "ROCKET!$"
 
 Text_ThunderWaveTeach::
-    .string "Eeek!\n"
-    .string "No! Stop! Help!\p"
-    .string "Oh, you're not with TEAM ROCKET.\n"
-    .string "I'm sorry, I thought…\p"
-    .string "Will you forgive me if I teach\n"
-    .string "you the THUNDER WAVE technique?$"
+    .string "Ííík!\n"
+    .string "Ne! Přestaň! Pomoc!\p"
+    .string "Á, ty nejsi od TEAM ROCKET.\n"
+    .string "Promiň, myslela jsem…\p"
+    .string "Odpustíš mi, když tvého POKéMONA\n"
+    .string "naučím techniku THUNDER WAVE?$"
 
 Text_ThunderWaveDeclined::
-    .string "Oh…\n"
-    .string "But THUNDER WAVE is convenient…$"
+    .string "Ach…\n"
+    .string "Ale THUNDER WAVE je tak praktický…$"
 
 Text_ThunderWaveWhichMon::
-    .string "Which POKéMON should I teach\n"
+    .string "Kterého POKéMONA mám naučit\n"
     .string "THUNDER WAVE?$"
 
 Text_ThunderWaveTaught::
-    .string "THUNDER WAVE causes paralysis in\n"
-    .string "the target POKéMON.\p"
-    .string "A paralyzed POKéMON may be unable\n"
-    .string "to move in battle.\p"
-    .string "It's an ELECTRIC-type move, so it\n"
-    .string "won't work on some POKéMON.$"
+    .string "THUNDER WAVE paralyzuje cílového\n"
+    .string "POKéMONA.\p"
+    .string "Paralyzovaný POKéMON se v souboji\n"
+    .string "někdy nemůže pohnout.\p"
+    .string "Je to útok typu ELECTRIC, takže na\n"
+    .string "některé POKéMONY nepůsobí.$"
 
 SilphCo_2F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
+    .string "ÚSTŘEDÍ SILPH CO.\n"
     .string "2F$"
 

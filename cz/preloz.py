@@ -26,7 +26,7 @@ PREDPONA_PX = 53  # "Soupeřův " před jménem pokémona v boji
 # 2. osoba + příčestí na -l = rodový tvar vůči hráči („jsi chytil“, „bys musel“) -> varování R
 ROD = re.compile(r"\b(?:jsi|bys|abys|kdybys|sis|ses)\b[^.!?\\]{0,30}?\b\w{2,}l\b|\b\w{2,}l (?:jsi|bys|sis|ses)\b"
                  r"|\b(?:jsi|nejsi|buď|budeš)\s+(?:\w+\s+){0,2}?\w*(?:ý|rád)\b", re.I)
-VAZBY = {"PROF.", "LT.", "MT.", "MR.", "DEPT.", "S.S.", "Lv.", "LV.", "č.", "SEAGALLOP"}  # při zalamování drží s dalším slovem
+VAZBY = {"PROF.", "LT.", "MT.", "MR.", "DEPT.", "TEAM", "S.S.", "Lv.", "LV.", "č.", "SEAGALLOP"}  # při zalamování drží s dalším slovem
 # části názvů bojových zástupců -> šířka; první shoda vyhrává
 BOJOVE = [("WITH_PREFIX", 60 + PREDPONA_PX), ("PREFIX", PREDPONA_PX), ("CLASS", 66),
           ("MOVE", 72), ("ABILITY", 72), ("ITEM", 72), ("PLAYER_NAME", 42), ("TRAINER", 42)]

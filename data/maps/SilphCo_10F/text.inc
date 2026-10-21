@@ -1,33 +1,33 @@
 SilphCo_10F_Text_GruntIntro::
-    .string "Welcome to 10F!\n"
-    .string "So good of you to join me!$"
+    .string "Vítej v 10F!\n"
+    .string "Jak milé, že se ke mně přidáváš!$"
 
 SilphCo_10F_Text_GruntDefeat::
-    .string "I'm stunned!$"
+    .string "Jsem v šoku!$"
 
 SilphCo_10F_Text_GruntPostBattle::
-    .string "Nice try, but the boardroom is up\n"
-    .string "one more floor.$"
+    .string "Pěkný pokus, ale zasedačka je\n"
+    .string "o patro výš.$"
 
 SilphCo_10F_Text_TravisIntro::
-    .string "Enough of your silly games!$"
+    .string "Dost těch tvých hloupých her!$"
 
 SilphCo_10F_Text_TravisDefeat::
-    .string "No continues left!$"
+    .string "Už nemám žádné další životy!$"
 
 SilphCo_10F_Text_TravisPostBattle::
-    .string "Are you satisfied with beating me?\n"
-    .string "Then go on home!$"
+    .string "Stačí ti moje porážka?\n"
+    .string "Tak běž domů!$"
 
 SilphCo_10F_Text_WaaaImScared::
-    .string "Waaaaa!\n"
-    .string "I'm scared!$"
+    .string "Uááá!\n"
+    .string "Bojím se!$"
 
 SilphCo_10F_Text_KeepMeCryingASecret::
-    .string "About me crying…\n"
-    .string "Please keep it a secret.$"
+    .string "To, že jsem brečela…\n"
+    .string "Prosím, nech si to pro sebe.$"
 
 SilphCo_10F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
+    .string "ÚSTŘEDÍ SILPH CO.\n"
     .string "10F$"
 
