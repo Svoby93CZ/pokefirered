@@ -2,29 +2,29 @@
 
 PalletTown_Text_HmmIsThatRight::
 	.string "Hmm…\n"
-	.string "Is that right…$"
+	.string "Opravdu…$"
 
 PalletTown_Text_OhLookLook::
-	.string "Oh!\n"
-	.string "Look, look!$"
+	.string "Ó!\n"
+	.string "Koukej, koukej!$"
 
 PalletTown_Text_ReadItReadIt::
-	.string "Read it, read it!$"
+	.string "Přečti si to, přečti!$"
 
 @ Used by sign
 PalletTown_Text_PressStartToOpenMenu::
-	.string "TRAINER TIPS\p"
-	.string "Press START to open the MENU!$"
+	.string "RADY PRO TRENÉRY\p"
+	.string "Stiskni START a otevře se MENU!$"
 
 PalletTown_Text_SignsAreUsefulArentThey::
-	.string "Signs are useful, aren't they?$"
+	.string "Cedule jsou užitečné, že?$"
 
 PalletTown_Text_LookCopiedTrainerTipsSign::
-	.string "Look, look!\p"
-	.string "I copied what it said on one of\n"
-	.string "those TRAINER TIPS signs!$"
+	.string "Koukej, koukej!\p"
+	.string "Opsala jsem, co stálo na jedné\n"
+	.string "z cedulí RADY PRO TRENÉRY!$"
 
 @ Used by NPC
 PalletTown_Text_PressStartToOpenMenuCopy::
-	.string "TRAINER TIPS!\p"
-	.string "Press START to open the MENU!$"
+	.string "RADY PRO TRENÉRY!\p"
+	.string "Stiskni START a otevře se MENU!$"

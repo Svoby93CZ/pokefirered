@@ -1,71 +1,72 @@
 Route6_Text_RickyIntro::
-    .string "Who's there?\n"
-    .string "Quit listening in on us!$"
+    .string "Kdo je tam?\n"
+    .string "Přestaň nás poslouchat!$"
 
 Route6_Text_RickyDefeat::
-    .string "I just can't win!$"
+    .string "Já prostě nemůžu vyhrát!$"
 
 Route6_Text_RickyPostBattle::
-    .string "Whisper…\n"
-    .string "Whisper…$"
+    .string "Šušu…\n"
+    .string "Šušu…$"
 
 Route6_Text_NancyIntro::
-    .string "Excuse me!\n"
-    .string "This is a private conversation!$"
+    .string "Promiň!\n"
+    .string "Tohle je soukromý rozhovor!$"
 
 Route6_Text_NancyDefeat::
-    .string "Ugh!\n"
-    .string "I hate losing.$"
+    .string "Fuj!\n"
+    .string "Nesnáším prohry.$"
 
 Route6_Text_NancyPostBattle::
-    .string "Whisper…\n"
-    .string "Whisper…$"
+    .string "Šušu…\n"
+    .string "Šušu…$"
 
 Route6_Text_KeigoIntro::
-    .string "There aren't many bugs out here.$"
+    .string "Tady venku moc brouků není.$"
 
 Route6_Text_KeigoDefeat::
-    .string "No!\n"
-    .string "You're kidding!$"
+    .string "Ne!\n"
+    .string "To snad ne!$"
 
 Route6_Text_KeigoPostBattle::
-    .string "I like bugs, so I'm going back to\n"
+    .string "Mám rád brouky, tak se vracím do\n"
     .string "VIRIDIAN FOREST.$"
 
 Route6_Text_JeffIntro::
-    .string "Huh?\n"
-    .string "You want to talk to me?$"
+    .string "Cože?\n"
+    .string "Chceš se mnou mluvit?$"
 
 Route6_Text_JeffDefeat::
-    .string "This stinks…\n"
-    .string "I couldn't beat your challenge…$"
+    .string "To je na nic…\n"
+    .string "Na tebe jsem nestačil…$"
 
 Route6_Text_JeffPostBattle::
-    .string "I should bring more POKéMON with\n"
-    .string "me. I'll feel safer that way.$"
+    .string "Měl bych s sebou nosit víc\n"
+    .string "POKéMONŮ. Budu se cítit\l"
+    .string "bezpečněji.$"
 
 Route6_Text_IsabelleIntro::
-    .string "Me?\n"
-    .string "Well, okay. I'll play!$"
+    .string "Já?\n"
+    .string "No dobře. Zahraju si!$"
 
 Route6_Text_IsabelleDefeat::
-    .string "Things just didn't work…$"
+    .string "Prostě to nevyšlo…$"
 
 Route6_Text_IsabellePostBattle::
-    .string "I want to get stronger.\n"
-    .string "What's your secret?$"
+    .string "Chci zesílit.\n"
+    .string "Jaké je tvoje tajemství?$"
 
 Route6_Text_ElijahIntro::
-    .string "I've never seen you around.\n"
-    .string "Are you good?$"
+    .string "Tebe jsem tu ještě neviděl.\n"
+    .string "Umíš to?$"
 
 Route6_Text_ElijahDefeat::
-    .string "You're too good!$"
+    .string "To je na mě moc!$"
 
 Route6_Text_ElijahPostBattle::
-    .string "Are my POKéMON weak?\n"
-    .string "Or, am I just bad?\l"
-    .string "Which do you think?$"
+    .string "Jsou moji POKéMONI slabí?\n"
+    .string "Nebo jsem jen špatný já?\l"
+    .string "Co myslíš?$"
 
 Route6_Text_UndergroundPathSign::
     .string "UNDERGROUND PATH\n"

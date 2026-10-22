@@ -1,29 +1,29 @@
 Text_MayIHelpYou::
-	.string "Hi, there!\n"
-	.string "May I help you?$"
+	.string "Dobrý den!\n"
+	.string "Čím vám mohu posloužit?$"
 
 Text_FillOutQuestionnaire::
-	.string "There is a questionnaire.\n"
-	.string "Would you like to fill it out?$"
+	.string "Je tu dotazník.\n"
+	.string "Chceš ho vyplnit?$"
 
 Text_QuestionnaireThankYou::
-	.string "Thank you for taking the time to\n"
-	.string "fill out our questionnaire.\p"
-	.string "Your feedback will be used for\n"
-	.string "future reference.$"
+	.string "Děkujeme za vyplnění\n"
+	.string "našeho dotazníku.\p"
+	.string "Tvoje odpovědi využijeme\n"
+	.string "v budoucnu.$"
 
 Text_YouKnowThoseWords::
-	.string "Oh, hello!\n"
-	.string "You know those words?\p"
-	.string "That means you must know about\n"
-	.string "the MYSTERY GIFT.\p"
-	.string "From now on, you should be\n"
-	.string "receiving MYSTERY GIFTS!$"
+	.string "Ale, dobrý den!\n"
+	.string "Vy znáte ta slova?\p"
+	.string "To znamená, že musíte vědět\n"
+	.string "o TAJNÉM DÁRKU.\p"
+	.string "Od teď vám budou chodit\n"
+	.string "TAJNÉ DÁRKY!$"
 
 Text_YouCanAccessMysteryGift::
-	.string "Once you save your game, you can\n"
-	.string "access the MYSTERY GIFT.$"
+	.string "Jakmile uložíte hru, můžete\n"
+	.string "využít TAJNÝ DÁREK.$"
 
 Text_ThankYouForAccessingMysteryGift::
-	.string "Thank you for accessing the\n"
-	.string "MYSTERY GIFT System.$"
+	.string "Děkujeme, že využíváte\n"
+	.string "systém TAJNÝ DÁREK.$"

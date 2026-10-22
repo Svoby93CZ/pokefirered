@@ -1,25 +1,21 @@
 Route22_Text_EarlyRivalIntro::
-	.string "{RIVAL}: Hey! {PLAYER}!\p"
-	.string "You're off to the POKéMON LEAGUE?\n"
-	.string "Forget about it!\p"
-	.string "You probably don't have any\n"
-	.string "BADGES, do you?\p"
-	.string "The guard won't let you through\n"
-	.string "without them.\p"
-	.string "By the way, did your POKéMON get\n"
-	.string "any stronger?$"
+	.string "{RIVAL}: Hej! {PLAYER}!\p"
+	.string "Ty jdeš do POKéMON LEAGUE? Na to\n"
+	.string "zapomeň!\p"
+	.string "Nejspíš nemáš žádné ODZNAKY, co?\p"
+	.string "Strážný tě bez nich nepustí.\p"
+	.string "Mimochodem, zesílili tvoji\n"
+	.string "POKéMONI?$"
 
 Route22_Text_EarlyRivalDefeat::
-	.string "Awww!\n"
-	.string "You just lucked out!$"
+	.string "Ááách!\n"
+	.string "To byla jen klika!$"
 
 Route22_Text_EarlyRivalPostBattle::
-	.string "I heard the POKéMON LEAGUE is\n"
-	.string "crawling with tough TRAINERS.\p"
-	.string "I have to figure out how to get\n"
-	.string "past them.\p"
-	.string "You should quit dawdling and get a\n"
-	.string "move on!$"
+	.string "Slyšel jsem, že POKéMON LEAGUE se\n"
+	.string "jen hemží drsnými TRENÉRY.\p"
+	.string "Musím vymyslet, jak je překonat.\p"
+	.string "Přestaň se loudat a hni sebou!$"
 
 @ Translated in RB as "{RIVAL}: What? Why do I have 2 POKéMON? You should catch some more too!"
 Route22_Text_RivalShouldCatchSomeMons::
@@ -30,26 +26,26 @@ Route22_Text_RivalShouldCatchSomeMons::
 	.string "つかまえれば　いい　じゃん！$"
 
 Route22_Text_LateRivalIntro::
-	.string "{RIVAL}: What? {PLAYER}!\n"
-	.string "What a surprise to see you here!\p"
-	.string "So you're going to the POKéMON\n"
-	.string "LEAGUE?\p"
-	.string "You collected all the BADGES, too?\n"
-	.string "That's cool!\p"
-	.string "Then I'll whip you, {PLAYER}, as a\n"
-	.string "warm-up for the POKéMON LEAGUE!\p"
-	.string "Come on!$"
+	.string "{RIVAL}: Cože? {PLAYER}! To je ale\n"
+	.string "překvapení, že tě tu vidím!\p"
+	.string "Takže jdeš do POKéMON LEAGUE?\p"
+	.string "Taky máš všechny ODZNAKY? To je\n"
+	.string "super!\p"
+	.string "Tak tě, {PLAYER}, rozdrtím na\n"
+	.string "rozcvičku před POKéMON LEAGUE!\p"
+	.string "Do toho!$"
 
 Route22_Text_LateRivalDefeat::
-	.string "What!?\p"
-	.string "I was just careless, you!$"
+	.string "Cože!?\p"
+	.string "To jsem byl jen neopatrný!$"
 
 Route22_Text_LateRivalPostBattle::
-	.string "That loosened me up.\n"
-	.string "I'm ready for the POKéMON LEAGUE!\p"
-	.string "{PLAYER}, you need more practice.\p"
-	.string "But hey, you know that!\n"
-	.string "I'm out of here. Smell ya!$"
+	.string "To mě rozehřálo. Na POKéMON\n"
+	.string "LEAGUE jsem připravený!\p"
+	.string "{PLAYER}, ty potřebuješ víc\n"
+	.string "tréninku.\p"
+	.string "Ale to přece víš!\n"
+	.string "Já jdu. Čau!$"
 
 @ Translated in RB as "{RIVAL}: Hahaha! {PLAYER}! That's your best? You're nowhere near as good as me, pal! Go train some more! You loser!"
 Route22_Text_LateRivalVictory::
@@ -62,5 +58,5 @@ Route22_Text_LateRivalVictory::
 
 Route22_Text_LeagueGateSign::
 	.string "POKéMON LEAGUE\n"
-	.string "Front Gate$"
+	.string "Hlavní brána$"
 

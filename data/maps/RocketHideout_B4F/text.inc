@@ -1,56 +1,56 @@
 RocketHideout_B4F_Text_GiovanniIntro::
-    .string "So! I must say, I am impressed you\n"
-    .string "got here.\p"
-    .string "TEAM ROCKET captures POKéMON from\n"
-    .string "around the world.\p"
-    .string "They're important tools for keeping\n"
-    .string "our criminal enterprise going.\p"
-    .string "I am the leader, GIOVANNI!\p"
-    .string "For your insolence, you will feel a\n"
-    .string "world of pain!$"
+    .string "Tak! Musím uznat, že na mě dělá\n"
+    .string "dojem, že tě vidím až tady.\p"
+    .string "TEAM ROCKET chytá POKéMONY\n"
+    .string "z celého světa.\p"
+    .string "Jsou to důležité nástroje, které\n"
+    .string "udržují v chodu náš zločinný\l"
+    .string "podnik.\p"
+    .string "Já jsem vůdce, GIOVANNI!\p"
+    .string "Za svou drzost poznáš, co je to\n"
+    .string "bolest!$"
 
 RocketHideout_B4F_Text_GiovanniDefeat::
-    .string "WHAT!\n"
-    .string "This can't be!$"
+    .string "COŽE!\n"
+    .string "To nemůže být!$"
 
 RocketHideout_B4F_Text_GiovanniPostBattle::
-    .string "I see that you raise POKéMON with\n"
-    .string "utmost care.\p"
-    .string "A child like you would never\n"
-    .string "understand what I hope to achieve.\p"
-    .string "I shall step aside this time!\p"
-    .string "I hope we meet again…$"
+    .string "Vidím, že své POKéMONY vychováváš\n"
+    .string "s největší péčí.\p"
+    .string "Dítě jako ty by nikdy nepochopilo,\n"
+    .string "čeho chci dosáhnout.\p"
+    .string "Tentokrát ustoupím!\p"
+    .string "Doufám, že se ještě setkáme…$"
 
 RocketHideout_B4F_Text_Grunt2Intro::
-    .string "I know you!\n"
-    .string "You ruined our plans at MT. MOON!$"
+    .string "Já tě znám! Kvůli tobě padly naše\n"
+    .string "plány v MT. MOON!$"
 
 RocketHideout_B4F_Text_Grunt2Defeat::
-    .string "Burned again!$"
+    .string "Zase jsem se spálil!$"
 
 RocketHideout_B4F_Text_Grunt2PostBattle::
-    .string "Do you have something against TEAM\n"
-    .string "ROCKET?$"
+    .string "Máš něco proti TEAM ROCKET?$"
 
 RocketHideout_B4F_Text_Grunt3Intro::
-    .string "How can you not see the beauty of\n"
-    .string "our evil?$"
+    .string "Jak můžeš nevidět krásu našeho\n"
+    .string "zla?$"
 
 RocketHideout_B4F_Text_Grunt3Defeat::
-    .string "Ayaya!$"
+    .string "Ajaja!$"
 
 RocketHideout_B4F_Text_Grunt3PostBattle::
-    .string "BOSS!\n"
-    .string "I'm sorry I failed you!$"
+    .string "ŠÉFE!\n"
+    .string "Promiň, že jsem selhal!$"
 
 RocketHideout_B4F_Text_Grunt1Intro::
-    .string "The elevator doesn't work?\n"
-    .string "Who has the LIFT KEY?$"
+    .string "Výtah nejede?\n"
+    .string "Kdo má LIFT KEY?$"
 
 RocketHideout_B4F_Text_Grunt1Defeat::
-    .string "No!$"
+    .string "Ne!$"
 
 RocketHideout_B4F_Text_Grunt1PostBattle::
-    .string "Oh, no!\n"
-    .string "I dropped the LIFT KEY!$"
+    .string "Ale ne!\n"
+    .string "Upustil jsem LIFT KEY!$"
 

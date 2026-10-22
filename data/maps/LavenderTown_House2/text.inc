@@ -1,47 +1,47 @@
 LavenderTown_House2_Text_WantMeToRateNicknames::
-    .string "Hello, hello!\n"
-    .string "I am the official NAME RATER!\p"
-    .string "Want me to rate the nicknames of\n"
-    .string "your POKéMON?$"
+    .string "Zdravím, zdravím!\n"
+    .string "Jsem oficiální HODNOTITEL JMEN!\p"
+    .string "Mám ohodnotit přezdívky tvých\n"
+    .string "POKéMONŮ?$"
 
 LavenderTown_House2_Text_CritiqueWhichMonsNickname::
-    .string "Which POKéMON's nickname should\n"
-    .string "I critique?$"
+    .string "Přezdívku kterého POKéMONA mám\n"
+    .string "posoudit?$"
 
 LavenderTown_House2_Text_GiveItANicerName::
-    .string "{STR_VAR_1}, is it?\n"
-    .string "That is a decent nickname!\p"
-    .string "But, would you like me to give it\n"
-    .string "a nicer name?\p"
-    .string "How about it?$"
+    .string "{STR_VAR_1}, ano?\n"
+    .string "To je slušná přezdívka!\p"
+    .string "Nechceš ale, abych mu dal hezčí\n"
+    .string "jméno?\p"
+    .string "Co ty na to?$"
 
 LavenderTown_House2_Text_WhatShallNewNicknameBe::
-    .string "Ah, good. Then, what shall the new\n"
-    .string "nickname be?$"
+    .string "Á, dobře. Jaká tedy bude nová\n"
+    .string "přezdívka?$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
-    .string "Done! From now on, this POKéMON\n"
-    .string "shall be known as {STR_VAR_1}!\p"
-    .string "It is a better name than before!\n"
-    .string "How fortunate for you!$"
+    .string "Hotovo! Od této chvíle se tento\n"
+    .string "POKéMON jmenuje {STR_VAR_1}!\p"
+    .string "Je to lepší jméno než předtím!\n"
+    .string "To máš ale štěstí!$"
 
 LavenderTown_House2_Text_ISeeComeVisitAgain::
-    .string "I see.\n"
-    .string "Do come visit again.$"
+    .string "Rozumím.\n"
+    .string "Zase někdy přijď.$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
-    .string "Done! From now on, this POKéMON\n"
-    .string "shall be known as {STR_VAR_1}!\p"
-    .string "It looks no different from before,\n"
-    .string "and yet, this is vastly superior!\p"
-    .string "How fortunate for you!$"
+    .string "Hotovo! Od této chvíle se tento\n"
+    .string "POKéMON jmenuje {STR_VAR_1}!\p"
+    .string "Vypadá stejně jako předtím,\n"
+    .string "a přesto je nesrovnatelně lepší!\p"
+    .string "To máš ale štěstí!$"
 
 LavenderTown_House2_Text_TrulyImpeccableName::
-    .string "{STR_VAR_1}, is it?\n"
-    .string "That is a truly impeccable name!\p"
-    .string "Take good care of {STR_VAR_1}!$"
+    .string "{STR_VAR_1}, ano?\n"
+    .string "To je skutečně dokonalé jméno!\p"
+    .string "Dobře se o {STR_VAR_1} starej!$"
 
 LavenderTown_House2_Text_ThatIsMerelyAnEgg::
-    .string "Now, now.\n"
-    .string "That is merely an EGG!$"
+    .string "Ale, ale.\n"
+    .string "To je přece jen VEJCE!$"
 

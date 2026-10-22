@@ -1,22 +1,22 @@
 SevenIsland_SevaultCanyon_House_Text_ChanseyDanceJoinIn::
-    .string "Dance, dance!\n"
-    .string "CHANSEY Dance!\p"
-    .string "You join in, too!\n"
-    .string "Dance, dance!$"
+    .string "Tancuj, tancuj!\n"
+    .string "CHANSEY tanec!\p"
+    .string "Přidej se taky!\n"
+    .string "Tancuj, tancuj!$"
 
 SevenIsland_SevaultCanyon_House_Text_WouldYouLikeToDance::
-    .string "Would you like to dance?$"
+    .string "Chceš si zatancovat?$"
 
 SevenIsland_SevaultCanyon_House_Text_ComeOnDance::
-    .string "Come on, dance!$"
+    .string "No tak, tancuj!$"
 
 SevenIsland_SevaultCanyon_House_Text_DancedChanseyDance::
-    .string "{PLAYER} danced the CHANSEY Dance!$"
+    .string "{PLAYER} tančí CHANSEY tanec!$"
 
 SevenIsland_SevaultCanyon_House_Text_YoureAllChipperNow::
-    .string "Ahahahaha!\p"
-    .string "There, you're all chipper now!\n"
-    .string "Lucky!$"
+    .string "Chachachacha!\p"
+    .string "Tak, teď máš skvělou náladu!\n"
+    .string "To je štěstí!$"
 
 SevenIsland_SevaultCanyon_House_Text_Chansey::
     .string "CHANSEY: Chansi! Chansi!$"

@@ -1,40 +1,41 @@
 LavenderTown_Text_DoYouBelieveInGhosts::
-    .string "Do you believe in ghosts?$"
+    .string "Věříš na duchy?$"
 
 LavenderTown_Text_SoThereAreBelievers::
-    .string "Really?\n"
-    .string "So there are believers…$"
+    .string "Vážně?\n"
+    .string "Takže jsou lidi, co věří…$"
 
 LavenderTown_Text_JustImaginingWhiteHand::
-    .string "Hahaha, I guess not.\p"
-    .string "That white hand on your shoulder…\n"
-    .string "I'm just imagining it.$"
+    .string "Chachacha, asi ne.\p"
+    .string "Ta bílá ruka na tvém rameni…\n"
+    .string "Ta se mi jen zdá.$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-    .string "This town is known as the grave\n"
-    .string "site of POKéMON.\p"
-    .string "Memorial services are held in\n"
-    .string "POKéMON TOWER.$"
+    .string "Tohle město je známé jako hřbitov\n"
+    .string "POKéMONŮ.\p"
+    .string "V POKéMON TOWER se konají\n"
+    .string "smuteční obřady.$"
 
 LavenderTown_Text_GhostsAppearedInTower::
-    .string "Ghosts appeared in POKéMON TOWER.\p"
-    .string "I think they're the spirits of\n"
-    .string "POKéMON that the ROCKETS killed.$"
+    .string "V POKéMON TOWER se objevili\n"
+    .string "duchové.\p"
+    .string "Myslím, že jsou to duše POKéMONŮ,\n"
+    .string "které zabili ROCKETI.$"
 
 LavenderTown_Text_TownSign::
     .string "LAVENDER TOWN\n"
-    .string "The Noble Purple Town$"
+    .string "Ušlechtilé fialové město$"
 
 LavenderTown_Text_SilphScopeNotice::
-    .string "New SILPH SCOPE!\n"
-    .string "Make the Invisible Plain to See!\p"
+    .string "Nový SILPH SCOPE!\n"
+    .string "Zviditelní neviditelné!\p"
     .string "SILPH CO.$"
 
 LavenderTown_Text_VolunteerPokemonHouse::
-    .string "LAVENDER VOLUNTEER\n"
-    .string "POKéMON HOUSE$"
+    .string "DOBROVOLNICKÝ ÚTULEK\n"
+    .string "PRO POKéMONY$"
 
 LavenderTown_Text_PokemonTowerSign::
     .string "POKéMON TOWER\n"
-    .string "Becalm the Spirits of POKéMON$"
+    .string "Ukonejšte duše POKéMONŮ$"
 

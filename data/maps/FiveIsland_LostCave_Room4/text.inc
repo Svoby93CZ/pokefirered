@@ -1,12 +1,12 @@
 FiveIsland_LostCave_Room4_Text_LauraIntro::
-    .string "I think there is a mysterious power\n"
-    .string "at work in this cave.$"
+    .string "Myslím, že v téhle jeskyni působí\n"
+    .string "tajemná síla.$"
 
 FiveIsland_LostCave_Room4_Text_LauraDefeat::
-    .string "If you don't go into the right\n"
-    .string "tunnel, you won't get ahead.$"
+    .string "Když nepůjdeš správným tunelem,\n"
+    .string "nedostaneš se dál.$"
 
 FiveIsland_LostCave_Room4_Text_LauraPostBattle::
-    .string "Earlier, a lady went into the caves\n"
-    .string "ahead.$"
+    .string "Před chvílí šla do jeskyní dál\n"
+    .string "nějaká dáma.$"
 

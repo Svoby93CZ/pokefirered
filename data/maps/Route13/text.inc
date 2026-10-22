@@ -1,128 +1,128 @@
 Route13_Text_SebastianIntro::
-    .string "My bird POKéMON want to battle\n"
-    .string "with you!$"
+    .string "Moji ptačí POKéMONI s tebou\n"
+    .string "chtějí bojovat!$"
 
 Route13_Text_SebastianDefeat::
-    .string "My PIDGEY and PIDGEOTTO combo\n"
-    .string "lost?$"
+    .string "Moje kombinace PIDGEY a PIDGEOTTO\n"
+    .string "prohrála?$"
 
 Route13_Text_SebastianPostBattle::
-    .string "My POKéMON look happy even though\n"
-    .string "they lost.$"
+    .string "Moji POKéMONI vypadají šťastně,\n"
+    .string "i když prohráli.$"
 
 Route13_Text_SusieIntro::
-    .string "I'm told I'm good for a kid.$"
+    .string "Prý jsem na dítě dobrá.$"
 
 Route13_Text_SusieDefeat::
-    .string "Ohh!\n"
-    .string "I lost!$"
+    .string "Ach!\n"
+    .string "Prohrála jsem!$"
 
 Route13_Text_SusiePostBattle::
-    .string "I want to become a good TRAINER.\n"
-    .string "I'll train hard, just watch.$"
+    .string "Chci být dobrá TRENÉRKA.\n"
+    .string "Budu tvrdě trénovat, uvidíš.$"
 
 Route13_Text_ValerieIntro::
-    .string "Wow!\n"
-    .string "Your BADGES are too cool!$"
+    .string "Páni!\n"
+    .string "Tvoje ODZNAKY jsou fakt super!$"
 
 Route13_Text_ValerieDefeat::
-    .string "Not enough!$"
+    .string "Nestačí to!$"
 
 Route13_Text_ValeriePostBattle::
-    .string "You got those BADGES from GYM\n"
-    .string "LEADERS. I know!$"
+    .string "Ty ODZNAKY máš od VŮDCŮ STADIONŮ.\n"
+    .string "Já to vím!$"
 
 Route13_Text_GwenIntro::
-    .string "My cute POKéMON wish to make your\n"
-    .string "acquaintance.$"
+    .string "Moji roztomilí POKéMONI se s tebou\n"
+    .string "chtějí seznámit.$"
 
 Route13_Text_GwenDefeat::
-    .string "Good going!\n"
-    .string "You totally won!$"
+    .string "Dobrá práce!\n"
+    .string "Čistá výhra!$"
 
 Route13_Text_GwenPostBattle::
-    .string "You have to make POKéMON battle\n"
-    .string "to toughen them up.$"
+    .string "POKéMONY musíš nechat bojovat,\n"
+    .string "aby zesílili.$"
 
 Route13_Text_AlmaIntro::
-    .string "I found CARBOS in a cave once\n"
-    .string "while I was spelunking.$"
+    .string "Jednou jsem při lezení po\n"
+    .string "jeskyních našla CARBOS.$"
 
 Route13_Text_AlmaDefeat::
-    .string "Oh, too bad!\n"
-    .string "I just messed up!$"
+    .string "Ach, škoda!\n"
+    .string "Pokazila jsem to!$"
 
 Route13_Text_AlmaPostBattle::
-    .string "CARBOS boosted the SPEED of my\n"
-    .string "POKéMON.$"
+    .string "CARBOS zvýšil RYCHLOST mého\n"
+    .string "POKéMONA.$"
 
 Route13_Text_PerryIntro::
-    .string "I'm not going to lose.\n"
-    .string "Not when the wind's blowing my way!$"
+    .string "Neprohraju.\n"
+    .string "Ne, když mi fouká vítr do zad!$"
 
 Route13_Text_PerryDefeat::
-    .string "The wind turned!$"
+    .string "Vítr se otočil!$"
 
 Route13_Text_PerryPostBattle::
-    .string "I'm beat.\n"
-    .string "I guess I'll FLY home.$"
+    .string "Jsem poražený.\n"
+    .string "Asi domů poletím pomocí FLY.$"
 
 Route13_Text_LolaIntro::
-    .string "Sure, I'll play with you, sweetie.$"
+    .string "Jasně, zahraju si s tebou,\n"
+    .string "zlatíčko.$"
 
 Route13_Text_LolaDefeat::
-    .string "Oh!\n"
-    .string "You little beast!$"
+    .string "Ach!\n"
+    .string "Ty malá potvoro!$"
 
 Route13_Text_LolaPostBattle::
-    .string "I wonder which is stronger, male or\n"
-    .string "female POKéMON?$"
+    .string "Kdo je asi silnější, samci, nebo\n"
+    .string "samice POKéMONŮ?$"
 
 Route13_Text_SheilaIntro::
-    .string "Do you want to battle some\n"
-    .string "POKéMON with me?$"
+    .string "Chceš si se mnou dát souboj\n"
+    .string "POKéMONŮ?$"
 
 Route13_Text_SheilaDefeat::
-    .string "It's over already?$"
+    .string "Už je konec?$"
 
 Route13_Text_SheilaPostBattle::
-    .string "I don't know anything about\n"
-    .string "POKéMON actually.\p"
-    .string "The ones I use… I picked them\n"
-    .string "for their looks!$"
+    .string "Já o POKéMONECH vlastně nic nevím.\p"
+    .string "Ty, které používám… Vybrala jsem\n"
+    .string "je podle vzhledu!$"
 
 Route13_Text_JaredIntro::
-    .string "What're you lookin' at?$"
+    .string "Na co čumíš?$"
 
 Route13_Text_JaredDefeat::
-    .string "Dang!\n"
-    .string "Stripped gears!$"
+    .string "Sakra!\n"
+    .string "Strhaný převody!$"
 
 Route13_Text_JaredPostBattle::
-    .string "Get lost!$"
+    .string "Zmiz!$"
 
 Route13_Text_RobertIntro::
-    .string "I always go with bird POKéMON.\n"
-    .string "I've dedicated myself to them.$"
+    .string "Vždycky sázím na ptačí POKéMONY.\n"
+    .string "Zasvětil jsem jim život.$"
 
 Route13_Text_RobertDefeat::
-    .string "Out of power!$"
+    .string "Došla síla!$"
 
 Route13_Text_RobertPostBattle::
-    .string "I wish I could fly like PIDGEY and\n"
-    .string "PIDGEOTTO…$"
+    .string "Kéž bych uměl létat jako PIDGEY\n"
+    .string "a PIDGEOTTO…$"
 
 Route13_Text_LookToLeftOfThatPost::
-    .string "TRAINER TIPS\p"
-    .string "Look, look!\n"
-    .string "Look to the left of that post!$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "Koukej, koukej!\n"
+    .string "Koukni nalevo od toho sloupku!$"
 
 Route13_Text_SelectToSwitchItems::
-    .string "TRAINER TIPS\p"
-    .string "Use SELECT to switch items in the\n"
-    .string "ITEMS window.$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "Tlačítkem SELECT přehodíš\n"
+    .string "předměty v BATOHU.$"
 
 Route13_Text_RouteSign::
     .string "ROUTE 13\n"
-    .string "North to SILENCE BRIDGE$"
+    .string "Na sever k SILENCE BRIDGE$"
 

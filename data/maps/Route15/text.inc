@@ -1,154 +1,154 @@
 Route15_Text_KindraIntro::
-    .string "I just got some POKéMON in trades.\n"
-    .string "Can I try them out on you?$"
+    .string "Zrovna jsem získala POKéMONY\n"
+    .string "výměnou.\p"
+    .string "Můžu je na tobě vyzkoušet?$"
 
 Route15_Text_KindraDefeat::
-    .string "Not good enough!$"
+    .string "Nestačí to!$"
 
 Route15_Text_KindraPostBattle::
-    .string "You can't change the nickname of\n"
-    .string "any POKéMON you get in a trade.\p"
-    .string "Only the Original TRAINER can get\n"
-    .string "the nickname changed.$"
+    .string "POKéMONŮM z výměny nemůžeš změnit\n"
+    .string "přezdívku.\p"
+    .string "To může jen původní TRENÉR.$"
 
 Route15_Text_BeckyIntro::
-    .string "You look gentle, so I think I can\n"
-    .string "beat you.\p"
-    .string "I'll give it a go!$"
+    .string "Vypadáš mírumilovně, tak tě snad\n"
+    .string "porazím.\p"
+    .string "Zkusím to!$"
 
 Route15_Text_BeckyDefeat::
-    .string "No, wrong!$"
+    .string "Ne, to ne!$"
 
 Route15_Text_BeckyPostBattle::
-    .string "I'm afraid of BIKERS. They look so\n"
-    .string "ugly and mean!$"
+    .string "Bojím se MOTORKÁŘŮ. Vypadají tak\n"
+    .string "ošklivě a zle!$"
 
 Route15_Text_EdwinIntro::
-    .string "When I whistle, I can summon bird\n"
-    .string "POKéMON.$"
+    .string "Když zapískám, přivolám ptačí\n"
+    .string "POKéMONY.$"
 
 Route15_Text_EdwinDefeat::
-    .string "Ow!\n"
-    .string "That's tragic!$"
+    .string "Au!\n"
+    .string "To je tragédie!$"
 
 Route15_Text_EdwinPostBattle::
-    .string "Maybe I'm not cut out for battles.\n"
-    .string "I'm not the right type, I guess.$"
+    .string "Možná nejsem na souboje stavěný.\n"
+    .string "Asi nejsem ten správný typ.$"
 
 Route15_Text_ChesterIntro::
-    .string "Hmm? My birds are shivering!\n"
-    .string "You're good, aren't you?$"
+    .string "Hm? Moji ptáci se třesou!\n"
+    .string "Tobě to jde, co?$"
 
 Route15_Text_ChesterDefeat::
-    .string "Just as I thought!$"
+    .string "Přesně jak jsem myslel!$"
 
 Route15_Text_ChesterPostBattle::
-    .string "This is so obvious, you should know\n"
-    .string "this, but…\p"
-    .string "Moves like EARTHQUAKE and FISSURE\n"
-    .string "have no effect on bird POKéMON.$"
+    .string "Je to jasné jako facka, ale…\p"
+    .string "Útoky jako EARTHQUAKE a FISSURE\n"
+    .string "na ptačí POKéMONY nepůsobí.$"
 
 Route15_Text_GraceIntro::
-    .string "Oh, you're a little cutie!\n"
-    .string "So like a darling POKéMON!$"
+    .string "Ó, ty jsi ale k sežrání!\n"
+    .string "Jako rozkošný POKéMON!$"
 
 Route15_Text_GraceDefeat::
-    .string "You looked so cute, too!$"
+    .string "A vypadalo to tak roztomile!$"
 
 Route15_Text_GracePostBattle::
-    .string "I forgive you.\n"
-    .string "I can take it.\l"
-    .string "I'm a big girl now.$"
+    .string "Odpouštím ti.\n"
+    .string "Zvládnu to.\l"
+    .string "Už jsem velká holka.$"
 
 Route15_Text_OliviaIntro::
-    .string "I raise POKéMON for protection\n"
-    .string "because I live alone.$"
+    .string "Chovám POKéMONY pro ochranu,\n"
+    .string "protože žiju sama.$"
 
 Route15_Text_OliviaDefeat::
-    .string "POKéMON isn't about winning or\n"
-    .string "losing for me.$"
+    .string "U POKéMONŮ mi nejde o výhru nebo\n"
+    .string "prohru.$"
 
 Route15_Text_OliviaPostBattle::
-    .string "I love having my POKéMON greet me\n"
-    .string "when I get home.\p"
-    .string "It's so reassuring.$"
+    .string "Miluju, když mě POKéMONI vítají,\n"
+    .string "když přijdu domů.\p"
+    .string "Je to tak uklidňující.$"
 
 Route15_Text_ErnestIntro::
-    .string "Hey, kid! C'mon!\n"
-    .string "I just got these off some loser!$"
+    .string "Hej, prcku! No tak! Zrovna jsem je\n"
+    .string "sebral nějakýmu ubožákovi!$"
 
 Route15_Text_ErnestDefeat::
-    .string "Why not?$"
+    .string "Proč ne?$"
 
 Route15_Text_ErnestPostBattle::
-    .string "Life's too short.\n"
-    .string "It's cool to live as an outlaw.\l"
-    .string "TEAM ROCKET RULES!$"
+    .string "Život je krátký.\n"
+    .string "Žít jako psanec je super.\l"
+    .string "TEAM ROCKET VLÁDNE!$"
 
 Route15_Text_AlexIntro::
-    .string "Fork over all your cash when you\n"
-    .string "lose to me, kid!$"
+    .string "Až se mnou prohraješ, vysypeš\n"
+    .string "všechny prachy, prcku!$"
 
 Route15_Text_AlexDefeat::
-    .string "That can't be true!$"
+    .string "To nemůže být pravda!$"
 
 Route15_Text_AlexPostBattle::
-    .string "I was just joking about the money.\n"
-    .string "Don't take me all serious.$"
+    .string "S těma penězma jsem si dělal\n"
+    .string "srandu. Neber mě tak vážně.$"
 
 Route15_Text_CeliaIntro::
-    .string "What's cool and happening?\n"
-    .string "Trading POKéMON!$"
+    .string "Co je teď super a v kurzu?\n"
+    .string "Výměna POKéMONŮ!$"
 
 Route15_Text_CeliaDefeat::
-    .string "I said trade!$"
+    .string "Říkala jsem výměna!$"
 
 Route15_Text_CeliaPostBattle::
-    .string "I trade POKéMON with my friends\n"
-    .string "all the time.$"
+    .string "S kamarády si POKéMONY vyměňuju\n"
+    .string "pořád.$"
 
 Route15_Text_YazminIntro::
-    .string "Want to play with my POKéMON?$"
+    .string "Chceš si hrát s mými POKéMONY?$"
 
 Route15_Text_YazminDefeat::
-    .string "I was too impatient!$"
+    .string "Byla jsem moc netrpělivá!$"
 
 Route15_Text_YazminPostBattle::
-    .string "I'll go train with weaker people.$"
+    .string "Půjdu trénovat se slabšími lidmi.$"
 
 Route15_Text_RouteSign::
     .string "ROUTE 15\n"
-    .string "West to FUCHSIA CITY$"
+    .string "Na západ do FUCHSIA CITY$"
 
 Route15_Text_MyaIntro::
-    .string "MYA: You're perfect.\n"
-    .string "Help me train my little brother?$"
+    .string "MYA: Přesně tebe potřebuju.\n"
+    .string "Pomůžeš mi trénovat mladšího\l"
+    .string "bráchu?$"
 
 Route15_Text_MyaDefeat::
-    .string "MYA: RON, you have to focus!\n"
-    .string "Concentrate on what you're doing!$"
+    .string "MYA: RONE, musíš se soustředit!\n"
+    .string "Soustřeď se na to, co děláš!$"
 
 Route15_Text_MyaPostBattle::
-    .string "MYA: Okay, we'll turn it up.\n"
-    .string "I'll add to our training menu!$"
+    .string "MYA: Dobře, přitvrdíme.\n"
+    .string "Přidám nám do tréninku!$"
 
 Route15_Text_MyaNotEnoughMons::
-    .string "MYA: Do you want to challenge us?\n"
-    .string "You'll need two POKéMON, though.$"
+    .string "MYA: Chceš nás vyzvat? Budeš ale\n"
+    .string "potřebovat dva POKéMONY.$"
 
 Route15_Text_RonIntro::
-    .string "RON: My sister gets scary when we\n"
-    .string "lose.$"
+    .string "RON: Když prohrajeme, ségra je\n"
+    .string "děsivá.$"
 
 Route15_Text_RonDefeat::
-    .string "RON: Oh, no, no…\n"
-    .string "Sis, I'm sorry!$"
+    .string "RON: Ach ne, ne…\n"
+    .string "Ségro, promiň!$"
 
 Route15_Text_RonPostBattle::
-    .string "RON: Oh, bleah…\n"
-    .string "I wish I had a nice sister…$"
+    .string "RON: Ach, fuj…\n"
+    .string "Kéž bych měl hodnou ségru…$"
 
 Route15_Text_RonNotEnoughMons::
-    .string "RON: Did you want to battle with\n"
-    .string "my sister and me?\p"
-    .string "You need two POKéMON, then.$"
+    .string "RON: Chceš bojovat se mnou\n"
+    .string "a ségrou?\p"
+    .string "Tak potřebuješ dva POKéMONY.$"

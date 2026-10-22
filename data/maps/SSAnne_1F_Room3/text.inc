@@ -1,10 +1,11 @@
 SSAnne_1F_Room3_Text_CruiseIsElegantAndCozy::
-    .string "A world cruise is so elegant yet\n"
-    .string "cozy!$"
+    .string "Plavba kolem světa je tak\n"
+    .string "elegantní, a přitom útulná!$"
 
 SSAnne_1F_Room3_Text_AlwaysTravelWithWigglytuff::
-    .string "I always travel with WIGGLYTUFF.\n"
-    .string "I never leave home without it.$"
+    .string "Vždycky cestuji se svým POKéMONEM\n"
+    .string "WIGGLYTUFF. Bez něj z domu\l"
+    .string "nevyjdu.$"
 
 SSAnne_1F_Room3_Text_Wigglytuff::
     .string "WIGGLYTUFF: Puup pupuu!$"

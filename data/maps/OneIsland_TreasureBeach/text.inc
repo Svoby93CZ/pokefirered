@@ -1,18 +1,17 @@
 OneIsland_TreasureBeach_Text_AmaraIntro::
-    .string "Lying back, rocked by the waves…\n"
-    .string "It's exquisite.$"
+    .string "Ležet a nechat se kolébat vlnami…\n"
+    .string "To je nádhera.$"
 
 OneIsland_TreasureBeach_Text_AmaraDefeat::
-    .string "I lost…\n"
-    .string "It feels awful.$"
+    .string "Prohrála jsem…\n"
+    .string "To je hrozný pocit.$"
 
 OneIsland_TreasureBeach_Text_AmaraPostBattle::
-    .string "The sea is pleasantly warm in these\n"
-    .string "parts.$"
+    .string "Moře je tady kolem příjemně teplé.$"
 
 OneIsland_TreasureBeach_Text_GoodThingsWashUpOnBeach::
-    .string "Good things get washed up by the\n"
-    .string "ocean current onto this beach.\p"
-    .string "That's why I often come here for\n"
-    .string "some beachcombing.$"
+    .string "Mořský proud vyplavuje na tuhle\n"
+    .string "pláž dobré věci.\p"
+    .string "Proto sem často chodím sbírat, co\n"
+    .string "moře vyplaví.$"
 

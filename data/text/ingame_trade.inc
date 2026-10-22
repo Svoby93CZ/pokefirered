@@ -1,60 +1,62 @@
 Trade_Text_LookingForMonWannaTradeForMon::
-	.string "I'm looking for the POKéMON\n"
+	.string "Hledám POKéMONA\n"
 	.string "{STR_VAR_1}!\p"
-	.string "Wanna trade one for my\n"
+	.string "Vyměníš ho za mého\n"
 	.string "{STR_VAR_2}?$"
 
 Trade_Text_AwwOhWell::
-	.string "Awww!\n"
-	.string "Oh, well…$"
+	.string "Ááách!\n"
+	.string "Tak nic…$"
 
 Trade_Text_WhatThatsNoMon::
-	.string "What?\n"
-	.string "That's no {STR_VAR_1}!$"
+	.string "Cože?\n"
+	.string "To není {STR_VAR_1}!$"
 
 Trade_Text_HeyThanks::
-	.string "Hey, thanks!$"
+	.string "Hej, díky!$"
 
 Trade_Text_IsntMyOldMonGreat::
-	.string "Isn't my old {STR_VAR_2} great?$"
+	.string "Není můj starý {STR_VAR_2} skvělý?$"
 
 Trade_Text_DoYouHaveMonWouldYouTradeForMon::
-	.string "Hello, there! Do you happen to\n"
-	.string "have a {STR_VAR_1}?\p"
-	.string "Would you agree to a trade for\n"
-	.string "my {STR_VAR_2}?$"
+	.string "Dobrý den! Nemáte náhodou\n"
+	.string "{STR_VAR_1}?\p"
+	.string "Nevyměníte ho za mého\n"
+	.string "{STR_VAR_2}?$"
 
 Trade_Text_WellIfYouDontWantTo::
-	.string "Well, if you don't want to…$"
+	.string "No, když nechcete…$"
 
 Trade_Text_ThisIsntMon::
 	.string "Hmmm?\n"
-	.string "This isn't a {STR_VAR_1}.\p"
-	.string "Think of me if you get one.$"
+	.string "Tohle není {STR_VAR_1}.\p"
+	.string "Vzpomeňte si na mě, až ho\n"
+	.string "budete mít.$"
 
 Trade_Text_Thanks::
-	.string "Thanks!$"
+	.string "Díky!$"
 
 Trade_Text_HasTradedMonGrownStronger::
-	.string "The {STR_VAR_2} that I traded you,\n"
-	.string "has it grown stronger?$"
+	.string "{STR_VAR_2} z naší výměny,\n"
+	.string "už zesílil?$"
 
 Trade_Text_DoYouHaveMonWantToTradeForMon::
-	.string "Hi!\n"
-	.string "Do you have a {STR_VAR_1}?\p"
-	.string "Want to trade it for my\n"
+	.string "Ahoj!\n"
+	.string "Máš {STR_VAR_1}?\p"
+	.string "Vyměníš ho za mého\n"
 	.string "{STR_VAR_2}?$"
 
 Trade_Text_ThatsTooBad::
-	.string "That's too bad.$"
+	.string "To je škoda.$"
 
 Trade_Text_ThisIsNoMon::
-	.string "…This is no {STR_VAR_1}.\p"
-	.string "If you get one, trade it with me.$"
+	.string "…Tohle není {STR_VAR_1}.\p"
+	.string "Až nějakého seženeš, vyměň ho se\n"
+	.string "mnou.$"
 
 Trade_Text_ThanksYoureAPal::
-	.string "Thanks, you're a pal!$"
+	.string "Díky, to je od tebe hezké!$"
 
 Trade_Text_HowIsMyOldMon::
-	.string "How is my old {STR_VAR_2}?\n"
-	.string "My {STR_VAR_1} is doing great!$"
+	.string "Jak se má můj starý {STR_VAR_2}?\n"
+	.string "Můj {STR_VAR_1} se má skvěle!$"

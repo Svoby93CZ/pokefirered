@@ -1,37 +1,36 @@
 FuchsiaCity_House2_Text_DoYouLikeToFish::
-    .string "I'm the FISHING GURU's older\n"
-    .string "brother.\p"
-    .string "I simply looove fishing!\n"
-    .string "I can't bear to go without.\p"
-    .string "Tell me, do you like to fish?$"
+    .string "Jsem starší bratr RYBÁŘSKÉHO GURU.\p"
+    .string "Rybaření prostě zbóóóžňuju!\n"
+    .string "Bez něj nemůžu žít.\p"
+    .string "Řekni, baví tě rybaření?$"
 
 FuchsiaCity_House2_Text_LikeYourStyleTakeThis::
-    .string "Grand! I like your style.\n"
-    .string "I think we can be friends.\p"
-    .string "Take this and fish, young friend!$"
+    .string "Báječné! Líbí se mi tvůj styl.\n"
+    .string "Myslím, že budeme přátelé.\p"
+    .string "Vezmi si tohle a jdi rybařit!$"
 
 FuchsiaCity_House2_Text_ReceivedGoodRod::
-    .string "{PLAYER} received a GOOD ROD from\n"
-    .string "the FISHING GURU's brother.$"
+    .string "{PLAYER} dostává GOOD ROD od\n"
+    .string "bratra RYBÁŘSKÉHO GURU.$"
 
 FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
-    .string "Fishing is a way of life!\n"
-    .string "It is like the finest poetry.\p"
-    .string "A crummy OLD ROD could only catch\n"
-    .string "MAGIKARP, yes?\p"
-    .string "But with a GOOD ROD, you can\n"
-    .string "catch much better POKéMON.$"
+    .string "Rybaření je způsob života!\n"
+    .string "Je jako ta nejlepší poezie.\p"
+    .string "Mizerným OLD ROD chytíš jen\n"
+    .string "MAGIKARP, že?\p"
+    .string "Ale s GOOD ROD chytíš mnohem\n"
+    .string "lepší POKéMONY.$"
 
 FuchsiaCity_House2_Text_OhThatsDisappointing::
-    .string "Oh…\n"
-    .string "That's so disappointing…$"
+    .string "Ach…\n"
+    .string "To je takové zklamání…$"
 
 FuchsiaCity_House2_Text_HowAreTheFishBiting::
-    .string "Hello there, {PLAYER}!\p"
-    .string "How are the fish biting?$"
+    .string "Ahoj, {PLAYER}!\p"
+    .string "Jak berou ryby?$"
 
 FuchsiaCity_House2_Text_YouHaveNoRoomForGift::
-    .string "Oh, no!\p"
-    .string "I had a gift for you, but you have\n"
-    .string "no room for it!$"
+    .string "Ale ne!\p"
+    .string "Měl jsem pro tebe dárek, ale nemáš\n"
+    .string "na něj místo!$"
 

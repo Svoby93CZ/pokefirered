@@ -1,23 +1,20 @@
 CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
-    .string "POKéMON stat enhancers can be\n"
-    .string "bought only here.\p"
-    .string "HP UP increases the base HP of a\n"
-    .string "POKéMON.\p"
-    .string "CALCIUM raises the base SP. ATK\n"
-    .string "stat of one POKéMON.\p"
-    .string "ZINC boosts the base SP. DEF stat\n"
-    .string "of one POKéMON.\p"
-    .string "CARBOS enhances the base SPEED\n"
-    .string "stat.$"
+    .string "Posilovače vlastností POKéMONŮ se\n"
+    .string "dají koupit jen tady.\p"
+    .string "HP UP zvyšuje základní HP\n"
+    .string "POKéMONA.\p"
+    .string "CALCIUM zvyšuje základní SP. ÚTOK\n"
+    .string "jednoho POKéMONA.\p"
+    .string "ZINC zvyšuje základní SP. OBR.\n"
+    .string "jednoho POKéMONA.\p"
+    .string "CARBOS zvyšuje základní RYCHLOST.$"
 
 CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
-    .string "I'm here for POKéMON stat\n"
-    .string "enhancers.\p"
-    .string "PROTEIN increases the base ATTACK\n"
-    .string "power.\p"
-    .string "IRON increases the base DEFENSE\n"
-    .string "stat.$"
+    .string "Přišel jsem pro posilovače\n"
+    .string "vlastností POKéMONŮ.\p"
+    .string "PROTEIN zvyšuje základní ÚTOK.\p"
+    .string "IRON zvyšuje základní OBRANU.$"
 
 CeladonCity_DepartmentStore_5F_Text_Drugstore::
-    .string "5F: DRUGSTORE$"
+    .string "5F: LÉKÁRNA$"
 

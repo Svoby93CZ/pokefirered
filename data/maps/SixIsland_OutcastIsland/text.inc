@@ -1,85 +1,81 @@
 SixIsland_OutcastIsland_Text_RocketIntro::
-    .string "There're no rare POKéMON around\n"
-    .string "these parts! Not a one!\p"
-    .string "That burns me up, man.\n"
-    .string "I'll take it out on you!$"
+    .string "Tady kolem nejsou žádní vzácní\n"
+    .string "POKéMONI! Ani jeden!\p"
+    .string "To mě štve, kámo.\n"
+    .string "Vybiju si to na tobě!$"
 
 SixIsland_OutcastIsland_Text_RocketDefeat::
-    .string "…Huh?$"
+    .string "…Cože?$"
 
 SixIsland_OutcastIsland_Text_RocketPostBattle::
-    .string "So listen, you haven't seen any\n"
-    .string "rare POKéMON, have you?$"
+    .string "Tak poslouchej, nevíš o nějakých\n"
+    .string "vzácných POKéMONECH?$"
 
 SixIsland_OutcastIsland_Text_TylorIntro::
-    .string "I'm having no luck at all.\n"
-    .string "A battle'd be a change of pace!$"
+    .string "Vůbec nemám štěstí.\n"
+    .string "Souboj by byl příjemná změna!$"
 
 SixIsland_OutcastIsland_Text_TylorDefeat::
-    .string "Nope, no luck at all…$"
+    .string "Ne, žádné štěstí…$"
 
 SixIsland_OutcastIsland_Text_TylorPostBattle::
-    .string "I can't very well go home without\n"
-    .string "catching something, though.$"
+    .string "Ale domů se nemůžu vrátit, dokud\n"
+    .string "něco nechytím.$"
 
 SixIsland_OutcastIsland_Text_MymoIntro::
-    .string "Gasp… Gasp…\p"
-    .string "I swam here from SIX ISLE PORT\n"
-    .string "in one go.$"
+    .string "Fu… Fu…\p"
+    .string "Přeplaval jsem sem ze SIX ISLE\n"
+    .string "PORT v jednom kuse.$"
 
 SixIsland_OutcastIsland_Text_MymoDefeat::
-    .string "Gasp…\n"
-    .string "Gasp…$"
+    .string "Fu…\n"
+    .string "Fu…$"
 
 SixIsland_OutcastIsland_Text_MymoPostBattle::
-    .string "I'm only at the halfway point…\n"
-    .string "I'm beat…$"
+    .string "Jsem teprve v polovině…\n"
+    .string "Jsem hotový…$"
 
 SixIsland_OutcastIsland_Text_NicoleIntro::
-    .string "It's not so easy sending POKéMON\n"
-    .string "out while swimming, you know?$"
+    .string "Vysílat POKéMONY při plavání není\n"
+    .string "vůbec snadné, víš?$"
 
 SixIsland_OutcastIsland_Text_NicoleDefeat::
-    .string "I didn't lose to you at swimming.\n"
-    .string "This doesn't bother me.$"
+    .string "V plavání jsem s tebou neprohrála.\n"
+    .string "To mě netrápí.$"
 
 SixIsland_OutcastIsland_Text_NicolePostBattle::
-    .string "Are you headed for the island up\n"
-    .string "past here?\p"
-    .string "I didn't see anything interesting\n"
-    .string "there.$"
+    .string "Míříš na ten ostrov dál odsud?\p"
+    .string "Já tam nic zajímavého neviděla.$"
 
 SixIsland_OutcastIsland_Text_AvaIntro::
-    .string "AVA: Let's have a two-on-two\n"
-    .string "marine battle!$"
+    .string "AVA: Dáme si mořský souboj dva na\n"
+    .string "dva!$"
 
 SixIsland_OutcastIsland_Text_AvaDefeat::
-    .string "AVA: Oh, you're amazing!\n"
-    .string "Even better, you're on your own!$"
+    .string "AVA: Ach, to je úžasné!\n"
+    .string "A to bez parťáka!$"
 
 SixIsland_OutcastIsland_Text_AvaPostBattle::
-    .string "AVA: You know, I do prefer the\n"
-    .string "sea over any pool.$"
+    .string "AVA: Víš, moře mám radši než\n"
+    .string "jakýkoli bazén.$"
 
 SixIsland_OutcastIsland_Text_AvaNotEnoughMons::
-    .string "AVA: You're challenging us to\n"
-    .string "a battle?\p"
-    .string "You'll need at least two POKéMON\n"
-    .string "if you want to do that.$"
+    .string "AVA: Vyzýváš nás na souboj?\p"
+    .string "K tomu budeš potřebovat aspoň dva\n"
+    .string "POKéMONY.$"
 
 SixIsland_OutcastIsland_Text_GebIntro::
-    .string "GEB: Big Sister, help!\n"
-    .string "Please battle with me!$"
+    .string "GEB: Ségro, pomoc!\n"
+    .string "Bojuj prosím se mnou!$"
 
 SixIsland_OutcastIsland_Text_GebDefeat::
-    .string "GEB: Wow, Big Sister, this person's\n"
-    .string "really good!$"
+    .string "GEB: Páni, ségro, to je ale síla!$"
 
 SixIsland_OutcastIsland_Text_GebPostBattle::
-    .string "GEB: I'm hanging onto my sister\n"
-    .string "because I can't touch the bottom.$"
+    .string "GEB: Držím se ségry, protože\n"
+    .string "nedosáhnu na dno.$"
 
 SixIsland_OutcastIsland_Text_GebNotEnoughMons::
-    .string "GEB: Please battle against me and\n"
-    .string "my sister!\p"
-    .string "…Oh, you don't have two POKéMON?$"
+    .string "GEB: Bojuj prosím proti mně\n"
+    .string "a ségře!\p"
+    .string "…Á, ty nemáš dva POKéMONY?$"

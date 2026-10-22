@@ -1,93 +1,90 @@
 SevenIsland_SevaultCanyon_Entrance_Text_MiahIntro::
-    .string "Kyahaha!\n"
-    .string "I'll flick you away effortlessly!$"
+    .string "Kjachacha!\n"
+    .string "Odbydu tě bez námahy!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahDefeat::
     .string "Tch!\n"
-    .string "Too strong for me!$"
+    .string "Na mě moc silné!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahPostBattle::
-    .string "What's that?\n"
-    .string "I don't act the way I look?\p"
-    .string "Heh, that's a part of my strategy!$"
+    .string "Cože?\n"
+    .string "Nechovám se tak, jak vypadám?\p"
+    .string "Heh, to je součást mé strategie!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonIntro::
-    .string "Howdy!\n"
-    .string "Are you a member of my fan club?$"
+    .string "Nazdar!\n"
+    .string "Patříš do mého fanklubu?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonDefeat::
-    .string "Oh, so you're not a fan…\p"
-    .string "Well, I can change that.\n"
-    .string "Let me sing for you!$"
+    .string "Á, takže mi nefandíš…\p"
+    .string "To můžu změnit.\n"
+    .string "Zazpívám ti!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonPostBattle::
-    .string "Lalalah…\n"
-    .string "My POKéMON, I send them out,\l"
-    .string "all the girls scream and shout!$"
+    .string "Lalalá…\n"
+    .string "Když vyšlu POKéMONY ven,\l"
+    .string "holky ječí celý den!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasIntro::
-    .string "This island is too spread out…\n"
-    .string "It's not easy patrolling the place.$"
+    .string "Tenhle ostrov je moc rozlehlý…\n"
+    .string "Hlídkovat tu není snadné.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasDefeat::
-    .string "Uh-huh…$"
+    .string "Aha…$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasPostBattle::
-    .string "TRAINERS like you from cities,\n"
-    .string "they sure are tough.\p"
-    .string "You'll be headed for the TOWER,\n"
-    .string "won't you?$"
+    .string "TRENÉŘI z měst jako ty jsou fakt\n"
+    .string "silní.\p"
+    .string "Míříš do TRAINER TOWER, že?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineIntro::
-    .string "I punish people who abuse\n"
-    .string "POKéMON!$"
+    .string "Trestám lidi, kteří týrají\n"
+    .string "POKéMONY!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineDefeat::
-    .string "You don't seem to be a problem\n"
-    .string "TRAINER.$"
+    .string "S tebou zřejmě problém není.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelinePostBattle::
-    .string "If you treat your POKéMON with\n"
-    .string "kindness, they'll understand.$"
+    .string "Když se ke svým POKéMONŮM chováš\n"
+    .string "laskavě, pochopí to.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveIntro::
-    .string "EVE: I'll team up with JON and\n"
-    .string "battle together.$"
+    .string "EVE: Spojím se s JONEM a budeme\n"
+    .string "bojovat spolu.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveDefeat::
-    .string "EVE: Me and JON, we lost.\n"
-    .string "Ehehe.$"
+    .string "EVE: Já a JON jsme prohráli.\n"
+    .string "Hehe.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EvePostBattle::
-    .string "EVE: I'm going to work harder with\n"
-    .string "JON.$"
+    .string "EVE: Budu se s JONEM víc snažit.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveNotEnoughMons::
-    .string "EVE: I want to team up with JON\n"
-    .string "when I battle you.\p"
-    .string "Come back with two POKéMON, okay?$"
+    .string "EVE: Chci s tebou bojovat v týmu\n"
+    .string "s JONEM.\p"
+    .string "Vrať se se dvěma POKéMONY, jo?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonIntro::
-    .string "JON: When I'm with EVE, it feels\n"
-    .string "like we could never lose.$"
+    .string "JON: Když jsem s EVE, mám pocit,\n"
+    .string "že nemůžeme prohrát.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonDefeat::
-    .string "JON: When I'm with EVE,\n"
-    .string "it doesn't feel like I've lost!$"
+    .string "JON: Když jsem s EVE, nepřipadá\n"
+    .string "mi, že jsem prohrál!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonPostBattle::
-    .string "JON: When I'm with EVE, I feel\n"
-    .string "giddy whether I win or lose.\p"
-    .string "It's magical!$"
+    .string "JON: Když jsem s EVE, jsem jako\n"
+    .string "opilý, ať vyhraju, nebo prohraju.\p"
+    .string "Je to kouzelné!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonNotEnoughMons::
-    .string "JON: If it's with EVE, I'll be\n"
-    .string "happy to battle with you.\p"
-    .string "So, I'd like to make it a\n"
-    .string "two-on-two battle, if I may.$"
+    .string "JON: Když to bude s EVE, rád\n"
+    .string "s tebou budu bojovat.\p"
+    .string "Takže bych chtěl souboj dva na\n"
+    .string "dva, jestli můžu.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_RouteSign::
-    .string "SEVAULT CANYON ENTRANCE\p"
-    .string "TRAINERS are asked to refrain from\n"
-    .string "damaging plants in the CANYON.$"
+    .string "VCHOD DO SEVAULT CANYON\p"
+    .string "TRENÉŘI jsou žádáni, aby\n"
+    .string "v CANYONU neničili rostliny.$"
 

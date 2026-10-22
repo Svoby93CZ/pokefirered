@@ -1,33 +1,33 @@
 PokemonMansion_Text_PressSecretSwitch::
-    .string "A secret switch!\p"
-    .string "Press it?$"
+    .string "Tajný vypínač!\p"
+    .string "Zmáčknout?$"
 
 PokemonMansion_Text_WhoWouldnt::
-    .string "Who wouldn't?$"
+    .string "Kdo by odolal?$"
 
 PokemonMansion_Text_NotQuiteYet::
-    .string "Not quite yet!$"
+    .string "Ještě ne!$"
 
 PokemonMansion_1F_Text_ArnieIntro::
-    .string "I can't get out!\n"
-    .string "This old place is one big puzzle.$"
+    .string "Nemůžu se dostat ven! Tohle staré\n"
+    .string "místo je jeden velký hlavolam.$"
 
 PokemonMansion_1F_Text_ArnieDefeat::
-    .string "Oh, no!\n"
-    .string "My bag of loot!$"
+    .string "Ale ne!\n"
+    .string "Můj pytel s lupem!$"
 
 PokemonMansion_1F_Text_ArniePostBattle::
-    .string "The switches here open and close\n"
-    .string "alternating sets of doors.$"
+    .string "Vypínače tady střídavě otevírají\n"
+    .string "a zavírají různé dveře.$"
 
 PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
-    .string "Diary: July 5\n"
-    .string "Guyana, South America\p"
-    .string "A new POKéMON was discovered deep\n"
-    .string "in the jungle.$"
+    .string "Deník: 5. července\n"
+    .string "Guyana, Jižní Amerika\p"
+    .string "Hluboko v džungli byl objeven nový\n"
+    .string "POKéMON.$"
 
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
-    .string "Diary: July 10\n"
-    .string "We christened the newly discovered\l"
-    .string "POKéMON, MEW.$"
+    .string "Deník: 10. července\n"
+    .string "Nově objeveného POKéMONA jsme\l"
+    .string "pojmenovali MEW.$"
 

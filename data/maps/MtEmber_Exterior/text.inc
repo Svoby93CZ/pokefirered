@@ -1,24 +1,23 @@
 Text_ExplosionTeach::
-    .string "Can you imagine?\n"
-    .string "If this volcano were to erupt?\p"
-    .string "The explosion would be the end of\n"
-    .string "us. How terrifying is that?\p"
-    .string "While we're terrified, would you\n"
-    .string "like me to teach EXPLOSION?$"
+    .string "Dovedeš si to představit?\n"
+    .string "Kdyby tahle sopka vybuchla?\p"
+    .string "Ten výbuch by byl náš konec. Není\n"
+    .string "to děsivé?\p"
+    .string "Když už se tak bojíme, nemám\n"
+    .string "tvého POKéMONA naučit EXPLOSION?$"
 
 Text_ExplosionDeclined::
-    .string "Yeah, you're right.\n"
-    .string "It is too terrifying.$"
+    .string "Jo, máš pravdu.\n"
+    .string "Je to moc děsivé.$"
 
 Text_ExplosionWhichMon::
-    .string "You're terribly brave!\p"
-    .string "Which POKéMON should I teach\n"
+    .string "Ty máš ale odvahu!\p"
+    .string "Kterého POKéMONA mám naučit\n"
     .string "EXPLOSION?$"
 
 Text_ExplosionTaught::
-    .string "Using EXPLOSION while on this\n"
-    .string "volcano…\p"
-    .string "What a terrifying thrill!$"
+    .string "Použít EXPLOSION na téhle sopce…\p"
+    .string "To je ale děsivé vzrušení!$"
 
 @ Below 4 are unused JP versions of the above texts
 Text_ExplosionTeachJP::
@@ -42,103 +41,102 @@ Text_ExplosionTaughtJP::
     .string "す　すごい　スリル！$"
 
 MtEmber_Exterior_Text_WellTryDiggingHere::
-    .string "Over here.\n"
-    .string "We'll try digging here.\p"
-    .string "That treasure the ADMINS've been\n"
-    .string "talking about should be here.$"
+    .string "Sem.\n"
+    .string "Zkusíme kopat tady.\p"
+    .string "Ten poklad, o kterém mluvili\n"
+    .string "ADMINI, by měl být tady.$"
 
 MtEmber_Exterior_Text_YoureInTheWayGetLost::
-    .string "What the…?\n"
-    .string "You're in the way. Get lost.$"
+    .string "Co to…?\n"
+    .string "Pleteš se nám tu. Zmiz.$"
 
 MtEmber_Exterior_Text_PunchedThroughAtLast::
-    .string "Whew, punched through at last.\n"
-    .string "Let's go treasure hunting!$"
+    .string "Uf, konečně jsme prorazili.\n"
+    .string "Jdeme hledat poklad!$"
 
 MtEmber_Exterior_Text_WhatsPasswordAgain::
-    .string "Any treasure we find, we haul back\n"
-    .string "to the WAREHOUSE, understood?\p"
-    .string "…Oh, and what're the passwords?\n"
-    .string "At the ROCKET WAREHOUSE, I mean.$"
+    .string "Každý poklad, který najdeme,\n"
+    .string "odvezeme do SKLADU, jasné?\p"
+    .string "…Á, a jaká jsou ta hesla?\n"
+    .string "Do ROCKET WAREHOUSE, myslím.$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
-    .string "What, you forgot the password?\n"
-    .string "There're actually two.\p"
-    .string "The first one's “GOLDEEN need\n"
-    .string "log.”\p"
-    .string "And the second one is…$"
+    .string "Cože, tys zapomněl heslo?\n"
+    .string "Ve skutečnosti jsou dvě.\p"
+    .string "První je “GOLDEEN potřebuje\n"
+    .string "poleno.”\p"
+    .string "A druhé je…$"
 
 MtEmber_Exterior_Text_SnoopsBeenListeningIn::
-    .string "Hey!\n"
-    .string "This snoop's been listening in!$"
+    .string "Hej!\n"
+    .string "Tenhle čmuchal nás poslouchal!$"
 
 MtEmber_Exterior_Text_Grunt1Intro::
-    .string "You've been eavesdropping on us,\n"
-    .string "haven't you?$"
+    .string "Tajně nás posloucháš, co?$"
 
 MtEmber_Exterior_Text_Grunt1Defeat::
-    .string "Huh, what?$"
+    .string "Cože, co?$"
 
 MtEmber_Exterior_Text_Grunt1PostBattle::
-    .string "Why'd you have to win?$"
+    .string "Proč zrovna ty musíš vyhrát?$"
 
 MtEmber_Exterior_Text_Grunt2Intro::
-    .string "Trying to horn in on our treasure?\n"
-    .string "Don't bet on it!$"
+    .string "Chceš se přiživit na našem pokladu?\n"
+    .string "Na to zapomeň!$"
 
 MtEmber_Exterior_Text_Grunt2Defeat::
-    .string "Wait!\n"
-    .string "But how?$"
+    .string "Počkej!\n"
+    .string "Ale jak?$"
 
 MtEmber_Exterior_Text_Grunt2PostBattle::
-    .string "Develop amnesia conveniently and\n"
-    .string "forget everything you heard!$"
+    .string "Hezky si přivoď ztrátu paměti\n"
+    .string "a zapomeň všechno, co tu zaznělo!$"
 
 MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
-    .string "What a setback…\n"
-    .string "We'll have to regroup.\p"
-    .string "You! Don't even think about taking\n"
-    .string "a step inside here!\p"
-    .string "If you know what's good for you,\n"
-    .string "don't even think about this!$"
+    .string "To je ale nezdar…\n"
+    .string "Musíme se přeskupit.\p"
+    .string "Ty! Ani nemysli na to, že sem\n"
+    .string "vkročíš!\p"
+    .string "Jestli ti je život milý, na tohle\n"
+    .string "ani nemysli!$"
 
 MtEmber_Exterior_Text_LoganIntro::
-    .string "An active volcano is one that's\n"
-    .string "erupting, or about to.$"
+    .string "Činná sopka je taková, která soptí,\n"
+    .string "nebo se k tomu chystá.$"
 
 MtEmber_Exterior_Text_LoganDefeat::
-    .string "Whew… That was hot!\n"
-    .string "Sweat's erupting from me!$"
+    .string "Uf… To bylo horké!\n"
+    .string "Pot ze mě přímo tryská!$"
 
 MtEmber_Exterior_Text_LoganPostBattle::
-    .string "They say there're over 1,500\n"
-    .string "active volcanoes in the world.\p"
-    .string "Just thinking about them makes me\n"
-    .string "feel all hot and gooey inside!$"
+    .string "Prý je na světě přes 1 500 činných\n"
+    .string "sopek.\p"
+    .string "Už jen z pomyšlení na ně se uvnitř\n"
+    .string "celý rozpaluju!$"
 
 MtEmber_Exterior_Text_BethIntro::
-    .string "Do you know how caves form inside\n"
-    .string "volcanoes?$"
+    .string "Víš, jak uvnitř sopek vznikají\n"
+    .string "jeskyně?$"
 
 MtEmber_Exterior_Text_BethDefeat::
-    .string "Atchah!\n"
-    .string "You're shockingly good!$"
+    .string "Au!\n"
+    .string "Tobě to jde neuvěřitelně!$"
 
 MtEmber_Exterior_Text_BethPostBattle::
-    .string "When lava at the surface of magma\n"
-    .string "hardens, and the magma inside flows\l"
-    .string "out, caverns are left behind.$"
+    .string "Když láva na povrchu magmatu\n"
+    .string "ztuhne a magma uvnitř vyteče,\l"
+    .string "zůstanou po něm jeskyně.$"
 
 MtEmber_Exterior_Text_JocelynIntro::
-    .string "I've been in training so I can mend\n"
-    .string "my broken heart…\p"
-    .string "It toughened me up physically at\n"
-    .string "least! Hi-yah!$"
+    .string "Trénuju, abych si spravila zlomené\n"
+    .string "srdce…\p"
+    .string "Aspoň mě to fyzicky zocelilo!\n"
+    .string "Hijá!$"
 
 MtEmber_Exterior_Text_JocelynDefeat::
-    .string "I think I tried to overdo it…$"
+    .string "Asi jsem to přehnala…$"
 
 MtEmber_Exterior_Text_JocelynPostBattle::
-    .string "The way you battle, it reminds me\n"
-    .string "of the guy who dumped me…$"
+    .string "Tvůj styl boje mi připomíná toho\n"
+    .string "kluka, co mě nechal…$"
 

@@ -1,8 +1,8 @@
 SSAnne_B1F_Room5_Text_MachokeHasStrengthToMoveRocks::
-    .string "My buddy MACHOKE is super strong!\p"
-    .string "He has enough STRENGTH to move\n"
-    .string "big rocks!$"
+    .string "Můj kámoš MACHOKE je super silný!\p"
+    .string "Díky STRENGTH posune i velké\n"
+    .string "kameny!$"
 
 SSAnne_B1F_Room5_Text_Machoke::
-    .string "MACHOKE: Gwoh! Goggoh!$"
+    .string "MACHOKE: Gvoh! Gogoh!$"
 

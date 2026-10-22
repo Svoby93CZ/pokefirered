@@ -1,17 +1,18 @@
 ThreeIsland_Mart_Text_TrueThatCeldadonDeptStoreBigger::
-    .string "Is it true?\p"
-    .string "CELADON DEPT. STORE is several\n"
-    .string "times bigger than this shop?$"
+    .string "Je to pravda?\p"
+    .string "CELADON DEPT. STORE je několikrát\n"
+    .string "větší než tenhle obchod?$"
 
 ThreeIsland_Mart_Text_PeopleHealWithBerriesFromForest::
-    .string "I sometimes buy medicine here.\p"
-    .string "But a lot of people heal POKéMON\n"
-    .string "with BERRIES from BERRY FOREST.\p"
-    .string "After all, BERRIES are free and\n"
-    .string "they never run out.$"
+    .string "Občas si tu koupím léky.\p"
+    .string "Ale spousta lidí léčí POKéMONY\n"
+    .string "BOBULEMI z BERRY FOREST.\p"
+    .string "BOBULE jsou přece zadarmo a nikdy\n"
+    .string "nedojdou.$"
 
 ThreeIsland_Mart_Text_BikersWereAboutToTrashMart::
-    .string "Those BIKERS were about to trash\n"
-    .string "this POKéMON MART.\p"
-    .string "Am I glad they decided to leave!$"
+    .string "Ti MOTORKÁŘI chtěli tenhle POKéMON\n"
+    .string "MART zdemolovat.\p"
+    .string "Jsem tak rád, že se rozhodli\n"
+    .string "odejít!$"
 

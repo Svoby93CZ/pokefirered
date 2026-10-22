@@ -1,84 +1,83 @@
 MtMoon_B2F_Text_MiguelIntro::
-    .string "Hey, stop!\p"
-    .string "I found these fossils!\n"
-    .string "They're both mine!$"
+    .string "Hej, stůj!\p"
+    .string "Našel jsem tyhle fosilie!\n"
+    .string "Obě jsou moje!$"
 
 MtMoon_B2F_Text_MiguelDefeat::
-    .string "Okay!\n"
-    .string "I'll share!$"
+    .string "Dobře!\n"
+    .string "Rozdělím se!$"
 
 MtMoon_B2F_Text_WellEachTakeAFossil::
-    .string "We'll each take a fossil!\n"
-    .string "No being greedy!$"
+    .string "Každý si vezmeme jednu fosilii!\n"
+    .string "Žádná chamtivost!$"
 
 MtMoon_B2F_Text_ThenThisFossilIsMine::
-    .string "All right.\n"
-    .string "Then this fossil is mine!$"
+    .string "Tak dobře.\n"
+    .string "Tahle fosilie je tedy moje!$"
 
 MtMoon_B2F_Text_LabOnCinnabarRegeneratesFossils::
-    .string "Far away, on CINNABAR ISLAND,\n"
-    .string "there's a POKéMON LAB.\p"
-    .string "They do research on regenerating\n"
-    .string "fossils.$"
+    .string "Daleko odsud, na CINNABAR ISLAND,\n"
+    .string "je POKéMON LABORATOŘ.\p"
+    .string "Zkoumají tam, jak oživit fosilie.$"
 
 MtMoon_B2F_Text_Grunt1Intro::
-    .string "We, TEAM ROCKET, shall find the\n"
-    .string "fossils!\p"
-    .string "Reviving POKéMON from them will\n"
-    .string "earn us huge riches!$"
+    .string "My, TEAM ROCKET, ty fosilie\n"
+    .string "najdeme!\p"
+    .string "Oživíme z nich POKéMONY\n"
+    .string "a vyděláme obrovské jmění!$"
 
 MtMoon_B2F_Text_Grunt1Defeat::
-    .string "Urgh!\n"
-    .string "Now I'm mad!$"
+    .string "Grr!\n"
+    .string "Teď jsem naštvaný!$"
 
 MtMoon_B2F_Text_Grunt1PostBattle::
-    .string "You made me mad!\n"
-    .string "TEAM ROCKET will blacklist you!$"
+    .string "Teď mě to štve! TEAM ROCKET si tě\n"
+    .string "zapíše na černou listinu!$"
 
 MtMoon_B2F_Text_Grunt2Intro::
-    .string "We, TEAM ROCKET, are POKéMON\n"
-    .string "gangsters!\l"
-    .string "We strike fear with our strength!$"
+    .string "My, TEAM ROCKET, jsme\n"
+    .string "POKéMON gangsteři!\l"
+    .string "Naše síla nahání hrůzu!$"
 
 MtMoon_B2F_Text_Grunt2Defeat::
-    .string "I blew it!$"
+    .string "Pokazil jsem to!$"
 
 MtMoon_B2F_Text_Grunt2PostBattle::
-    .string "Darn it all!\n"
-    .string "My associates won't stand for this!$"
+    .string "Sakra! Tohle moji kumpáni\n"
+    .string "nenechají jen tak!$"
 
 MtMoon_B2F_Text_Grunt3Intro::
-    .string "We're pulling a big job here!\n"
-    .string "Get lost, kid!$"
+    .string "Děláme tu velkou akci!\n"
+    .string "Zmiz, děcko!$"
 
 MtMoon_B2F_Text_Grunt3Defeat::
-    .string "So, you are good…$"
+    .string "Takže na to máš…$"
 
 MtMoon_B2F_Text_Grunt3PostBattle::
-    .string "If you find a fossil, give it to me\n"
-    .string "and scram!$"
+    .string "Jestli najdeš fosilii, dej mi ji\n"
+    .string "a zmiz!$"
 
 MtMoon_B2F_Text_Grunt4Intro::
-    .string "Little kids shouldn't be messing\n"
-    .string "around with grown-ups!\p"
-    .string "It could be bad news!$"
+    .string "Malé děti by se neměly plést do\n"
+    .string "věcí dospělých!\p"
+    .string "Mohl by z toho být průšvih!$"
 
 MtMoon_B2F_Text_Grunt4Defeat::
-    .string "I'm steamed!$"
+    .string "Vře to ve mně!$"
 
 MtMoon_B2F_Text_Grunt4PostBattle::
-    .string "POKéMON lived here long before\n"
-    .string "people came.$"
+    .string "POKéMONI tu žili dávno předtím,\n"
+    .string "než přišli lidé.$"
 
 MtMoon_B2F_Text_YouWantDomeFossil::
-    .string "Do you want the DOME FOSSIL?$"
+    .string "Chceš DOME FOSSIL?$"
 
 MtMoon_B2F_Text_YouWantHelixFossil::
-    .string "Do you want the HELIX FOSSIL?$"
+    .string "Chceš HELIX FOSSIL?$"
 
 MtMoon_B2F_Text_ObtainedHelixFossil::
-    .string "Obtained the HELIX FOSSIL!$"
+    .string "Získáno: HELIX FOSSIL!$"
 
 MtMoon_B2F_Text_ObtainedDomeFossil::
-    .string "Obtained the DOME FOSSIL!$"
+    .string "Získáno: DOME FOSSIL!$"
 

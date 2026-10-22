@@ -1,73 +1,70 @@
 FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZone::
-    .string "Welcome to the SAFARI ZONE!$"
+    .string "Vítejte v SAFARI ZONE!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
-    .string "For just ¥500, you can play the\n"
+    .string "Za pouhých ¥500 si můžete zahrát\n"
     .string "SAFARI GAME.\p"
-    .string "You can roam the wide-open safari\n"
-    .string "and catch what you like.\p"
-    .string "Would you like to play?$"
+    .string "Můžete se volně toulat rozlehlým\n"
+    .string "safari a chytat, co se vám líbí.\p"
+    .string "Chcete si zahrát?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
-    .string "That'll be ¥500, please!\p"
-    .string "We only use a special kind of \n"
-    .string "POKé BALLS here.$"
+    .string "To bude ¥500, prosím!\p"
+    .string "Používáme tu jen speciální druh\n"
+    .string "POKé BALLŮ.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
-    .string "{PLAYER} received 30 SAFARI BALLS\n"
-    .string "from the attendant.$"
+    .string "{PLAYER} dostává od obsluhy\n"
+    .string "30 SAFARI BALLS.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
-    .string "We'll call you on the PA when you\n"
-    .string "run out of time or SAFARI BALLS.\p"
-    .string "Well, I'll wish you the best of\n"
-    .string "luck!$"
+    .string "Až vám vyprší čas nebo dojdou\n"
+    .string "SAFARI BALLS, ozveme se\l"
+    .string "v rozhlase.\p"
+    .string "Tak vám přeji hodně štěstí!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgain::
-    .string "Okay.\n"
-    .string "Please come again!$"
+    .string "Dobře.\n"
+    .string "Přijďte zase!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OopsNotEnoughMoney::
-    .string "Oops!\n"
-    .string "Not enough money!$"
+    .string "Jejda!\n"
+    .string "Nemáte dost peněz!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarly::
-    .string "Are you going to leave the\n"
-    .string "SAFARI ZONE early?$"
+    .string "Chcete SAFARI ZONE opustit dřív?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBalls::
-    .string "Please return any SAFARI BALLS\n"
-    .string "you may have left.$"
+    .string "Vraťte prosím zbylé SAFARI BALLS.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoodLuck::
-    .string "Good luck!$"
+    .string "Hodně štěstí!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CatchFairShareComeAgain::
-    .string "Did you catch your fair share?\n"
-    .string "Come again!$"
+    .string "Byl úlovek dobrý?\n"
+    .string "Přijďte zase!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone::
-    .string "Hi! Is it your first time here at\n"
-    .string "the SAFARI ZONE?$"
+    .string "Dobrý den! Jste v SAFARI ZONE\n"
+    .string "poprvé?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
-    .string "The SAFARI ZONE actually has\n"
-    .string "four zones in it.\p"
-    .string "Each zone has different kinds of\n"
-    .string "POKéMON, even some rare ones.\p"
-    .string "Use the supplied SAFARI BALLS to\n"
-    .string "catch them.\p"
-    .string "You can also throw BAIT or ROCKS\n"
-    .string "besides the SAFARI BALLS.\p"
-    .string "If you throw BAIT, the POKéMON\n"
-    .string "becomes less likely to flee, but\l"
-    .string "harder to catch.\p"
-    .string "If you throw ROCKS, the POKéMON\n"
-    .string "becomes more likely to flee, but\l"
-    .string "easier to catch.\p"
-    .string "When you run out of time or SAFARI\n"
-    .string "BALLS, it's game over for you!$"
+    .string "SAFARI ZONE má ve skutečnosti\n"
+    .string "čtyři oblasti.\p"
+    .string "V každé žijí jiní POKéMONI,\n"
+    .string "dokonce i některé vzácné.\p"
+    .string "K chytání použijte přidělené\n"
+    .string "SAFARI BALLS.\p"
+    .string "Kromě SAFARI BALLS můžete házet\n"
+    .string "i KRMENÍ nebo KAMENY.\p"
+    .string "Když hodíte KRMENÍ, POKéMON spíš\n"
+    .string "neuteče, ale hůř se chytá.\p"
+    .string "Když hodíte KÁMEN, POKéMON spíš\n"
+    .string "uteče, ale snáz se chytá.\p"
+    .string "Až vám vyprší čas nebo dojdou\n"
+    .string "SAFARI BALLS, hra pro vás končí!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere::
-    .string "Sorry, you're a regular here!$"
+    .string "Pardon, vy jste tu přece stálý\n"
+    .string "host!$"
 

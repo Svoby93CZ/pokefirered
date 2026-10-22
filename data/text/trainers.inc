@@ -1,614 +1,615 @@
 VSSeeker_Text_BatteryNotChargedNeedXSteps::
-	.string "The battery isn't charged enough.\p"
-	.string "No. of steps required to fully\n"
-	.string "charge the battery: {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
+	.string "Baterie není dost nabitá.\p"
+	.string "Počet kroků potřebný k úplnému\n"
+	.string "nabití baterie: {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
 
 VSSeeker_Text_NoTrainersWithinRange::
-	.string "There are no TRAINERS within range\n"
-	.string "who can battle…\p"
-	.string "The VS SEEKER was turned off.{PAUSE_UNTIL_PRESS}$"
+	.string "V dosahu nejsou žádní TRENÉŘI,\n"
+	.string "kteří by mohli bojovat…\p"
+	.string "VS SEEKER se vypnul.{PAUSE_UNTIL_PRESS}$"
 
 VSSeeker_Text_TrainersNotReady::
-	.string "The other TRAINERS don't appear\n"
-	.string "to be ready for battle.\p"
-	.string "Let's wait till later.{PAUSE_UNTIL_PRESS}$"
+	.string "Ostatní TRENÉŘI zřejmě ještě\n"
+	.string "nejsou připraveni na souboj.\p"
+	.string "Počkáme na později.{PAUSE_UNTIL_PRESS}$"
 
 Route3_Text_ColtonRematchIntro::
-	.string "Hey!\n"
-	.string "I saw you in VIRIDIAN FOREST!$"
+	.string "Hej!\n"
+	.string "Viděl jsem tě ve VIRIDIAN FOREST!$"
 
 Route3_Text_BenRematchIntro::
-	.string "Hi! I like shorts!\n"
-	.string "They're comfy and easy to wear!\p"
-	.string "You should be wearing shorts, too!$"
+	.string "Ahoj! Mám rád kraťasy!\n"
+	.string "Jsou pohodlné a snadno se nosí!\p"
+	.string "Taky nos kraťasy!$"
 
 Route3_Text_JaniceRematchIntro::
-	.string "Excuse me!\n"
-	.string "You keep looking at me, don't you?$"
+	.string "Promiň!\n"
+	.string "Pořád se na mě díváš, že jo?$"
 
 Route3_Text_GregRematchIntro::
-	.string "You're a TRAINER, aren't you?\n"
-	.string "Let's get with it right away!$"
+	.string "Ty jsi TRENÉR, že jo?\n"
+	.string "Tak se do toho hned pusťme!$"
 
 Route3_Text_SallyRematchIntro::
-	.string "That look you give me…\n"
-	.string "It intrigues me so!$"
+	.string "Ten tvůj pohled…\n"
+	.string "Tak strašně mě zajímá!$"
 
 Route3_Text_CalvinRematchIntro::
-	.string "Hey! What's wrong with you?\n"
-	.string "You're still not wearing shorts!$"
+	.string "Hej! Co je s tebou?\n"
+	.string "Pořád nenosíš kraťasy!$"
 
 Route3_Text_JamesRematchIntro::
-	.string "I'll battle you with the POKéMON\n"
-	.string "I started raising.$"
+	.string "Budu s tebou bojovat s POKéMONY,\n"
+	.string "které jsem začal vychovávat.$"
 
 Route3_Text_RobinRematchIntro::
-	.string "Eek!\n"
-	.string "Did you push me?$"
+	.string "Íík!\n"
+	.string "Ty do mě strkáš?$"
 
 Route4_Text_CrissyRematchIntro::
-	.string "I always catch mushroom POKéMON\n"
-	.string "on MT. MOON.$"
+	.string "Na MT. MOON vždycky chytám\n"
+	.string "houbové POKéMONY.$"
 
 Route6_Text_RickyRematchIntro::
-	.string "Oh! You're that nosy kid who\n"
-	.string "eavesdropped on us!$"
+	.string "Ó! Ty jsi to zvědavé děcko, co nás\n"
+	.string "poslouchalo!$"
 
 Route6_Text_NancyRematchIntro::
-	.string "Excuse me! Didn't I tell you that\n"
-	.string "this is a private conversation?\p"
-	.string "You shouldn't be listening in,\n"
-	.string "you uncouth person!$"
+	.string "Promiň! Neříkala jsem ti, že tohle\n"
+	.string "je soukromý rozhovor?\p"
+	.string "Nemáš poslouchat, ty nevychovaný\n"
+	.string "člověče!$"
 
 Route6_Text_KeigoRematchIntro::
-	.string "I'm trying to find something good\n"
-	.string "that's not a BUG POKéMON, but…$"
+	.string "Snažím se najít něco dobrého, co\n"
+	.string "není POKéMON typu BUG, ale…$"
 
 Route6_Text_JeffRematchIntro::
-	.string "Huh?\n"
-	.string "You want to go with me again?$"
+	.string "Cože?\n"
+	.string "Chceš se se mnou utkat znovu?$"
 
 Route6_Text_IsabelleRematchIntro::
-	.string "Me?\n"
-	.string "Well, okay. I'll play this once.$"
+	.string "Já?\n"
+	.string "No dobře. Jednou si zahraju.$"
 
 Route6_Text_ElijahRematchIntro::
-	.string "Hey, long time!\n"
-	.string "Have you gotten better?$"
+	.string "Hej, dlouho jsme se neviděli!\n"
+	.string "Jsi lepší?$"
 
 Route8_Text_AidanRematchIntro::
-	.string "You are good at POKéMON, but how\n"
-	.string "is your chemistry grade?$"
+	.string "V POKéMONECH ti to jde, ale jakou\n"
+	.string "máš známku z chemie?$"
 
 Route8_Text_StanRematchIntro::
-	.string "All right!\n"
-	.string "Let's play another game!$"
+	.string "Tak jo!\n"
+	.string "Dáme další hru!$"
 
 Route8_Text_GlennRematchIntro::
-	.string "You need strategy to win at\n"
-	.string "battling.\p"
-	.string "Are you following my advice?$"
+	.string "K vítězství v soubojích\n"
+	.string "potřebuješ strategii.\p"
+	.string "Řídíš se mými radami?$"
 
 Route8_Text_PaigeRematchIntro::
-	.string "I've collected many NIDORAN.\n"
-	.string "I don't want them to evolve, but…$"
+	.string "Nasbírala jsem spoustu NIDORANŮ.\n"
+	.string "Nechci, aby se vyvinuli, ale…$"
 
 Route8_Text_LeslieRematchIntro::
-	.string "School is fun, but I still think\n"
-	.string "POKéMON are fun, too.$"
+	.string "Škola je zábava, ale POKéMONI\n"
+	.string "jsou podle mě taky zábava.$"
 
 Route8_Text_AndreaRematchIntro::
-	.string "MEOWTH and PERSIAN are so cute,\n"
-	.string "meow, meow, meow!$"
+	.string "MEOWTH a PERSIAN jsou tak\n"
+	.string "roztomilí, mňau, mňau, mňau!$"
 
 Route8_Text_MeganRematchIntro::
-	.string "We may look silly standing here\n"
-	.string "like this, but I can still battle.$"
+	.string "Možná tu takhle stojíme hloupě,\n"
+	.string "ale bojovat pořád umím.$"
 
 Route8_Text_RichRematchIntro::
-	.string "I'm a rambling, gaming dude!\n"
-	.string "I'm on a winning streak!$"
+	.string "Jsem potulný hráč!\n"
+	.string "Mám sérii výher!$"
 
 Route8_Text_JuliaRematchIntro::
-	.string "What's a cute, round, and fluffy\n"
-	.string "POKéMON?\p"
-	.string "You already know, don't you?$"
+	.string "Který POKéMON je roztomilý, kulatý\n"
+	.string "a chlupatý?\p"
+	.string "To už přece víš, ne?$"
 
 Route8_Text_RicardoRematchIntro::
-	.string "My bike's still acting up, man.$"
+	.string "Moje motorka pořád zlobí, kámo.$"
 
 Route8_Text_JarenRematchIntro::
-	.string "Okay, kid!\n"
-	.string "Don't expect mercy this time!$"
+	.string "Tak jo, děcko!\n"
+	.string "Tentokrát nečekej slitování!$"
 
 Route8_Text_EliRematchIntro::
-	.string "ELI: Our twin power became even\n"
-	.string "better!$"
+	.string "ELI: Naše síla dvojčat je ještě\n"
+	.string "lepší!$"
 
 Route8_Text_AnneRematchIntro::
-	.string "ANNE: Our twin power powered up!$"
+	.string "ANNE: Naše síla dvojčat zesílila!$"
 
 Route9_Text_AliciaRematchIntro::
-	.string "We're to battle again?\n"
-	.string "This time, you're mine!$"
+	.string "Zase spolu bojujeme?\n"
+	.string "Tentokrát tě dostanu!$"
 
 Route9_Text_ChrisRematchIntro::
-	.string "I haven't forgotten you were with\n"
-	.string "those good-looking POKéMON.$"
+	.string "Nezapomněl jsem na ty tvoje krásné\n"
+	.string "POKéMONY.$"
 
 Route9_Text_DrewRematchIntro::
-	.string "I'm taking ROCK TUNNEL to go to\n"
-	.string "LAVENDER…\p"
-	.string "But I keep getting stopped by\n"
-	.string "everyone along the way…$"
+	.string "Jdu přes ROCK TUNNEL do LAVENDER…\p"
+	.string "Ale všichni mě cestou pořád\n"
+	.string "zastavují…$"
 
 Route9_Text_CaitlinRematchIntro::
-	.string "Don't you dare patronize me today!\n"
-	.string "We're playing for keeps!$"
+	.string "Dneska se mnou nejednej svrchu!\n"
+	.string "Hrajeme naostro!$"
 
 Route9_Text_JeremyRematchIntro::
-	.string "Bwahaha!\n"
-	.string "Great! I was bored again, eh!$"
+	.string "Chachacha!\n"
+	.string "Skvělé! Zase jsem se nudil, co!$"
 
 Route9_Text_BriceRematchIntro::
-	.string "Hahaha!\n"
-	.string "A little toughie, as always!$"
+	.string "Chachacha!\n"
+	.string "Pořád stejně tvrdý oříšek!$"
 
 Route9_Text_BrentRematchIntro::
-	.string "I got up early every day to train\n"
-	.string "my POKéMON from cocoons!$"
+	.string "Každý den jsem brzy vstával\n"
+	.string "a trénoval POKéMONY od kukel!$"
 
 Route9_Text_AlanRematchIntro::
-	.string "Hahahaha!\n"
-	.string "I'll win this time!$"
+	.string "Chachachacha!\n"
+	.string "Tentokrát vyhraju!$"
 
 Route9_Text_ConnerRematchIntro::
-	.string "Go win, my super BUG POKéMON!$"
+	.string "Vyhraj, můj super POKéMONE typu\n"
+	.string "BUG!$"
 
 Route10_Text_MarkRematchIntro::
-	.string "Wow, you came here again?\n"
-	.string "Maybe you're a POKéMANIAC, too?\l"
-	.string "Want to see my collection?$"
+	.string "Páni, zase jsi tady?\n"
+	.string "Taky tě chytla POKéMANIE?\l"
+	.string "Chceš vidět mou sbírku?$"
 
 Route10_Text_ClarkRematchIntro::
-	.string "Ha-hahah-ah-ha!\n"
-	.string "I can't stop sneezing!$"
+	.string "Cha-chach-ach-cha!\n"
+	.string "Nemůžu přestat kýchat!$"
 
 Route10_Text_HermanRematchIntro::
-	.string "Hi, kid!\n"
-	.string "Did I show you my POKéMON?$"
+	.string "Ahoj, děcko!\n"
+	.string "Ukazoval jsem ti svoje POKéMONY?$"
 
 Route10_Text_HeidiRematchIntro::
-	.string "I went out to a POKéMON GYM again.\p"
-	.string "…But I lost as usual.$"
+	.string "Zase jsem šla do POKéMON\n"
+	.string "STADIONU.\p"
+	.string "…Ale prohrála jsem jako vždycky.$"
 
 Route10_Text_TrentRematchIntro::
-	.string "Ah!\n"
-	.string "This mountain air is delicious!\l"
-	.string "It's so good, I can't leave!$"
+	.string "Á!\n"
+	.string "Tenhle horský vzduch je lahodný!\l"
+	.string "Je tak dobrý, že nemůžu odejít!$"
 
 Route10_Text_CarolRematchIntro::
-	.string "My head is starting to spin.\n"
-	.string "I've been hiking for too long…$"
+	.string "Začíná se mi točit hlava.\n"
+	.string "Turistiky už bylo moc…$"
 
 Route11_Text_HugoRematchIntro::
-	.string "Win, lose, or draw!\n"
-	.string "Now for our rematch!$"
+	.string "Výhra, prohra, nebo remíza!\n"
+	.string "Teď je čas na odvetu!$"
 
 Route11_Text_JasperRematchIntro::
-	.string "Competing is the ultimate thrill.\n"
-	.string "I still can't get enough!$"
+	.string "Soutěžení je to největší vzrušení.\n"
+	.string "Pořád ho nemám dost!$"
 
 Route11_Text_EddieRematchIntro::
-	.string "You know, right?\n"
-	.string "Let's go, but don't cheat!$"
+	.string "Víš, ne?\n"
+	.string "Tak jdeme, ale nepodváděj!$"
 
 Route11_Text_BraxtonRematchIntro::
-	.string "Hi, there!\p"
-	.string "But be careful!\n"
-	.string "I'm still laying down some cables!$"
+	.string "Ahoj!\p"
+	.string "Ale pozor!\n"
+	.string "Pořád tu pokládám kabely!$"
 
 Route11_Text_DillonRematchIntro::
-	.string "I became a TRAINER a while ago.\n"
-	.string "But, I think I can win.$"
+	.string "TRENÉREM jsem se stal teprve\n"
+	.string "nedávno. Ale myslím, že vyhraju.$"
 
 Route11_Text_DirkRematchIntro::
-	.string "Fwahaha!\n"
-	.string "I have never lost!\p"
-	.string "…And if I did, I've forgotten all\n"
-	.string "about it!$"
+	.string "Fuchacha!\n"
+	.string "Nikdy jsem neprohrál!\p"
+	.string "…A jestli ano, tak jsem to úplně\n"
+	.string "zapomněl!$"
 
 Route11_Text_DarianRematchIntro::
-	.string "I have never won before…\p"
-	.string "Perhaps I am destined to remain\n"
-	.string "that way…$"
+	.string "Ještě nikdy jsem nevyhrál…\p"
+	.string "Možná je mi souzeno, aby to tak\n"
+	.string "zůstalo…$"
 
 Route11_Text_YasuRematchIntro::
-	.string "I'm the best in my class.\n"
-	.string "I train every morning and night!$"
+	.string "Jsem nejlepší ve třídě.\n"
+	.string "Trénuju každé ráno i večer!$"
 
 Route11_Text_BernieRematchIntro::
-	.string "Keep your eyes out for live wires!$"
+	.string "Dávej pozor na dráty pod proudem!$"
 
 Route11_Text_DaveRematchIntro::
-	.string "I raised my POKéMON carefully.\n"
-	.string "They should be ready by now.\l"
-	.string "This time, they should win, too.$"
+	.string "Své POKéMONY jsem pečlivě\n"
+	.string "vychoval. Už by měli být\l"
+	.string "připravení. Tentokrát by měli\l"
+	.string "i vyhrát.$"
 
 Route12_Text_NedRematchIntro::
-	.string "Yeah!\n"
-	.string "I got a bite, here!\l"
-	.string "Th-this might be the real thing!$"
+	.string "Jo!\n"
+	.string "Něco zabralo!\l"
+	.string "T-tohle by mohlo být ono!$"
 
 Route12_Text_ChipRematchIntro::
-	.string "You're finally here.\n"
-	.string "Fishing is a waiting game.$"
+	.string "Konečně jsi tady.\n"
+	.string "Rybaření je o čekání.$"
 
 Route12_Text_JustinRematchIntro::
-	.string "Still can't find a MOON STONE…\n"
-	.string "Have you found one?$"
+	.string "Pořád nemůžu najít MOON STONE…\n"
+	.string "Nemáš nějaký?$"
 
 Route12_Text_LucaRematchIntro::
-	.string "Electricity has always been my\n"
-	.string "specialty.\p"
-	.string "I don't know a thing about POKéMON\n"
-	.string "of the sea, though.$"
+	.string "Elektřina byla vždycky můj obor.\p"
+	.string "O mořských POKéMONECH ale nevím\n"
+	.string "vůbec nic.$"
 
 Route12_Text_HankRematchIntro::
-	.string "The FISHING FOOL vs. POKéMON KID!\n"
-	.string "Another round, fight!$"
+	.string "RYBÁŘSKÝ BLÁZEN proti\n"
+	.string "POKéMON DĚCKU! Další kolo, boj!$"
 
 Route12_Text_ElliotRematchIntro::
-	.string "I love fishing, don't get me wrong.\n"
-	.string "But, I wish I had more work…\l"
-	.string "…It's hard to give up fishing!$"
+	.string "Rybaření miluju, nechápej mě\n"
+	.string "špatně. Ale kéž bych měl víc\l"
+	.string "práce… …Je těžké s rybařením\l"
+	.string "přestat!$"
 
 Route12_Text_AndrewRematchIntro::
-	.string "What's catching?\p"
-	.string "You'll never know unless you beat\n"
-	.string "me!$"
+	.string "Co bere?\p"
+	.string "To se dozvíš, jen když mě\n"
+	.string "porazíš!$"
 
 Route12_Text_JesRematchIntro::
-	.string "JES: I'll win here today and\n"
-	.string "propose to my GIA.$"
+	.string "JES: Dneska tu vyhraju a požádám\n"
+	.string "svou GIU o ruku.$"
 
 Route12_Text_GiaRematchIntro::
-	.string "GIA: Hey, JES…\n"
-	.string "I've been waiting a long time now.\p"
-	.string "If we win today, I'll marry you!$"
+	.string "GIA: Hele, JES…\n"
+	.string "Čekám už hodně dlouho.\p"
+	.string "Jestli dneska vyhrajeme, vezmu si\n"
+	.string "tě!$"
 
 Route13_Text_SebastianRematchIntro::
-	.string "My bird POKéMON remember you!$"
+	.string "Moji ptačí POKéMONI si tě\n"
+	.string "pamatují!$"
 
 Route13_Text_SusieRematchIntro::
-	.string "I want to be the best TRAINER \n"
-	.string "while I'm a kid!$"
+	.string "Chci být nejlepší TRENÉRKA, dokud\n"
+	.string "jsem dítě!$"
 
 Route13_Text_ValerieRematchIntro::
-	.string "Wow!\n"
-	.string "You got more cool BADGES!$"
+	.string "Páni!\n"
+	.string "Máš další super ODZNAKY!$"
 
 Route13_Text_GwenRematchIntro::
-	.string "My cutely grown POKéMON wish to\n"
-	.string "become reacquainted with you.$"
+	.string "Moji roztomile vyrostlí POKéMONI\n"
+	.string "se s tebou chtějí znovu seznámit.$"
 
 Route13_Text_AlmaRematchIntro::
-	.string "I cleaned out my savings and\n"
-	.string "bought more CARBOS.$"
+	.string "Vybrala jsem všechny úspory\n"
+	.string "a koupila další CARBOS.$"
 
 Route13_Text_PerryRematchIntro::
-	.string "I'm not going to lose this time.\n"
-	.string "The wind's blowing my way!$"
+	.string "Tentokrát neprohraju.\n"
+	.string "Vítr mi fouká do karet!$"
 
 Route13_Text_LolaRematchIntro::
-	.string "Oh, you're back?\p"
-	.string "Sure, I'll play again with you,\n"
-	.string "sweetie.$"
+	.string "Ó, ty jsi zpátky?\p"
+	.string "Jasně, zahraju si s tebou znovu,\n"
+	.string "zlatíčko.$"
 
 Route13_Text_SheilaRematchIntro::
-	.string "Can't you forget that you battled\n"
-	.string "with me?$"
+	.string "Nemůžeš zapomenout na náš souboj?$"
 
 Route13_Text_JaredRematchIntro::
-	.string "What're you starin' at?$"
+	.string "Na co čumíš?$"
 
 Route13_Text_RobertRematchIntro::
-	.string "I always go with bird POKéMON.\n"
-	.string "I've dedicated myself to them.$"
+	.string "Vždycky sázím na ptačí POKéMONY.\n"
+	.string "Zasvětil jsem jim život.$"
 
 Route14_Text_CarterRematchIntro::
-	.string "I used TMs to teach good moves\n"
-	.string "to my POKéMON.$"
+	.string "Pomocí TM jsem naučil své\n"
+	.string "POKéMONY dobré útoky.$"
 
 Route14_Text_MitchRematchIntro::
-	.string "My bird POKéMON should be ready\n"
-	.string "for battle this time.$"
+	.string "Moji ptačí POKéMONI by tentokrát\n"
+	.string "měli být na souboj připravení.$"
 
 Route14_Text_BeckRematchIntro::
-	.string "Are you using TMs on POKéMON?\n"
-	.string "Just holding them is useless.$"
+	.string "Používáš TM na POKéMONY?\n"
+	.string "Jen je nosit je k ničemu.$"
 
 Route14_Text_MarlonRematchIntro::
-	.string "Have you taught your bird POKéMON\n"
-	.string "how to FLY?\p"
-	.string "You'll be able to soar with it into\n"
-	.string "the sky! Give it a try.$"
+	.string "Umí tvůj ptačí POKéMON útok FLY?\p"
+	.string "S ním se vzneseš do nebe! Zkus to.$"
 
 Route14_Text_DonaldRematchIntro::
-	.string "The legend of the winged mirages…\n"
-	.string "You've heard it, right?$"
+	.string "Legenda o okřídlených přízracích…\n"
+	.string "Tu znáš, ne?$"
 
 Route14_Text_BennyRematchIntro::
-	.string "I'm really not into it, but okay.\n"
-	.string "Let's go!$"
+	.string "Moc mě to nebaví, ale dobře.\n"
+	.string "Jdeme na to!$"
 
 Route14_Text_LukasRematchIntro::
-	.string "Hey!\n"
-	.string "I remember you!\p"
-	.string "C'mon, c'mon.\n"
-	.string "Let's go, let's go, let's go!$"
+	.string "Hej!\n"
+	.string "Já si tě pamatuju!\p"
+	.string "No tak, no tak.\n"
+	.string "Jdeme, jdeme, jdeme!$"
 
 Route14_Text_IsaacRematchIntro::
-	.string "You're here again, huh?\n"
-	.string "Shut up and battle.$"
+	.string "Zase jsi tady, co?\n"
+	.string "Drž hubu a bojuj.$"
 
 Route14_Text_GeraldRematchIntro::
-	.string "We've been riding here because of\n"
-	.string "the wide-open spaces.$"
+	.string "Jezdíme tady kvůli širým\n"
+	.string "prostranstvím.$"
 
 Route14_Text_MalikRematchIntro::
-	.string "POKéMON battle, right?\n"
-	.string "Cool! Rumble!$"
+	.string "Souboj POKéMONŮ, jo?\n"
+	.string "Paráda! Do toho!$"
 
 Route14_Text_KiriRematchIntro::
-	.string "KIRI: JAN, I hope we win today.$"
+	.string "KIRI: JAN, doufám, že dneska\n"
+	.string "vyhrajeme.$"
 
 Route14_Text_JanRematchIntro::
-	.string "JAN: KIRI, here we go!\n"
-	.string "Let's win for sure this time!$"
+	.string "JAN: KIRI, jdeme na to!\n"
+	.string "Tentokrát určitě vyhrajeme!$"
 
 Route15_Text_KindraRematchIntro::
-	.string "I'm going to keep battling with the\n"
-	.string "POKéMON I got in trades.$"
+	.string "Budu dál bojovat s POKéMONY,\n"
+	.string "které jsem získala výměnou.$"
 
 Route15_Text_BeckyRematchIntro::
-	.string "You look gentle, so I think I can\n"
-	.string "beat you.\p"
-	.string "I'll give it one more go!$"
+	.string "Vypadáš mírně, tak si myslím, že\n"
+	.string "tě porazím.\p"
+	.string "Zkusím to ještě jednou!$"
 
 Route15_Text_EdwinRematchIntro::
-	.string "When I whistle, bird POKéMON\n"
-	.string "gather around.\p"
-	.string "They're amazingly cute!$"
+	.string "Když zapískám, ptačí POKéMONI se\n"
+	.string "slétnou.\p"
+	.string "Jsou úžasně roztomilí!$"
 
 Route15_Text_ChesterRematchIntro::
-	.string "Hmm? My birds are shivering!\n"
-	.string "Wait, aren't you that TRAINER…$"
+	.string "Hm? Moji ptáci se třesou!\n"
+	.string "Počkat, to jsi zase ty…$"
 
 Route15_Text_GraceRematchIntro::
-	.string "Oh, you're a little cutie!\n"
-	.string "So like a darling POKéMON!\l"
-	.string "I remember you now!$"
+	.string "Ó, ty jsi ale zlatíčko!\n"
+	.string "Jako roztomilý POKéMON!\l"
+	.string "Už si tě pamatuju!$"
 
 Route15_Text_OliviaRematchIntro::
-	.string "I raise POKéMON for protection\n"
-	.string "because I live alone.\p"
-	.string "That hasn't changed.$"
+	.string "Chovám POKéMONY pro ochranu,\n"
+	.string "protože žiju sama.\p"
+	.string "To se nezměnilo.$"
 
 Route15_Text_ErnestRematchIntro::
-	.string "Hey, kid! C'mon!\n"
-	.string "I got these off some loser!$"
+	.string "Hej, děcko! No tak! Tyhle jsem\n"
+	.string "sebral nějakýmu ubožákovi!$"
 
 Route15_Text_AlexRematchIntro::
-	.string "Fork over all your cash when you\n"
-	.string "lose to me, kid!$"
+	.string "Až prohraješ, vysypeš všechny\n"
+	.string "prachy, děcko!$"
 
 Route15_Text_CeliaRematchIntro::
-	.string "What's cool and happening?\n"
-	.string "Trading POKéMON, of course.$"
+	.string "Co je teď super a v kurzu?\n"
+	.string "Přece výměna POKéMONŮ.$"
 
 Route15_Text_YazminRematchIntro::
-	.string "Want to play with my POKéMON\n"
-	.string "again?$"
+	.string "Chceš si zase hrát s mými\n"
+	.string "POKéMONY?$"
 
 Route15_Text_MyaRematchIntro::
-	.string "MYA: Hi, we keep meeting,\n"
-	.string "don't we?\p"
-	.string "Help me train my little brother\n"
-	.string "again?$"
+	.string "MYA: Ahoj, pořád se potkáváme,\n"
+	.string "že?\p"
+	.string "Pomůžeš mi zase trénovat mého\n"
+	.string "brášku?$"
 
 Route15_Text_RonRematchIntro::
-	.string "RON: My sister's gotten more\n"
-	.string "powerful…$"
+	.string "RON: Ségra je ještě silnější…$"
 
 Route16_Text_LaoRematchIntro::
-	.string "What do you want?$"
+	.string "Co chceš?$"
 
 Route16_Text_KojiRematchIntro::
-	.string "Nice BIKE!\n"
-	.string "Hand it over quick!$"
+	.string "Pěkné kolo!\n"
+	.string "Rychle ho sem dej!$"
 
 Route16_Text_LukeRematchIntro::
-	.string "Come out and play, little mouse.\n"
-	.string "I'll treat you right!$"
+	.string "Pojď si hrát, myško.\n"
+	.string "Budu na tebe hodný!$"
 
 Route16_Text_HideoRematchIntro::
-	.string "Hey, wait a second!\n"
-	.string "Don't call me and then run away!$"
+	.string "Hej, počkej!\n"
+	.string "Nevolej na mě a pak neutíkej!$"
 
 Route16_Text_CamronRematchIntro::
-	.string "I'm feeling hungry and mean!\n"
-	.string "I really need a punching bag!$"
+	.string "Mám hlad a vztek!\n"
+	.string "Fakt potřebuju boxovací pytel!$"
 
 Route16_Text_RubenRematchIntro::
-	.string "Hey, there!\n"
-	.string "We'll have ourselves a good time!$"
+	.string "Ahoj!\n"
+	.string "Pořádně si to užijeme!$"
 
 Route16_Text_JedRematchIntro::
-	.string "JED: Are you here to see our\n"
-	.string "love, which knows no bounds?$"
+	.string "JED: Přicházíš obdivovat naši\n"
+	.string "nekonečnou lásku?$"
 
 Route16_Text_LeaRematchIntro::
-	.string "LEA: Sometimes, the intensity of\n"
-	.string "our love scares me.$"
+	.string "LEA: Někdy mě síla naší lásky až\n"
+	.string "děsí.$"
 
 Route17_Text_RaulRematchIntro::
-	.string "I told you, there's no getting rich\n"
-	.string "quick in battling kids.$"
+	.string "Říkal jsem ti, že na soubojích\n"
+	.string "s děckama nezbohatneš.$"
 
 Route17_Text_IsaiahRematchIntro::
-	.string "I'm mighty proud of my bod, kiddo.\n"
-	.string "Come on!$"
+	.string "Na svoje tělo jsem pěkně pyšnej,\n"
+	.string "prcku. Tak pojď!$"
 
 Route17_Text_VirgilRematchIntro::
-	.string "You out for a stroll?$"
+	.string "Jdeš se projít?$"
 
 Route17_Text_BillyRematchIntro::
-	.string "We're BIKERS!\n"
-	.string "We rule the roads, man!$"
+	.string "Jsme MOTORKÁŘI!\n"
+	.string "Silnice patří nám, kámo!$"
 
 Route17_Text_NikolasRematchIntro::
-	.string "VOLTORB's going to seriously\n"
-	.string "electrify you today!$"
+	.string "VOLTORB tě dneska pořádně\n"
+	.string "zelektrizuje!$"
 
 Route17_Text_ZeekRematchIntro::
-	.string "I leveled up my POKéMON, but it\n"
-	.string "absolutely won't evolve. Why?$"
+	.string "Zvýšil jsem POKéMONOVI úroveň, ale\n"
+	.string "vůbec se nevyvíjí. Proč?$"
 
 Route17_Text_JamalRematchIntro::
-	.string "Gaah! I really need to exercise\n"
-	.string "and seriously trim some flab!$"
+	.string "Ach jo! Fakt musím cvičit\n"
+	.string "a zhubnout pár špeků!$"
 
 Route17_Text_CoreyRematchIntro::
-	.string "Be a rebel!$"
+	.string "Buď rebel!$"
 
 Route17_Text_JaxonRematchIntro::
-	.string "Yep, that's a nice BIKE!\n"
-	.string "How's it handle?$"
+	.string "Jo, to je pěkné kolo!\n"
+	.string "Jak se ovládá?$"
 
 Route17_Text_WilliamRematchIntro::
-	.string "Get lost, kid!\n"
-	.string "I'm bushed!$"
+	.string "Zmiz, děcko!\n"
+	.string "Jsem utahanej!$"
 
 Route18_Text_WiltonRematchIntro::
-	.string "I've been checking every grassy\n"
-	.string "area for new POKéMON.\p"
-	.string "But it's not always easy…$"
+	.string "Prolézám každý travnatý kousek\n"
+	.string "a hledám nové POKéMONY.\p"
+	.string "Ale není to vždycky snadné…$"
 
 Route18_Text_RamiroRematchIntro::
-	.string "Koorukukukoo!\n"
-	.string "Is my birdcall getting better?$"
+	.string "Kurukukukú!\n"
+	.string "Zlepšuje se můj ptačí hvizd?$"
 
 Route18_Text_JacobRematchIntro::
-	.string "I warned you before, this is my\n"
-	.string "turf!\p"
-	.string "I don't want you coming around.$"
+	.string "Už jsem tě varoval, tohle je můj\n"
+	.string "rajón!\p"
+	.string "Nechci tě tu vidět.$"
 
 Route19_Text_RichardRematchIntro::
-	.string "I'm almost warmed up to go\n"
-	.string "out for a swim.$"
+	.string "Už jsem skoro rozehřátý na\n"
+	.string "plavání.$"
 
 Route19_Text_ReeceRematchIntro::
-	.string "Wait! Slow down!\n"
-	.string "What if you have a heart attack?$"
+	.string "Počkej! Zpomal!\n"
+	.string "Co když dostaneš infarkt?$"
 
 Route19_Text_MatthewRematchIntro::
-	.string "I love swimming!\n"
-	.string "I guess you're the surfing type.$"
+	.string "Miluju plavání!\n"
+	.string "Ty asi spíš surfuješ.$"
 
 Route19_Text_DouglasRematchIntro::
-	.string "What's beyond the horizon?\n"
-	.string "Have you seen?$"
+	.string "Co je za obzorem?\n"
+	.string "Víš to?$"
 
 Route19_Text_DavidRematchIntro::
-	.string "I tried diving for POKéMON again,\n"
-	.string "but it was a no-go like before.$"
+	.string "Zkusil jsem se zase potápět za\n"
+	.string "POKéMONY, ale jako minule nic.$"
 
 Route19_Text_TonyRematchIntro::
-	.string "I look at the sea to forget all\n"
-	.string "the bad things that happened.\p"
-	.string "…Like losing to you the last time!$"
+	.string "Dívám se na moře, abych zapomněl\n"
+	.string "na všechno špatné.\p"
+	.string "…Jako na prohru s tebou minule!$"
 
 Route19_Text_AnyaRematchIntro::
-	.string "You always get to ride your\n"
-	.string "POKéMON…\p"
-	.string "It looks so relaxing.\n"
-	.string "Can I have it if I win?$"
+	.string "Ty se pořád vozíš na svém\n"
+	.string "POKéMONOVI…\p"
+	.string "Vypadá to tak pohodlně.\n"
+	.string "Dostanu ho, když vyhraju?$"
 
 Route19_Text_AliceRematchIntro::
-	.string "Swimming's great!\n"
-	.string "Sunburns aren't!$"
+	.string "Plavání je super!\n"
+	.string "Spálená kůže ne!$"
 
 Route19_Text_AxleRematchIntro::
-	.string "These waters are treacherous!\n"
-	.string "You shouldn't come back here!$"
+	.string "Tyhle vody jsou zrádné!\n"
+	.string "Sem se už nevracej!$"
 
 Route19_Text_ConnieRematchIntro::
-	.string "I swam here with my friends…\n"
-	.string "I'm tired…\l"
-	.string "Must we really battle again?$"
+	.string "Plavala jsem sem s kamarády…\n"
+	.string "Jsem unavená…\l"
+	.string "Musíme fakt zase bojovat?$"
 
 Route19_Text_LiaRematchIntro::
-	.string "LIA: You know my brother just\n"
-	.string "became a TRAINER, right?\p"
-	.string "I want to make him better, so I\n"
-	.string "need your help again.$"
+	.string "LIA: Víš, že se můj brácha právě\n"
+	.string "stal TRENÉREM, ne?\p"
+	.string "Chci, aby se zlepšil, tak zase\n"
+	.string "potřebuju tvou pomoc.$"
 
 Route19_Text_LucRematchIntro::
-	.string "LUC: My big sis taught me all\n"
-	.string "about POKéMON.\p"
-	.string "I wonder if I'm better?$"
+	.string "LUC: Ségra mě naučila všechno\n"
+	.string "o POKéMONECH.\p"
+	.string "Jsem lepší?$"
 
 Route20_Text_BarryRematchIntro::
-	.string "The water is shallow here.\n"
-	.string "There are many people swimming.$"
+	.string "Voda je tu mělká.\n"
+	.string "Plave tu spousta lidí.$"
 
 Route20_Text_ShirleyRematchIntro::
-	.string "Are you jealous that I'm\n"
-	.string "vacationing on SEAFOAM?$"
+	.string "Žárlíš, že mám dovolenou na\n"
+	.string "SEAFOAM?$"
 
 Route20_Text_TiffanyRematchIntro::
-	.string "I love floating with the fishes\n"
-	.string "here among the waves.$"
+	.string "Ráda se tu nechávám nést vlnami\n"
+	.string "mezi rybami.$"
 
 Route20_Text_IreneRematchIntro::
-	.string "Were you on vacation, too?$"
+	.string "Ty jsi tu taky na dovolené?$"
 
 Route20_Text_DeanRematchIntro::
-	.string "Check out my physique!\p"
-	.string "It's even more buff than ever\n"
-	.string "before!$"
+	.string "Mrkni na mou postavu!\p"
+	.string "Je ještě svalnatější než dřív!$"
 
 Route20_Text_DarrinRematchIntro::
-	.string "Why are you riding a POKéMON?\n"
-	.string "Haven't you learned to swim yet?$"
+	.string "Proč se vozíš na POKéMONOVI?\n"
+	.string "To ještě neumíš plavat?$"
 
 Route20_Text_RogerRematchIntro::
-	.string "I rode my bird POKéMON here.$"
+	.string "Přiletěl jsem sem na svém ptačím\n"
+	.string "POKéMONOVI.$"
 
 Route20_Text_NoraRematchIntro::
-	.string "My boyfriend gave me big pearls.\n"
-	.string "And, they've grown bigger!$"
+	.string "Přítel mi dal velké perly.\n"
+	.string "A ještě vyrostly!$"
 
 Route20_Text_MissyRematchIntro::
-	.string "I swam here from CINNABAR ISLAND.\n"
-	.string "It wasn't easy, like I said.$"
+	.string "Doplavala jsem sem z CINNABAR\n"
+	.string "ISLAND. Jak jsem říkala, nebylo to\l"
+	.string "snadné.$"
 
 Route20_Text_MelissaRematchIntro::
-	.string "CINNABAR, in the west, has a LAB\n"
-	.string "for POKéMON.\p"
-	.string "My daddy works there.$"
+	.string "Na západě, v CINNABAR, je\n"
+	.string "LABORATOŘ pro POKéMONY.\p"
+	.string "Pracuje tam můj táta.$"
 
 Route21_North_Text_RonaldRematchIntro::
-	.string "You want to know if the fish are\n"
-	.string "biting?$"
+	.string "Chceš vědět, jestli ryby berou?$"
 
 Route21_North_Text_WadeRematchIntro::
-	.string "I got a big haul again!\n"
-	.string "Wanna go for it once more?$"
+	.string "Zase mám velký úlovek!\n"
+	.string "Chceš to zkusit ještě jednou?$"
 
 Route21_North_Text_SpencerRematchIntro::
-	.string "The sea cleanses my body and soul!$"
+	.string "Moře mi čistí tělo i duši!$"
 
 @ Unused trainer from RB that had a rematch intro added
 Route21_North_Text_CueBallRematchIntro::
@@ -616,392 +617,387 @@ Route21_North_Text_CueBallRematchIntro::
 	.string "きちまったぜ$"
 
 Route21_South_Text_JackRematchIntro::
-	.string "I caught my POKéMON at sea.\n"
-	.string "And that's where I train them.$"
+	.string "Své POKéMONY jsem chytil na moři.\n"
+	.string "A tam je taky trénuju.$"
 
 Route21_South_Text_JeromeRematchIntro::
-	.string "Right now, I'm in another triathlon\n"
-	.string "meet!$"
+	.string "Zrovna jsem na dalším triatlonu!$"
 
 Route21_South_Text_RolandRematchIntro::
-	.string "Ahh!\n"
-	.string "Feel the sun and the wind!$"
+	.string "Ách!\n"
+	.string "Cíť to slunce a vítr!$"
 
 Route21_South_Text_ClaudeRematchIntro::
-	.string "Hey, cut it out already.\n"
-	.string "You always scare away the fish!$"
+	.string "Hej, už s tím přestaň.\n"
+	.string "Pořád mi plašíš ryby!$"
 
 Route21_South_Text_NolanRematchIntro::
-	.string "Keep me company till I get a hit.$"
+	.string "Dělej mi společnost, než něco\n"
+	.string "zabere.$"
 
 Route21_North_Text_LilRematchIntro::
-	.string "LIL: Huh? A battle again?\n"
-	.string "IAN, can't you do it alone?$"
+	.string "LIL: Cože? Zase souboj?\n"
+	.string "IAN, nezvládneš to sám?$"
 
 Route21_North_Text_IanRematchIntro::
-	.string "IAN: My sis is still a slob.\n"
-	.string "Help me get her into shape!$"
+	.string "IAN: Moje ségra je pořád lajdák.\n"
+	.string "Pomoz mi ji dostat do formy!$"
 
 Route25_Text_JoeyRematchIntro::
-	.string "I won't lose while I'm here!$"
+	.string "Dokud jsem tady, neprohraju!$"
 
 Route25_Text_DanRematchIntro::
-	.string "Dad took me to a great party on\n"
-	.string "the S.S. ANNE at VERMILION CITY.$"
+	.string "Táta mě vzal na skvělou párty na\n"
+	.string "S.S. ANNE ve VERMILION CITY.$"
 
 Route25_Text_FlintRematchIntro::
-	.string "I'm a cool guy.\n"
-	.string "I've got a girlfriend!\p"
-	.string "I'll show her how cool I am for\n"
-	.string "sure this time!$"
+	.string "Jsem frajer.\n"
+	.string "Mám holku!\p"
+	.string "Tentokrát jí určitě ukážu, jaký\n"
+	.string "jsem frajer!$"
 
 Route25_Text_KelseyRematchIntro::
-	.string "Hi!\n"
-	.string "My boyfriend is cool!\l"
-	.string "My conditioning's good today!$"
+	.string "Ahoj!\n"
+	.string "Můj kluk je super!\l"
+	.string "Dneska jsem v dobré formě!$"
 
 Route25_Text_ChadRematchIntro::
-	.string "I had this feeling…\n"
-	.string "I knew I had to battle you again!$"
+	.string "Měl jsem takový pocit… Věděl jsem,\n"
+	.string "že s tebou musím bojovat znovu!$"
 
 Route25_Text_HaleyRematchIntro::
-	.string "My friend has many cute POKéMON.\n"
-	.string "I'm so jealous!$"
+	.string "Moje kamarádka má spoustu\n"
+	.string "roztomilých POKéMONŮ. Tak strašně\l"
+	.string "jí to závidím!$"
 
 Route25_Text_FranklinRematchIntro::
-	.string "I just trained up on MT. MOON,\n"
-	.string "but I've still got gas in the tank!$"
+	.string "Zrovna jsem trénoval na MT. MOON,\n"
+	.string "ale pořád mám v nádrži dost\l"
+	.string "paliva!$"
 
 Route25_Text_NobRematchIntro::
-	.string "A POKéMANIAC lives on the cape.\n"
-	.string "Have you seen his collection?$"
+	.string "Na mysu žije POKéMANIAK.\n"
+	.string "Znáš jeho sbírku?$"
 
 Route25_Text_WayneRematchIntro::
-	.string "You're going to see BILL again?\n"
-	.string "First, we battle!$"
+	.string "Zase jdeš za BILLEM?\n"
+	.string "Nejdřív bojujeme!$"
 
 Route24_Text_ShaneRematchIntro::
-	.string "I saw your feat from the grass!$"
+	.string "Viděl jsem tvůj výkon z trávy!$"
 
 Route24_Text_EthanRematchIntro::
-	.string "Okay!\n"
-	.string "I'll stomp you!$"
+	.string "Dobře!\n"
+	.string "Rozdupu tě!$"
 
 Route24_Text_ReliRematchIntro::
-	.string "You always look so busy…\n"
-	.string "Aren't you getting tired?$"
+	.string "Pořád vypadáš tak zaneprázdněně…\n"
+	.string "Neunavuje tě to?$"
 
 Route24_Text_TimmyRematchIntro::
-	.string "You really must love coming to\n"
-	.string "NUGGET BRIDGE.$"
+	.string "Tebe NUGGET BRIDGE musí fakt\n"
+	.string "bavit.$"
 
 Route24_Text_AliRematchIntro::
-	.string "The time we battled…\p"
-	.string "Even though I was the second in\n"
-	.string "line, I was the best, wasn't I?$"
+	.string "Když jsme spolu bojovali…\p"
+	.string "I když jsem byla druhá v řadě,\n"
+	.string "byla jsem nejlepší, ne?$"
 
 Route24_Text_CaleRematchIntro::
-	.string "People call this the NUGGET\n"
-	.string "BRIDGE!\p"
-	.string "You've already beaten us, so you're\n"
-	.string "not allowed to take the challenge…\p"
-	.string "…But, you're welcome to battle with\n"
-	.string "us again.$"
+	.string "Tomuhle se říká NUGGET BRIDGE!\p"
+	.string "Nás už máš poražené, takže výzvu\n"
+	.string "přijmout nemůžeš…\p"
+	.string "…Ale klidně si s námi zase zabojuj.$"
 
 OneIsland_TreasureBeach_Text_AmaraRematchIntro::
-	.string "Lying back, rocked by the waves…\n"
-	.string "I don't notice time slipping by…$"
+	.string "Ležím na zádech, houpou mě vlny…\n"
+	.string "Ani nevnímám, jak běží čas…$"
 
 OneIsland_KindleRoad_Text_MariaRematchIntro::
-	.string "The weather's gorgeous!\n"
-	.string "I'll try not to spoil it.$"
+	.string "Počasí je nádherné!\n"
+	.string "Zkusím ho nezkazit.$"
 
 OneIsland_KindleRoad_Text_AbigailRematchIntro::
-	.string "My sunburn is starting to hurt…$"
+	.string "Začíná mě pálit spálená kůže…$"
 
 OneIsland_KindleRoad_Text_FinnRematchIntro::
-	.string "The fire bird's mountain casts\n"
-	.string "a huge shadow…$"
+	.string "Hora ohnivého ptáka vrhá obrovský\n"
+	.string "stín…$"
 
 OneIsland_KindleRoad_Text_GarrettRematchIntro::
-	.string "I have this strong feeling that\n"
-	.string "I can win this time!$"
+	.string "Mám silný pocit, že tentokrát\n"
+	.string "vyhraju!$"
 
 OneIsland_KindleRoad_Text_TommyRematchIntro::
-	.string "Wait! Wait a second!\n"
-	.string "I'm sure I've hooked a big one!$"
+	.string "Počkej! Počkej chvilku!\n"
+	.string "Určitě jsem chytil něco velkého!$"
 
 OneIsland_KindleRoad_Text_SharonRematchIntro::
-	.string "You'll help me out with my\n"
-	.string "training again?$"
+	.string "Zase mi pomůžeš s tréninkem?$"
 
 OneIsland_KindleRoad_Text_TanyaRematchIntro::
-	.string "We haven't missed a single day of\n"
-	.string "training yet!$"
+	.string "Ještě jsme nevynechali ani den\n"
+	.string "tréninku!$"
 
 OneIsland_KindleRoad_Text_SheaRematchIntro::
-	.string "Every morning, before breakfast,\n"
-	.string "I swim around this island…\l"
-	.string "Three times!$"
+	.string "Každé ráno před snídaní\n"
+	.string "obeplavu tenhle ostrov…\l"
+	.string "Třikrát!$"
 
 OneIsland_KindleRoad_Text_HughRematchIntro::
-	.string "Dress appropriately for battle!\n"
-	.string "Lose that frivolous outfit, I said!$"
+	.string "Na souboj se oblékej pořádně!\n"
+	.string "Říkal jsem, ať shodíš ten\l"
+	.string "lehkovážný oblek!$"
 
 OneIsland_KindleRoad_Text_BryceRematchIntro::
-	.string "You know, everything tastes great\n"
-	.string "when you're out in the wild.$"
+	.string "Víš, venku v divočině chutná\n"
+	.string "všechno skvěle.$"
 
 OneIsland_KindleRoad_Text_ClaireRematchIntro::
-	.string "I ate too much again, so will you\n"
-	.string "battle us for some exercise?$"
+	.string "Zase jsem se přejedla, tak si\n"
+	.string "s námi dáš souboj na protažení?$"
 
 OneIsland_KindleRoad_Text_KiaRematchIntro::
-	.string "KIA: My big brother and I make\n"
-	.string "an awesome combination!\p"
-	.string "We won't lose this time!$"
+	.string "KIA: Já a můj velký brácha jsme\n"
+	.string "skvělá dvojka!\p"
+	.string "Tentokrát neprohrajeme!$"
 
 OneIsland_KindleRoad_Text_MikRematchIntro::
-	.string "MIK: Together with KIA, we're\n"
-	.string "afraid of nothing!\p"
-	.string "We'll prove it to you this time!$"
+	.string "MIK: S KIA se nebojíme ničeho!\p"
+	.string "Tentokrát ti to dokážeme!$"
 
 ThreeIsland_BondBridge_Text_NikkiRematchIntro::
-	.string "Are we to battle again?$"
+	.string "Máme zase bojovat?$"
 
 ThreeIsland_BondBridge_Text_VioletRematchIntro::
-	.string "From where have you come, and\n"
-	.string "where are you bound?$"
+	.string "Odkud přicházíš a kam máš\n"
+	.string "namířeno?$"
 
 ThreeIsland_BondBridge_Text_AmiraRematchIntro::
-	.string "I want to swim without my float\n"
-	.string "ring soon.$"
+	.string "Chci už brzy plavat bez kruhu.$"
 
 ThreeIsland_BondBridge_Text_AlexisRematchIntro::
-	.string "Yay, yay!\n"
-	.string "POKéMON!$"
+	.string "Jupí, jupí!\n"
+	.string "POKéMONI!$"
 
 ThreeIsland_BondBridge_Text_TishaRematchIntro::
-	.string "Oh, no, didn't I tell you already?\n"
-	.string "Please, stay away from me!$"
+	.string "Ale ne, copak jsem ti to už\n"
+	.string "neříkala? Prosím, drž se ode mě\l"
+	.string "dál!$"
 
 ThreeIsland_BondBridge_Text_JoyRematchIntro::
-	.string "JOY: We've gotten stronger!\n"
-	.string "Lots and lots!$"
+	.string "JOY: Zesílily jsme!\n"
+	.string "Moc a moc!$"
 
 ThreeIsland_BondBridge_Text_MegRematchIntro::
-	.string "MEG: You can't beat us today!$"
+	.string "MEG: Dneska nás neporazíš!$"
 
 FiveIsland_WaterLabyrinth_Text_AlizeRematchIntro::
-	.string "Oh, hello!\p"
-	.string "Are you raising your POKéMON in a\n"
-	.string "good environment?$"
+	.string "Á, dobrý den!\p"
+	.string "Vychováváte své POKéMONY v dobrém\n"
+	.string "prostředí?$"
 
 FiveIsland_ResortGorgeous_Text_DaisyRematchIntro::
-	.string "With these hands, I will create\n"
-	.string "my victory today.$"
+	.string "Těmito rukama si dnes vytvořím\n"
+	.string "vítězství.$"
 
 FiveIsland_ResortGorgeous_Text_CelinaRematchIntro::
-	.string "Must I repeat myself?\n"
-	.string "I'm trying to paint.\l"
-	.string "Please keep out of my sight!$"
+	.string "Musím se opakovat?\n"
+	.string "Snažím se malovat.\l"
+	.string "Prosím, nelez mi na oči!$"
 
 FiveIsland_ResortGorgeous_Text_RaynaRematchIntro::
-	.string "I haven't made any progress…\n"
-	.string "I still can't get the right angle…$"
+	.string "Vůbec se nezlepšuji… Pořád nemůžu\n"
+	.string "najít ten správný úhel…$"
 
 FiveIsland_ResortGorgeous_Text_JackiRematchIntro::
-	.string "Oh, you will give me another\n"
-	.string "opportunity to match wits with you?$"
+	.string "Ó, dáš mi další příležitost změřit\n"
+	.string "s tebou síly?$"
 
 FiveIsland_ResortGorgeous_Text_GillianRematchIntro::
-	.string "They're almost finished making the\n"
-	.string "pool for my POKéMON.\p"
-	.string "You must drop in for a visit.$"
+	.string "Bazén pro moje POKéMONY je skoro\n"
+	.string "hotový.\p"
+	.string "Musíš se přijít podívat.$"
 
 FiveIsland_ResortGorgeous_Text_DestinRematchIntro::
-	.string "I'm a good runner.\n"
-	.string "I've gotten even faster!$"
+	.string "Jsem dobrý běžec.\n"
+	.string "A jsem ještě rychlejší!$"
 
 FiveIsland_ResortGorgeous_Text_TobyRematchIntro::
-	.string "I say, friend!\n"
-	.string "Let us enjoy our time together!$"
+	.string "Ale, příteli!\n"
+	.string "Užijme si spolu chvíli!$"
 
 FiveIsland_MemorialPillar_Text_MiloRematchIntro::
-	.string "I'm the eldest of the BIRD\n"
-	.string "BROTHERS. Remember me?\p"
-	.string "That's right, I'm the one who loves\n"
-	.string "birds for their beaks!$"
+	.string "Jsem nejstarší z PTAČÍCH BRATRŮ.\n"
+	.string "Pamatuješ si mě?\p"
+	.string "Přesně, já miluju ptáky kvůli\n"
+	.string "zobákům!$"
 
 FiveIsland_MemorialPillar_Text_ChazRematchIntro::
-	.string "I'm the middle kid of the BIRD\n"
-	.string "BROTHERS.\p"
-	.string "I'm the one that loves wings.\n"
-	.string "Let's battle again!$"
+	.string "Jsem prostřední z PTAČÍCH BRATRŮ.\p"
+	.string "Já miluju křídla.\n"
+	.string "Zabojujme si znovu!$"
 
 FiveIsland_MemorialPillar_Text_HaroldRematchIntro::
-	.string "I'm the youngest of the BIRD\n"
-	.string "BROTHERS.\p"
-	.string "I love birds for their down.\n"
-	.string "I didn't think I'd see you again!$"
+	.string "Jsem nejmladší z PTAČÍCH BRATRŮ.\p"
+	.string "Ptáky miluju kvůli peří.\n"
+	.string "Nemyslel jsem, že tě ještě uvidím!$"
 
 SixIsland_OutcastIsland_Text_TylorRematchIntro::
-	.string "I'm still having no luck at all.\n"
-	.string "A battle'd be a change of pace!$"
+	.string "Pořád nemám ani trochu štěstí.\n"
+	.string "Souboj bude příjemná změna!$"
 
 SixIsland_OutcastIsland_Text_MymoRematchIntro::
-	.string "Gasp… Gasp…\p"
-	.string "I swam here from SIX ISLAND's port\n"
-	.string "in one go again.$"
+	.string "Lap… Lap…\p"
+	.string "Zase jsem sem doplaval z přístavu\n"
+	.string "SIX ISLAND jedním tahem.$"
 
 SixIsland_OutcastIsland_Text_NicoleRematchIntro::
-	.string "You always come along while I'm\n"
-	.string "swimming.$"
+	.string "Pořád se objevuješ, zrovna když\n"
+	.string "plavu.$"
 
 SixIsland_OutcastIsland_Text_AvaRematchIntro::
-	.string "AVA: Let's have another\n"
-	.string "two-on-two marine battle today!$"
+	.string "AVA: Dáme si dneska zase námořní\n"
+	.string "souboj dva na dva!$"
 
 SixIsland_OutcastIsland_Text_GebRematchIntro::
-	.string "GEB: My big sister and I are way\n"
-	.string "tougher than before!$"
+	.string "GEB: Já a moje velká ségra jsme\n"
+	.string "mnohem drsnější než dřív!$"
 
 SixIsland_GreenPath_Text_JaclynRematchIntro::
-	.string "…Huh?\p"
-	.string "I envision my house, but TELEPORT\n"
-	.string "always brings me here!$"
+	.string "…Hm?\p"
+	.string "Představím si svůj dům, ale\n"
+	.string "TELEPORT mě vždycky přenese sem!$"
 
 SixIsland_WaterPath_Text_RoseRematchIntro::
-	.string "Oh, hello.\n"
-	.string "A pleasant breeze is blowing again.$"
+	.string "Á, dobrý den.\n"
+	.string "Zase fouká příjemný vánek.$"
 
 SixIsland_WaterPath_Text_EdwardRematchIntro::
-	.string "Hehehe, I'm practicing in secret\n"
-	.string "again.$"
+	.string "Hehehe, zase tajně trénuju.$"
 
 SixIsland_WaterPath_Text_SamirRematchIntro::
-	.string "What, you're sick of seeing\n"
-	.string "SWIMMERS like me?\p"
-	.string "Aww, don't be hatin'!\n"
-	.string "Battle with me again.$"
+	.string "Co, už tě nebaví potkávat PLAVCE,\n"
+	.string "jako jsem já?\p"
+	.string "Ále, nezlob se!\n"
+	.string "Zabojuj si se mnou znovu.$"
 
 SixIsland_WaterPath_Text_DeniseRematchIntro::
-	.string "Sigh…\n"
-	.string "My boyfriend's busy again…$"
+	.string "Ach jo…\n"
+	.string "Můj přítel má zase práci…$"
 
 SixIsland_WaterPath_Text_EarlRematchIntro::
-	.string "Come on, tell me, where are the\n"
-	.string "mountains around these parts?$"
+	.string "No tak, řekni mi, kde jsou tady\n"
+	.string "v okolí hory?$"
 
 SixIsland_WaterPath_Text_MiuRematchIntro::
-	.string "MIU: Hello, POKéMON!\n"
-	.string "It's time to play again!$"
+	.string "MIU: Ahoj, POKéMONI!\n"
+	.string "Je čas si zase hrát!$"
 
 SixIsland_WaterPath_Text_MiaRematchIntro::
-	.string "MIA: Hello, POKéMON!\n"
-	.string "It's time to battle again!$"
+	.string "MIA: Ahoj, POKéMONI!\n"
+	.string "Je čas zase bojovat!$"
 
 SixIsland_RuinValley_Text_StanlyRematchIntro::
-	.string "There appear to be many secrets\n"
-	.string "still unsolved in this world.$"
+	.string "Zdá se, že na tomto světě je ještě\n"
+	.string "spousta nevyřešených tajemství.$"
 
 SixIsland_RuinValley_Text_FosterRematchIntro::
-	.string "Hi, didn't we meet before?\n"
-	.string "What compelled you to come back?$"
+	.string "Ahoj, nepotkali jsme se už?\n"
+	.string "Co tě sem zase přivedlo?$"
 
 SixIsland_RuinValley_Text_LarryRematchIntro::
-	.string "It's been said that there are\n"
-	.string "mysterious stones on this island.\p"
-	.string "Have you discovered anything since\n"
-	.string "we last met?$"
+	.string "Říká se, že na tomhle ostrově jsou\n"
+	.string "tajemné kameny.\p"
+	.string "Víš od našeho posledního setkání\n"
+	.string "něco nového?$"
 
 SixIsland_RuinValley_Text_DarylRematchIntro::
-	.string "A rematch with you, so high up!$"
+	.string "Odveta s tebou, takhle vysoko!$"
 
 SixIsland_RuinValley_Text_HectorRematchIntro::
-	.string "I'm pretty familiar with the land\n"
-	.string "around these parts.$"
+	.string "Krajinu tady kolem znám docela\n"
+	.string "dobře.$"
 
 SevenIsland_TrainerTower_Text_DarioRematchIntro::
-	.string "I sensed your approach.$"
+	.string "Vycítil jsem, že se blížíš.$"
 
 SevenIsland_TrainerTower_Text_RodetteRematchIntro::
-	.string "Somewhere on this island, peculiar\n"
-	.string "POKéMON are sleeping.$"
+	.string "Někde na tomhle ostrově spí\n"
+	.string "zvláštní POKéMONI.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MiahRematchIntro::
-	.string "Kyahaha!\p"
-	.string "Coming back won't change a thing.\n"
-	.string "I'll flick you away effortlessly!$"
+	.string "Kjahaha!\p"
+	.string "Návrat nic nezmění.\n"
+	.string "Smetu tě jedním prstem!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MasonRematchIntro::
-	.string "Howdy! You're a member of my\n"
-	.string "fan club, isn't that right?$"
+	.string "Nazdar! Ty patříš do mého\n"
+	.string "fanklubu, že jo?$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_NicolasRematchIntro::
-	.string "This island is too spread out…\n"
-	.string "Patrolling the place is a drag…$"
+	.string "Tenhle ostrov je moc rozlehlý…\n"
+	.string "Hlídkovat tu je otrava…$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_MadelineRematchIntro::
-	.string "I don't forgive people who abuse\n"
-	.string "POKéMON!$"
+	.string "Neodpouštím lidem, kteří týrají\n"
+	.string "POKéMONY!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveRematchIntro::
-	.string "EVE: I'll team up with JON and\n"
-	.string "battle together again.$"
+	.string "EVE: Zase se spojím s JONEM\n"
+	.string "a budeme bojovat spolu.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonRematchIntro::
-	.string "JON: When I'm with EVE, it feels\n"
-	.string "like we could never lose, not ever.$"
+	.string "JON: Když jsem s EVE, mám pocit,\n"
+	.string "že nikdy, ale nikdy neprohrajeme.$"
 
 SevenIsland_SevaultCanyon_Text_CyndyRematchIntro::
-	.string "Let's have another battle.\n"
-	.string "My conditioning's in top form!$"
+	.string "Dáme si další souboj.\n"
+	.string "Jsem ve skvělé formě!$"
 
 SevenIsland_SevaultCanyon_Text_EvanRematchIntro::
-	.string "It doesn't matter if you happen to\n"
-	.string "have the strongest POKéMON…\p"
-	.string "It doesn't mean a thing if you don't\n"
-	.string "know how to use them properly!$"
+	.string "Nezáleží na tom, jestli máš\n"
+	.string "nejsilnější POKéMONY…\p"
+	.string "K ničemu to není, když je neumíš\n"
+	.string "správně používat!$"
 
 SevenIsland_SevaultCanyon_Text_JacksonRematchIntro::
-	.string "I work to protect the environment.\n"
-	.string "In turn, nature protects me!$"
+	.string "Pracuju na ochraně přírody.\n"
+	.string "A příroda zase chrání mě!$"
 
 SevenIsland_SevaultCanyon_Text_KatelynRematchIntro::
-	.string "Every time we meet, you have those\n"
-	.string "snazzy shoes on.$"
+	.string "Pokaždé, když se potkáme, máš na\n"
+	.string "sobě ty parádní boty.$"
 
 SevenIsland_SevaultCanyon_Text_LeroyRematchIntro::
-	.string "You must have gotten tougher.\n"
-	.string "Let me battle you, please!$"
+	.string "Teď jsi určitě silnější.\n"
+	.string "Prosím, zabojuj si se mnou!$"
 
 SevenIsland_SevaultCanyon_Text_MichelleRematchIntro::
-	.string "I was given the best possible\n"
-	.string "education to become this strong.\p"
-	.string "I won't lose this time.\n"
-	.string "Absolutely not!$"
+	.string "Dostala jsem to nejlepší možné\n"
+	.string "vzdělání, abych byla takhle silná.\p"
+	.string "Tentokrát neprohraju.\n"
+	.string "Rozhodně ne!$"
 
 SevenIsland_SevaultCanyon_Text_LexRematchIntro::
-	.string "LEX: My darling NYA, together\n"
-	.string "we will win for certain!$"
+	.string "LEX: Má drahá NYA, spolu určitě\n"
+	.string "vyhrajeme!$"
 
 SevenIsland_SevaultCanyon_Text_NyaRematchIntro::
-	.string "NYA: I won't drag down my mentor\n"
-	.string "LEX! We're going to win!$"
+	.string "NYA: Nebudu svého mistra LEXE\n"
+	.string "brzdit! Vyhrajeme!$"
 
 SevenIsland_TanobyRuins_Text_BrandonRematchIntro::
-	.string "Have you discovered anything about\n"
-	.string "this stone chamber?$"
+	.string "Víš něco nového o téhle kamenné\n"
+	.string "komnatě?$"
 
 SevenIsland_TanobyRuins_Text_BenjaminRematchIntro::
-	.string "A mystic POKéMON is said to sleep\n"
-	.string "inside here.$"
+	.string "Prý tu uvnitř spí mystický POKéMON.$"
 
 SevenIsland_TanobyRuins_Text_EdnaRematchIntro::
-	.string "My teacher is showing me how to\n"
-	.string "paint some more.$"
+	.string "Můj učitel mi ukazuje další\n"
+	.string "malířské triky.$"
 
 SevenIsland_TanobyRuins_Text_CliffordRematchIntro::
-	.string "Today, in addition to our lesson,\n"
-	.string "we came to see the chamber again.$"
+	.string "Dneska jsme se kromě lekce přišli\n"
+	.string "znovu podívat na komnatu.$"

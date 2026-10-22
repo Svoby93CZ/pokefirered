@@ -1,67 +1,63 @@
 SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles::
-    .string "I may not look like much now,\n"
-    .string "but when I was younger…\p"
-    .string "I flew everywhere, challenging\n"
-    .string "TRAINERS wherever I found them.\p"
-    .string "Now, my only source of enjoyment\n"
-    .string "is reminiscing about the past while\l"
-    .string "watching battles.$"
+    .string "Teď možná nevypadám na moc, ale\n"
+    .string "když jsem byla mladší…\p"
+    .string "Létala jsem všude a vyzývala\n"
+    .string "TRENÉRY, kdekoli jsem je našla.\p"
+    .string "Teď je mou jedinou radostí\n"
+    .string "vzpomínat na minulost a dívat se\l"
+    .string "na souboje.$"
 
 SevenIsland_House_Room1_Text_SlightBreezeAroundBox::
-    .string "There is a slight breeze blowing\n"
-    .string "around the box.$"
+    .string "Kolem krabice vane slabý vánek.$"
 
 SevenIsland_House_Room1_Text_ChallengeVisitingTrainer::
-    .string "Ah!\n"
-    .string "Welcome, my friend!\p"
-    .string "Let me tell you something. There's\n"
-    .string "a hidden room in the basement.\p"
-    .string "A TRAINER named {STR_VAR_1} is\n"
-    .string "waiting there now.\p"
-    .string "Tell me, you did come to challenge\n"
-    .string "{STR_VAR_1}, am I right?$"
+    .string "Á!\n"
+    .string "Vítej, vítej!\p"
+    .string "Něco ti povím. Ve sklepě je tajná\n"
+    .string "místnost.\p"
+    .string "Teď tam čeká {STR_VAR_1}.\p"
+    .string "Chceš {STR_VAR_1} vyzvat, že?$"
 
 SevenIsland_House_Room1_Text_OhYouWontBattle::
-    .string "Oh…\n"
-    .string "You won't battle…\p"
-    .string "I see, I see.\n"
+    .string "Ach…\n"
+    .string "Ty nebudeš bojovat…\p"
+    .string "Aha, aha.\n"
     .string "… …\p"
-    .string "Well, perhaps if you change your\n"
-    .string "mind, do come back.$"
+    .string "Při změně názoru se klidně vrať.$"
 
 SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
-    .string "Ah!\n"
-    .string "You will battle for me?\p"
-    .string "It was worth my time moving the\n"
-    .string "box aside, then.\p"
+    .string "Á!\n"
+    .string "Budeš pro mě bojovat?\p"
+    .string "Tak to stálo za to odsunout tu\n"
+    .string "krabici.\p"
     .string "… …\n"
-    .string "But there is one slight problem.\p"
-    .string "This hidden room is not built very\n"
-    .string "sturdy.\p"
-    .string "Can I get you to limit it to\n"
-    .string "battles of three POKéMON per side?$"
+    .string "Ale je tu jeden malý problém.\p"
+    .string "Tahle tajná místnost není moc\n"
+    .string "pevně postavená.\p"
+    .string "Můžu tě poprosit o souboje jen se\n"
+    .string "třemi POKéMONY na každé straně?$"
 
 SevenIsland_House_Room1_Text_SaveProgressBeforeBattle::
-    .string "Fine! Before your battle, would\n"
-    .string "you like to save your game?$"
+    .string "Dobře! Chceš si před soubojem\n"
+    .string "uložit hru?$"
 
 SevenIsland_House_Room1_Text_DontHoldAnythingBack::
-    .string "All right.\n"
-    .string "Don't hold anything back!$"
+    .string "Dobře.\n"
+    .string "Nic nešetři!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_1::
     .string "{STR_VAR_1}$"
 
 SevenIsland_House_Room2_Text_MatchEndedUpDraw::
-    .string "The match ended up a draw.$"
+    .string "Zápas skončil remízou.$"
 
 SevenIsland_House_Room1_Text_DrawWasIt::
-    .string "A draw, was it?\p"
-    .string "However, let me say that it was\n"
-    .string "a worthy spectacle.\p"
-    .string "I'd say it was a wonderful battle\n"
-    .string "with a real sense of depth!$"
+    .string "Remíza, říkáš?\p"
+    .string "Musím ale říct, že to byla\n"
+    .string "podívaná, která stála za to.\p"
+    .string "Řekla bych, že to byl nádherný\n"
+    .string "souboj se skutečnou hloubkou!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_2::
@@ -69,27 +65,27 @@ SevenIsland_House_Room1_Text_StrVar1_2::
 
 SevenIsland_House_Room1_Text_AstoundingBattle::
     .string "Bravo!\p"
-    .string "Bravo, indeed!\n"
-    .string "What an astounding battle!\p"
-    .string "It was so astounding, why, it keeps\n"
-    .string "filling my eyes with tears!\p"
-    .string "The thrust and parry of expertly\n"
-    .string "used techniques!\p"
-    .string "The clash of power upon power!\p"
-    .string "Yes!\n"
-    .string "It was sheer magnificence!$"
+    .string "Vskutku bravo!\n"
+    .string "Jaký ohromující souboj!\p"
+    .string "Byl tak ohromující, že mi pořád\n"
+    .string "vhání slzy do očí!\p"
+    .string "Výpady a kryty mistrně použitých\n"
+    .string "technik!\p"
+    .string "Střet síly se silou!\p"
+    .string "Ano!\n"
+    .string "Bylo to čiré veličenstvo!$"
 
 @ Unused
 SevenIsland_House_Room1_Text_StrVar1_3::
     .string "{STR_VAR_1}$"
 
 SevenIsland_House_Room1_Text_FeelYourDisappointment::
-    .string "Too bad!\n"
-    .string "I feel your disappointment.\p"
-    .string "However, that disappointment is\n"
-    .string "what will make you better.\p"
-    .string "Use it, learn from it, and make it\n"
-    .string "motivate you to seek greatness.\p"
-    .string "Forget not this disappointment\n"
-    .string "and redouble your training!$"
+    .string "Škoda!\n"
+    .string "Cítím tvé zklamání.\p"
+    .string "Ale právě z toho zklamání vyroste\n"
+    .string "tvoje síla.\p"
+    .string "Pouč se z něj a nech se jím hnát\n"
+    .string "za velikostí.\p"
+    .string "Na tohle zklamání nezapomeň\n"
+    .string "a trénuj dvakrát tolik!$"
 

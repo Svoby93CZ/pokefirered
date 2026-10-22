@@ -1,982 +1,947 @@
 Help_Text_WhatShouldIDo::
-	.string "What should I do in this situation?$"
+	.string "Co mám dělat v téhle situaci?$"
 
 Help_Text_HowDoIDoThis::
-	.string "How do I do this?$"
+	.string "Jak se tohle dělá?$"
 
 Help_Text_WhatDoesThisTermMean::
-	.string "What does this term mean?$"
+	.string "Co znamená tenhle pojem?$"
 
 Help_Text_AboutThisGame::
-	.string "About this game$"
+	.string "O této hře$"
 
 Help_Text_TypeMatchupList::
-	.string "Type Matchup List$"
+	.string "Tabulka typů$"
 
 Help_Text_Exit::
-	.string "EXIT$"
+	.string "KONEC$"
 
 Help_Text_Cancel::
-	.string "CANCEL$"
+	.string "ZPĚT$"
 
 Help_Text_TryDoingItOnYourOwn::
 	.string "じぶんの ちからで やってみよう！$"
 
 Help_Text_DescWhatShouldIDo::
-	.string "Select to obtain hints for getting\n"
-	.string "over challenging situations.$"
+	.string "Vyber a dostaneš rady, jak zvládnout\n"
+	.string "těžké situace.$"
 
 Help_Text_DescHowDoIDoThis::
-	.string "Detailed instructions are given for\n"
-	.string "various operations.$"
+	.string "Podrobný návod k různým činnostem.$"
 
 Help_Text_DescWhatDoesThisTermMean::
-	.string "Detailed descriptions are given for\n"
-	.string "terms that appear in the game.$"
+	.string "Podrobné vysvětlení pojmů, které se\n"
+	.string "ve hře objevují.$"
 
 Help_Text_DescAboutThisGame::
-	.string "Detailed descriptions are given\n"
-	.string "about this game.$"
+	.string "Podrobné informace o této hře.$"
 
 Help_Text_DescTypeMatchupList::
-	.string "The matchups of  POKéMON types\n"
-	.string "and moves are listed.$"
+	.string "Přehled, jak si typy POKéMONŮ\n"
+	.string "a útoků vedou proti sobě.$"
 
 Help_Text_DescExit::
-	.string "Select to exit the HELP System.$"
+	.string "Vyber pro ukončení NÁPOVĚDY.$"
 
 Help_Text_Greetings::
-	.string "Greetings! This is the HELP System.\n"
-	.string "Call me up whenever and wherever you\l"
-	.string "need by pressing the L or R Button.\l"
-	.string "The help messages change to suit the\l"
-	.string "situation, so check them often, please.$"
+	.string "Zdravím! Tady NÁPOVĚDA. Zavolej mě\n"
+	.string "kdykoli a kdekoli tlačítkem L nebo R.\l"
+	.string "Rady se mění podle situace, tak se\l"
+	.string "sem prosím často dívej.$"
 
 Help_Text_PlayingForFirstTime::
-	.string "I'm playing for the first time. Help!$"
+	.string "Hraju poprvé. Pomoc!$"
 
 Help_Text_WhatShouldIBeDoing::
-	.string "What should I be doing?$"
+	.string "Co je teď mým úkolem?$"
 
 Help_Text_CantGetOutOfRoom::
-	.string "I can't get out of a room!$"
+	.string "Nemůžu se dostat z místnosti!$"
 
 Help_Text_CantFindPersonIWant::
-	.string "I can't find the person I want.$"
+	.string "Nemůžu najít, koho hledám.$"
 
 Help_Text_TalkedToEveryoneNowWhat::
-	.string "I've talked to everyone. Now what?$"
+	.string "Všichni už mi všechno řekli. Co teď?$"
 
 Help_Text_SomeoneBlockingMyWay::
-	.string "There's someone blocking my way!$"
+	.string "Někdo mi stojí v cestě!$"
 
 Help_Text_ICantGoOn::
-	.string "I can't go on!$"
+	.string "Nemůžu dál!$"
 
 Help_Text_OutOfThingsToDo::
-	.string "I'm out of things to do.$"
+	.string "Už nemám co dělat.$"
 
 Help_Text_WhatHappenedToItemIGot::
-	.string "What happened to the item I got?$"
+	.string "Kde najdu předměty, které dostanu?$"
 
 Help_Text_WhatAreMyAdventureBasics::
-	.string "What are the basics of my adventure?$"
+	.string "Základy mého dobrodružství?$"
 
 Help_Text_HowAreRoadsForestsDifferent::
-	.string "How are roads and forests different?$"
+	.string "Čím se liší cesty a lesy?$"
 
 Help_Text_HowAreCavesDifferent::
-	.string "How are caves different?$"
+	.string "Čím se liší jeskyně?$"
 
 Help_Text_HowDoIProgress::
-	.string "How do I progress?$"
+	.string "Jak se dostanu dál?$"
 
 Help_Text_WhenCanIUseItem::
-	.string "When can I use items?$"
+	.string "Kdy můžu používat předměty?$"
 
 Help_Text_WhatsABattle::
-	.string "What's a battle?$"
+	.string "Co je to souboj?$"
 
 Help_Text_HowDoIPrepareForBattle::
-	.string "How do I prepare for battle?$"
+	.string "Jak se připravit na souboj?$"
 
 Help_Text_WhatIsAMonsVitality::
-	.string "What is a POKéMON's vitality?$"
+	.string "Co je to vitalita POKéMONA?$"
 
 Help_Text_MyMonsAreHurt::
-	.string "My POKéMON are hurt!$"
+	.string "Moji POKéMONI jsou zranění!$"
 
 Help_Text_WhatIsStatusProblem::
-	.string "What is a status problem?$"
+	.string "Co jsou potíže se stavem?$"
 
 Help_Text_WhatHappensIfAllMyMonsFaint::
-	.string "What happens if all my POKéMON faint?$"
+	.string "Co když omdlí všichni moji POKéMONI?$"
 
 Help_Text_CantCatchMons::
-	.string "I can't catch POKéMON!$"
+	.string "Nemůžu chytit POKéMONY!$"
 
 Help_Text_RanOutOfPotions::
-	.string "I ran out of POTIONS.$"
+	.string "Došly mi POTION.$"
 
 Help_Text_CanIBuyPokeBalls::
-	.string "Can I buy POKé BALLS?$"
+	.string "Můžu si koupit POKé BALLY?$"
 
 Help_Text_WhatsATrainer::
-	.string "What's a TRAINER?$"
+	.string "Kdo je TRENÉR?$"
 
 Help_Text_HowDoIWinAgainstTrainer::
-	.string "How do I win against a TRAINER?$"
+	.string "Jak porazím TRENÉRA?$"
 
 Help_Text_WhereDoMonsAppear::
-	.string "Where do POKéMON appear?$"
+	.string "Kde se objevují POKéMONI?$"
 
 Help_Text_WhatAreMoves::
-	.string "What are POKéMON moves?$"
+	.string "Co jsou útoky POKéMONŮ?$"
 
 Help_Text_WhatAreHiddenMoves::
-	.string "What are HIDDEN moves?$"
+	.string "Co jsou SKRYTÉ útoky?$"
 
 Help_Text_WhatMovesShouldIUse::
-	.string "What moves should I use?$"
+	.string "Jaké útoky mám používat?$"
 
 Help_Text_WantToAddMoreMoves::
-	.string "I want to add more moves.$"
+	.string "Chci naučit víc útoků.$"
 
 Help_Text_WantToMakeMonStronger::
-	.string "I want to make my POKéMON stronger.$"
+	.string "Chci, aby byl můj POKéMON silnější.$"
 
 Help_Text_FoeMonsTooStrong::
-	.string "The foe POKéMON are too strong!$"
+	.string "Soupeřovi POKéMONI jsou moc silní!$"
 
 Help_Text_WhatDoIDoInCave::
-	.string "What do I do in a cave?$"
+	.string "Co mám dělat v jeskyni?$"
 
 Help_Text_NothingIWantToKnow::
-	.string "There's nothing that I want to know!$"
+	.string "Nic nepotřebuju vědět!$"
 
 Help_Text_WhatsPokemonCenter::
-	.string "What's a POKéMON CENTER?$"
+	.string "Co je POKéMON CENTER?$"
 
 Help_Text_WhatsPokemonMart::
-	.string "What's a POKéMON MART?$"
+	.string "Co je POKéMON MART?$"
 
 Help_Text_WantToEndGame::
-	.string "I want to end the game.$"
+	.string "Chci ukončit hru.$"
 
 Help_Text_WhatsAMon::
-	.string "What's a POKéMON?$"
+	.string "Co je POKéMON?$"
 
 Help_Text_WhatIsThatPersonLike::
-	.string "What is that person like?$"
+	.string "Jaký je ten člověk?$"
 
 Help_Text_WhatDoesHiddenMoveDo::
-	.string "What does a HIDDEN move do?$"
+	.string "Co dělá SKRYTÝ útok?$"
 
 Help_Text_WhatDoIDoInSafari::
-	.string "What do I do in a SAFARI GAME?$"
+	.string "Co se dělá v SAFARI GAME?$"
 
 Help_Text_WhatAreSafariRules::
-	.string "What are the SAFARI GAME rules?$"
+	.string "Jaká jsou pravidla SAFARI GAME?$"
 
 Help_Text_WantToEndSafari::
-	.string "I want to end this SAFARI GAME!$"
+	.string "Chci ukončit SAFARI GAME!$"
 
 Help_Text_WhatIsAGym::
-	.string "What is a GYM?$"
+	.string "Co je STADION?$"
 
 Help_Text_AnswerPlayingForFirstTime::
-	.string "You become the main character,\n"
-	.string "exploring the world of POKéMON.\l"
-	.string "By talking to people and solving\l"
-	.string "mysteries, new paths will open to you.\l"
-	.string "Strive for the goal together with your\l"
-	.string "wonderful POKéMON.$"
+	.string "Stáváš se hlavní postavou\n"
+	.string "a objevuješ svět POKéMONŮ. Když\l"
+	.string "mluvíš s lidmi a řešíš záhady,\l"
+	.string "otevírají se ti nové cesty. Usiluj\l"
+	.string "o cíl společně se svými úžasnými\l"
+	.string "POKéMONY.$"
 
 Help_Text_AnswerWhatShouldIBeDoing::
-	.string "When you come across another person,\n"
-	.string "go up to them and press the A Button.\l"
-	.string "That will get them to talk and interact\l"
-	.string "with your character. You may also\l"
-	.string "examine various items and objects in\l"
-	.string "the same way. Talk to people and check\l"
-	.string "things often to obtain information.$"
+	.string "Když potkáš jiného člověka, dojdi\n"
+	.string "k němu a stiskni tlačítko A. Tak\l"
+	.string "s tebou začne mluvit. Stejně můžeš\l"
+	.string "prozkoumávat i různé předměty a věci.\l"
+	.string "Často mluv s lidmi a prohlížej věci,\l"
+	.string "ať získáš informace.$"
 
 Help_Text_AnswerCantGetOutOfRoom::
-	.string "On the stairs or the exits of a\n"
-	.string "building is a red mat. Move your\l"
-	.string "character to stand on top of the\l"
-	.string "red mat. Press the {PLUS} Control Pad \l"
-	.string "toward the stairs or the exit to\l"
-	.string "advance.$"
+	.string "U schodů a východů z budov je\n"
+	.string "červená rohožka. Postav se na ni\l"
+	.string "a stiskni ovladač {PLUS} směrem ke schodům\l"
+	.string "nebo k východu.$"
 
 Help_Text_AnswerCantFindPersonIWant::
-	.string "This isn't something you should worry\n"
-	.string "about too much.\l"
-	.string "Talk to other people, check signs,\l"
-	.string "check things, and so on.\l"
-	.string "Sometimes, you may need to just move\l"
-	.string "to a new town or place.$"
+	.string "S tím si nemusíš moc lámat hlavu.\n"
+	.string "Mluv s jinými lidmi, čti cedule,\l"
+	.string "prohlížej věci a podobně. Někdy\l"
+	.string "stačí prostě se přesunout do nového\l"
+	.string "města nebo na nové místo.$"
 
 Help_Text_AnswerTalkedToEveryoneNowWhat::
-	.string "Try moving on to a new road, town, or\n"
-	.string "place.$"
+	.string "Zkus se vydat na novou cestu, do\n"
+	.string "nového města nebo na nové místo.$"
 
 Help_Text_AnswerSomeoneBlockingMyWay::
-	.string "There could be something in the town\n"
-	.string "or inside a building that is the cause.\l"
-	.string "Try talking to the people in the area\l"
-	.string "again. If there is a problem that they\l"
-	.string "need solved, you may have to help.\l"
-	.string "Afterwards, try talking to the person\l"
-	.string "blocking your way again.$"
+	.string "Příčina může být ve městě nebo\n"
+	.string "v nějaké budově. Zkus znovu mluvit\l"
+	.string "s lidmi v okolí. Jestli mají problém,\l"
+	.string "možná jim budeš muset pomoct. Pak\l"
+	.string "zkus znovu promluvit s tím, kdo ti\l"
+	.string "stojí v cestě.$"
 
 Help_Text_AnswerICantGoOn::
-	.string "Try talking to people by going up to\n"
-	.string "them and pressing the A Button.\l"
-	.string "Also, try checking things like odd trees\l"
-	.string "and strange rocks with the A Button.\l"
-	.string "Press the {PLUS} Control Pad and try going\l"
-	.string "to places that look impassable, too.$"
+	.string "Zkus mluvit s lidmi: dojdi k nim\n"
+	.string "a stiskni tlačítko A. Tlačítkem\l"
+	.string "A prozkoumej i zvláštní stromy\l"
+	.string "a divné kameny. Ovladačem {PLUS} zkus jít\l"
+	.string "i tam, kudy to vypadá neprůchodně.$"
 
 Help_Text_AnswerOutOfThingsToDo::
-	.string "Try going to places where you \n"
-	.string "haven't visited yet.\l"
-	.string "Also, check everything that looks\l"
-	.string "suspicious by pressing the A Button.$"
+	.string "Zkus jít na místa, která ještě neznáš.\n"
+	.string "A tlačítkem A prozkoumej všechno, co\l"
+	.string "vypadá podezřele.$"
 
 Help_Text_AnswerWhatHappenedToItemIGot::
-	.string "Any item that you are given by another\n"
-	.string "character goes in your BAG.\l"
-	.string "The item is automatically sorted and\l"
-	.string "placed in one of three pockets.\l"
-	.string "For instructions on the BAG's use,\l"
-	.string "please refer to the HELP System's\l"
-	.string "“How do I do this?” heading.$"
+	.string "Každý předmět, který ti někdo dá,\n"
+	.string "skončí v BATOHU. Předmět se sám\l"
+	.string "zatřídí do jedné ze tří kapes. Návod\l"
+	.string "k BATOHU najdeš v NÁPOVĚDĚ v části\l"
+	.string "“Jak se tohle dělá?”.$"
 
 Help_Text_AnswerWhatAreMyAdventureBasics::
-	.string "If POKéMON are hurt in battle,\n"
-	.string "take them to a POKéMON CENTER and\l"
-	.string "have them healed by the staff.\l"
-	.string "Get in the habit of saving your\l"
-	.string "game and recording your progress.\l"
-	.string "Stock up on healing items at\l"
-	.string "POKéMON MARTS before traveling far.$"
+	.string "Když jsou POKéMONI v souboji\n"
+	.string "zranění, vezmi je do POKéMON CENTER,\l"
+	.string "kde je personál vyléčí. Zvykni si\l"
+	.string "často ukládat hru. Než se vydáš\l"
+	.string "daleko, nakup si v POKéMON MART\l"
+	.string "léčivé předměty.$"
 
 Help_Text_AnswerHowAreRoadsForestsDifferent::
-	.string "Forests are basically the same as\n"
-	.string "roads but they can be like mazes.\l"
-	.string "All forests have a way out, so don't\l"
-	.string "give up if you get lost.$"
+	.string "Lesy jsou v podstatě jako cesty, jen\n"
+	.string "můžou být jako bludiště. Z každého\l"
+	.string "lesa vede cesta ven, tak to\l"
+	.string "nevzdávej, když zabloudíš.$"
 
 Help_Text_AnswerHowAreCavesDifferent::
-	.string "Caves are dark and dangerous. Wild\n"
-	.string "POKéMON can appear anywhere in them.\l"
-	.string "If there is an emergency, rush to a\l"
-	.string "POKéMON CENTER or use items.\l"
-	.string "New towns await discovery beyond some\l"
-	.string "caves, so don't give up.$"
+	.string "Jeskyně jsou temné a nebezpečné.\n"
+	.string "Divocí POKéMONI se v nich můžou\l"
+	.string "objevit kdekoli. V nouzi spěchej do\l"
+	.string "POKéMON CENTER nebo použij předměty.\l"
+	.string "Za některými jeskyněmi čekají nová\l"
+	.string "města, tak to nevzdávej.$"
 
 Help_Text_AnswerHowDoIProgress::
-	.string "The object of the game is to train\n"
-	.string "your POKéMON and move forward.\l"
-	.string "You must collect info and solve\l"
-	.string "problems. For example, what do you\l"
-	.string "need to get around an obstacle?\l"
-	.string "What would get that impeding\l"
-	.string "person out of the way?$"
+	.string "Cílem hry je trénovat POKéMONY\n"
+	.string "a postupovat dál. Musíš sbírat\l"
+	.string "informace a řešit problémy. Co je\l"
+	.string "třeba k obejití překážky? Co by\l"
+	.string "přimělo uhnout toho, kdo ti brání\l"
+	.string "v cestě?$"
 
 Help_Text_AnswerWhenCanIUseItem::
-	.string "There are several kinds of items.\n"
-	.string "Some can be used only on the field.\l"
-	.string "Some are only for use during battle.\l"
-	.string "Some can be used anytime.\l"
-	.string "Try using an item - if it can't be used,\l"
-	.string "you will be alerted.$"
+	.string "Předměty jsou různé. Některé jdou\n"
+	.string "použít jen mimo souboj, jiné jen\l"
+	.string "v souboji a některé kdykoli. Zkus\l"
+	.string "předmět použít. Když to nejde, hra ti\l"
+	.string "to oznámí.$"
 
 Help_Text_AnswerWhatsABattle::
-	.string "In a battle, POKéMON try to reduce\n"
-	.string "one another's vitality, expressed as\l"
-	.string "HP. If a POKéMON's HP falls to zero,\l"
-	.string "it faints, and the other POKéMON\l"
-	.string "wins. By winning a battle, POKéMON\l"
-	.string "earn EXP. Points, which help them\l"
-	.string "level up (grow stronger).$"
+	.string "V souboji se POKéMONI snaží snížit si\n"
+	.string "navzájem vitalitu, tedy HP. Když HP\l"
+	.string "POKéMONA klesnou na nulu, omdlí\l"
+	.string "a druhý vyhrává. Za vítězství\l"
+	.string "získávají POKéMONI EXP. body, díky\l"
+	.string "kterým postupují na vyšší úroveň.$"
 
 Help_Text_AnswerHowDoIPrepareForBattle::
-	.string "First, fully heal the POKéMON in your\n"
-	.string "party (the POKéMON with you) at any\l"
-	.string "POKéMON CENTER.\l"
-	.string "You should also buy healing items for\l"
-	.string "emergencies at a POKéMON MART.$"
+	.string "Nejdřív v POKéMON CENTER plně vyleč\n"
+	.string "POKéMONY ve svém týmu, tedy ty,\l"
+	.string "které máš u sebe. V POKéMON MART si\l"
+	.string "taky kup léčivé předměty pro případ\l"
+	.string "nouze.$"
 
 Help_Text_AnswerWhatIsAMonsVitality::
-	.string "A POKéMON's vitality is expressed in HP.\n"
-	.string "If a POKéMON is hurt in battle, HP is\l"
-	.string "subtracted. If its HP drops to zero,\l"
-	.string "the POKéMON faints.\l"
-	.string "Heal hurt or fainted POKéMON at a\l"
-	.string "POKéMON CENTER or by using items.$"
+	.string "Vitalita POKéMONA se vyjadřuje v HP.\n"
+	.string "Když je POKéMON v souboji zraněný,\l"
+	.string "HP mu ubývají. Když klesnou na nulu,\l"
+	.string "omdlí. Zraněné nebo omdlelé POKéMONY\l"
+	.string "vyléčíš v POKéMON CENTER nebo\l"
+	.string "předměty.$"
 
 Help_Text_AnswerMyMonsAreHurt::
-	.string "A POKéMON CENTER is like an inn for\n"
-	.string "POKéMON. It will fully heal POKéMON of\l"
-	.string "any status problems and fully restore\l"
-	.string "their HP using a special machine.\l"
-	.string "This service is free, so get in the\l"
-	.string "habit of healing your POKéMON often.$"
+	.string "POKéMON CENTER je jako hostinec pro\n"
+	.string "POKéMONY. Speciálním přístrojem jim\l"
+	.string "vyléčí všechny potíže a plně obnoví\l"
+	.string "HP. Služba je zdarma, tak si zvykni\l"
+	.string "léčit POKéMONY často.$"
 
 Help_Text_AnswerWhatIsStatusProblem::
-	.string "A status problem refers to an ailment\n"
-	.string "that is inflicted on a POKéMON by its\l"
-	.string "foe's attack. These include burns,\l"
-	.string "paralysis, poisoning, sleep, and\l"
-	.string "freezing. These can be healed by\l"
-	.string "visiting a POKéMON CENTER or using\l"
-	.string "the appropriate item.$"
+	.string "Potíže se stavem jsou neduhy, které\n"
+	.string "POKéMONOVI způsobí útok soupeře.\l"
+	.string "Patří sem popálení, paralýza, otrava,\l"
+	.string "spánek a zmrznutí. Vyléčíš je\l"
+	.string "v POKéMON CENTER nebo vhodným\l"
+	.string "předmětem.$"
 
 Help_Text_AnswerWhatHappensIfAllMyMonsFaint::
-	.string "If all the POKéMON in your party\n"
-	.string "(all the POKéMON with you) faint, you\l"
-	.string "lose some MONEY, and you are\l"
-	.string "returned home or to a POKéMON\l"
-	.string "CENTER. To reduce that chance, visit\l"
-	.string "POKéMON CENTERS often. Also, get\l"
-	.string "in the habit of saving often.$"
+	.string "Když omdlí všichni POKéMONI v tvém\n"
+	.string "týmu, přijdeš o část PENĚZ a vrátíš\l"
+	.string "se domů nebo do POKéMON CENTER.\l"
+	.string "Proto chodívej často do POKéMON\l"
+	.string "CENTER. A zvykni si často ukládat\l"
+	.string "hru.$"
 
 Help_Text_AnswerCantCatchMons::
-	.string "If a wild POKéMON escapes from a POKé\n"
-	.string "BALL, it's obviously still feisty.\l"
-	.string "Try reducing its HP some more, and\l"
-	.string "try to weaken it with paralysis or sleep\l"
-	.string "before trying to catch it.\l"
-	.string "If the POKé BALL rocks for a while,\l"
-	.string "the quarry is close to being caught!$"
+	.string "Když divoký POKéMON vyklouzne z POKé\n"
+	.string "BALLU, má ještě moc síly. Zkus mu\l"
+	.string "ještě snížit HP a oslabit ho\l"
+	.string "paralýzou nebo spánkem, než ho zkusíš\l"
+	.string "chytit. Když se POKé BALL chvíli\l"
+	.string "kývá, jsi blízko úspěchu!$"
 
 Help_Text_AnswerRanOutOfPotions::
-	.string "There are shops, known as POKéMON\n"
-	.string "MARTS, that sell items.\l"
-	.string "You will not find POKéMON MARTS on\l"
-	.string "roads, in forests, or in caves.\l"
-	.string "Stock up on needed items while you are\l"
-	.string "visiting a town with a POKéMON MART.$"
+	.string "Předměty se prodávají v obchodech,\n"
+	.string "kterým se říká POKéMON MART. Na\l"
+	.string "cestách, v lesích ani v jeskyních je\l"
+	.string "nenajdeš. Potřebné předměty si nakup,\l"
+	.string "když jsi ve městě s POKéMON MART.$"
 
 Help_Text_AnswerCanIBuyPokeBalls::
-	.string "You may buy POKé BALLS at any\n"
-	.string "POKéMON MART in any town.\l"
-	.string "You will not find POKéMON MARTS on\l"
-	.string "roads, in forests, or in caves.\l"
-	.string "Stock up on POKé BALLS while you are\l"
-	.string "visiting a town with a POKéMON MART.$"
+	.string "POKé BALLY koupíš v každém POKéMON\n"
+	.string "MART v kterémkoli městě. Na cestách,\l"
+	.string "v lesích ani v jeskyních POKéMON\l"
+	.string "MART nenajdeš. Zásobu POKé BALLŮ si\l"
+	.string "udělej, když jsi ve městě s POKéMON\l"
+	.string "MART.$"
 
 Help_Text_AnswerWhatsATrainer::
-	.string "A TRAINER is a person who raises\n"
-	.string "POKéMON through battling.\l"
-	.string "TRAINERS will challenge you \l"
-	.string "wherever they are - it could be on\l"
-	.string "a road, in forests, caves, anywhere.\l"
-	.string "If your eyes meet, you have to accept\l"
-	.string "their challenge. So be careful!$"
+	.string "TRENÉR je člověk, který vychovává\n"
+	.string "POKéMONY v soubojích. TRENÉŘI tě\l"
+	.string "vyzvou, ať jsou kdekoli: na cestě,\l"
+	.string "v lese, v jeskyni, kdekoli. Když se\l"
+	.string "vám střetnou pohledy, musíš výzvu\l"
+	.string "přijmout. Tak pozor!$"
 
 Help_Text_AnswerHowDoIWinAgainstTrainer::
-	.string "To beat a TRAINER in battle, use\n"
-	.string "POKéMON that have type advantages\l"
-	.string "over the foe's POKéMON. You may also\l"
-	.string "use highly trained POKéMON with\l"
-	.string "overwhelming power. Outnumbering the\l"
-	.string "foe's POKéMON is another obvious\l"
-	.string "tactic.$"
+	.string "Na TRENÉRA použij POKéMONY, jejichž\n"
+	.string "typ má výhodu proti soupeřovým\l"
+	.string "POKéMONŮM. Můžeš použít i dobře\l"
+	.string "vycvičené POKéMONY s drtivou silou.\l"
+	.string "Další zřejmá taktika je mít víc\l"
+	.string "POKéMONŮ než soupeř.$"
 
 Help_Text_AnswerWhereDoMonsAppear::
-	.string "Wild POKéMON will appear in tall grass,\n"
-	.string "on roads, and in forests. They will\l"
-	.string "appear anywhere in dark caves.\l"
-	.string "There are no wild POKéMON or TRAINERS\l"
-	.string "in towns, so they are safe places.$"
+	.string "Divocí POKéMONI se objevují ve\n"
+	.string "vysoké trávě, na cestách a v lesích.\l"
+	.string "V temných jeskyních se objevují\l"
+	.string "kdekoli. Ve městech nejsou divocí\l"
+	.string "POKéMONI ani TRENÉŘI, takže jsou\l"
+	.string "bezpečná.$"
 
 Help_Text_AnswerWhatAreMoves::
-	.string "POKéMON may learn up to four different\n"
-	.string "techniques, or moves. There is a great\l"
-	.string "variety of moves including attacks and\l"
-	.string "those with special effects. The kinds\l"
-	.string "of moves that can be learned vary\l"
-	.string "for each POKéMON. Some moves\l"
-	.string "can be learned from machines.$"
+	.string "POKéMON se může naučit až čtyři různé\n"
+	.string "techniky, tedy útoky. Útoků je velká\l"
+	.string "spousta, od útočných po ty se\l"
+	.string "zvláštními účinky. Každý POKéMON se\l"
+	.string "může naučit jiné útoky. Některé se\l"
+	.string "dají naučit ze strojů.$"
 
 Help_Text_AnswerWhatAreHiddenMoves::
-	.string "HIDDEN moves are those that are\n"
-	.string "especially important for your\l"
-	.string "adventure. To use such a move outside\l"
-	.string "of battle, open the “POKéMON” MENU\l"
-	.string "and make the POKéMON that knows the\l"
-	.string "move use it. A fainted POKéMON may use\l"
-	.string "a HIDDEN move outside of battle.$"
+	.string "SKRYTÉ útoky jsou pro tvé\n"
+	.string "dobrodružství zvlášť důležité.\l"
+	.string "Chceš-li takový útok použít mimo\l"
+	.string "souboj, otevři v NABÍDCE “POKéMON”\l"
+	.string "a nech ho použít POKéMONA, který ho\l"
+	.string "umí. Mimo souboj ho může použít\l"
+	.string "i omdlelý POKéMON.$"
 
 Help_Text_AnswerWhatMovesShouldIUse::
-	.string "Select “FIGHT,” and the MENU of moves\n"
-	.string "will appear. Consider the type\l"
-	.string "matchups, and use the most effective\l"
-	.string "moves. You can check the effects of\l"
-	.string "moves by opening “POKéMON,”\l"
-	.string "picking a POKéMON, opening “SUMMARY,”\l"
-	.string "then opening “POKéMON SKILLS.”$"
+	.string "Vyber “BOJ” a objeví se seznam\n"
+	.string "útoků. Zvaž výhody typů a použij\l"
+	.string "nejúčinnější útoky. Účinky útoků\l"
+	.string "zjistíš tak, že otevřeš “POKéMON”,\l"
+	.string "vybereš POKéMONA, otevřeš “PŘEHLED”\l"
+	.string "a pak “SCHOPNOSTI”.$"
 
 Help_Text_AnswerWantToAddMoreMoves::
-	.string "The most a POKéMON can learn is four\n"
-	.string "moves. They are learned as the\l"
-	.string "POKéMON levels up. It can also be\l"
-	.string "taught a move using a TM (Technical\l"
-	.string "Machine) or HM (Hidden Machine).\l"
-	.string "There are also people who teach moves.$"
+	.string "POKéMON umí nejvýš čtyři útoky. Učí\n"
+	.string "se je, když postupuje na vyšší\l"
+	.string "úroveň. Útok ho můžeš naučit i pomocí\l"
+	.string "TM (technického stroje) nebo HM\l"
+	.string "(skrytého stroje). Útokům učí\l"
+	.string "i někteří lidé.$"
 
 Help_Text_AnswerWantToMakeMonStronger::
-	.string "The key to making your POKéMON\n"
-	.string "strong is to battle and win often.\l"
-	.string "The EXP. (Experience) Points earned\l"
-	.string "by winning battles accumulate to\l"
-	.string "level up POKéMON that participated in\l"
-	.string "them. Battle wild POKéMON often to\l"
-	.string "level up your party.$"
+	.string "Klíčem k silným POKéMONŮM je často\n"
+	.string "bojovat a vyhrávat. EXP. body za\l"
+	.string "vítězství se sčítají a POKéMONI,\l"
+	.string "kteří bojovali, postupují na vyšší\l"
+	.string "úroveň. Bojuj často s divokými\l"
+	.string "POKéMONY, ať tvůj tým sílí.$"
 
 Help_Text_AnswerFoeMonsTooStrong::
-	.string "If your foes are too strong, try\n"
-	.string "leveling up your POKéMON some more.\l"
-	.string "Go back the way you came and battle\l"
-	.string "wild POKéMON to level up your party.\l"
-	.string "You may also battle TRAINERS whom you\l"
-	.string "have not battled before.$"
+	.string "Když jsou soupeři moc silní, zkus své\n"
+	.string "POKéMONY ještě trochu vytrénovat.\l"
+	.string "Vrať se zpátky a bojuj s divokými\l"
+	.string "POKéMONY. Můžeš bojovat i s dalšími\l"
+	.string "TRENÉRY, kteří tě ještě nevyzvali.$"
 
 Help_Text_AnswerWhatDoIDoInCave::
-	.string "Unlike roads and forests, wild POKéMON\n"
-	.string "can appear anywhere in caves.\l"
-	.string "If your POKéMON are hurt in a cave,\l"
-	.string "rush to a POKéMON CENTER or use items\l"
-	.string "to heal them right away. It is very\l"
-	.string "dangerous to force your luck in caves.$"
+	.string "Na rozdíl od cest a lesů se divocí\n"
+	.string "POKéMONI v jeskyních objevují\l"
+	.string "kdekoli. Když jsou tvoji POKéMONI\l"
+	.string "v jeskyni zranění, spěchej do POKéMON\l"
+	.string "CENTER nebo je hned vyleč předměty.\l"
+	.string "Pokoušet v jeskyni štěstí je\l"
+	.string "nebezpečné.$"
 
 Help_Text_AnswerNothingIWantToKnow::
-	.string "Trust your own knowledge and power.\n"
-	.string "Believe in yourself and find your way!$"
+	.string "Věř svým znalostem a síle. Věř si\n"
+	.string "a najdi svou cestu!$"
 
 Help_Text_AnswerWhatsPokemonCenter::
-	.string "A POKéMON CENTER is identified by its\n"
-	.string "red roof and a “P.C” sign. Every\l"
-	.string "POKéMON CENTER offers such services as\l"
-	.string "fully healing POKéMON and free PC use,\l"
-	.string "making it essential for your travels.\l"
-	.string "On the upper floor are facilities for\l"
-	.string "linking with friends and others.$"
+	.string "POKéMON CENTER poznáš podle červené\n"
+	.string "střechy a cedule “P.C”. Každé\l"
+	.string "POKéMON CENTER nabízí plné vyléčení\l"
+	.string "POKéMONŮ a PC zdarma, takže je na\l"
+	.string "cestách nepostradatelné. V patře se\l"
+	.string "můžeš propojit s přáteli.$"
 
 Help_Text_AnswerWhatsPokemonMart::
-	.string "A POKéMON MART is identified by its\n"
-	.string "blue roof and a “MART” sign.\l"
-	.string "Items can be bought and sold at any\l"
-	.string "POKéMON MART. Some MARTS carry items\l"
-	.string "that are available only in their towns.$"
+	.string "POKéMON MART poznáš podle modré\n"
+	.string "střechy a cedule “MART”. V každém\l"
+	.string "POKéMON MART se dají předměty\l"
+	.string "kupovat i prodávat. Některé obchody\l"
+	.string "mají předměty, které jsou k dostání\l"
+	.string "jen v jejich městě.$"
 
 Help_Text_AnswerWantToEndGame::
-	.string "You can safely end your game by\n"
-	.string "selecting “SAVE” on the MENU.\l"
-	.string "Once you have saved, the game can be\l"
-	.string "safely turned off. When the game is\l"
-	.string "turned back on, you can resume from\l"
-	.string "where you last saved.$"
+	.string "Hru bezpečně ukončíš tak, že\n"
+	.string "v NABÍDCE vybereš “ULOŽIT”. Po\l"
+	.string "uložení můžeš hru klidně vypnout.\l"
+	.string "Když ji znovu zapneš, pokračuješ od\l"
+	.string "posledního uložení.$"
 
 Help_Text_AnswerWhatsAMon::
-	.string "POKéMON are living beings about which\n"
-	.string "many mysteries still remain. You may\l"
-	.string "see them in grass, the sea, and caves.\l"
-	.string "They appear to obey the wishes of the\l"
-	.string "TRAINERS that caught them.$"
+	.string "POKéMONI jsou živé bytosti, o kterých\n"
+	.string "je stále hodně záhad. Najdeš je\l"
+	.string "v trávě, v moři i v jeskyních. Zdá\l"
+	.string "se, že plní přání TRENÉRŮ, kteří je\l"
+	.string "chytili.$"
 
 Help_Text_AnswerWhatIsThatPersonLike::
-	.string "Use the FAME CHECKER among the\n"
-	.string "KEY ITEMS in your BAG.\l"
-	.string "It may give you a hint, so try it out.$"
+	.string "Použij FAME CHECKER mezi DŮLEŽITÝMI\n"
+	.string "předměty v BATOHU. Možná ti napoví,\l"
+	.string "tak ho vyzkoušej.$"
 
 Help_Text_AnswerWhatDoesHiddenMoveDo::
-	.string "A HIDDEN move is taught to a POKéMON\n"
-	.string "using an HM (Hidden Machine).\l"
-	.string "A HIDDEN move is important for helping\l"
-	.string "your adventure. For example, one is\l"
-	.string "used to light up dark caves. Another\l"
-	.string "cuts down small trees. There is one\l"
-	.string "for traveling on water, and so on.$"
+	.string "SKRYTÝ útok se POKéMON naučí pomocí\n"
+	.string "HM (skrytého stroje). SKRYTÉ útoky\l"
+	.string "jsou pro dobrodružství důležité.\l"
+	.string "Jeden třeba osvětlí temné jeskyně,\l"
+	.string "jiný pokácí malé stromy, další slouží\l"
+	.string "k cestování po vodě a tak dále.$"
 
 Help_Text_AnswerWhatDoIDoInSafari::
-	.string "Try to catch wild POKéMON by throwing\n"
-	.string "the special SAFARI BALLS.\l"
-	.string "You may keep any item you find, too.$"
+	.string "Zkus chytat divoké POKéMONY házením\n"
+	.string "zvláštních SAFARI BALLS. Všechny\l"
+	.string "předměty, které najdeš, si můžeš\l"
+	.string "nechat.$"
 
 Help_Text_AnswerWhatAreSafariRules::
-	.string "Your SAFARI GAME ends once you have\n"
-	.string "traveled a certain distance or thrown\l"
-	.string "all your SAFARI BALLS.\l"
-	.string "Open the MENU to check the remaining\l"
-	.string "number of steps and SAFARI BALLS.$"
+	.string "SAFARI GAME skončí, když ujdeš určitý\n"
+	.string "počet kroků nebo hodíš všechny\l"
+	.string "SAFARI BALLS. Zbývající kroky\l"
+	.string "a SAFARI BALLS zjistíš v NABÍDCE.$"
 
 Help_Text_AnswerWantToEndSafari::
-	.string "If you would like to cut your SAFARI\n"
-	.string "GAME short, open the MENU and select\l"
-	.string "“RETIRE” at the top of the list.$"
+	.string "Chceš-li SAFARI GAME ukončit dřív,\n"
+	.string "otevři NABÍDKU a vyber nahoře\l"
+	.string "“VZDÁT”.$"
 
 Help_Text_AnswerWhatIsAGym::
-	.string "POKéMON GYMS are operated by the\n"
-	.string "POKéMON LEAGUE and are training\l"
-	.string "facilities for TRAINERS. They are all\l"
-	.string "across the land in cities and towns.\l"
-	.string "Each one is headed by a LEADER, who\l"
-	.string "is a very skilled TRAINER. Beat the\l"
-	.string "LEADER to collect a BADGE.$"
+	.string "POKéMON STADIONY provozuje POKéMON\n"
+	.string "LEAGUE a jsou to tréninková zařízení\l"
+	.string "pro TRENÉRY. Jsou ve městech po celé\l"
+	.string "zemi. Každý vede VŮDCE, velmi zkušený\l"
+	.string "TRENÉR. Poraz VŮDCE a získáš ODZNAK.$"
 
 Help_Text_UsingPokedex::
-	.string " Using “POKéDEX”$"
+	.string " Použití “POKéDEX”$"
 
 Help_Text_UsingPokemon::
-	.string " Using “POKéMON”$"
+	.string " Použití “POKéMON”$"
 
 Help_Text_UsingSummary::
-	.string "  Using “SUMMARY”$"
+	.string "  Použití “PŘEHLED”$"
 
 Help_Text_UsingSwitch::
-	.string "  Using “SWITCH”$"
+	.string "  Použití “PŘESUNOUT”$"
 
 Help_Text_UsingItem::
-	.string "  Using “ITEM”$"
+	.string "  Použití “PŘEDMĚT”$"
 
 Help_Text_UsingBag::
-	.string " Using “BAG”$"
+	.string " Použití “BATOH”$"
 
 Help_Text_UsingAnItem::
-	.string "  Using an item$"
+	.string "  Použití předmětu$"
 
 Help_Text_UsingKeyItem::
-	.string "  Using a key item$"
+	.string "  Použití důležitého předmětu$"
 
 Help_Text_UsingPokeBall::
-	.string "  Using a POKé BALL$"
+	.string "  Použití POKé BALLU$"
 
 Help_Text_UsingPlayer::
-	.string " Using “{PLAYER}”$"
+	.string " Použití “{PLAYER}”$"
 
 Help_Text_UsingSave::
-	.string " Using “SAVE”$"
+	.string " Použití “ULOŽIT”$"
 
 Help_Text_UsingOption::
-	.string " Using “OPTION”$"
+	.string " Použití “VOLBY”$"
 
 Help_Text_UsingPotion::
-	.string "    Using a POTION$"
+	.string "    Použití POTION$"
 
 Help_Text_UsingTownMap::
-	.string "    Using the TOWN MAP$"
+	.string "    Použití TOWN MAP$"
 
 Help_Text_UsingTM::
-	.string "    Using a TM$"
+	.string "    Použití TM$"
 
 Help_Text_UsingHM::
-	.string "    Using an HM$"
+	.string "    Použití HM$"
 
 Help_Text_UsingMoveOutsideOfBattle::
-	.string "Using a move outside of battle$"
+	.string "Použití útoku mimo souboj$"
 
 Help_Text_RidingBicycle::
-	.string "    Riding the BICYCLE$"
+	.string "    Jízda na kole$"
 
 Help_Text_EnteringName::
-	.string "Entering a name$"
+	.string "Zadávání jména$"
 
 Help_Text_UsingPC::
-	.string "Using a PC$"
+	.string "Použití PC$"
 
 Help_Text_UsingBillsPC::
-	.string " Using “{STR_VAR_1}'S PC”$"
+	.string " Použití “PC: {STR_VAR_1}”$"
 
 Help_Text_UsingWithdraw::
-	.string "  Using “WITHDRAW”$"
+	.string "  Použití “VYBRAT POKéMONA”$"
 
 Help_Text_UsingDeposit::
-	.string "  Using “DEPOSIT”$"
+	.string "  Použití “ULOŽIT POKéMONA”$"
 
 Help_Text_UsingMove::
-	.string "  Using “MOVE”$"
+	.string "  Použití “PŘESUNOUT POKéMONY”$"
 
 Help_Text_MovingItems::
-	.string "  Moving items$"
+	.string "  Přesouvání předmětů$"
 
 Help_Text_UsingPlayersPC::
-	.string " Using “{PLAYER}'s PC”$"
+	.string " Použití “PC: {PLAYER}”$"
 
 Help_Text_UsingWithdrawItem::
-	.string "  Using “WITHDRAW ITEM”$"
+	.string "  Použití “VYBRAT PŘEDMĚT”$"
 
 Help_Text_UsingDepositItem::
-	.string "  Using “DEPOSIT ITEM”$"
+	.string "  Použití “ULOŽIT PŘEDMĚT”$"
 
 Help_Text_UsingMailbox::
-	.string "  Using “MAILBOX”$"
+	.string "  Použití “SCHRÁNKA”$"
 
 Help_Text_UsingProfOaksPC::
-	.string " Using “PROF. OAK'S PC”$"
+	.string " Použití “PC PROF. OAKA”$"
 
 Help_Text_OpeningMenu::
-	.string "Opening the MENU$"
+	.string "Otevření NABÍDKY$"
 
 Help_Text_UsingFight::
-	.string " Using “FIGHT”$"
+	.string " Použití “BOJ”$"
 
 Help_Text_UsingPokemon2::
-	.string " Using “POKéMON”$"
+	.string " Použití “POKéMON”$"
 
 Help_Text_UsingShift::
-	.string "  Using “SHIFT”$"
+	.string "  Použití “VYMĚNIT”$"
 
 Help_Text_UsingSummary2::
-	.string "  Using “SUMMARY”$"
+	.string "  Použití “PŘEHLED”$"
 
 Help_Text_UsingBag2::
-	.string " Using “BAG”$"
+	.string " Použití “BATOH”$"
 
 Help_Text_ReadingPokedex::
-	.string " Reading the “POKéDEX”$"
+	.string " Čtení “POKéDEX”$"
 
 Help_Text_UsingHomePC::
-	.string "Using the PC at home$"
+	.string "Použití PC doma$"
 
 Help_Text_UsingItemStorage::
-	.string "Using the Item Storage System$"
+	.string "Použití skladu předmětů$"
 
 Help_Text_UsingWithdrawItem2::
-	.string "  Using “WITHDRAW ITEM”$"
+	.string "  Použití “VYBRAT PŘEDMĚT”$"
 
 Help_Text_UsingDepositItem2::
-	.string "  Using “DEPOSIT ITEM”$"
+	.string "  Použití “ULOŽIT PŘEDMĚT”$"
 
 Help_Text_UsingMailbox2::
-	.string "Using the MAILBOX$"
+	.string "Použití SCHRÁNKY$"
 
 Help_Text_UsingRun::
-	.string " Using “RUN”$"
+	.string " Použití “ÚTĚK”$"
 
 Help_Text_RegisterKeyItem::
-	.string "  “REGISTER” a key item$"
+	.string "  “PŘIŘADIT” důležitý předmět$"
 
 Help_Text_UsingBall::
-	.string " Using “BALL”$"
+	.string " Použití “BALL”$"
 
 Help_Text_UsingBait::
-	.string " Using “BAIT”$"
+	.string " Použití “KRMENÍ”$"
 
 Help_Text_UsingRock::
-	.string " Using “ROCK”$"
+	.string " Použití “KÁMEN”$"
 
 Help_Text_UsingHallOfFame::
-	.string " Using “HALL OF FAME”$"
+	.string " Použití “SÍŇ SLÁVY”$"
 
 Help_Text_HowToUsePokedex::
-	.string "{CIRCLE_1} Select “POKéDEX” on the MENU.\n"
-	.string "{CIRCLE_2} Choose POKéMON using commands such\n"
-	.string "   as “POKéMON LIST,”\n"
-	.string "   “HABITATS OF POKéMON,” and\n"
-	.string "   “SEARCH.”\n"
-	.string "{CIRCLE_3} Select a POKéMON to obtain detailed\n"
-	.string "   information.$"
+	.string "{CIRCLE_1} V NABÍDCE vyber “POKéDEX”.\n"
+	.string "{CIRCLE_2} Vyber POKéMONA pomocí voleb jako\n"
+	.string "   “SEZNAM POKéMONŮ”,\n"
+	.string "   “OBLASTI VÝSKYTU” a\n"
+	.string "   “HLEDAT”.\n"
+	.string "{CIRCLE_3} Po výběru POKéMONA uvidíš\n"
+	.string "   podrobné informace.$"
 
 Help_Text_HowToUsePokemon::
-	.string "{CIRCLE_1} Select “POKéMON” on the MENU.\n"
-	.string "{CIRCLE_2} Choose a POKéMON in your party.\n"
-	.string "{CIRCLE_3} Select “SUMMARY,” “SWITCH,”\n"
-	.string "   or “ITEM.”$"
+	.string "{CIRCLE_1} V NABÍDCE vyber “POKéMON”.\n"
+	.string "{CIRCLE_2} Vyber POKéMONA ve svém týmu.\n"
+	.string "{CIRCLE_3} Vyber “PŘEHLED”, “PŘESUNOUT”\n"
+	.string "   nebo “PŘEDMĚT”.$"
 
 Help_Text_HowToUseSummary::
-	.string "{CIRCLE_1} Select “SUMMARY.”\n"
-	.string "{CIRCLE_2} Press left or right on the {PLUS} Control\n"
-	.string "   Pad to check the information:\n"
-	.string "   “POKéMON INFO”\n"
-	.string "   “POKéMON SKILLS”\n"
-	.string "   “KNOWN MOVES”$"
+	.string "{CIRCLE_1} Vyber “PŘEHLED”.\n"
+	.string "{CIRCLE_2} Ovladačem {PLUS} doleva nebo doprava\n"
+	.string "   přepínáš informace:\n"
+	.string "   “O POKéMONOVI”\n"
+	.string "   “SCHOPNOSTI”\n"
+	.string "   “ÚTOKY”$"
 
 Help_Text_HowToUseSwitch::
-	.string "{CIRCLE_1} Choose the POKéMON you want to\n"
-	.string "   switch around.\n"
-	.string "{CIRCLE_2} Select “SWITCH.”\n"
-	.string "{CIRCLE_3} Select the POKéMON to switch with\n"
-	.string "   the first one.\n"
-	.string "The POKéMON at the left of the screen\n"
-	.string "will be the first one out in a battle.$"
+	.string "{CIRCLE_1} Vyber POKéMONA, kterého chceš\n"
+	.string "   přesunout.\n"
+	.string "{CIRCLE_2} Vyber “PŘESUNOUT”.\n"
+	.string "{CIRCLE_3} Vyber POKéMONA, se kterým si má\n"
+	.string "   vyměnit místo.\n"
+	.string "POKéMON vlevo na obrazovce jde do\n"
+	.string "souboje jako první.$"
 
 Help_Text_HowToUseItem::
-	.string "{CIRCLE_1} Select “ITEM.”\n"
-	.string "{CIRCLE_2} Select whether you want to “GIVE”\n"
-	.string "   an item to the POKéMON to hold,\n"
-	.string "   or “TAKE” an item it is holding.\n"
-	.string "A POKéMON can hold no more than one\n"
-	.string "item!$"
+	.string "{CIRCLE_1} Vyber “PŘEDMĚT”.\n"
+	.string "{CIRCLE_2} Vyber, jestli chceš POKéMONOVI\n"
+	.string "   předmět “DÁT” k držení,\n"
+	.string "   nebo mu ho “VZÍT”.\n"
+	.string "POKéMON může držet nejvýš jeden\n"
+	.string "předmět!$"
 
 Help_Text_HowToUseBag::
-	.string "{CIRCLE_1} Select “BAG” on the MENU.\n"
-	.string "{CIRCLE_2} Press left or right on the {PLUS} Control\n"
-	.string "   Pad to check the data headings:\n"
-	.string "   “ITEMS”\n"
-	.string "   “KEY ITEMS”\n"
-	.string "   “POKé BALLS”\n"
-	.string "   Press up or down to select an item.$"
+	.string "{CIRCLE_1} V NABÍDCE vyber “BATOH”.\n"
+	.string "{CIRCLE_2} Ovladačem {PLUS} doleva nebo doprava\n"
+	.string "   přepínáš kapsy:\n"
+	.string "   “PŘEDMĚTY”\n"
+	.string "   “DŮLEŽITÉ”\n"
+	.string "   “POKé BALLY”\n"
+	.string "   Nahoru a dolů vybíráš předmět.$"
 
 Help_Text_HowToUseAnItem::
-	.string "{CIRCLE_1} Select the “ITEMS” POCKET.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad to select an item.\n"
-	.string "{CIRCLE_3} Select “USE” to use the selected\n"
-	.string "   item.\n"
-	.string "Some items may not be used depending\n"
-	.string "on the place and/or situation.$"
+	.string "{CIRCLE_1} Vyber kapsu “PŘEDMĚTY”.\n"
+	.string "{CIRCLE_2} Ovladačem {PLUS} nahoru nebo dolů\n"
+	.string "   vyber předmět.\n"
+	.string "{CIRCLE_3} Volbou “POUŽÍT” vybraný předmět\n"
+	.string "   použiješ.\n"
+	.string "Některé předměty nejde použít všude\n"
+	.string "a v každé situaci.$"
 
 Help_Text_HowToUseKeyItem::
-	.string "{CIRCLE_1} Select the “KEY ITEMS” POCKET.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad to select a key item.\n"
-	.string "{CIRCLE_3} Select “USE” to use the selected\n"
-	.string "   key item.$"
+	.string "{CIRCLE_1} Vyber kapsu “DŮLEŽITÉ”.\n"
+	.string "{CIRCLE_2} Ovladačem {PLUS} nahoru nebo dolů\n"
+	.string "   vyber důležitý předmět.\n"
+	.string "{CIRCLE_3} Volbou “POUŽÍT” vybraný předmět\n"
+	.string "   použiješ.$"
 
 Help_Text_HowToUsePokeBall::
-	.string "{CIRCLE_1} While battling a wild POKéMON,\n"
-	.string "   select the BAG's “POKé BALLS”\n"
-	.string "   POCKET.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad to select a POKé BALL.\n"
-	.string "{CIRCLE_3} Select “USE” to throw the selected\n"
-	.string "   POKé BALL.$"
+	.string "{CIRCLE_1} V souboji s divokým POKéMONEM\n"
+	.string "   vyber v BATOHU kapsu\n"
+	.string "   “POKé BALLY”.\n"
+	.string "{CIRCLE_2} Ovladačem {PLUS} nahoru nebo dolů\n"
+	.string "   vyber POKé BALL.\n"
+	.string "{CIRCLE_3} Volbou “POUŽÍT” vybraný POKé BALL\n"
+	.string "   hodíš.$"
 
 Help_Text_HowToUsePlayer::
-	.string "{CIRCLE_1} Select “{PLAYER}” on the MENU.\n"
-	.string "{CIRCLE_2} Your TRAINER CARD is displayed face\n"
-	.string "   up with basic information. Press the\n"
-	.string "   A Button to turn the CARD over.\n"
-	.string "{CIRCLE_3} A variety of data can be found on\n"
-	.string "   the reverse side of the CARD.$"
+	.string "{CIRCLE_1} V NABÍDCE vyber “{PLAYER}”.\n"
+	.string "{CIRCLE_2} Zobrazí se líc TRENÉRSKÉ KARTY\n"
+	.string "   se základními údaji. Tlačítkem A\n"
+	.string "   kartu otočíš.\n"
+	.string "{CIRCLE_3} Na rubu KARTY najdeš další\n"
+	.string "   nejrůznější údaje.$"
 
 Help_Text_HowToUseSave::
-	.string "{CIRCLE_1} Select “SAVE” on the MENU.\n"
-	.string "{CIRCLE_2} Select “YES” and your progress is\n"
-	.string "   recorded in the save file.\n"
-	.string "Once the game is saved, you may turn\n"
-	.string "off the game. Your game can be resumed\n"
-	.string "from where you saved.$"
+	.string "{CIRCLE_1} V NABÍDCE vyber “ULOŽIT”.\n"
+	.string "{CIRCLE_2} Vyber “ANO” a postup se zapíše\n"
+	.string "   do uložené hry.\n"
+	.string "Po uložení můžeš hru vypnout.\n"
+	.string "Příště budeš pokračovat od místa,\n"
+	.string "kde se naposledy ukládalo.$"
 
 Help_Text_HowToUseOption::
-	.string "{CIRCLE_1} Select “OPTION” on the MENU.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad to select an optional item, then\n"
-	.string "   press left or right to alter the\n"
-	.string "   settings.\n"
-	.string "{CIRCLE_3} Select “CANCEL” or press the\n"
-	.string "   B Button after making changes.$"
+	.string "{CIRCLE_1} V NABÍDCE vyber “VOLBY”.\n"
+	.string "{CIRCLE_2} Ovladačem {PLUS} nahoru nebo dolů\n"
+	.string "   vyber položku, doleva a doprava\n"
+	.string "   měníš nastavení.\n"
+	.string "{CIRCLE_3} Po změnách vyber “ZPĚT” nebo\n"
+	.string "   stiskni tlačítko B.$"
 
 Help_Text_HowToUsePotion::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad and select “BAG.”\n"
-	.string "{CIRCLE_3} Select “POTION” in the “ITEMS”\n"
-	.string "   POCKET.\n"
-	.string "{CIRCLE_4} Select “USE.”\n"
-	.string "{CIRCLE_5} Select the POKéMON to be healed.$"
+	.string "{CIRCLE_1} Otevři NABÍDKU.\n"
+	.string "{CIRCLE_2} Ovladačem {PLUS} nahoru nebo dolů\n"
+	.string "   vyber “BATOH”.\n"
+	.string "{CIRCLE_3} V kapse “PŘEDMĚTY” vyber\n"
+	.string "   “POTION”.\n"
+	.string "{CIRCLE_4} Vyber “POUŽÍT”.\n"
+	.string "{CIRCLE_5} Vyber POKéMONA, kterého léčíš.$"
 
 Help_Text_HowToUseTownMap::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Press up or down on the {PLUS} Control\n"
-	.string "   Pad and select “BAG.”\n"
-	.string "{CIRCLE_3} Press left or right to open the\n"
-	.string "   “KEY ITEMS” POCKET, then press\n"
-	.string "   up or down to select “TOWN MAP.” \n"
-	.string "{CIRCLE_4} Select “USE” to open the TOWN MAP.$"
+	.string "{CIRCLE_1} Otevři NABÍDKU.\n"
+	.string "{CIRCLE_2} Ovladačem {PLUS} nahoru nebo dolů\n"
+	.string "   vyber “BATOH”.\n"
+	.string "{CIRCLE_3} Doleva nebo doprava otevři kapsu\n"
+	.string "   “DŮLEŽITÉ”, nahoru a dolů vyber\n"
+	.string "   “TOWN MAP”.\n"
+	.string "{CIRCLE_4} Volbou “POUŽÍT” mapu otevřeš.$"
 
 Help_Text_HowToUseTM::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\n"
-	.string "   “BAG.”\n"
-	.string "{CIRCLE_3} “OPEN” the TM CASE.\n"
-	.string "{CIRCLE_4} Select and “USE” a TM.\n"
-	.string "{CIRCLE_5} Select a POKéMON that can learn the\n"
-	.string "   move in the TM.$"
+	.string "{CIRCLE_1} Otevři NABÍDKU.\n"
+	.string "{CIRCLE_2} V “BATOHU” otevři kapsu\n"
+	.string "   “DŮLEŽITÉ”.\n"
+	.string "{CIRCLE_3} “OTEVŘÍT” TM CASE.\n"
+	.string "{CIRCLE_4} Vyber TM a zvol “POUŽÍT”.\n"
+	.string "{CIRCLE_5} Vyber POKéMONA, který se útok\n"
+	.string "   z TM může naučit.$"
 
 Help_Text_HowToUseHM::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Open the “KEY ITEMS” POCKET in the\n"
-	.string "   “BAG.”\n"
-	.string "{CIRCLE_3} “OPEN” the TM CASE.\n"
-	.string "{CIRCLE_4} Select and “USE” an HM.\n"
-	.string "{CIRCLE_5} Select a POKéMON that can learn it.\n"
-	.string "HMs are hard to remove, so be careful!$"
+	.string "{CIRCLE_1} Otevři NABÍDKU.\n"
+	.string "{CIRCLE_2} V “BATOHU” otevři kapsu\n"
+	.string "   “DŮLEŽITÉ”.\n"
+	.string "{CIRCLE_3} “OTEVŘÍT” TM CASE.\n"
+	.string "{CIRCLE_4} Vyber HM a zvol “POUŽÍT”.\n"
+	.string "{CIRCLE_5} Vyber POKéMONA, který se ho naučí.\n"
+	.string "HM se těžko zapomínají, tak pozor!$"
 
 Help_Text_HowToUseMoveOutsideOfBattle::
-	.string "{CIRCLE_1} Open the MENU.\n"
-	.string "{CIRCLE_2} Select “POKéMON.”\n"
-	.string "{CIRCLE_3} Select a POKéMON that knows an\n"
-	.string "   HM move. The usable HM move(s)\n"
-	.string "   will be shown in blue. Select and\n"
-	.string "   use the desired move to destroy an\n"
-	.string "   obstacle, fly, surf, etc.$"
+	.string "{CIRCLE_1} Otevři NABÍDKU.\n"
+	.string "{CIRCLE_2} Vyber “POKéMON”.\n"
+	.string "{CIRCLE_3} Vyber POKéMONA, který umí útok\n"
+	.string "   z HM. Použitelné útoky z HM jsou\n"
+	.string "   modře. Vyber požadovaný útok\n"
+	.string "   a odstraň překážku, leť,\n"
+	.string "   plav a podobně.$"
 
 Help_Text_HowToRideBicycle::
-	.string "{CIRCLE_1} Open the MENU. Open the\n"
-	.string "   “KEY ITEMS” POCKET in the “BAG”\n"
-	.string "   and select the “BICYCLE.”\n"
-	.string "{CIRCLE_2} The BICYCLE can be ridden by\n"
-	.string "   selecting “USE.” You may also\n"
-	.string "   “REGISTER” it for instant use by\n"
-	.string "   pressing SELECT.$"
+	.string "{CIRCLE_1} Otevři NABÍDKU. V “BATOHU”\n"
+	.string "   otevři kapsu “DŮLEŽITÉ”\n"
+	.string "   a vyber “BICYCLE”.\n"
+	.string "{CIRCLE_2} Volbou “POUŽÍT” na kolo nasedneš.\n"
+	.string "   Volbou “PŘIŘADIT” ho můžeš\n"
+	.string "   používat rovnou tlačítkem\n"
+	.string "   SELECT.$"
 
 Help_Text_HowToEnterName::
-	.string "{CIRCLE_1} Move the cursor to the letter you\n"
-	.string "   want with the {PLUS} Control Pad, then\n"
-	.string "   press the A Button to enter it.\n"
-	.string "{CIRCLE_2} Press the B Button to back up.\n"
-	.string "{CIRCLE_3} Press SELECT to switch between\n"
-	.string "   uppercase and lowercase letters.\n"
-	.string "{CIRCLE_4} Press the A Button on “OK.”$"
+	.string "{CIRCLE_1} Ovladačem {PLUS} přesuň kurzor na\n"
+	.string "   písmeno a tlačítkem A ho zadej.\n"
+	.string "{CIRCLE_2} Tlačítkem B mažeš.\n"
+	.string "{CIRCLE_3} Tlačítkem SELECT přepínáš velká\n"
+	.string "   a malá písmena.\n"
+	.string "{CIRCLE_4} Nakonec stiskni tlačítko A\n"
+	.string "   na “OK”.$"
 
 Help_Text_HowToUsePC::
-	.string "{CIRCLE_1} Go to any POKéMON CENTER, go up\n"
-	.string "   to the PC, then press the A Button.$"
+	.string "{CIRCLE_1} V kterémkoli POKéMON CENTER dojdi\n"
+	.string "   k PC a stiskni tlačítko A.$"
 
 Help_Text_HowToUseBillsPC::
-	.string "{CIRCLE_1} Select “{STR_VAR_1}'S PC” on the PC.\n"
-	.string "{CIRCLE_2} Select from one of the top three\n"
-	.string "   MENU items to access the POKéMON\n"
-	.string "   Storage System.\n"
-	.string "If you catch a POKéMON when you have\n"
-	.string "six in your party, the POKéMON is sent\n"
-	.string "automatically to a BOX in the System!$"
+	.string "{CIRCLE_1} V PC vyber “PC: {STR_VAR_1}”.\n"
+	.string "{CIRCLE_2} Jednou ze tří horních položek\n"
+	.string "   otevřeš Úložný systém POKéMONŮ.\n"
+	.string "Když chytíš POKéMONA a v týmu jich\n"
+	.string "máš šest, pošle se automaticky do\n"
+	.string "BOXU v systému!$"
 
 Help_Text_HowToUseWithdraw::
-	.string "{CIRCLE_1} Select a POKéMON in the open BOX\n"
-	.string "   with the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_2} Select “WITHDRAW” to remove the\n"
-	.string "   POKéMON from the BOX and add it to\n"
-	.string "   your party.\n"
-	.string "You may not withdraw a POKéMON if you\n"
-	.string "already have six POKéMON with you!$"
+	.string "{CIRCLE_1} Ovladačem {PLUS} vyber POKéMONA\n"
+	.string "   v otevřeném BOXU.\n"
+	.string "{CIRCLE_2} Volbou “VYBRAT” ho vezmeš z BOXU\n"
+	.string "   do svého týmu.\n"
+	.string "POKéMONA nevybereš, když už jich\n"
+	.string "máš u sebe šest!$"
 
 Help_Text_HowToUseDeposit::
-	.string "{CIRCLE_1} Select a POKéMON in your party with\n"
-	.string "   the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_2} Select “DEPOSIT.”\n"
-	.string "{CIRCLE_3} Select the BOX, then press the\n"
-	.string "   A Button to store the POKéMON.\n"
-	.string "If you have only one POKéMON with you,\n"
-	.string "it may not be stored!$"
+	.string "{CIRCLE_1} Ovladačem {PLUS} vyber POKéMONA\n"
+	.string "   ve svém týmu.\n"
+	.string "{CIRCLE_2} Vyber “ULOŽIT”.\n"
+	.string "{CIRCLE_3} Vyber BOX a tlačítkem A\n"
+	.string "   POKéMONA ulož.\n"
+	.string "Když máš u sebe jen jednoho\n"
+	.string "POKéMONA, uložit ho nejde!$"
 
 Help_Text_HowToUseMove::
-	.string "{CIRCLE_1} Select a POKéMON in the open BOX.\n"
-	.string "{CIRCLE_2} Pick up the POKéMON by selecting\n"
-	.string "   “MOVE” and move it anywhere with\n"
-	.string "   the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_3} Move the POKéMON to the BOX name\n"
-	.string "   and press left or right to move it\n"
-	.string "   to another BOX.$"
+	.string "{CIRCLE_1} Vyber POKéMONA v otevřeném BOXU.\n"
+	.string "{CIRCLE_2} Volbou “PŘESUNOUT” ho zvedneš\n"
+	.string "   a ovladačem {PLUS} ho přesuneš\n"
+	.string "   kamkoli.\n"
+	.string "{CIRCLE_3} Najeď s POKéMONEM na název BOXU\n"
+	.string "   a doleva nebo doprava ho přesuň\n"
+	.string "   do jiného BOXU.$"
 
 Help_Text_HowToMoveItems::
-	.string "{CIRCLE_1} Faintly shown POKéMON can be made\n"
-	.string "   to hold an item by selecting it and\n"
-	.string "   pressing the A Button.\n"
-	.string "{CIRCLE_2} Clearly shown POKéMON can be made\n"
-	.string "   to give the item they are holding to\n"
-	.string "   another POKéMON, or return the item\n"
-	.string "   to the BAG with the A Button.$"
+	.string "{CIRCLE_1} POKéMONOVI zobrazenému slabě\n"
+	.string "   dáš předmět tak, že ho vybereš\n"
+	.string "   a stiskneš tlačítko A.\n"
+	.string "{CIRCLE_2} POKéMON zobrazený jasně může\n"
+	.string "   tlačítkem A předat svůj předmět\n"
+	.string "   jinému POKéMONOVI nebo ho vrátit\n"
+	.string "   do BATOHU.$"
 
 Help_Text_HowToUsePlayersPC::
-	.string "{CIRCLE_1} Select “{PLAYER}'s PC” on the PC.\n"
-	.string "{CIRCLE_2} Select either “ITEM STORAGE” or\n"
-	.string "   “MAILBOX.”\n"
-	.string "You may store things in your own PC\n"
-	.string "if your BAG is full. You may also\n"
-	.string "withdraw items stored in your PC.$"
+	.string "{CIRCLE_1} V PC vyber “PC: {PLAYER}”.\n"
+	.string "{CIRCLE_2} Vyber “SKLAD PŘEDMĚTŮ” nebo\n"
+	.string "   “SCHRÁNKA”.\n"
+	.string "Když máš plný BATOH, můžeš věci\n"
+	.string "ukládat do svého PC. Uložené\n"
+	.string "předměty si z PC zase vybereš.$"
 
 Help_Text_HowToUseWithdrawItem::
-	.string "{CIRCLE_1} Select “WITHDRAW ITEM.”\n"
-	.string "{CIRCLE_2} Select the item to be withdrawn.\n"
-	.string "{CIRCLE_3} The item can be withdrawn and\n"
-	.string "   placed in the BAG's ITEMS POCKET.\n"
-	.string "   It may also be directly given to a\n"
-	.string "   POKéMON to hold.$"
+	.string "{CIRCLE_1} Vyber “VYBRAT PŘEDMĚT”.\n"
+	.string "{CIRCLE_2} Vyber předmět, který chceš vzít.\n"
+	.string "{CIRCLE_3} Předmět se přesune do kapsy\n"
+	.string "   PŘEDMĚTY v BATOHU. Můžeš ho\n"
+	.string "   i rovnou dát POKéMONOVI.$"
 
 Help_Text_HowToUseDepositItem::
-	.string "{CIRCLE_1} Select “DEPOSIT ITEM.”\n"
-	.string "{CIRCLE_2} Select the item in the BAG to be\n"
-	.string "   deposited using the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_3} If there is more than one \n"
-	.string "   item to be deposited, enter the\n"
-	.string "   quantity with the {PLUS} Control Pad,\n"
-	.string "   then press the A Button.$"
+	.string "{CIRCLE_1} Vyber “ULOŽIT PŘEDMĚT”.\n"
+	.string "{CIRCLE_2} Ovladačem {PLUS} vyber předmět\n"
+	.string "   v BATOHU, který chceš uložit.\n"
+	.string "{CIRCLE_3} Když ukládáš víc kusů, zadej\n"
+	.string "   ovladačem {PLUS} počet a stiskni\n"
+	.string "   tlačítko A.$"
 
 Help_Text_HowToUseMailbox::
-	.string "When MAIL is taken from a POKéMON,\n"
-	.string "it is moved to the MAILBOX. If it has\n"
-	.string "no MAIL, the MAILBOX can't be used.\n"
-	.string "{CIRCLE_1} Select “{PLAYER}'S PC” on the PC.\n"
-	.string "{CIRCLE_2} Select “MAILBOX” to read MAIL or\n"
-	.string "   make a POKéMON hold MAIL.$"
+	.string "Vezmeš-li POKéMONOVI DOPIS, přesune\n"
+	.string "se do SCHRÁNKY. Když v ní žádný\n"
+	.string "DOPIS není, SCHRÁNKA nejde použít.\n"
+	.string "{CIRCLE_1} V PC vyber “PC: {PLAYER}”.\n"
+	.string "{CIRCLE_2} Volbou “SCHRÁNKA” DOPIS čteš\n"
+	.string "   nebo ho dáš POKéMONOVI.$"
 
 Help_Text_HowToUseProfOaksPC::
-	.string "{CIRCLE_1} Select “PROF. OAK'S PC” on the PC.\n"
-	.string "{CIRCLE_2} PROF. OAK will evaluate your\n"
+	.string "{CIRCLE_1} V PC vyber “PC PROF. OAKA”.\n"
+	.string "{CIRCLE_2} PROF. OAK ohodnotí tvůj\n"
 	.string "   POKéDEX.\n"
-	.string "His evaluations should give you hints\n"
-	.string "for catching more POKéMON!$"
+	.string "Jeho hodnocení ti napoví, jak\n"
+	.string "chytit další POKéMONY!$"
 
 Help_Text_HowToOpenMenu::
-	.string "{CIRCLE_1} Press START.\n"
-	.string "{CIRCLE_2} The MENU will open on the right.\n"
-	.string "{CIRCLE_3} Depending on the situation, the MENU\n"
-	.string "   may feature different headings.\n"
-	.string "The MENU will not open in certain\n"
-	.string "situations such as when talking, doing\n"
-	.string "something, battling, etc.$"
+	.string "{CIRCLE_1} Stiskni START.\n"
+	.string "{CIRCLE_2} Vpravo se otevře NABÍDKA.\n"
+	.string "{CIRCLE_3} Podle situace může mít NABÍDKA\n"
+	.string "   různé položky.\n"
+	.string "V některých situacích se NABÍDKA\n"
+	.string "neotevře, třeba při rozhovoru,\n"
+	.string "činnosti, souboji a podobně.$"
 
 Help_Text_HowToUseFight::
-	.string "{CIRCLE_1} Select “FIGHT.”\n"
-	.string "{CIRCLE_2} Select one of the moves shown,\n"
-	.string "and that move will be used!$"
+	.string "{CIRCLE_1} Vyber “BOJ”.\n"
+	.string "{CIRCLE_2} Vyber jeden ze zobrazených útoků\n"
+	.string "a POKéMON ho použije!$"
 
 Help_Text_HowToUsePokemon2::
-	.string "{CIRCLE_1} Select “POKéMON.”\n"
-	.string "{CIRCLE_2} Select the POKéMON in your party\n"
-	.string "   that you want to use.\n"
-	.string "{CIRCLE_3} If you have two or more POKéMON\n"
-	.string "   with you, they may be switched by\n"
-	.string "   selecting “SHIFT.” Check POKéMON\n"
-	.string "   data by selecting “SUMMARY.”$"
+	.string "{CIRCLE_1} Vyber “POKéMON”.\n"
+	.string "{CIRCLE_2} Vyber POKéMONA ze svého týmu,\n"
+	.string "   kterého chceš použít.\n"
+	.string "{CIRCLE_3} Když máš dva a víc POKéMONŮ,\n"
+	.string "   volbou “VYMĚNIT” je vystřídáš.\n"
+	.string "   Údaje o POKéMONOVI zobrazí\n"
+	.string "   “PŘEHLED”.$"
 
 Help_Text_HowToUseShift::
-	.string "This command switches the POKéMON in\n"
-	.string "battle with another one in your party.\n"
-	.string "{CIRCLE_1} Select the POKéMON to be sent out.\n"
-	.string "{CIRCLE_2} Select “SHIFT.”\n"
-	.string "{CIRCLE_3} The selected POKéMON will switch\n"
-	.string "   places with the POKéMON in battle!$"
+	.string "Tímhle vystřídáš POKéMONA v souboji\n"
+	.string "jiným POKéMONEM ze svého týmu.\n"
+	.string "{CIRCLE_1} Vyber POKéMONA, který nastoupí.\n"
+	.string "{CIRCLE_2} Vyber “VYMĚNIT”.\n"
+	.string "{CIRCLE_3} Vybraný POKéMON si vymění místo\n"
+	.string "   s POKéMONEM v souboji!$"
 
 Help_Text_HowToUseSummary2::
-	.string "{CIRCLE_1} Select “SUMMARY.”\n"
-	.string "{CIRCLE_2} Press left or right on the {PLUS} Control\n"
-	.string "   Pad to check the information:\n"
-	.string "   “POKéMON INFO”\n"
-	.string "   “POKéMON SKILLS”\n"
-	.string "   “KNOWN MOVES”$"
+	.string "{CIRCLE_1} Vyber “PŘEHLED”.\n"
+	.string "{CIRCLE_2} Ovladačem {PLUS} doleva nebo doprava\n"
+	.string "   přepínáš informace:\n"
+	.string "   “O POKéMONOVI”\n"
+	.string "   “SCHOPNOSTI”\n"
+	.string "   “ÚTOKY”$"
 
 Help_Text_HowToUseBag2::
-	.string "{CIRCLE_1} Select “BAG.”\n"
-	.string "{CIRCLE_2} Press left or right on the {PLUS} Control\n"
-	.string "   Pad to check the data headings:\n"
-	.string "   “ITEMS”\n"
-	.string "   “KEY ITEMS”\n"
-	.string "   “POKé BALLS”\n"
-	.string "   Press up or down to select an item.$"
+	.string "{CIRCLE_1} Vyber “BATOH”.\n"
+	.string "{CIRCLE_2} Ovladačem {PLUS} doleva nebo doprava\n"
+	.string "   přepínáš kapsy:\n"
+	.string "   “PŘEDMĚTY”\n"
+	.string "   “DŮLEŽITÉ”\n"
+	.string "   “POKé BALLY”\n"
+	.string "   Nahoru a dolů vybíráš předmět.$"
 
 Help_Text_HowToReadPokedex::
-	.string "{CIRCLE_1} POKéMON that you have caught are\n"
-	.string "   identified by a POKé BALL mark on\n"
-	.string "   the POKéDEX list.\n"
-	.string "{CIRCLE_2} A caught POKéMON will provide a\n"
-	.string "   large amount of data.\n"
+	.string "{CIRCLE_1} Chycení POKéMONI mají v seznamu\n"
+	.string "   POKéDEXU značku POKé BALLU.\n"
+	.string "{CIRCLE_2} O chyceném POKéMONOVI se dozvíš\n"
+	.string "   spoustu údajů.\n"
 	.if REVISION < 1
 	.string "{CIRCLE_3} Select “AREA” to display the TOWN\n"
 	.string "   MAP with the POKéMON's habitat(s).$"
@@ -986,181 +951,178 @@ Help_Text_HowToReadPokedex::
 	.endif
 
 Help_Text_HowToUseHomePC::
-	.string "{CIRCLE_1} Go up to the PC at home, then press\n"
-	.string "   the A Button.\n"
-	.string "{CIRCLE_2} The PC will turn on.\n"
-	.string "{CIRCLE_3} Select either “ITEM STORAGE” or\n"
-	.string "   “MAILBOX.”$"
+	.string "{CIRCLE_1} Doma dojdi k PC a stiskni\n"
+	.string "   tlačítko A.\n"
+	.string "{CIRCLE_2} PC se zapne.\n"
+	.string "{CIRCLE_3} Vyber “SKLAD PŘEDMĚTŮ” nebo\n"
+	.string "   “SCHRÁNKA”.$"
 
 Help_Text_HowToUseItemStorage::
-	.string "{CIRCLE_1} Select “WITHDRAW ITEM” to withdraw\n"
-	.string "   an item stored on your PC.\n"
-	.string "{CIRCLE_2} Select “DEPOSIT ITEM” to put \n"
-	.string "   an item from your BAG into your PC.$"
+	.string "{CIRCLE_1} Volbou “VYBRAT PŘEDMĚT” vezmeš\n"
+	.string "   předmět uložený v PC.\n"
+	.string "{CIRCLE_2} Volbou “ULOŽIT PŘEDMĚT” dáš\n"
+	.string "   předmět z BATOHU do PC.$"
 
 Help_Text_HowToUseWithdrawItem2::
-	.string "{CIRCLE_1} Select “WITHDRAW ITEM.”\n"
-	.string "{CIRCLE_2} Select the item to be withdrawn.\n"
-	.string "{CIRCLE_3} The item can be withdrawn and\n"
-	.string "   placed in the BAG's ITEMS POCKET.\n"
-	.string "   It may also be directly given to a\n"
-	.string "   POKéMON to hold.$"
+	.string "{CIRCLE_1} Vyber “VYBRAT PŘEDMĚT”.\n"
+	.string "{CIRCLE_2} Vyber předmět, který chceš vzít.\n"
+	.string "{CIRCLE_3} Předmět se přesune do kapsy\n"
+	.string "   PŘEDMĚTY v BATOHU. Můžeš ho\n"
+	.string "   i rovnou dát POKéMONOVI.$"
 
 Help_Text_HowToUseDepositItem2::
-	.string "{CIRCLE_1} Select “DEPOSIT ITEM.”\n"
-	.string "{CIRCLE_2} Select the item in the BAG to be\n"
-	.string "   deposited using the {PLUS} Control Pad.\n"
-	.string "{CIRCLE_3} If there is nothing in the BAG, this\n"
-	.string "   command can't be used!$"
+	.string "{CIRCLE_1} Vyber “ULOŽIT PŘEDMĚT”.\n"
+	.string "{CIRCLE_2} Ovladačem {PLUS} vyber předmět\n"
+	.string "   v BATOHU, který chceš uložit.\n"
+	.string "{CIRCLE_3} Když je BATOH prázdný, tahle\n"
+	.string "   volba nejde použít!$"
 
 Help_Text_HowToUseMailbox2::
-	.string "When MAIL is taken from a POKéMON,\n"
-	.string "it is moved to the MAILBOX. If it has\n"
-	.string "no MAIL, the MAILBOX can't be used.\n"
-	.string "{CIRCLE_1} Select MAIL by name to read it or\n"
-	.string "   make a POKéMON hold it.$"
+	.string "Vezmeš-li POKéMONOVI DOPIS, přesune\n"
+	.string "se do SCHRÁNKY. Když v ní žádný\n"
+	.string "DOPIS není, SCHRÁNKA nejde použít.\n"
+	.string "{CIRCLE_1} Vyber DOPIS podle jména. Pak ho\n"
+	.string "   čti nebo dej POKéMONOVI.$"
 
 Help_Text_HowToUseRun::
-	.string "You may not “RUN” from a TRAINER\n"
-	.string "battle!\n"
-	.string "{CIRCLE_1} You may “RUN” from a wild POKéMON.\n"
-	.string "{CIRCLE_2} Your chance of escape is improved\n"
-	.string "   if your POKéMON in battle is fast.$"
+	.string "Ze souboje s TRENÉREM “ÚTĚK”\n"
+	.string "nejde!\n"
+	.string "{CIRCLE_1} Před divokým POKéMONEM utéct jde.\n"
+	.string "{CIRCLE_2} Šance na útěk je vyšší, když je\n"
+	.string "   tvůj POKéMON v souboji rychlý.$"
 
 Help_Text_HowToRegisterKeyItem::
-	.string "You may “REGISTER” a key item for\n"
-	.string "instant use by pressing SELECT!\n"
-	.string "{CIRCLE_1} Open the “KEY ITEMS” POCKET.\n"
-	.string "{CIRCLE_2} Select the key item, then select\n"
-	.string "   “REGISTER.”$"
+	.string "Důležitý předmět můžeš “PŘIŘADIT”\n"
+	.string "k tlačítku SELECT a hned ho použít!\n"
+	.string "{CIRCLE_1} Otevři kapsu “DŮLEŽITÉ”.\n"
+	.string "{CIRCLE_2} Vyber důležitý předmět a pak\n"
+	.string "   “PŘIŘADIT”.$"
 
 Help_Text_HowToUseBall::
-	.string "{CIRCLE_1} Select to throw the special POKé\n"
-	.string "   BALL used only in the SAFARI ZONE.\n"
-	.string "When wild POKéMON appear, throw lots\n"
-	.string "of SAFARI BALLS to catch them!$"
+	.string "{CIRCLE_1} Hodí zvláštní POKé BALL, který\n"
+	.string "   se používá jen v SAFARI ZONE.\n"
+	.string "Když se objeví divocí POKéMONI,\n"
+	.string "házej SAFARI BALLS a chytej je!$"
 
 Help_Text_HowToUseBait::
-	.string "{CIRCLE_1} Select to throw the special food\n"
-	.string "   used only in the SAFARI ZONE.\n"
-	.string "It is POKéMON food rolled up into\n"
-	.string "a ball for easy eating. When BAIT is\n"
-	.string "thrown, the wild POKéMON may get\n"
-	.string "attracted by it, and may not flee!$"
+	.string "{CIRCLE_1} Hodí zvláštní krmení, které se\n"
+	.string "   používá jen v SAFARI ZONE.\n"
+	.string "Je to krmivo pro POKéMONY ve tvaru\n"
+	.string "kuličky. Když hodíš KRMENÍ, divoký\n"
+	.string "POKéMON ho může chtít a neuteče!$"
 
 Help_Text_HowToUseRock::
-	.string "{CIRCLE_1} Select to throw a rock lying on\n"
-	.string "   the ground in the SAFARI ZONE.\n"
-	.string "Throwing a rock at a POKéMON may \n"
-	.string "make it run away, but it becomes easier\n"
-	.string "to catch!$"
+	.string "{CIRCLE_1} Hodí kámen, který leží na zemi\n"
+	.string "   v SAFARI ZONE.\n"
+	.string "Když hodíš kámen po POKéMONOVI,\n"
+	.string "může utéct, ale snáz se chytí!$"
 
 Help_Text_HowToUseHallOfFame::
-	.string "{CIRCLE_1} Select “HALL OF FAME” on the PC.\n"
-	.string "{CIRCLE_2} The POKéMON that have entered the\n"
-	.string "   HALL OF FAME can be examined.$"
+	.string "{CIRCLE_1} V PC vyber “SÍŇ SLÁVY”.\n"
+	.string "{CIRCLE_2} Můžeš si prohlédnout POKéMONY,\n"
+	.string "   kteří se dostali do SÍNĚ SLÁVY.$"
 
 Help_Text_HP::
 	.string "HP$"
 
 Help_Text_EXP::
-	.string "EXP. {LEFT_PAREN}EXP. Points{RIGHT_PAREN}$"
+	.string "EXP. {LEFT_PAREN}zkušenostní body{RIGHT_PAREN}$"
 
 Help_Text_Moves::
-	.string "MOVES$"
+	.string "ÚTOKY$"
 
 Help_Text_Attack::
-	.string "ATTACK$"
+	.string "ÚTOK$"
 
 Help_Text_Defense::
-	.string "DEFENSE$"
+	.string "OBRANA$"
 
 Help_Text_SpAtk::
-	.string "SP. ATK$"
+	.string "SP. ÚTOK$"
 
 Help_Text_SpDef::
-	.string "SP. DEF$"
+	.string "SP. OBR.$"
 
 Help_Text_Speed::
-	.string "SPEED$"
+	.string "RYCHLOST$"
 
 Help_Text_Level::
-	.string "Lv. {LEFT_PAREN}Level{RIGHT_PAREN}$"
+	.string "Lv. {LEFT_PAREN}úroveň{RIGHT_PAREN}$"
 
 Help_Text_Type::
-	.string "TYPE$"
+	.string "TYP$"
 
 Help_Text_OT::
 	.string "OT$"
 
 Help_Text_Item::
-	.string "ITEM$"
+	.string "PŘEDMĚT$"
 
 Help_Text_Ability::
-	.string "ABILITY$"
+	.string "SCHOPNOST$"
 
 Help_Text_Money::
-	.string "MONEY$"
+	.string "PENÍZE$"
 
 Help_Text_MoveType::
-	.string "MOVE TYPE$"
+	.string "TYP ÚTOKU$"
 
 Help_Text_Nature::
-	.string "NATURE$"
+	.string "POVAHA$"
 
 Help_Text_IDNo::
-	.string "ID No.$"
+	.string "ID č.$"
 
 Help_Text_PP::
 	.string "PP$"
 
 Help_Text_Power::
-	.string "POWER$"
+	.string "SÍLA$"
 
 Help_Text_Accuracy::
-	.string "ACCURACY$"
+	.string "PŘESNOST$"
 
 Help_Text_FNT::
 	.string "FNT$"
 
 Help_Text_Items::
-	.string "ITEMS$"
+	.string "PŘEDMĚTY$"
 
 Help_Text_KeyItems::
-	.string "KEY ITEMS$"
+	.string "DŮLEŽITÉ$"
 
 Help_Text_PokeBalls::
-	.string "POKé BALLS$"
+	.string "POKé BALLY$"
 
 Help_Text_Pokedex::
 	.string "POKéDEX$"
 
 Help_Text_PlayTime::
-	.string "PLAY TIME$"
+	.string "HERNÍ ČAS$"
 
 Help_Text_Badges::
-	.string "BADGES$"
+	.string "ODZNAKY$"
 
 Help_Text_TextSpeed::
-	.string "TEXT SPEED$"
+	.string "RYCHLOST TEXTU$"
 
 Help_Text_BattleScene::
-	.string "BATTLE SCENE$"
+	.string "ANIMACE BOJE$"
 
 Help_Text_BattleStyle::
-	.string "BATTLE STYLE$"
+	.string "STYL BOJE$"
 
 Help_Text_Sound::
-	.string "SOUND$"
+	.string "ZVUK$"
 
 Help_Text_ButtonMode::
-	.string "BUTTON MODE$"
+	.string "TLAČÍTKA$"
 
 Help_Text_Frame::
-	.string "FRAME$"
+	.string "RÁMEČEK$"
 
 Help_Text_Cancel2::
-	.string "CANCEL$"
+	.string "ZPĚT$"
 
 Help_Text_TM::
 	.string "TM$"
@@ -1169,668 +1131,635 @@ Help_Text_HM::
 	.string "HM$"
 
 Help_Text_HMMove::
-	.string "HM MOVE$"
+	.string "SKRYTÝ ÚTOK$"
 
 Help_Text_Evolution::
-	.string "EVOLUTION$"
+	.string "VÝVOJ$"
 
 Help_Text_StatusProblem::
-	.string "STATUS PROBLEM$"
+	.string "POTÍŽE SE STAVEM$"
 
 Help_Text_Pokemon::
 	.string "POKéMON$"
 
 Help_Text_IDNo2::
-	.string "ID No.$"
+	.string "ID č.$"
 
 Help_Text_Money2::
-	.string "MONEY$"
+	.string "PENÍZE$"
 
 Help_Text_Badges2::
-	.string "BADGES$"
+	.string "ODZNAKY$"
 
 Help_Text_DefineHP::
-	.string "HP indicates a POKéMON's vitality.\n"
-	.string "If a POKéMON's HP drops to zero, it\l"
-	.string "faints and is unable to battle.\l"
-	.string "So, the key in battle is to try to\l"
-	.string "reduce the foe's HP to zero.\l"
-	.string "If your POKéMON are hurt, restore their\l"
-	.string "HP at a POKéMON CENTER or use items.$"
+	.string "HP vyjadřují vitalitu POKéMONA. Když\n"
+	.string "HP klesnou na nulu, POKéMON omdlí\l"
+	.string "a nemůže bojovat. Klíčem k souboji\l"
+	.string "je tedy snížit soupeři HP na nulu.\l"
+	.string "Zraněným POKéMONŮM obnovíš HP\l"
+	.string "v POKéMON CENTER nebo předměty.$"
 
 Help_Text_DefineEXP::
-	.string "EXP. Points stands for “Experience\n"
-	.string "Points.” POKéMON gain EXP. Points by\l"
-	.string "participating in winning battles.\l"
-	.string "When a POKéMON accumulates sufficient\l"
-	.string "EXP. Points, it levels up. The EXP. Bar\l"
-	.string "indicates accumulated EXP. Points.\l"
-	.string "It returns to zero upon leveling up.$"
+	.string "EXP. body jsou “zkušenostní body”.\n"
+	.string "POKéMONI je získávají za účast ve\l"
+	.string "vyhraných soubojích. Když POKéMON\l"
+	.string "nasbírá dost EXP. bodů, postoupí na\l"
+	.string "vyšší úroveň. Lišta EXP. ukazuje\l"
+	.string "nasbírané body a po postupu klesne na\l"
+	.string "nulu.$"
 
 Help_Text_DefineMoves::
-	.string "POKéMON may learn up to four different\n"
-	.string "moves. There are many kinds of moves\l"
-	.string "including attacks and those with\l"
-	.string "special effects. The kinds of moves\l"
-	.string "that can be learned vary for each\l"
-	.string "POKéMON. Some moves can be learned\l"
-	.string "from items.$"
+	.string "POKéMON se může naučit až čtyři různé\n"
+	.string "útoky. Útoků je mnoho druhů, od\l"
+	.string "útočných po ty se zvláštními účinky.\l"
+	.string "Každý POKéMON se může naučit jiné\l"
+	.string "útoky. Některé útoky se dají naučit\l"
+	.string "z předmětů.$"
 
 Help_Text_DefineAttack::
-	.string "ATTACK indicates the power of an\n"
-	.string "offensive move. The higher this stat,\l"
-	.string "the more powerful the move.\l"
-	.string "It is applied for the following move\l"
-	.string "types: NORMAL, POISON, GROUND,\l"
-	.string "FLYING, BUG, FIGHTING, ROCK, GHOST,\l"
-	.string "and STEEL.$"
+	.string "ÚTOK vyjadřuje sílu útočných útoků.\n"
+	.string "Čím vyšší, tím silnější útok. Platí\l"
+	.string "pro útoky těchto typů: NORMAL,\l"
+	.string "POISON, GROUND, FLYING, BUG,\l"
+	.string "FIGHTING, ROCK, GHOST a STEEL.$"
 
 Help_Text_DefineDefense::
-	.string "DEFENSE indicates the resistance a\n"
-	.string "POKéMON has against physical attacks.\l"
-	.string "The higher this stat, the less damage\l"
-	.string "sustained from a foe's physical hit.$"
+	.string "OBRANA vyjadřuje odolnost POKéMONA\n"
+	.string "vůči fyzickým útokům. Čím vyšší, tím\l"
+	.string "menší poškození mu soupeřův fyzický\l"
+	.string "zásah způsobí.$"
 
 Help_Text_DefineSpAtk::
-	.string "SP. ATK (Special Attack) indicates the\n"
-	.string "power of a special attack move.\l"
-	.string "The higher this stat, the more powerful\l"
-	.string "the special attack move.\l"
-	.string "It is applied for the following move\l"
-	.string "types: FIRE, WATER, ELECTRIC, GRASS,\l"
-	.string "ICE, PSYCHIC, DRAGON, and DARK.$"
+	.string "SP. ÚTOK (speciální útok) vyjadřuje\n"
+	.string "sílu speciálních útoků. Čím vyšší,\l"
+	.string "tím silnější speciální útok. Platí pro\l"
+	.string "útoky těchto typů: FIRE, WATER,\l"
+	.string "ELECTRIC, GRASS, ICE, PSYCHIC,\l"
+	.string "DRAGON a DARK.$"
 
 Help_Text_DefineSpDef::
-	.string "SP. DEF (Special Defense) indicates\n"
-	.string "the resistance a POKéMON has against\l"
-	.string "special attacks.\l"
-	.string "The higher this stat, the less damage\l"
-	.string "sustained from a foe's special attack.$"
+	.string "SP. OBR. (speciální obrana) vyjadřuje\n"
+	.string "odolnost POKéMONA vůči speciálním\l"
+	.string "útokům. Čím vyšší, tím menší\l"
+	.string "poškození mu soupeřův speciální útok\l"
+	.string "způsobí.$"
 
 Help_Text_DefineSpeed::
-	.string "SPEED indicates the agility of a\n"
-	.string "POKéMON. If this stat exceeds the foe's\l"
-	.string "in battle, the POKéMON can make a move\l"
-	.string "before its slower opponent.$"
+	.string "RYCHLOST vyjadřuje hbitost POKéMONA.\n"
+	.string "Když je v souboji vyšší než\l"
+	.string "u soupeře, POKéMON jedná dřív než\l"
+	.string "jeho pomalejší protivník.$"
 
 Help_Text_DefineLevel::
-	.string "Lv. (Level) indicates the growth and\n"
-	.string "strength of a POKéMON.\l"
-	.string "In general, when a POKéMON levels up,\l"
-	.string "its stats such as HP, ATTACK, and\l"
-	.string "DEFENSE rise, making it stronger.\l"
-	.string "POKéMON may learn a new move upon\l"
-	.string "leveling up.$"
+	.string "Lv. (úroveň) vyjadřuje růst a sílu\n"
+	.string "POKéMONA. Obecně platí, že když\l"
+	.string "POKéMON postoupí na vyšší úroveň,\l"
+	.string "zvýší se mu vlastnosti jako HP, ÚTOK\l"
+	.string "a OBRANA. Při postupu se může naučit\l"
+	.string "i nový útok.$"
 
 Help_Text_DefineType::
-	.string "POKéMON and moves are classified by\n"
-	.string "type. Every type has advantageous and\l"
-	.string "disadvantageous matchups against\l"
-	.string "other types. For example, like a rock-\l"
-	.string "paper-scissors game, the WATER type is\l"
-	.string "strong against the FIRE type and weak\l"
-	.string "against the GRASS type.$"
+	.string "POKéMONI i útoky se dělí podle typů.\n"
+	.string "Každý typ má proti jiným typům\l"
+	.string "výhody i nevýhody. Třeba jako\l"
+	.string "u kámen, nůžky, papír: typ WATER je\l"
+	.string "silný proti typu FIRE a slabý proti\l"
+	.string "typu GRASS.$"
 
 Help_Text_DefineOT::
-	.string "OT stands for “Original TRAINER,”\n"
-	.string "the first TRAINER to have caught the\l"
-	.string "selected POKéMON.\l"
-	.string "Even if the POKéMON is traded, the OT\l"
-	.string "name will remain unchanged.$"
+	.string "OT znamená “Original TRAINER”, tedy\n"
+	.string "první TRENÉR, který vybraného\l"
+	.string "POKéMONA chytil. I když se POKéMON\l"
+	.string "vymění, jméno OT zůstane stejné.$"
 
 Help_Text_DefineItem::
-	.string "All POKéMON can be made to hold one\n"
-	.string "item each. Some items will be used by\l"
-	.string "the POKéMON automatically in certain\l"
-	.string "situations. To make a POKéMON hold an\l"
-	.string "item, select the item from the BAG and\l"
-	.string "“GIVE” it to the POKéMON.$"
+	.string "Každý POKéMON může držet jeden\n"
+	.string "předmět. Některé předměty POKéMON\l"
+	.string "v určitých situacích použije sám.\l"
+	.string "Chceš-li POKéMONOVI dát předmět,\l"
+	.string "vyber ho v BATOHU a zvol “DÁT”.$"
 
 Help_Text_DefineAbility::
-	.string "All POKéMON have a special ABILITY.\n"
-	.string "There are many different kinds of these\l"
-	.string "abilities, some used in battle, some\l"
-	.string "elsewhere. The abilities differ from\l"
-	.string "species to species. Some species may\l"
-	.string "have more than one kind of ability.$"
+	.string "Každý POKéMON má zvláštní SCHOPNOST.\n"
+	.string "Schopností je mnoho druhů, některé se\l"
+	.string "uplatní v souboji, jiné jinde. Každý\l"
+	.string "druh má jiné schopnosti a některé\l"
+	.string "druhy můžou mít i víc druhů\l"
+	.string "schopností.$"
 
 Help_Text_DefineMoney::
-	.string "Whenever you win a battle against a\n"
-	.string "TRAINER, you are given prize money.\l"
-	.string "Save up your prize money so you can\l"
-	.string "enjoy shopping at POKéMON MARTS!$"
+	.string "Za každé vítězství nad TRENÉREM\n"
+	.string "dostaneš peněžní odměnu. Šetři si ji,\l"
+	.string "ať si můžeš užít nakupování\l"
+	.string "v POKéMON MART!$"
 
 Help_Text_DefineMoveType::
-	.string "Moves are also classified by types.\n"
-	.string "If a POKéMON of a certain type uses\l"
-	.string "a move of the same type, the move's\l"
-	.string "power is boosted. If the move's type\l"
-	.string "has a matchup advantage against the\l"
-	.string "target, its effectiveness is also\l"
-	.string "boosted.$"
+	.string "I útoky se dělí podle typů. Když\n"
+	.string "POKéMON použije útok stejného typu,\l"
+	.string "jako je on sám, útok zesílí. Když má\l"
+	.string "typ útoku výhodu proti cíli, zesílí\l"
+	.string "i jeho účinek.$"
 
 Help_Text_DefineNature::
-	.string "All POKéMON have a personality,\n"
-	.string "or “NATURE.” The POKéMON's\l"
-	.string "nature appears to affect how the\l"
-	.string "POKéMON will grow upon leveling up.$"
+	.string "Každý POKéMON má svou osobnost\n"
+	.string "neboli “POVAHU”. Povaha zřejmě\l"
+	.string "ovlivňuje, jak POKéMON roste při\l"
+	.string "postupu na vyšší úroveň.$"
 
 Help_Text_DefineIDNo::
-	.string "The ID No. is a special number assigned\n"
-	.string "specifically to you as a TRAINER.\l"
-	.string "Together with the OT name, the ID No.\l"
-	.string "is used to precisely identify the\l"
-	.string "Original TRAINER.\l"
-	.string "The ID No. does not change even if the\l"
-	.string "POKéMON is traded.$"
+	.string "ID č. je zvláštní číslo přidělené\n"
+	.string "právě tobě jako TRENÉROVI. Spolu se\l"
+	.string "jménem OT slouží k přesnému určení\l"
+	.string "původního TRENÉRA. ID č. se nezmění,\l"
+	.string "ani když se POKéMON vymění.$"
 
 Help_Text_DefinePP::
-	.string "PP stands for “Power Points.”\n"
-	.string "It indicates the number of times a\l"
-	.string "certain move can be used in battle.\l"
-	.string "Like HP, PP can be restored by visiting\l"
-	.string "a POKéMON CENTER or using certain\l"
-	.string "items.$"
+	.string "PP znamená “body síly”. Ukazují,\n"
+	.string "kolikrát jde útok v souboji použít.\l"
+	.string "Stejně jako HP se PP obnoví\l"
+	.string "v POKéMON CENTER nebo určitými\l"
+	.string "předměty.$"
 
 Help_Text_DefinePower::
-	.string "POWER indicates the strength of an\n"
-	.string "attack. The higher this number, the\l"
-	.string "greater the damage that can be\l"
-	.string "inflicted on the foe!$"
+	.string "SÍLA vyjadřuje mohutnost útoku. Čím\n"
+	.string "vyšší číslo, tím větší poškození může\l"
+	.string "soupeři způsobit!$"
 
 Help_Text_DefineAccuracy::
-	.string "ACCURACY indicates the probability of\n"
-	.string "the move hitting the foe.\l"
-	.string "The higher this number, the more likely\l"
-	.string "the move will strike the target.$"
+	.string "PŘESNOST vyjadřuje pravděpodobnost,\n"
+	.string "že útok soupeře zasáhne. Čím vyšší\l"
+	.string "číslo, tím spíš útok cíl zasáhne.$"
 
 Help_Text_DefineFNT::
-	.string "FNT stands for “fainted.”\n"
-	.string "A POKéMON faints if its HP is reduced\l"
-	.string "to zero. It becomes incapable of taking\l"
-	.string "part in battle.\l"
-	.string "Restore a fainted POKéMON at a POKéMON\l"
-	.string "CENTER, or use an item.$"
+	.string "FNT znamená “omdlel”. POKéMON omdlí,\n"
+	.string "když mu HP klesnou na nulu. Pak se\l"
+	.string "nemůže účastnit souboje. Omdlelého\l"
+	.string "POKéMONA obnovíš v POKéMON CENTER\l"
+	.string "nebo předmětem.$"
 
 Help_Text_DefineItems::
-	.string "Ordinary items bought at any POKéMON\n"
-	.string "MART are placed in the ITEMS POCKET.\l"
-	.string "Items may be used, given to a POKéMON\l"
-	.string "to hold, or tossed out as garbage.$"
+	.string "Obyčejné předměty z POKéMON MART se\n"
+	.string "ukládají do kapsy PŘEDMĚTY. Předměty\l"
+	.string "můžeš používat, dávat POKéMONŮM\l"
+	.string "k držení nebo je vyhodit.$"
 
 Help_Text_DefineKeyItems::
-	.string "Important items that you find or \n"
-	.string "receive from people are placed in the\l"
-	.string "KEY ITEMS POCKET.\l"
-	.string "Key items may be used, or registered\l"
-	.string "for use instantly with SELECT. Once\l"
-	.string "registered, the item can be used\l"
-	.string "without opening the MENU and BAG.$"
+	.string "Důležité předměty, které najdeš nebo\n"
+	.string "dostaneš od lidí, se ukládají do\l"
+	.string "kapsy DŮLEŽITÉ. Můžeš je používat\l"
+	.string "nebo je přiřadit k tlačítku SELECT.\l"
+	.string "Přiřazený předmět použiješ bez\l"
+	.string "otevírání NABÍDKY a BATOHU.$"
 
 Help_Text_DefinePokeBalls::
-	.string "POKé BALLS, which are used for\n"
-	.string "catching wild POKéMON, are placed in\l"
-	.string "the POKé BALLS POCKET.\l"
-	.string "POKé BALLS may be bought at POKéMON\l"
-	.string "MARTS. They may be used, given to a\l"
-	.string "POKéMON to hold, or tossed out as\l"
-	.string "garbage.$"
+	.string "POKé BALLY, kterými se chytají divocí\n"
+	.string "POKéMONI, se ukládají do kapsy POKé\l"
+	.string "BALLY. Koupíš je v POKéMON MART.\l"
+	.string "Můžeš je používat, dávat POKéMONŮM\l"
+	.string "k držení nebo je vyhodit.$"
 
 Help_Text_DefinePokedex::
-	.string "This indicates the number of species of\n"
-	.string "POKéMON you have caught and/or\l"
-	.string "evolved to fill the POKéDEX.\l"
-	.string "Try hard to catch all sorts of\l"
-	.string "POKéMON!$"
+	.string "Ukazuje počet druhů POKéMONŮ, které\n"
+	.string "máš v POKéDEXU díky chycení nebo\l"
+	.string "vývoji. Snaž se chytit všechny možné\l"
+	.string "POKéMONY!$"
 
 Help_Text_DefinePlayTime::
-	.string "This is the total amount of time that\n"
-	.string "you have played this game.$"
+	.string "Celkový čas strávený touhle hrou.$"
 
 Help_Text_DefineBadges::
-	.string "The POKéMON LEAGUE BADGES that you\n"
-	.string "have won are registered and shown.\l"
-	.string "Earn BADGES by defeating GYM LEADERS\l"
-	.string "in various cities and towns.$"
+	.string "Zobrazují se získané ODZNAKY POKéMON\n"
+	.string "LEAGUE. ODZNAKY získáš, když porazíš\l"
+	.string "VŮDCE STADIONŮ v různých městech.$"
 
 Help_Text_DefineTextSpeed::
-	.string "You can adjust how quickly the text is\n"
-	.string "displayed. Choose one: SLOW, MID,\l"
-	.string "or FAST.$"
+	.string "Můžeš nastavit, jak rychle se text\n"
+	.string "zobrazuje. Vyber si: POMALU,\l"
+	.string "STŘEDNĚ, nebo RYCHLE.$"
 
 Help_Text_DefineBattleScene::
-	.string "You can choose to turn the battle\n"
-	.string "animation ON or OFF.$"
+	.string "Animace boje můžeš ZAPnout nebo\n"
+	.string "VYPnout.$"
 
 Help_Text_DefineBattleStyle::
-	.string "You can choose whether or not a\n"
-	.string "TRAINER can switch a POKéMON after\l"
-	.string "it has made its foe faint.\l"
-	.string "Set to “SHIFT” if you would like the\l"
-	.string "chance to switch a POKéMON after it\l"
-	.string "has made its foe faint.$"
+	.string "Můžeš zvolit, jestli TRENÉR smí\n"
+	.string "vystřídat POKéMONA poté, co jeho\l"
+	.string "POKéMON soupeře omráčil. Nastav\l"
+	.string "“MĚNIT”, chceš-li mít možnost\l"
+	.string "POKéMONA po omdlení soupeře\l"
+	.string "vystřídat.$"
 
 Help_Text_DefineSound::
-	.string "You can choose between MONO and\n"
-	.string "STEREO sound output.$"
+	.string "Můžeš si vybrat zvuk MONO nebo\n"
+	.string "STEREO.$"
 
 Help_Text_DefineButtonMode::
-	.string "Set to “HELP” to display help messages\n"
-	.string "by pressing the L or R Button.\l"
-	.string "Set to “LR” to enable the switching\l"
-	.string "of the POKéDEX pages and BAG POCKETS\l"
-	.string "using the L and R Buttons.\l"
-	.string "Set to “L=A” to make the L Button\l"
-	.string "work the same as the A Button.$"
+	.string "“NÁPOVĚDA”: tlačítky L a R zobrazíš\n"
+	.string "nápovědu. “LR”: tlačítky\l"
+	.string "L a R přepínáš stránky POKéDEXU\l"
+	.string "a kapsy BATOHU. “L=A”: tlačítko\l"
+	.string "L funguje stejně jako tlačítko A.$"
 
 Help_Text_DefineFrame::
-	.string "You may choose the design of the frame\n"
-	.string "around certain menus. Try them out and\l"
-	.string "see what you like.$"
+	.string "Můžeš si vybrat vzhled rámečku kolem\n"
+	.string "některých nabídek. Vyzkoušej je\l"
+	.string "a vyber si, co se ti líbí.$"
 
 Help_Text_DefineCancel2::
-	.string "The settings will be changed to the\n"
-	.string "selections shown in red, and you will\l"
-	.string "return to the MENU.$"
+	.string "Nastavení se změní na volby\n"
+	.string "zobrazené červeně a vrátíš se do\l"
+	.string "NABÍDKY.$"
 
 Help_Text_DefineTM::
-	.string "A TM (Technical Machine) is a device\n"
-	.string "used to teach a move to a POKéMON.\l"
-	.string "There are many different kinds.\l"
-	.string "Moves can be taught only to those\l"
-	.string "POKéMON capable of using them.\l"
-	.string "A TM breaks after a single use.$"
+	.string "TM (technický stroj) je zařízení,\n"
+	.string "kterým POKéMONA naučíš útok. Je jich\l"
+	.string "mnoho druhů. Útok jde naučit jen\l"
+	.string "POKéMONY, kteří ho umí používat. TM\l"
+	.string "se po jednom použití rozbije.$"
 
 Help_Text_DefineHM::
-	.string "An HM (Hidden Machine) is a device used\n"
-	.string "to teach a HIDDEN move to a POKéMON.\l"
-	.string "A HIDDEN move can be taught only to\l"
-	.string "those POKéMON capable of using it.\l"
-	.string "Unlike a TM, an HM can be used over\l"
-	.string "and over. A HIDDEN move can be tough\l"
-	.string "for a POKéMON to forget.$"
+	.string "HM (skrytý stroj) je zařízení, kterým\n"
+	.string "POKéMONA naučíš SKRYTÝ útok. SKRYTÝ\l"
+	.string "útok jde naučit jen POKéMONY, kteří\l"
+	.string "ho umí používat. HM jde na rozdíl od\l"
+	.string "TM použít pořád dokola. SKRYTÝ útok\l"
+	.string "POKéMON těžko zapomíná.$"
 
 Help_Text_DefineHMMove::
-	.string "HIDDEN moves are those that are\n"
-	.string "especially important for your\l"
-	.string "adventure. To use such a move outside\l"
-	.string "of battle, open the “POKéMON” MENU\l"
-	.string "and make the POKéMON that knows the\l"
-	.string "move use it. A fainted POKéMON may use\l"
-	.string "a HIDDEN move outside of battle.$"
+	.string "SKRYTÉ útoky jsou pro tvé\n"
+	.string "dobrodružství zvlášť důležité.\l"
+	.string "Chceš-li takový útok použít mimo\l"
+	.string "souboj, otevři v NABÍDCE “POKéMON”\l"
+	.string "a nech ho použít POKéMONA, který ho\l"
+	.string "umí. Mimo souboj ho může použít\l"
+	.string "i omdlelý POKéMON.$"
 
 Help_Text_DefineEvolution::
-	.string "Among POKéMON, there are some that\n"
-	.string "undergo major changes (evolution) upon\l"
-	.string "growing to certain levels. Evolution\l"
-	.string "causes a POKéMON to alter form, change\l"
-	.string "its name, and perhaps change the moves\l"
-	.string "it may learn. Some POKéMON evolve\l"
-	.string "due to reasons other than leveling up.$"
+	.string "Někteří POKéMONI na určité úrovni\n"
+	.string "projdou velkou změnou, vývojem. Při\l"
+	.string "vývoji POKéMON změní podobu, jméno\l"
+	.string "a možná i útoky, které se může\l"
+	.string "naučit. Někteří POKéMONI se vyvíjejí\l"
+	.string "i z jiných důvodů než postupem na\l"
+	.string "úroveň.$"
 
 Help_Text_DefineStatusProblem::
-	.string "Status problems include:\n"
-	.string "Sleep: Can't use moves.\l"
-	.string "Poison: Causes steady HP loss.\l"
-	.string "Paralysis: May prevent moves.\l"
-	.string "Burn: HP loss and lowers ATTACK.\l"
-	.string "Freeze: Can't use moves.\l"
-	.string "These can be healed with items, etc.$"
+	.string "Potíže se stavem jsou:\n"
+	.string "Spánek: nemůže útočit.\l"
+	.string "Otrava: postupně ztrácí HP.\l"
+	.string "Paralýza: někdy nemůže útočit.\l"
+	.string "Popálení: ztrácí HP a klesá mu ÚTOK.\l"
+	.string "Zmrznutí: nemůže útočit.\l"
+	.string "Léčí se předměty a podobně.$"
 
 Help_Text_DefinePokemon::
-	.string "POKéMON is a name given to describe\n"
-	.string "wondrous creatures that inhabit all\l"
-	.string "corners of this world.\l"
-	.string "People raise POKéMON to be their pets,\l"
-	.string "use them for battling, and so on.$"
+	.string "POKéMON je název pro úžasné bytosti,\n"
+	.string "které obývají všechny kouty světa.\l"
+	.string "Lidé si POKéMONY chovají jako\l"
+	.string "mazlíčky, bojují s nimi a podobně.$"
 
 Help_Text_DefineIDNo2::
-	.string "The ID No. is a special number assigned\n"
-	.string "specifically to you as a TRAINER.\l"
-	.string "Together with the OT name, the ID No.\l"
-	.string "is used to precisely identify the\l"
-	.string "Original TRAINER.\l"
-	.string "The ID No. does not change even if the\l"
-	.string "POKéMON is traded.$"
+	.string "ID č. je zvláštní číslo přidělené\n"
+	.string "právě tobě jako TRENÉROVI. Spolu se\l"
+	.string "jménem OT slouží k přesnému určení\l"
+	.string "původního TRENÉRA. ID č. se nezmění,\l"
+	.string "ani když se POKéMON vymění.$"
 
 Help_Text_DefineMoney2::
-	.string "Whenever you win a battle against a\n"
-	.string "TRAINER, you are given prize money.\l"
-	.string "Save up your prize money so you can\l"
-	.string "enjoy shopping at POKéMON MARTS!$"
+	.string "Za každé vítězství nad TRENÉREM\n"
+	.string "dostaneš peněžní odměnu. Šetři si ji,\l"
+	.string "ať si můžeš užít nakupování\l"
+	.string "v POKéMON MART!$"
 
 Help_Text_DefineBadges2::
-	.string "This indicates the number of POKéMON\n"
-	.string "LEAGUE BADGES that you have won.\l"
-	.string "Earn BADGES by defeating GYM LEADERS\l"
-	.string "in various cities and towns.$"
+	.string "Ukazuje, kolik ODZNAKŮ POKéMON\n"
+	.string "LEAGUE máš. ODZNAKY získáš, když\l"
+	.string "porazíš VŮDCE STADIONŮ v různých\l"
+	.string "městech.$"
 
 Help_Text_TheHelpSystem::
-	.string "The HELP System$"
+	.string "NÁPOVĚDA$"
 
 Help_Text_TheGame::
-	.string "The game$"
+	.string "Hra$"
 
 Help_Text_WirelessAdapter::
 	.string "Wireless Adapter$"
 
 Help_Text_GameFundamentals1::
-	.string "Game fundamentals 1$"
+	.string "Základy hry 1$"
 
 Help_Text_GameFundamentals2::
-	.string "Game fundamentals 2$"
+	.string "Základy hry 2$"
 
 Help_Text_GameFundamentals3::
-	.string "Game fundamentals 3$"
+	.string "Základy hry 3$"
 
 Help_Text_WhatArePokemon::
-	.string "What are POKéMON?$"
+	.string "Co jsou POKéMONI?$"
 
 Help_Text_DescTheHelpSystem::
-	.string "The help messages change depending on\n"
-	.string "how much you have progressed in the\l"
-	.string "game. They are designed to support you\l"
-	.string "when you need them. If there is\l"
-	.string "anything that you don't understand,\l"
-	.string "please look up the HELP System!$"
+	.string "Rady se mění podle toho, jak daleko\n"
+	.string "ve hře jsi. Mají ti pomoct, když to\l"
+	.string "potřebuješ. Když něčemu nerozumíš,\l"
+	.string "podívej se do NÁPOVĚDY!$"
 
 Help_Text_DescTheGame::
-	.string "You become the main character to\n"
-	.string "explore the world of POKéMON!\l"
-	.string "By talking to people and solving\l"
-	.string "mysteries, new paths will open to you.\l"
-	.string "Strive for the goal together with your\l"
-	.string "wonderful POKéMON!$"
+	.string "Stáváš se hlavní postavou\n"
+	.string "a objevuješ svět POKéMONŮ! Když\l"
+	.string "mluvíš s lidmi a řešíš záhady,\l"
+	.string "otevírají se ti nové cesty. Usiluj\l"
+	.string "o cíl společně se svými úžasnými\l"
+	.string "POKéMONY!$"
 
 Help_Text_DescWirelessAdapter::
-	.string "This game communicates over a wireless\n"
-	.string "link using the Wireless Adapter.\p"
-	.string "Go wireless anywhere, anytime, and\n"
-	.string "with anybody!\p"
-	.string "Try playing with the Wireless Adapter\n"
-	.string "always attached!$"
+	.string "Tahle hra komunikuje bezdrátově přes\n"
+	.string "Wireless Adapter.\p"
+	.string "Hraj bezdrátově kdekoli, kdykoli\n"
+	.string "a s kýmkoli!\p"
+	.string "Zkus hrát s Wireless Adapterem pořád\n"
+	.string "připojeným!$"
 
 Help_Text_DescGameFundamentals1::
-	.string "Visit every city and town, travel every\n"
-	.string "road, explore every cave, and face\l"
-	.string "every challenge as you strive to\l"
-	.string "become the greatest TRAINER of\l"
-	.string "POKéMON!$"
+	.string "Navštiv všechna města, projdi všechny\n"
+	.string "cesty, prozkoumej všechny jeskyně\l"
+	.string "a postav se každé výzvě na cestě\l"
+	.string "k titulu nejlepšího TRENÉRA\l"
+	.string "POKéMONŮ!$"
 
 Help_Text_DescGameFundamentals2::
-	.string "On your adventure, you will be faced\n"
-	.string "with many obstacles. Every obstacle\l"
-	.string "can be overcome by doing something\l"
-	.string "or by solving mysteries. Some obstacles\l"
-	.string "are affected by something that happens\l"
-	.string "far away.$"
+	.string "Na cestě narazíš na spoustu překážek.\n"
+	.string "Každou překážku překonáš tím, že něco\l"
+	.string "uděláš nebo vyřešíš záhadu. Některé\l"
+	.string "překážky ovlivňuje něco, co se stane\l"
+	.string "daleko.$"
 
 Help_Text_DescGameFundamentals3::
-	.string "Some of the obstacles in your way can\n"
-	.string "be removed once your POKéMON learn\l"
-	.string "specific moves.$"
+	.string "Některé překážky odstraníš, až se\n"
+	.string "tvoji POKéMONI naučí určité útoky.$"
 
 Help_Text_DescWhatArePokemon::
-	.string "POKéMON are wondrous creatures that\n"
-	.string "are shrouded in mystery. You may meet\l"
-	.string "them all over the world…in tall\l"
-	.string "grass, caves, the sea, and more.\l"
-	.string "They appear to grow obedient to the\l"
-	.string "TRAINERS that caught them.$"
+	.string "POKéMONI jsou úžasné bytosti zahalené\n"
+	.string "tajemstvím. Potkáš je po celém světě…\l"
+	.string "ve vysoké trávě, v jeskyních, v moři\l"
+	.string "a jinde. Zdá se, že poslouchají\l"
+	.string "TRENÉRY, kteří je chytili.$"
 
 Help_Text_UsingTypeMatchupList::
-	.string "Using the Type Matchup List$"
+	.string "Použití tabulky typů$"
 
 Help_Text_OwnMoveDark::
-	.string "Own move type: DARK$"
+	.string "Tvůj útok typu: DARK$"
 
 Help_Text_OwnPokemonDark::
-	.string "Own POKéMON type: DARK$"
+	.string "Tvůj POKéMON typu: DARK$"
 
 Help_Text_OwnMoveRock::
-	.string "Own move type: ROCK$"
+	.string "Tvůj útok typu: ROCK$"
 
 Help_Text_OwnPokemonRock::
-	.string "Own POKéMON type: ROCK$"
+	.string "Tvůj POKéMON typu: ROCK$"
 
 Help_Text_OwnMovePsychic::
-	.string "Own move type: PSYCHIC$"
+	.string "Tvůj útok typu: PSYCHIC$"
 
 Help_Text_OwnPokemonPsychic::
-	.string "Own POKéMON type: PSYCHIC$"
+	.string "Tvůj POKéMON typu: PSYCHIC$"
 
 Help_Text_OwnMoveFighting::
-	.string "Own move type: FIGHTING$"
+	.string "Tvůj útok typu: FIGHTING$"
 
 Help_Text_OwnPokemonFighting::
-	.string "Own POKéMON type: FIGHTING$"
+	.string "Tvůj POKéMON typu: FIGHTING$"
 
 Help_Text_OwnMoveGrass::
-	.string "Own move type: GRASS$"
+	.string "Tvůj útok typu: GRASS$"
 
 Help_Text_OwnPokemonGrass::
-	.string "Own POKéMON type: GRASS$"
+	.string "Tvůj POKéMON typu: GRASS$"
 
 Help_Text_OwnMoveGhost::
-	.string "Own move type: GHOST$"
+	.string "Tvůj útok typu: GHOST$"
 
 Help_Text_OwnPokemonGhost::
-	.string "Own POKéMON type: GHOST$"
+	.string "Tvůj POKéMON typu: GHOST$"
 
 Help_Text_OwnMoveIce::
-	.string "Own move type: ICE$"
+	.string "Tvůj útok typu: ICE$"
 
 Help_Text_OwnPokemonIce::
-	.string "Own POKéMON type: ICE$"
+	.string "Tvůj POKéMON typu: ICE$"
 
 Help_Text_OwnMoveGround::
-	.string "Own move type: GROUND$"
+	.string "Tvůj útok typu: GROUND$"
 
 Help_Text_OwnPokemonGround::
-	.string "Own POKéMON type: GROUND$"
+	.string "Tvůj POKéMON typu: GROUND$"
 
 Help_Text_OwnMoveElectric::
-	.string "Own move type: ELECTRIC$"
+	.string "Tvůj útok typu: ELECTRIC$"
 
 Help_Text_OwnPokemonElectric::
-	.string "Own POKéMON type: ELECTRIC$"
+	.string "Tvůj POKéMON typu: ELECTRIC$"
 
 Help_Text_OwnMovePoison::
-	.string "Own move type: POISON$"
+	.string "Tvůj útok typu: POISON$"
 
 Help_Text_OwnPokemonPoison::
-	.string "Own POKéMON type: POISON$"
+	.string "Tvůj POKéMON typu: POISON$"
 
 Help_Text_OwnMoveDragon::
-	.string "Own move type: DRAGON$"
+	.string "Tvůj útok typu: DRAGON$"
 
 Help_Text_OwnPokemonDragon::
-	.string "Own POKéMON type: DRAGON$"
+	.string "Tvůj POKéMON typu: DRAGON$"
 
 Help_Text_OwnMoveNormal::
-	.string "Own move type: NORMAL$"
+	.string "Tvůj útok typu: NORMAL$"
 
 Help_Text_OwnPokemonNormal::
-	.string "Own POKéMON type: NORMAL$"
+	.string "Tvůj POKéMON typu: NORMAL$"
 
 Help_Text_OwnMoveSteel::
-	.string "Own move type: STEEL$"
+	.string "Tvůj útok typu: STEEL$"
 
 Help_Text_OwnPokemonSteel::
-	.string "Own POKéMON type: STEEL$"
+	.string "Tvůj POKéMON typu: STEEL$"
 
 Help_Text_OwnMoveFlying::
-	.string "Own move type: FLYING$"
+	.string "Tvůj útok typu: FLYING$"
 
 Help_Text_OwnPokemonFlying::
-	.string "Own POKéMON type: FLYING$"
+	.string "Tvůj POKéMON typu: FLYING$"
 
 Help_Text_OwnMoveFire::
-	.string "Own move type: FIRE$"
+	.string "Tvůj útok typu: FIRE$"
 
 Help_Text_OwnPokemonFire::
-	.string "Own POKéMON type: FIRE$"
+	.string "Tvůj POKéMON typu: FIRE$"
 
 Help_Text_OwnMoveWater::
-	.string "Own move type: WATER$"
+	.string "Tvůj útok typu: WATER$"
 
 Help_Text_OwnPokemonWater::
-	.string "Own POKéMON type: WATER$"
+	.string "Tvůj POKéMON typu: WATER$"
 
 Help_Text_OwnMoveBug::
-	.string "Own move type: BUG$"
+	.string "Tvůj útok typu: BUG$"
 
 Help_Text_OwnPokemonBug::
-	.string "Own POKéMON type: BUG$"
+	.string "Tvůj POKéMON typu: BUG$"
 
 Help_Text_HowToUseTypeMatchupList::
-	.string "Depending on the matchup of the\n"
-	.string "move type and the target POKéMON's\l"
-	.string "type, the move's effectiveness varies:\l"
-	.string "{CIRCLE_DOT}: Super effective!\l"
-	.string "{TRIANGLE}: Not very effective\l"
-	.string "{BIG_MULT_X}: Not effective at all\l"
-	.string "(No changes for other matchups.)$"
+	.string "Účinnost útoku se mění podle typu\n"
+	.string "útoku a typu cílového POKéMONA:\l"
+	.string "{CIRCLE_DOT}: Super účinné!\l"
+	.string "{TRIANGLE}: Málo účinné\l"
+	.string "{BIG_MULT_X}: Vůbec neúčinné\l"
+	.string "(Ostatní kombinace beze změny.)$"
 
 Help_Text_TypeMatchupOwnMoveDark::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: PSYCHIC, GHOST\p"
 	.string "   {TRIANGLE}: FIGHTING, DARK, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonDark::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: FIGHTING, BUG\p"
 	.string "   {TRIANGLE}: GHOST, DARK\p"
 	.string "   {BIG_MULT_X}: PSYCHIC$"
 
 Help_Text_TypeMatchupOwnMoveRock::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: FIRE, ICE, FLYING, BUG\p"
 	.string "   {TRIANGLE}: FIGHTING, GROUND, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonRock::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: WATER, GRASS, FIGHTING,\n"
 	.string "       GROUND, STEEL\p"
 	.string "   {TRIANGLE}: NORMAL, FIRE, POISON, FLYING$"
 
 Help_Text_TypeMatchupOwnMovePsychic::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: FIGHTING, POISON\p"
 	.string "   {TRIANGLE}: PSYCHIC, STEEL\p"
 	.string "   {BIG_MULT_X}: DARK$"
 
 Help_Text_TypeMatchupOwnPokemonPsychic::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: BUG, GHOST, DARK\p"
 	.string "   {TRIANGLE}: FIGHTING, PSYCHIC$"
 
 Help_Text_TypeMatchupOwnMoveFighting::
-	.string "Effect on the opposing POKéMON:\p"
-	.string "   {CIRCLE_DOT}: NORMAL, ICE, ROCK, DARK, STEEL\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
+	.string "   {CIRCLE_DOT}: NORMAL, ICE, ROCK, DARK,\n"
+	.string "STEEL\p"
 	.string "   {TRIANGLE}: POISON, FLYING, PSYCHIC, BUG\p"
 	.string "   {BIG_MULT_X}: GHOST$"
 
 Help_Text_TypeMatchupOwnPokemonFighting::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: FLYING, PSYCHIC\p"
 	.string "   {TRIANGLE}: BUG, ROCK, DARK$"
 
 Help_Text_TypeMatchupOwnMoveGrass::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: WATER, GROUND, ROCK\p"
 	.string "   {TRIANGLE}: FIRE, GRASS, POISON, FLYING,\n"
 	.string "       BUG, DRAGON, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonGrass::
-	.string "Effect of foe's move on own POKéMON:\p"
-	.string "   {CIRCLE_DOT}: FIRE, ICE, POISON, FLYING, BUG\p"
-	.string "   {TRIANGLE}: WATER, ELECTRIC, GRASS, GROUND$"
+	.string "Účinek soupeřových útoků na tvého:\p"
+	.string "   {CIRCLE_DOT}: FIRE, ICE, POISON, FLYING,\n"
+	.string "BUG\p"
+	.string "   {TRIANGLE}: WATER, ELECTRIC, GRASS,\n"
+	.string "GROUND$"
 
 Help_Text_TypeMatchupOwnMoveGhost::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: PSYCHIC, GHOST\p"
 	.string "   {TRIANGLE}: DARK, STEEL\p"
 	.string "   {BIG_MULT_X}: NORMAL$"
 
 Help_Text_TypeMatchupOwnPokemonGhost::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: GHOST, DARK\p"
 	.string "   {TRIANGLE}: POISON, BUG\p"
 	.string "   {BIG_MULT_X}: NORMAL, FIGHTING$"
 
 Help_Text_TypeMatchupOwnMoveIce::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: GRASS, GROUND, FLYING, DRAGON\p"
 	.string "   {TRIANGLE}: FIRE, WATER, ICE, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonIce::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: FIRE, FIGHTING, ROCK, STEEL\p"
 	.string "   {TRIANGLE}: ICE$"
 
 Help_Text_TypeMatchupOwnMoveGround::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: FIRE, ELECTRIC, POISON, ROCK,\n"
 	.string "       STEEL\p"
 	.string "   {TRIANGLE}: GRASS, BUG\n"
 	.string "   {BIG_MULT_X}: FLYING$"
 
 Help_Text_TypeMatchupOwnPokemonGround::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: WATER, GRASS, ICE\p"
 	.string "   {TRIANGLE}: POISON, ROCK\p"
 	.string "   {BIG_MULT_X}: ELECTRIC$"
 
 Help_Text_TypeMatchupOwnMoveElectric::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: WATER, FLYING\p"
 	.string "   {TRIANGLE}: ELECTRIC, GRASS, DRAGON\p"
 	.string "   {BIG_MULT_X}: GROUND$"
 
 Help_Text_TypeMatchupOwnPokemonElectric::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: GROUND\p"
 	.string "   {TRIANGLE}: ELECTRIC, FLYING, STEEL$"
 
 Help_Text_TypeMatchupOwnMovePoison::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: GRASS\p"
 	.string "   {TRIANGLE}: POISON, GROUND, ROCK, GHOST\p"
 	.string "   {BIG_MULT_X}: STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonPoison::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: GROUND, PSYCHIC\p"
 	.string "   {TRIANGLE}: GRASS, FIGHTING, POISON, BUG$"
 
 Help_Text_TypeMatchupOwnMoveDragon::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: DRAGON\p"
 	.string "   {TRIANGLE}: STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonDragon::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: ICE, DRAGON\p"
 	.string "   {TRIANGLE}: FIRE, WATER, ELECTRIC, GRASS$"
 
 Help_Text_TypeMatchupOwnMoveNormal::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {TRIANGLE}: ROCK, STEEL\p"
 	.string "   {BIG_MULT_X}: GHOST$"
 
 Help_Text_TypeMatchupOwnPokemonNormal::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: FIGHTING\p"
 	.string "   {BIG_MULT_X}: GHOST$"
 
 Help_Text_TypeMatchupOwnMoveSteel::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: ICE, ROCK\p"
 	.string "   {TRIANGLE}: FIRE, WATER, ELECTRIC, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonSteel::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: FIRE, FIGHTING, GROUND\n"
 	.string "   {TRIANGLE}: NORMAL, GRASS, ICE, FLYING,\l"
 	.string "       PSYCHIC, BUG, ROCK, GHOST,\l"
@@ -1838,44 +1767,44 @@ Help_Text_TypeMatchupOwnPokemonSteel::
 	.string "   {BIG_MULT_X}: POISON$"
 
 Help_Text_TypeMatchupOwnMoveFlying::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: GRASS, FIGHTING, BUG\p"
 	.string "   {TRIANGLE}: ELECTRIC, ROCK, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonFlying::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: ELECTRIC, ICE, ROCK\p"
 	.string "   {TRIANGLE}: GRASS, FIGHTING, BUG\p"
 	.string "   {BIG_MULT_X}: GROUND$"
 
 Help_Text_TypeMatchupOwnMoveFire::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: GRASS, ICE, BUG, STEEL\p"
 	.string "   {TRIANGLE}: FIRE, WATER, ROCK, DRAGON$"
 
 Help_Text_TypeMatchupOwnPokemonFire::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: WATER, GROUND, ROCK\p"
 	.string "   {TRIANGLE}: FIRE, GRASS, ICE, BUG, STEEL$"
 
 Help_Text_TypeMatchupOwnMoveWater::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: FIRE, GROUND, ROCK\p"
 	.string "   {TRIANGLE}: WATER, GRASS, DRAGON$"
 
 Help_Text_TypeMatchupOwnPokemonWater::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: ELECTRIC, GRASS\p"
 	.string "   {TRIANGLE}: FIRE, WATER, ICE, STEEL$"
 
 Help_Text_TypeMatchupOwnMoveBug::
-	.string "Effect on the opposing POKéMON:\p"
+	.string "Účinek na soupeřova POKéMONA:\p"
 	.string "   {CIRCLE_DOT}: GRASS, PSYCHIC, DARK\p"
 	.string "   {TRIANGLE}: FIRE, FIGHTING, POISON,\n"
 	.string "       FLYING, GHOST, STEEL$"
 
 Help_Text_TypeMatchupOwnPokemonBug::
-	.string "Effect of foe's move on own POKéMON:\p"
+	.string "Účinek soupeřových útoků na tvého:\p"
 	.string "   {CIRCLE_DOT}: FIRE, FLYING, ROCK\p"
 	.string "   {TRIANGLE}: GRASS, FIGHTING, GROUND$"
 

@@ -1,26 +1,27 @@
 Route1_Text_WorkAtPokeMartTakeSample::
-    .string "Hi!\n"
-    .string "I work at a POKéMON MART.\p"
-    .string "It's part of a convenient chain\n"
-    .string "selling all sorts of items.\p"
-    .string "Please, visit us in VIRIDIAN CITY.\p"
-    .string "I know, I'll give you a sample.\n"
-    .string "Here you go!$"
+    .string "Dobrý den!\n"
+    .string "Pracuji v POKéMON MARTU.\p"
+    .string "Je to šikovný řetězec, kde se\n"
+    .string "prodává všechno možné.\p"
+    .string "Navštivte nás ve VIRIDIAN CITY.\p"
+    .string "Vím co, dám vám vzorek.\n"
+    .string "Tady máte!$"
 
 Route1_Text_ComeSeeUsIfYouNeedPokeBalls::
-    .string "Please come see us if you need\n"
-    .string "POKé BALLS for catching POKéMON.$"
+    .string "Když budete potřebovat POKé BALLY\n"
+    .string "na chytání POKéMONŮ, stavte se\l"
+    .string "u nás.$"
 
 Route1_Text_PutPotionAway::
-    .string "{PLAYER} put the POTION away in\n"
-    .string "the BAG's ITEMS POCKET.$"
+    .string "{PLAYER} ukládá POTION do kapsy\n"
+    .string "PŘEDMĚTY v BATOHU.$"
 
 Route1_Text_CanJumpFromLedges::
-    .string "See those ledges along the road?\p"
-    .string "It's a bit scary, but you can jump\n"
-    .string "from them.\p"
-    .string "You can get back to PALLET TOWN\n"
-    .string "quicker that way.$"
+    .string "Vidíš ty terasy podél cesty?\p"
+    .string "Je to trochu strašidelné, ale dá se\n"
+    .string "z nich seskočit.\p"
+    .string "Tak se dostaneš do PALLET TOWN\n"
+    .string "rychleji.$"
 
 Route1_Text_RouteSign::
     .string "ROUTE 1\n"

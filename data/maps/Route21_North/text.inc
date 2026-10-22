@@ -1,34 +1,32 @@
 Route21_North_Text_RonaldIntro::
-	.string "You want to know if the fish are\n"
-	.string "biting?$"
+	.string "Chceš vědět, jestli ryby berou?$"
 
 Route21_North_Text_RonaldDefeat::
-	.string "Dang!$"
+	.string "Sakra!$"
 
 Route21_North_Text_RonaldPostBattle::
-	.string "I can't catch anything good.\n"
-	.string "Not one good POKéMON to be had!$"
+	.string "Nemůžu chytit nic pořádného.\n"
+	.string "Ani jednoho dobrého POKéMONA!$"
 
 Route21_North_Text_WadeIntro::
-	.string "I got a big haul!\n"
-	.string "Wanna go for it?$"
+	.string "Mám velký úlovek!\n"
+	.string "Chceš to zkusit?$"
 
 Route21_North_Text_WadeDefeat::
-	.string "Heheh, MAGIKARP just don't make\n"
-	.string "the grade, do they?$"
+	.string "Hehe, MAGIKARP prostě nestačí, co?$"
 
 Route21_North_Text_WadePostBattle::
-	.string "I seem to only catch MAGIKARP!$"
+	.string "Chytám asi jen MAGIKARP!$"
 
 Route21_North_Text_SpencerIntro::
-	.string "The sea cleanses my body and soul!$"
+	.string "Moře mi očišťuje tělo i duši!$"
 
 Route21_North_Text_SpencerDefeat::
-	.string "Ayah!$"
+	.string "Ajaa!$"
 
 Route21_North_Text_SpencerPostBattle::
-	.string "The sea is great and all, but I\n"
-	.string "like the mountains, too.$"
+	.string "Moře je skvělé a tak, ale mám rád\n"
+	.string "i hory.$"
 
 @ Below is the battle text for the Cue Ball that was on Route 21 in Gen 1.
 @ This trainer wasnt used in Gen 3 so their text goes unused/untranslated

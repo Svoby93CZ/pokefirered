@@ -3,34 +3,34 @@ PokemonTower_3F_Text_HopeIntro::
     .string "Huhu… Graa…$"
 
 PokemonTower_3F_Text_HopeDefeat::
-    .string "Hwa!\n"
-    .string "I'm saved!$"
+    .string "Hua!\n"
+    .string "Jsem zachráněná!$"
 
 PokemonTower_3F_Text_HopePostBattle::
-    .string "The ghosts can be identified by\n"
-    .string "the SILPH SCOPE.$"
+    .string "Duchy jde rozpoznat pomocí SILPH\n"
+    .string "SCOPE.$"
 
 PokemonTower_3F_Text_CarlyIntro::
     .string "Kekeke…\n"
-    .string "Kwaaah!$"
+    .string "Kvaaah!$"
 
 PokemonTower_3F_Text_CarlyDefeat::
-    .string "Hmm?\n"
-    .string "What am I doing?$"
+    .string "Hm?\n"
+    .string "Co to dělám?$"
 
 PokemonTower_3F_Text_CarlyPostBattle::
-    .string "Sorry!\n"
-    .string "I was possessed!$"
+    .string "Promiň!\n"
+    .string "Byla jsem posedlá!$"
 
 PokemonTower_3F_Text_PatriciaIntro::
-    .string "Be gone!\n"
-    .string "Malevolent spirit!$"
+    .string "Zmiz!\n"
+    .string "Zlý duchu!$"
 
 PokemonTower_3F_Text_PatriciaDefeat::
-    .string "Whew!\n"
-    .string "The spirit left!$"
+    .string "Uf!\n"
+    .string "Duch odešel!$"
 
 PokemonTower_3F_Text_PatriciaPostBattle::
-    .string "The others above…\n"
-    .string "They must have been possessed.$"
+    .string "Ty ostatní nahoře…\n"
+    .string "Ty musí být posedlé.$"
 

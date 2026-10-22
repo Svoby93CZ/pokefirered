@@ -1,94 +1,93 @@
 SilphCo_11F_Text_ThanksForSavingMeDearBoy::
-    .string "PRESIDENT: Oh, dear boy!\n"
-    .string "Thank you for saving SILPH.\p"
-    .string "I will never forget you saved us in\n"
-    .string "our moment of peril.\p"
-    .string "I have to thank you in some way.\p"
-    .string "Because I am rich, I can give you\n"
-    .string "anything.\p"
-    .string "Here, maybe this will do.$"
+    .string "PREZIDENT: Ach, milý chlapče!\n"
+    .string "Děkuji, žes zachránil SILPH.\p"
+    .string "Nikdy nezapomenu, že jsi nás\n"
+    .string "zachránil v hodině nebezpečí.\p"
+    .string "Musím ti nějak poděkovat.\p"
+    .string "Jsem bohatý, takže ti můžu dát\n"
+    .string "cokoli.\p"
+    .string "Tady, snad tohle postačí.$"
 
 SilphCo_11F_Text_ThanksForSavingMeDearGirl::
-    .string "PRESIDENT: Oh, dear girl!\n"
-    .string "Thank you for saving SILPH.\p"
-    .string "I will never forget you saved us in\n"
-    .string "our moment of peril.\p"
-    .string "I have to thank you in some way.\p"
-    .string "Because I am rich, I can give you\n"
-    .string "anything.\p"
-    .string "Here, maybe this will do.$"
+    .string "PREZIDENT: Ach, milé děvče!\n"
+    .string "Děkuji, žes zachránila SILPH.\p"
+    .string "Nikdy nezapomenu, že jsi nás\n"
+    .string "zachránila v hodině nebezpečí.\p"
+    .string "Musím ti nějak poděkovat.\p"
+    .string "Jsem bohatý, takže ti můžu dát\n"
+    .string "cokoli.\p"
+    .string "Tady, snad tohle postačí.$"
 
 SilphCo_11F_Text_ObtainedMasterBallFromPresident::
-    .string "{PLAYER} obtained a MASTER BALL\n"
-    .string "from the PRESIDENT!$"
+    .string "{PLAYER} dostává od PREZIDENTA\n"
+    .string "MASTER BALL!$"
 
 SilphCo_11F_Text_ThatsOurSecretPrototype::
-    .string "PRESIDENT: You can't buy that\n"
-    .string "anywhere.\p"
-    .string "It's our secret prototype MASTER\n"
+    .string "PREZIDENT: Ten nikde nekoupíš.\p"
+    .string "Je to náš tajný prototyp MASTER\n"
     .string "BALL.\p"
-    .string "It will catch any POKéMON without\n"
-    .string "fail!\p"
-    .string "You should be quiet about using it,\n"
-    .string "though.$"
+    .string "Chytí jakéhokoli POKéMONA bez\n"
+    .string "selhání!\p"
+    .string "Ale radši o jeho používání moc\n"
+    .string "nemluv.$"
 
 SilphCo_11F_Text_YouHaveNoRoomForThis::
-    .string "You have no room for this.$"
+    .string "Na tohle nemáš místo.$"
 
 SilphCo_11F_Text_ThanksForRescuingUs::
-    .string "SECRETARY: Thank you for rescuing\n"
-    .string "all of us.\p"
-    .string "We, from the PRESIDENT down,\n"
-    .string "are indebted to you.$"
+    .string "SEKRETÁŘKA: Děkujeme za záchranu\n"
+    .string "nás všech.\p"
+    .string "Všichni, od PREZIDENTA dolů, jsme\n"
+    .string "ti zavázáni.$"
 
 SilphCo_11F_Text_GiovanniIntro::
-    .string "Ah, {PLAYER}!\n"
-    .string "So we meet again!\p"
-    .string "The PRESIDENT and I are discussing\n"
-    .string "a vital business proposition.\p"
-    .string "Keep your nose out of grown-up\n"
-    .string "matters…\p"
-    .string "Or, experience a world of pain!$"
+    .string "Á, {PLAYER}!\n"
+    .string "Tak se zase setkáváme!\p"
+    .string "S PREZIDENTEM projednáváme\n"
+    .string "zásadní obchodní nabídku.\p"
+    .string "Nestrkej nos do věcí dospělých…\p"
+    .string "Nebo poznáš, co je to bolest!$"
 
 SilphCo_11F_Text_GiovanniDefeat::
     .string "Arrgh!!\n"
-    .string "I lost again!?$"
+    .string "Zase jsem prohrál!?$"
 
 SilphCo_11F_Text_GiovanniPostBattle::
-    .string "Blast it all!\n"
-    .string "You ruined our plans for SILPH!\p"
-    .string "But, TEAM ROCKET will never fall!\p"
-    .string "{PLAYER}! Never forget that all\n"
-    .string "POKéMON exist for TEAM ROCKET!\p"
-    .string "I must go, but I shall return!$"
+    .string "K čertu se vším! Kvůli tobě padly\n"
+    .string "naše plány se SILPH!\p"
+    .string "Ale TEAM ROCKET nikdy nepadne!\p"
+    .string "{PLAYER}! Nikdy nezapomeň, že\n"
+    .string "všichni POKéMONI existují pro\l"
+    .string "TEAM ROCKET!\p"
+    .string "Musím jít, ale vrátím se!$"
 
 SilphCo_11F_Text_Grunt2Intro::
-    .string "Stop right there!\n"
-    .string "Don't you move!$"
+    .string "Stůj!\n"
+    .string "Ani se nehni!$"
 
 SilphCo_11F_Text_Grunt2Defeat::
-    .string "Don't…\n"
-    .string "Please!$"
+    .string "Ne…\n"
+    .string "Prosím!$"
 
 SilphCo_11F_Text_Grunt2PostBattle::
-    .string "So, you want to see my BOSS?$"
+    .string "Takže chceš za mým ŠÉFEM?$"
 
 SilphCo_11F_Text_Grunt1Intro::
-    .string "Halt! Do you have an appointment\n"
-    .string "with my BOSS?$"
+    .string "Stůj! Máš u mého ŠÉFA domluvenou\n"
+    .string "schůzku?$"
 
 SilphCo_11F_Text_Grunt1Defeat::
-    .string "Gaah!\n"
-    .string "Demolished!$"
+    .string "Gááh!\n"
+    .string "Totální zkáza!$"
 
 SilphCo_11F_Text_Grunt1PostBattle::
-    .string "Watch your step…\n"
-    .string "My BOSS likes his POKéMON tough!$"
+    .string "Opatrně…\n"
+    .string "Můj ŠÉF má rád silné POKéMONY!$"
 
 SilphCo_11F_Text_MonitorHasMonsOnIt::
-    .string "The monitor has POKéMON on it!$"
+    .string "Na monitoru jsou POKéMONI!$"
 
 SilphCo_11F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
+    .string "ÚSTŘEDÍ SILPH CO.\n"
     .string "11F$"
 

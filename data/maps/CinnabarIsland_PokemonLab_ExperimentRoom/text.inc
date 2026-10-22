@@ -1,36 +1,36 @@
 Text_MetronomeTeach::
-    .string "Tch-tch-tch!\n"
-    .string "I'll teach you a nifty move.\p"
-    .string "Teach it to a POKéMON, and watch\n"
-    .string "the fun unfold!\p"
-    .string "It's a move called METRONOME.\n"
-    .string "Does it strike your fancy?$"
+    .string "Tik-tik-tik!\n"
+    .string "Naučím tě šikovný útok.\p"
+    .string "Nauč ho POKéMONA a sleduj tu\n"
+    .string "zábavu!\p"
+    .string "Je to útok METRONOME.\n"
+    .string "Líbí se ti?$"
 
 Text_MetronomeDeclined::
-    .string "I tell you, it's a lot of fun!$"
+    .string "Říkám ti, je to obrovská zábava!$"
 
 Text_MetronomeWhichMon::
-    .string "Okay!\n"
-    .string "Which POKéMON should I teach?$"
+    .string "Dobře!\n"
+    .string "Kterého POKéMONA mám naučit?$"
 
 Text_MetronomeTaught::
-    .string "Tch-tch-tch!\n"
-    .string "That's the sound of a METRONOME.\p"
-    .string "It tweaks your POKéMON's brain into\n"
-    .string "using moves it doesn't even know.$"
+    .string "Tik-tik-tik!\n"
+    .string "Tak zní METRONOME.\p"
+    .string "Postrčí mozek tvého POKéMONA, aby\n"
+    .string "použil útoky, které ani neumí.$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HaveYouAFossilForMe::
-    .string "Hiya!\p"
-    .string "I am important doctor.\n"
-    .string "Yes, very much so, indeed.\p"
-    .string "Here, I study rare POKéMON fossils.\n"
-    .string "All the time, I study.\p"
-    .string "You!\n"
-    .string "Have you a fossil for me?$"
+    .string "Ahoj!\p"
+    .string "Já být důležitý doktor.\n"
+    .string "Ano, velmi, opravdu.\p"
+    .string "Tady já zkoumat vzácné fosilie\n"
+    .string "POKéMONŮ. Pořád já zkoumat.\p"
+    .string "Ty!\n"
+    .string "Mít ty fosilie pro mě?$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoIsTooBad::
-    .string "No!\n"
-    .string "Is too bad!$"
+    .string "Ne!\n"
+    .string "To je škoda!$"
 
 @ Unused
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkJP::
@@ -39,39 +39,39 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkJP::
     .string "ブラブラ　してくると　よろしー！$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_FossilMonBackToLife::
-    .string "You late.\n"
-    .string "Where were you?\p"
-    .string "Your fossil is back to life!\n"
-    .string "It was {STR_VAR_1} like I think!$"
+    .string "Ty pozdě.\n"
+    .string "Kde ty být?\p"
+    .string "Tvoje fosilie zase živá!\n"
+    .string "Byl to {STR_VAR_1}, jak já myslet!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ReceivedMonFromDoctor::
-    .string "{PLAYER} received the {STR_VAR_1}\n"
-    .string "from the doctor.$"
+    .string "{PLAYER} dostává od doktora\n"
+    .string "{STR_VAR_1}.$"
 
 @ Unused
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoRoomForPokemon::
     .string "ポケモン　いっぱいで　もてないね！$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
-    .string "Oh!\n"
-    .string "That is {STR_VAR_2}, it is!\p"
-    .string "It is fossil of {STR_VAR_1},\n"
-    .string "a POKéMON that is already extinct!\p"
-    .string "My Resurrection Machine will make\n"
-    .string "that POKéMON live again!$"
+    .string "Ó!\n"
+    .string "To je {STR_VAR_2}, ano!\p"
+    .string "To být fosilie {STR_VAR_1},\n"
+    .string "POKéMON, co už vyhynout!\p"
+    .string "Můj Oživovací stroj ten POKéMON\n"
+    .string "zase oživit!$"
 
 @ TODO: Resolve text dump error below?
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HandedFossilToWeirdDoctor::
-    .string "So!\n"
-    .string "You hurry and give me that!\p"
-    .string "{FONT_NORMAL}{PLAYER} handed over the\n"
-    .string "{STR_VAR_2} to the weird doctor.$"
+    .string "Tak!\n"
+    .string "Ty rychle mi to dát!\p"
+    .string "{FONT_NORMAL}{PLAYER} předává podivnému\n"
+    .string "doktorovi {STR_VAR_2}.$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalk::
-    .string "I take a little time!\n"
-    .string "You go for walk a little while!$"
+    .string "Já potřebovat trochu čas!\n"
+    .string "Ty jít chvíli na procházku!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_YouComeAgain::
-    .string "Aiyah!\n"
-    .string "You come again!$"
+    .string "Ajaja!\n"
+    .string "Ty přijít zase!$"
 

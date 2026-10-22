@@ -1,25 +1,25 @@
 FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
-    .string "We nicknamed the WARDEN\n"
-    .string "“SLOWPOKE.”\p"
-    .string "You know, he has that vacant look\n"
-    .string "like a SLOWPOKE.$"
+    .string "SPRÁVCI jsme dali přezdívku\n"
+    .string "“SLOWPOKE”.\p"
+    .string "Víš, má takový prázdný pohled jako\n"
+    .string "SLOWPOKE.$"
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
-    .string "WARDEN SLOWPOKE is very\n"
-    .string "knowledgeable about POKéMON.\p"
-    .string "He even has some fossils of rare,\n"
-    .string "extinct POKéMON.$"
+    .string "SPRÁVCE SLOWPOKE toho\n"
+    .string "o POKéMONECH hodně ví.\p"
+    .string "Má dokonce fosilie vzácných\n"
+    .string "vyhynulých POKéMONŮ.$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
-    .string "WARDEN SLOWPOKE came in, but\n"
-    .string "I couldn't understand him.\p"
-    .string "I think he's got a speech problem!$"
+    .string "SPRÁVCE SLOWPOKE přišel, ale\n"
+    .string "nerozuměl jsem mu.\p"
+    .string "Myslím, že má potíže s řečí!$"
 
 FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
-    .string "WARDEN SLOWPOKE is running a\n"
-    .string "promotion campaign right now.\p"
-    .string "Try to get to the farthest corner\n"
-    .string "of the SAFARI ZONE.\p"
-    .string "If you can make it, you'll win a\n"
-    .string "very convenient prize.$"
+    .string "SPRÁVCE SLOWPOKE právě pořádá\n"
+    .string "propagační akci.\p"
+    .string "Zkus se dostat do nejvzdálenějšího\n"
+    .string "kouta SAFARI ZONE.\p"
+    .string "Jestli to dokážeš, vyhraješ velmi\n"
+    .string "užitečnou cenu.$"
 

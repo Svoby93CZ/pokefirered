@@ -1,112 +1,113 @@
 Route11_Text_HugoIntro::
-    .string "Win, lose, or draw!$"
+    .string "Výhra, prohra, nebo remíza!$"
 
 Route11_Text_HugoDefeat::
-    .string "Atcha!\n"
-    .string "Didn't go my way!$"
+    .string "Ajaj!\n"
+    .string "Tohle mi nevyšlo!$"
 
 Route11_Text_HugoPostBattle::
-    .string "POKéMON is life!\n"
-    .string "And to live is to play games!$"
+    .string "POKéMONI jsou život!\n"
+    .string "A žít znamená hrát hry!$"
 
 Route11_Text_JasperIntro::
-    .string "Competition!\n"
-    .string "I can't get enough!$"
+    .string "Soutěžení!\n"
+    .string "Nemůžu se ho nabažit!$"
 
 Route11_Text_JasperDefeat::
-    .string "I had a chance!$"
+    .string "Měl jsem šanci!$"
 
 Route11_Text_JasperPostBattle::
-    .string "You can't be a coward in the world\n"
-    .string "of POKéMON!$"
+    .string "Ve světě POKéMONŮ nemůžeš být\n"
+    .string "srab!$"
 
 Route11_Text_EddieIntro::
-    .string "Let's go, but don't cheat!$"
+    .string "Jdeme na to, ale nepodváděj!$"
 
 Route11_Text_EddieDefeat::
-    .string "Huh?\n"
-    .string "That's not right!$"
+    .string "Cože?\n"
+    .string "To není fér!$"
 
 Route11_Text_EddiePostBattle::
-    .string "I did my best.\n"
-    .string "I have no regrets.$"
+    .string "Dal jsem do toho všechno.\n"
+    .string "Ničeho nelituju.$"
 
 Route11_Text_BraxtonIntro::
-    .string "Careful!\n"
-    .string "I'm laying down some cables!$"
+    .string "Pozor!\n"
+    .string "Pokládám kabely!$"
 
 Route11_Text_BraxtonDefeat::
-    .string "That was electric!$"
+    .string "To bylo elektrizující!$"
 
 Route11_Text_BraxtonPostBattle::
-    .string "Spread the word to save energy!$"
+    .string "Řekni všem, ať šetří energií!$"
 
 Route11_Text_DillonIntro::
-    .string "I just became a TRAINER.\n"
-    .string "But, I think I can win.$"
+    .string "Teprve jsem se stal TRENÉREM. Ale\n"
+    .string "myslím, že vyhraju.$"
 
 Route11_Text_DillonDefeat::
-    .string "My POKéMON couldn't win…\n"
-    .string "Haven't they grown enough?$"
+    .string "Moji POKéMONI nevyhráli… Ještě\n"
+    .string "nevyrostli dost?$"
 
 Route11_Text_DillonPostBattle::
-    .string "What now?\n"
-    .string "Leave me alone!$"
+    .string "Co zase?\n"
+    .string "Nech mě být!$"
 
 Route11_Text_DirkIntro::
-    .string "Fwahaha!\n"
-    .string "I have never lost!$"
+    .string "Fuachacha!\n"
+    .string "Já jsem ještě nikdy neprohrál!$"
 
 Route11_Text_DirkDefeat::
-    .string "My first loss!$"
+    .string "Moje první prohra!$"
 
 Route11_Text_DirkPostBattle::
-    .string "You were just lucky, that's all.$"
+    .string "To bylo jen štěstí, nic víc.$"
 
 Route11_Text_DarianIntro::
-    .string "I have never won before…$"
+    .string "Ještě nikdy jsem nevyhrál…$"
 
 Route11_Text_DarianDefeat::
-    .string "I saw this coming…$"
+    .string "Já to tušil…$"
 
 Route11_Text_DarianPostBattle::
-    .string "I was unlucky, as always.$"
+    .string "Neměl jsem štěstí, jako vždycky.$"
 
 Route11_Text_YasuIntro::
-    .string "I'm the best in my class.\n"
-    .string "I train every morning.$"
+    .string "Jsem nejlepší ze třídy.\n"
+    .string "Trénuju každé ráno.$"
 
 Route11_Text_YasuDefeat::
-    .string "Darn!\n"
-    .string "My POKéMON need to be stronger!$"
+    .string "Sakra!\n"
+    .string "Moji POKéMONI musí zesílit!$"
 
 Route11_Text_YasuPostBattle::
-    .string "There's a fat POKéMON that comes\n"
-    .string "down from the mountains.\p"
-    .string "I bet it'd be strong if you can\n"
-    .string "catch it.$"
+    .string "Z hor sem chodí jeden tlustý\n"
+    .string "POKéMON.\p"
+    .string "Vsadím se, že by byl silný, kdyby\n"
+    .string "se ti ho povedlo chytit.$"
 
 Route11_Text_BernieIntro::
-    .string "Watch out for live wires!$"
+    .string "Pozor na dráty pod proudem!$"
 
 Route11_Text_BernieDefeat::
-    .string "Whoa!\n"
-    .string "You spark plug!$"
+    .string "Páni!\n"
+    .string "Ty jsi ale jiskra!$"
 
 Route11_Text_BerniePostBattle::
-    .string "Well, better get back to work.$"
+    .string "No, radši se vrátím k práci.$"
 
 Route11_Text_DaveIntro::
-    .string "I raised my POKéMON carefully.\n"
-    .string "They should be ready by now!$"
+    .string "Své POKéMONY jsem pečlivě\n"
+    .string "vychoval. Teď by už měli být\l"
+    .string "připravení!$"
 
 Route11_Text_DaveDefeat::
-    .string "Bye-bye!\n"
-    .string "Thank you, and good-bye!$"
+    .string "Pa pa!\n"
+    .string "Díky a sbohem!$"
 
 Route11_Text_DavePostBattle::
     .string "Tch…\n"
-    .string "I better go find stronger ones!$"
+    .string "Radši si najdu silnější!$"
 
 Route11_Text_DiglettsCave::
     .string "DIGLETT'S CAVE$"

@@ -1,52 +1,47 @@
 SevenIsland_TanobyRuins_Text_BrandonIntro::
-    .string "Do you know anything about this\n"
-    .string "stone chamber?$"
+    .string "Víš něco o téhle kamenné komnatě?$"
 
 SevenIsland_TanobyRuins_Text_BrandonDefeat::
-    .string "That was uncalled for.\n"
-    .string "You didn't have to be so rough.$"
+    .string "To bylo zbytečné.\n"
+    .string "Tak hrubě to být nemuselo.$"
 
 SevenIsland_TanobyRuins_Text_BrandonPostBattle::
-    .string "The TANOBY RUINS date back at\n"
-    .string "least 1,500 years.\p"
-    .string "But it's a baffling mystery as to\n"
-    .string "why it was built in the first place.$"
+    .string "TANOBY RUINS jsou staré nejméně 1\n"
+    .string "500 let.\p"
+    .string "Ale proč byly vůbec postaveny, je\n"
+    .string "záhadou.$"
 
 SevenIsland_TanobyRuins_Text_BenjaminIntro::
-    .string "A mystic POKéMON is said to sleep\n"
-    .string "inside here.$"
+    .string "Prý tu uvnitř spí mystický POKéMON.$"
 
 SevenIsland_TanobyRuins_Text_BenjaminDefeat::
-    .string "I'm not much good in battle.$"
+    .string "V soubojích moc dobrý nejsem.$"
 
 SevenIsland_TanobyRuins_Text_BenjaminPostBattle::
-    .string "I hear there are other ruins like\n"
-    .string "the one here.\p"
-    .string "Might they be the resting places\n"
-    .string "of other mystic POKéMON?$"
+    .string "Slyšel jsem, že existují další\n"
+    .string "podobné zříceniny.\p"
+    .string "Mohla by to být místa odpočinku\n"
+    .string "dalších mystických POKéMONŮ?$"
 
 SevenIsland_TanobyRuins_Text_EdnaIntro::
-    .string "CLIFFORD is teaching me how to\n"
-    .string "paint.$"
+    .string "CLIFFORD mě učí malovat.$"
 
 SevenIsland_TanobyRuins_Text_EdnaDefeat::
-    .string "We might get in trouble for being\n"
-    .string "noisy here.$"
+    .string "Za ten hluk tu můžeme mít potíže.$"
 
 SevenIsland_TanobyRuins_Text_EdnaPostBattle::
-    .string "I said that I wanted to paint an\n"
-    .string "old building.\p"
-    .string "So CLIFFORD brought me here.$"
+    .string "Říkala jsem, že chci malovat\n"
+    .string "starou budovu.\p"
+    .string "Tak mě CLIFFORD vzal sem.$"
 
 SevenIsland_TanobyRuins_Text_CliffordIntro::
-    .string "Today, in addition to our lesson,\n"
-    .string "we came to see the chamber.$"
+    .string "Dnes jsme kromě lekce přišli i na\n"
+    .string "prohlídku komnaty.$"
 
 SevenIsland_TanobyRuins_Text_CliffordDefeat::
-    .string "My, how extraordinary.$"
+    .string "Páni, jak mimořádné.$"
 
 SevenIsland_TanobyRuins_Text_CliffordPostBattle::
-    .string "Ah, so you are studying POKéMON\n"
-    .string "on your own…\p"
-    .string "Yes, you certainly are quite the\n"
-    .string "extraordinary person, indeed.$"
+    .string "Á, takže zkoumáš POKéMONY na\n"
+    .string "vlastní pěst…\p"
+    .string "Ano, to je opravdu mimořádné.$"

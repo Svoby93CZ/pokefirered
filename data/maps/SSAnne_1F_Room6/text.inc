@@ -1,16 +1,18 @@
 SSAnne_1F_Room6_Text_TakeAShortRest::
-    .string "You look tired. Would you like to\n"
-    .string "take a short rest?$"
+    .string "Vypadáš unaveně. Nechceš si na\n"
+    .string "chvíli odpočinout?$"
 
 SSAnne_1F_Room6_Text_GladEveryoneIsRefreshed::
-    .string "I'm glad to see that everyone is\n"
-    .string "looking refreshed and chipper.$"
+    .string "Jsem ráda, že všichni vypadají\n"
+    .string "odpočatě a svěže.$"
 
 SSAnne_1F_Room6_Text_SorryYouLookLikeMyBrother::
-    .string "Oh, I'm sorry for fussing over you.\n"
-    .string "You look like my little brother…$"
+    .string "Ach, promiň, že se kolem tebe tak\n"
+    .string "točím. Vypadáš jako můj mladší\l"
+    .string "brácha…$"
 
 SSAnne_1F_Room6_Text_SorryYouLookLikeMySister::
-    .string "Oh, I'm sorry for fussing over you.\n"
-    .string "You look like my little sister…$"
+    .string "Ach, promiň, že se kolem tebe tak\n"
+    .string "točím. Vypadáš jako moje mladší\l"
+    .string "ségra…$"
 

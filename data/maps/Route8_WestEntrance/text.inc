@@ -1,26 +1,26 @@
 Route8_WestEntrance_Text_ThirstyOnGuardDuty::
-    .string "I'm on guard duty.\n"
-    .string "Gee, I'm thirsty, though!\p"
-    .string "Oh, wait there, the road's closed.$"
+    .string "Držím stráž.\n"
+    .string "Ale mám hroznou žízeň!\p"
+    .string "Á, počkej, cesta je zavřená.$"
 
 Route8_WestEntrance_Text_ThatTeaLooksTasty::
-    .string "Oh, that TEA…\n"
-    .string "It looks awfully tasty…$"
+    .string "Á, ten TEA…\n"
+    .string "Vypadá strašně dobře…$"
 
 Route8_WestEntrance_Text_ThanksIllShareTeaWithGuards::
-    .string "Huh? I can have this drink?\n"
-    .string "Gee, thanks!\l"
+    .string "Cože? Ten nápoj je pro mě?\n"
+    .string "Páni, díky!\l"
     .string "… …\l"
-    .string "Glug, glug…\l"
+    .string "Glo, glo…\l"
     .string "… …\l"
-    .string "Gulp…\l"
-    .string "If you want to go to SAFFRON\l"
+    .string "Hlt…\l"
+    .string "Jestli chceš do SAFFRON\l"
     .string "CITY…\l"
     .string "… …\l"
-    .string "You can go on through.\p"
-    .string "I'll share this TEA with the other\n"
-    .string "guards!$"
+    .string "Můžeš projít.\p"
+    .string "O TEA se podělím s ostatními\n"
+    .string "strážnými!$"
 
 Route8_WestEntrance_Text_HiHowsItGoing::
-    .string "Hi, how's it going?$"
+    .string "Ahoj, jak to jde?$"
 

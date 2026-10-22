@@ -1,0 +1,174 @@
+# Čeština pro Pokémon FireRed — plán
+
+Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
+
+- [x] **0. Font a nástroje**: česká písmena v prázdných slotech 0x37–0x4A
+  (`cz/ceske_znaky.py`), náhled (`cz/nahled_fontu.py`), překládací nástroj (`cz/preloz.py`).
+- [x] **1. Menu a rozhraní**: `src/strings.c` a drobnosti v `src/*.c`
+  - [x] 1a začátek `strings.c`: hlavní a start menu, Pokédex, batoh, obchod, tým, PC, herna
+  - [x] 1b zbytek `strings.c`: boxy v PC, přehled pokémona, trenérská karta, nastavení, mapa regionu,
+    zadávání jmen, líhnutí, rybaření, školka, učení útoků
+- [x] **2. Souboje**: `src/battle_message.c`, třídy trenérů (`src/data/text/trainer_class_names.h`).
+  Texty Trainer Tower (TIME BOARD…) jsou v části 7.
+- [x] **3. Společné hlášky**
+  - [x] 3a `data/text/*.inc` (úvod hry, ukládání, PC, obchod, školka, Safari, POKé DUDE, hodnocení Pokédexu…),
+    `data/event_scripts.s`, `data/scripts/field_moves.inc`, `repel.inc`
+  - [x] 3b `data/text/trainers.inc` (VS Seeker + odvety trenérů), `src/data/text/quest_log.h`, `teachy_tv.h`
+- [x] **4. Příběh**: `data/maps/*/text.inc`, po oblastech:
+  - [x] 4a Pallet, Viridian (vč. stadionu), Pewter, Route 1–3, Route 22, Viridian Forest
+  - [x] 4b Mt. Moon, Cerulean, Vermilion, S.S. Anne, Route 4–11
+    - [x] Route 4, Mt. Moon, Cerulean City
+    - [x] Route 24–25 (Bill), Route 5–6, školka, podchody, Diglett's Cave
+    - [x] Vermilion City, S.S. Anne
+    - [x] Route 7–11
+  - [x] 4c Rock Tunnel, Lavender, Celadon, Rocket Hideout, Pokémon Tower
+    - [x] Rock Tunnel, Lavender Town
+    - [x] Celadon City (obchodní dům, Game Corner, stadion)
+    - [x] Rocket Hideout, Pokémon Tower
+  - [x] 4d Saffron, Silph Co., Fuchsia, Safari Zone, Cinnabar
+    - [x] Saffron City (dojo, stadion, fan club, Copycat)
+    - [x] Silph Co.
+    - [x] Fuchsia City, Safari Zone
+    - [x] Cinnabar Island, Pokémon Mansion
+  - [x] 4e Victory Road, Indigo Plateau, zbylé cesty
+    - [x] Route 12–15 (Snorlax, rybářský dům, brány)
+    - [x] Route 16–21, Cycling Road, Seafoam Islands
+    - [x] Route 23, Victory Road, Indigo Plateau, ELITE FOUR a šampion
+  - [x] 4f Sevii Islands
+    - [x] One Island, Kindle Road, Mt. Ember
+    - [x] Two Island, Three Island (LOSTELLE, motorkáři, Berry Forest)
+    - [x] Four Island, Five Island (LORELEI, Rocket Warehouse, SELPHY)
+    - [x] Six Island (Pattern Bush, Ruin Valley, Water Path)
+    - [x] Seven Island, Sevault Canyon, Tanoby Ruins, Trainer Tower
+- [x] **5. Popisy**: útoky, předměty, Pokédex, bobule.
+  - [x] 5a popisy předmětů (`src/data/items.json`, TM/HM berou popis útoku)
+  - [x] 5b popisy útoků (`src/move_descriptions.c`)
+  - [x] 5c popisy schopností a povahy (`abilities.h`, `nature_names.h`; povahy v ženském rodě kvůli „Povaha: …“)
+  - [x] 5d kategorie v Pokédexu (`pokedex_entries.h`, jedno slovo max 11 znaků, přídavné jméno k „POKéMON“)
+  - [x] 5e texty Pokédexu pro FireRed (`pokedex_text_fr.h`, jednotky převedené na metry, km/h, kg, stupně Celsia)
+  - Nepřeloženo záměrně: `pokedex_text_lg.h` (jen pro sestavení LeafGreen) a popisy bobulí v `src/berry.c`
+    (FireRed je nikde nezobrazuje, bobule v batohu mají popis z `items.json`).
+- [x] **6. Nápověda a Fame Checker**: `help_system.inc`, `fame_checker.inc`, `gFameCheckerText_*` v `strings.c`.
+  - [x] 6a nápověda (`data/text/help_system.inc`: řádek 208 px, `\p` i `\l` = nový řádek, odpověď max 7 řádků,
+    položky nabídky jeden řádek: `sirka=209 radku=1`, ostatní `sirka=212 radku=7`)
+  - [x] 6b Fame Checker (`data/text/fame_checker.inc`: texty jako dialog; místo a zdroj malým fontem
+    max 84 px: `maly sirka=84 radku=1`), články POKéMON JOURNAL, ovládání v `strings.c`
+- [ ] **7. Ostatní rozhraní**
+  - [x] 7a `strings.c`: spojení kabelem i bezdrátově, výměna, minihry, Easy Chat, chat v Union Roomu, Mystery Gift
+    (okna: Mystery Gift volby 56 px a zprávy 224 px, Easy Chat pokyny 176 px, záznamy soubojů 216 px)
+  - [x] 7b `src/union_room_message.c` (nástěnka výměn, chat, souboje, trenérské karty; `sirka=210`,
+    texty druhého hráče mají mužskou/ženskou variantu, hráč zůstává bezrodý)
+  - [x] 7c Berry Crush, výměna, TIME BOARD v Trainer Tower, `mystery_event_msg.c`, názvy funkcí v titulcích
+    (jména tvůrců zůstávají)
+  - [ ] 7d klávesnice pro jména s češtinou (`naming_screen.c` + `keyboard_text.c`; tlačítka lower/BACK/OK/START/SELECT
+    jsou obrázky v `graphics/naming_screen/`, ověřeno v mGBA) — větší zásah do kódu a grafiky
+  - Nepřeloženo záměrně: slova pro Easy Chat (`src/data/easy_chat/*`, ~1000 slov, abecední řazení),
+    WONDER CARDS/NEWS, MYSTERY GIFT, nepoužívané texty z Ruby/Sapphire (Battle Tower, dekorace, soutěže,
+    `sText_CollectedAllStamps`).
+
+## Pravidla
+
+- **Anglicky zůstávají jména**: pokémoni, útoky, předměty, schopnosti, typy, místa, postavy, odznaky.
+- Herní pojmy velkými písmeny jako v originále: POKéMON (skloňuje se: POKéMONA, POKéMONY, POKéMONŮ).
+- **Hráč** (`{PLAYER}`) může být kluk i holka, proto žádné minulé časy s rodem.
+  Místo „{PLAYER} použil“ piš „{PLAYER} používá“ nebo „Použito: …“.
+- **Pokémon** jako podmět je v mužském rodě („{STR_VAR_1} se naučil…“).
+- Nástroj značí `R` možný rodový tvar (i přes zalomení řádku) vůči hráči (jsi chytil, bys musel, jsi dobrý…) — vždy přeformuluj,
+  pokud věta míří na hráče (u NPC k NPC je rod v pořádku).
+- Pozor na minulý čas ve 2. osobě („Všiml sis…“, „Už jsi chytil…“) — je rodový, přeformuluj („Vidíš…“, „Už máš…“).
+- NPC mluví v 1. osobě podle svého rodu (podle jména a třídy: „Nasbírala jsem…“); věty o hráči
+  zůstávají bezrodé („Taky nos kraťasy!“ místo „Taky bys měl…“). Quest log vypráví v přítomném čase.
+- Proměnná jména (`{STR_VAR_1}`, `{DYNAMIC}`) se neskloňují, věty se stavějí kolem nich
+  („Získáno: {STR_VAR_1}.“). Pevná jména se skloňovat smí, když to zní přirozeně (PC PROF. OAKA, BILLOVO PC).
+- Zkratky stavů PSN, PAR, SLP, BRN, FRZ zůstávají, protože ikony stavů ve hře jsou obrázky.
+- Jednotky v Pokédexu (HT, WT, lbs.) zatím zůstávají, přechod na metry/kg by vyžadoval změnu kódu.
+- Kontrola šířky: `python3 cz/preloz.py`. Dialogový řádek má nejvýš 196 px,
+  popisky v menu ideálně nejsou širší než originál (jinak ověřit okno).
+  Změřená okna: nabídka akcí v batohu ~48 px, akce v týmu ~72 px, název kapsy 72 px,
+  start menu ~48 px, popis útoku v poli 141 px, výzvy v týmu 120–168 px, hlášky v boxu PC 144 px,
+  název stránky v přehledu 100 px, ovládání v přehledu 84 px (malé), lišta mapy 40 px (malé),
+  nastavení: popisek < 122 px, hodnota ≤ 70 px, okno přezdívky 128 px (jméno druhu + titulek).
+  Výběrová menu ze skriptů (`script_menu.c`) si šířku počítají sama.
+- Japonské a nepoužité texty se nepřekládají (taky třídy trenérů z Ruby/Sapphire `RS_*`, AQUA, MAGMA).
+- **Souboje** (`python3 cz/preloz.py src/battle_message.c boj`): děj v přítomném čase („používá“, „vysílá“),
+  jméno s předponou („Divoký “/„Soupeřův “, spojenec „Tvůj“) vždy v 1. pádě — jinak dvojtečka
+  („{B_SCR_ACTIVE_NAME_WITH_PREFIX}: {B_SCR_ACTIVE_ABILITY}!“) nebo věta bez jména.
+  Okno zpráv 224 px, limit 216 px. Bojové menu: 2. sloupec max 40 px (x=56 v okně 96 px).
+- **Popisy** se tisknou bez čekání, takže řádky jen přes `\n` (nástroj: argument `popis`).
+  Předměty: `python3 cz/preloz.py src/data/items.json popis sirka=198 radku=3` (okno batohu 200 px).
+  Útoky: `src/move_descriptions.c popis sirka=112 radku=4` (přehled 113 px, učení útoků 118 px).
+  Pokédex: font s mezerou 1 px mezi písmeny, okno 240 px, 3 řádky; kategorie max 11 znaků bez mezery
+  (`DexScreen_PrintMonCategory` u revize 0 končí na mezeře), malý font, za ní „ POKéMON“.
+- Pozor na buffery: kousky kopírované do `gBattleTextBuff1–3` mají max 15 znaků (pole 16 B),
+  třídy trenérů max 12 znaků (`gTrainerClassNames[][13]`, `{PKMN}` = 2 znaky).
+
+## Slovníček
+
+| EN | CZ |
+|---|---|
+| BAG | BATOH |
+| TRAINER | TRENÉR |
+| BADGE | ODZNAK |
+| EGG | VEJCE |
+| MAIL | DOPIS |
+| BOX | BOX |
+| KEY ITEMS | DŮLEŽITÉ (předměty) |
+| COINS | ŽETONY |
+| HALL OF FAME | SÍŇ SLÁVY |
+| SUMMARY | PŘEHLED |
+| MAILBOX | SCHRÁNKA |
+| fainted | omdlel |
+| FIGHT / RUN | BOJ / ÚTĚK |
+| BAIT / ROCK (Safari) | KRMENÍ / KÁMEN |
+| GYM LEADER | VŮDCE (stadionu) |
+| CHAMPION | ŠAMPION |
+| ELITE FOUR, TEAM ROCKET | zůstávají (jména skupin) |
+| GHOST (neznámý duch) | DUCH |
+| DAY-CARE | ŠKOLKA (pán/paní ze ŠKOLKY) |
+| TRAINER TIPS | RADY PRO TRENÉRY |
+| MOM / PA (hlasatel) | MÁMA / HLASATEL |
+| STICKER | SAMOLEPKA |
+| AIDE | ASISTENT |
+| item | předmět |
+| move | útok |
+| HP, PP, Lv. | HP, PP, Lv. |
+| ATTACK / DEFENSE / SPEED | ÚTOK / OBRANA / RYCHLOST |
+| SP. ATK / SP. DEF | SP. ÚTOK / SP. OBR. |
+| YES / NO | ANO / NE |
+| CANCEL | ZPĚT |
+| EXIT / QUIT | KONEC |
+| Gramps (rival o Oakovi) | dědo |
+| SIS | ségra |
+| GYM | STADION |
+| (ženská) LEADER | VŮDKYNĚ |
+| BERRIES (běžně v textu) | BOBULE; názvy předmětů (BERRY POWDER, ORAN BERRY…) zůstávají |
+| Champ in the making! | Ty budoucí hvězdo! |
+| BOSS (Rocketi o Giovannim) | ŠÉF |
+| DRUGSTORE | LÉKÁRNA; CELADON DEPT. STORE, GAME CORNER, PRIZE EXCHANGE zůstávají (názvy) |
+| COINS (Game Corner) | ŽETONY; COIN CASE zůstává |
+| Hesla do ROCKET WAREHOUSE | “GOLDEEN potřebuje poleno.” a “Jo, ne, CHANSEY.” |
+| Network Machine (CELIO) | Síťový přístroj |
+
+Oslovení: sestra v POKéMON CENTER a prodavači vykají, ostatní tykají.
+STARTÉRY a jiná jména pokémonů ve větách neskloňuj („Tvoje volba je SQUIRTLE“).
+
+## Jak pokračovat (pro další sezení)
+
+1. Přečti tenhle soubor, hlavně Pravidla a Slovníček.
+2. Překlad textů `_("…")` v C souborech:
+   ```
+   python3 cz/preloz.py src/soubor.c <<'EOF'
+   gText_Nazev = Český text\ns novým řádkem
+   EOF
+   ```
+   Přidej `maly`, když se text vypisuje malým fontem (FONT_SMALL). Zápis je „všechno, nebo nic“:
+   při chybě se nic nezmění. U řádků s `!` dohledej v kódu šířku okna, `!!` je přes dialogový limit 196 px.
+3. Texty v `data/**/*.inc` a `*.s` (`Label::` + řádky `.string "…"`) jdou stejně: `Label = text`.
+   Odstavec bez `\n`/`\l` nástroj zalomí sám (do 196 px, `\n` pak `\l`, jednopísmenná slova
+   nenechá na konci řádku), takže u dialogů stačí psát odstavce oddělené `\p`.
+   Znaky mimo `charmap.txt` (třeba pomlčka „–“) nástroj odmítne — použij čárku nebo „-“.
+4. `make -j4` musí projít bez chyb, test: `mgba-qt pokefirered.gba`.
+5. Odškrtni část výše, commit `CZ část N: …` a `git push`.
+
+Rozsah (slova): strings.c 4,9k · battle_message.c 2,3k · popisy útoků 4,6k · data/text 18k
+(z toho nápověda 7k, Fame Checker 3,5k) · mapy 44,6k · Pokédex a předměty zatím nezměřeno.

@@ -1,81 +1,81 @@
 SilphCo_5F_Text_RocketsInUproarAboutIntruder::
-    .string "TEAM ROCKET is in an uproar over\n"
-    .string "some intruder.\p"
-    .string "That's you, right?$"
+    .string "TEAM ROCKET je kvůli nějakému\n"
+    .string "vetřelci vzhůru nohama.\p"
+    .string "To jsi ty, že jo?$"
 
 SilphCo_5F_Text_YoureOurHeroThankYou::
-    .string "TEAM ROCKET took off!\n"
-    .string "You're our hero! Thank you!$"
+    .string "TEAM ROCKET zmizel! Bez tebe\n"
+    .string "bychom to nezvládli! Děkujeme!$"
 
 SilphCo_5F_Text_Grunt1Intro::
-    .string "I heard a kid was wandering\n"
-    .string "around.$"
+    .string "Slyšel jsem, že se tu potuluje\n"
+    .string "nějaké děcko.$"
 
 SilphCo_5F_Text_Grunt1Defeat::
-    .string "Boom!$"
+    .string "Bum!$"
 
 SilphCo_5F_Text_Grunt1PostBattle::
-    .string "It's not smart to pick a fight with\n"
-    .string "TEAM ROCKET!$"
+    .string "Není chytré dělat si nepřátele\n"
+    .string "z TEAM ROCKET!$"
 
 SilphCo_5F_Text_BeauIntro::
-    .string "We study POKé BALL technology on\n"
-    .string "this floor.$"
+    .string "Na tomhle patře zkoumáme\n"
+    .string "technologii POKé BALLŮ.$"
 
 SilphCo_5F_Text_BeauDefeat::
-    .string "Dang!\n"
-    .string "Blast it!$"
+    .string "Sakra!\n"
+    .string "Do háje!$"
 
 SilphCo_5F_Text_BeauPostBattle::
-    .string "We worked on the ultimate POKé\n"
-    .string "BALL which would catch anything.$"
+    .string "Pracovali jsme na dokonalém POKé\n"
+    .string "BALLU, který by chytil cokoli.$"
 
 SilphCo_5F_Text_DaltonIntro::
-    .string "Whaaat?\p"
-    .string "There shouldn't be any children\n"
-    .string "here!$"
+    .string "Cooo?\p"
+    .string "Tady by neměly být žádné děti!$"
 
 SilphCo_5F_Text_DaltonDefeat::
-    .string "Oh, goodness!$"
+    .string "Ach, propána!$"
 
 SilphCo_5F_Text_DaltonPostBattle::
-    .string "You're only on 5F.\n"
-    .string "It's a long way to my BOSS!$"
+    .string "Jsi teprve v 5F.\n"
+    .string "K mému ŠÉFOVI je to ještě daleko!$"
 
 SilphCo_5F_Text_Grunt2Intro::
-    .string "Show TEAM ROCKET a little respect!$"
+    .string "Projev TEAM ROCKET trochu úcty!$"
 
 SilphCo_5F_Text_Grunt2Defeat::
-    .string "Cough…\n"
-    .string "Cough…$"
+    .string "Kchá…\n"
+    .string "Kchá…$"
 
 SilphCo_5F_Text_Grunt2PostBattle::
-    .string "Which reminds me.\p"
-    .string "KOFFING evolves into WEEZING!$"
+    .string "Mimochodem.\p"
+    .string "KOFFING se vyvíjí ve WEEZING!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
-    .string "It's a POKéMON REPORT!\p"
-    .string "POKéMON LAB created PORYGON,\n"
-    .string "the first virtual-reality POKéMON.$"
+    .string "Je to ZPRÁVA O POKéMONECH!\p"
+    .string "POKéMON LAB vytvořila PORYGON,\n"
+    .string "prvního POKéMONA z virtuální\l"
+    .string "reality.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
-    .string "It's a POKéMON REPORT!\p"
-    .string "Over 350 POKéMON techniques have\n"
-    .string "been confirmed.$"
+    .string "Je to ZPRÁVA O POKéMONECH!\p"
+    .string "Bylo potvrzeno přes 350 technik\n"
+    .string "POKéMONŮ.$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
-    .string "It's a POKéMON REPORT!\p"
-    .string "Some POKéMON have been confirmed\n"
-    .string "to evolve when they are traded.$"
+    .string "Je to ZPRÁVA O POKéMONECH!\p"
+    .string "U některých POKéMONŮ se potvrdilo,\n"
+    .string "že se vyvíjejí při výměně.$"
 
 SilphCo_5F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
+    .string "ÚSTŘEDÍ SILPH CO.\n"
     .string "5F$"
 
 SilphCo_5F_Text_RocketBossLookingForStrongMons::
-    .string "Those thugs that took over our\n"
-    .string "building…\p"
-    .string "Their BOSS said he was looking for\n"
-    .string "strong POKéMON.\p"
-    .string "I hope our PRESIDENT managed to\n"
-    .string "avoid trouble…$"
+    .string "Ti grázlové, co obsadili naši\n"
+    .string "budovu…\p"
+    .string "Jejich ŠÉF říkal, že hledá silné\n"
+    .string "POKéMONY.\p"
+    .string "Doufám, že se náš PREZIDENT\n"
+    .string "vyhnul potížím…$"

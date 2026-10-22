@@ -1,55 +1,55 @@
 OneIsland_Text_BillLetsGoSeeCelio::
-    .string "BILL: Here we are!\n"
-    .string "This is ONE ISLAND.\p"
-    .string "There are several islands around\n"
-    .string "here, and this is one of them.\p"
-    .string "My friend CELIO sent the boat to\n"
-    .string "fetch me here.\p"
-    .string "He's in charge of the island's PC\n"
-    .string "network by his lonesome.\p"
-    .string "…Why am I telling you this now?\n"
-    .string "Let's just go see CELIO!$"
+    .string "BILL: Jsme tady!\n"
+    .string "Tohle je ONE ISLAND.\p"
+    .string "Je tu kolem několik ostrovů a tohle\n"
+    .string "je jeden z nich.\p"
+    .string "Loď pro mě poslal můj kamarád\n"
+    .string "CELIO.\p"
+    .string "Stará se tu úplně sám o ostrovní\n"
+    .string "síť PC.\p"
+    .string "…Proč ti to vlastně teď vykládám?\n"
+    .string "Pojďme rovnou za CELIEM!$"
 
 Text_WhereDoYouWantToSail::
-    .string "Ahoy, there!\n"
-    .string "Where do you want to sail?$"
+    .string "Ahoj!\n"
+    .string "Kam chceš plout?$"
 
 OneIsland_Text_LuckyToHaveCelioHere::
-    .string "Here we are on an island smack in\n"
-    .string "the middle of nowhere.\p"
-    .string "We're lucky to have an upstanding\n"
-    .string "young man like CELIO here.\p"
-    .string "My granddaughter was in a tizzy\n"
-    .string "over CELIO's friend.\p"
-    .string "Something about a famous\n"
-    .string "POKéMANIAC?\p"
-    .string "I'm not sure what that means, but\n"
-    .string "CELIO is quite the man!$"
+    .string "Jsme tu na ostrově uprostřed\n"
+    .string "ničeho.\p"
+    .string "Máme štěstí, že tu máme tak\n"
+    .string "řádného mladého muže, jako je\l"
+    .string "CELIO.\p"
+    .string "Moje vnučka byla celá bez sebe\n"
+    .string "z CELIOVA kamaráda.\p"
+    .string "Prý nějaký slavný POKéMANIAK?\p"
+    .string "Nevím, co to znamená, ale CELIO\n"
+    .string "je pašák!$"
 
 OneIsland_Text_HavePCLinkageWithKanto::
-    .string "My granddaughter was in a tizzy\n"
-    .string "over a new breakthrough.\p"
-    .string "She said we now have PC linkage\n"
-    .string "with people in KANTO.\p"
-    .string "I'm not sure what that means, but\n"
-    .string "CELIO is quite the man!$"
+    .string "Moje vnučka byla celá bez sebe\n"
+    .string "z nového objevu.\p"
+    .string "Prý teď máme propojení PC s lidmi\n"
+    .string "v KANTU.\p"
+    .string "Nevím, co to znamená, ale CELIO\n"
+    .string "je pašák!$"
 
 OneIsland_Text_HavePCLinkageWithHoenn::
-    .string "My granddaughter was in a tizzy\n"
-    .string "over a new breakthrough.\p"
-    .string "She said we finally have PC linkage\n"
-    .string "with people in HOENN.\p"
-    .string "I'm not sure what that means, but\n"
-    .string "CELIO is quite the man.\p"
-    .string "He would make a fine husband for\n"
-    .string "my granddaughter!$"
+    .string "Moje vnučka byla celá bez sebe\n"
+    .string "z nového objevu.\p"
+    .string "Prý konečně máme propojení PC\n"
+    .string "s lidmi v HOENNU.\p"
+    .string "Nevím, co to znamená, ale CELIO\n"
+    .string "je pašák.\p"
+    .string "Byl by z něj skvělý manžel pro\n"
+    .string "moji vnučku!$"
 
 OneIsland_Text_IslandSign::
     .string "ONE ISLAND\n"
-    .string "Friends Gather at Knot Island$"
+    .string "Knot, ostrov setkávání přátel$"
 
 OneIsland_Text_PokemonNetCenterSign::
-    .string "Expanding the POKéMON World!\n"
+    .string "Rozšiřujeme svět POKéMONŮ!\n"
     .string "POKéMON NET CENTER$"
 
 @ Unused
@@ -57,6 +57,6 @@ OneIsland_Text_ReturnToCinnabar::
     .string "グレンタウンに　もどりますか？$"
 
 OneIsland_Text_IsntWarmClimateHereGreat::
-    .string "Hi, sight-seeing, are you?\n"
-    .string "Isn't the warm climate here great?$"
+    .string "Ahoj, jsi tu na výletě?\n"
+    .string "Není zdejší teplé podnebí skvělé?$"
 

@@ -1,99 +1,100 @@
 Text_DreamEaterTeach::
-    .string "Yawn!\n"
-    .string "I must have dozed off in the sun.\p"
-    .string "I had this weird dream about\n"
-    .string "a DROWZEE eating my dream.\p"
-    .string "And…\n"
-    .string "I learned how to eat dreams…\p"
-    .string "Oogh, this is too spooky!\p"
-    .string "Let me teach it to a POKéMON so\n"
-    .string "I can forget about it!$"
+    .string "Zíív!\n"
+    .string "Asi jsem si na sluníčku zdřímnul.\p"
+    .string "Zdál se mi divný sen, jak mi\n"
+    .string "DROWZEE jí sen.\p"
+    .string "A…\n"
+    .string "Naučil jsem se jíst sny…\p"
+    .string "Uf, to je moc strašidelné!\p"
+    .string "Naučím to nějakého POKéMONA, ať\n"
+    .string "na to můžu zapomenout!$"
 
 Text_DreamEaterDeclined::
-    .string "…Snore…$"
+    .string "…Chrrr…$"
 
 Text_DreamEaterWhichMon::
-    .string "Which POKéMON wants to learn\n"
+    .string "Který POKéMON se chce naučit\n"
     .string "DREAM EATER?$"
 
 Text_DreamEaterTaught::
-    .string "…ZZZ…\n"
-    .string "I…can't eat…anymore…$"
+    .string "…Chrrr…\n"
+    .string "Už…nemůžu…sníst…ani kousek…$"
 
 PewterCity_Text_ClefairyCameFromMoon::
-    .string "CLEFAIRY came from the moon.\n"
-    .string "That's what the rumor is.\p"
-    .string "They appeared after MOON STONES\n"
-    .string "fell on MT. MOON.$"
+    .string "CLEFAIRY přišli z Měsíce. Tak se\n"
+    .string "to aspoň povídá.\p"
+    .string "Objevili se, když na MT. MOON\n"
+    .string "spadly MOON STONES.$"
 
 PewterCity_Text_BrockOnlySeriousTrainerHere::
-    .string "There aren't many serious POKéMON\n"
-    .string "TRAINERS here.\p"
-    .string "They're all like BUG CATCHERS,\n"
-    .string "you know, just hobbyists.\p"
-    .string "But PEWTER GYM's BROCK isn't like\n"
-    .string "that, not one bit.$"
+    .string "Moc vážných POKéMON TRENÉRŮ tu\n"
+    .string "není.\p"
+    .string "Všichni jsou jako LOVCI BROUKŮ,\n"
+    .string "prostě nadšenci.\p"
+    .string "Ale BROCK ze STADIONU PEWTER\n"
+    .string "takový vůbec není.$"
 
 PewterCity_Text_DidYouCheckOutMuseum::
-    .string "Did you check out the MUSEUM?$"
+    .string "Znáš už MUZEUM?$"
 
 PewterCity_Text_WerentThoseFossilsAmazing::
-    .string "Weren't those fossils from MT. MOON\n"
-    .string "amazing?$"
+    .string "Nebyly ty fosilie z MT. MOON\n"
+    .string "úžasné?$"
 
 PewterCity_Text_ReallyYouHaveToGo::
-    .string "Really?\n"
-    .string "You absolutely have to go!$"
+    .string "Vážně?\n"
+    .string "Tam musíš rozhodně zajít!$"
 
 PewterCity_Text_ThisIsTheMuseum::
-    .string "This is it, the MUSEUM.\p"
-    .string "You have to pay to get in, but it's\n"
-    .string "worth it. See you around!$"
+    .string "Tak, tohle je MUZEUM.\p"
+    .string "Vstup se platí, ale stojí to za\n"
+    .string "to. Tak zatím!$"
 
 PewterCity_Text_DoYouKnowWhatImDoing::
-    .string "Psssst!\n"
-    .string "Do you know what I'm doing?$"
+    .string "Pssst!\n"
+    .string "Víš, co dělám?$"
 
 PewterCity_Text_ThatsRightItsHardWork::
-    .string "That's right!\n"
-    .string "It's hard work!$"
+    .string "Přesně tak!\n"
+    .string "Je to dřina!$"
 
 PewterCity_Text_SprayingRepelToKeepWildMonsOut::
-    .string "I'm spraying REPEL to keep wild\n"
-    .string "POKéMON out of my garden!$"
+    .string "Stříkám REPEL, aby mi divocí\n"
+    .string "POKéMONI nelezli do zahrady!$"
 
 PewterCity_Text_BrocksLookingForChallengersFollowMe::
-    .string "You're a TRAINER, right?\p"
-    .string "BROCK's looking for new\n"
-    .string "challengers. Follow me!$"
+    .string "Ty jsi TRENÉR, že?\p"
+    .string "BROCK hledá nové vyzyvatele. Pojď\n"
+    .string "za mnou!$"
 
 PewterCity_Text_GoTakeOnBrock::
-    .string "If you have the right stuff,\n"
-    .string "go take on BROCK!$"
+    .string "Jestli na to máš, jdi vyzvat\n"
+    .string "BROCKA!$"
 
 PewterCity_Text_TrainerTipsEarningEXP::
-    .string "TRAINER TIPS\p"
-    .string "All POKéMON that appear in battle,\n"
-    .string "however briefly, earn EXP Points.$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "Všichni POKéMONI, kteří se objeví\n"
+    .string "v souboji, byť jen nakrátko,\l"
+    .string "získají zkušenosti.$"
 
 PewterCity_Text_CallPoliceIfInfoOnThieves::
-    .string "NOTICE!\p"
-    .string "Thieves have been stealing POKéMON\n"
-    .string "fossils from MT. MOON.\p"
-    .string "Please call the PEWTER POLICE if\n"
-    .string "you have any information.$"
+    .string "UPOZORNĚNÍ!\p"
+    .string "Zloději kradou z MT. MOON fosilie\n"
+    .string "POKéMONŮ.\p"
+    .string "Pokud máte nějaké informace,\n"
+    .string "zavolejte POLICII PEWTER.$"
 
 PewterCity_Text_MuseumOfScience::
-    .string "PEWTER MUSEUM OF SCIENCE$"
+    .string "PŘÍRODOVĚDNÉ MUZEUM PEWTER$"
 
 PewterCity_Text_GymSign::
-    .string "PEWTER CITY POKéMON GYM\n"
-    .string "LEADER: BROCK\l"
-    .string "The Rock-Solid POKéMON TRAINER!$"
+    .string "POKéMON STADION PEWTER CITY\n"
+    .string "VŮDCE: BROCK\l"
+    .string "POKéMON TRENÉR pevný jako skála!$"
 
 PewterCity_Text_CitySign::
     .string "PEWTER CITY\n"
-    .string "A Stone Gray City$"
+    .string "Kamenně šedé město$"
 
 @ The below 3 JP texts are unused. Possibly a cut NPC meant to give the player the Berry Pouch
 PewterCity_Text_DefeatedBrockYouCanHaveTreasure::
@@ -118,37 +119,35 @@ PewterCity_Text_MonsWillUseHeldBerriesOnTheirOwn::
     .string "てがるで　べんり　だろ？$"
 
 PewterCity_Text_OhPlayer::
-    .string "Oh, {PLAYER}{KUN}!$"
+    .string "Á, {PLAYER}{KUN}!$"
 
 PewterCity_Text_AskedToDeliverThis::
-    .string "I'm glad I caught up to you.\n"
-    .string "I'm PROF. OAK's AIDE.\p"
-    .string "I've been asked to deliver this,\n"
-    .string "so here you go.$"
+    .string "Jsem rád, že jsem tě dohnal.\n"
+    .string "Jsem ASISTENT PROF. OAKA.\p"
+    .string "Mám ti tohle předat, tak tady máš.$"
 
 PewterCity_Text_ReceivedRunningShoesFromAide::
-    .string "{PLAYER} received the\n"
-    .string "RUNNING SHOES from the AIDE.$"
-
-PewterCity_Text_SwitchedShoesWithRunningShoes::
-    .string "{PLAYER} switched shoes with the\n"
+    .string "{PLAYER} dostává od ASISTENTA\n"
     .string "RUNNING SHOES.$"
 
+PewterCity_Text_SwitchedShoesWithRunningShoes::
+    .string "{PLAYER} si přezouvá boty\n"
+    .string "za RUNNING SHOES.$"
+
 PewterCity_Text_ExplainRunningShoes::
-    .string "Press the B Button to run.\n"
-    .string "But only where there's room to run!$"
+    .string "Stiskni tlačítko B a poběžíš.\n"
+    .string "Ale jen tam, kde je na běh místo!$"
 
 PewterCity_Text_MustBeGoingBackToLab::
-    .string "Well, I must be going back to\n"
-    .string "the LAB.\p"
-    .string "Bye-bye!$"
+    .string "No, musím se vrátit do LABORATOŘE.\p"
+    .string "Ahoj!$"
 
 PewterCity_Text_RunningShoesLetterFromMom::
-    .string "There's a letter attached…\p"
-    .string "Dear {PLAYER},\p"
-    .string "Here is a pair of RUNNING SHOES\n"
-    .string "for my beloved challenger.\p"
-    .string "Remember, I'll always cheer for\n"
-    .string "you! Don't ever give up!\p"
-    .string "From Mom$"
+    .string "Je k tomu přiložený dopis…\p"
+    .string "Ahoj, {PLAYER},\p"
+    .string "posílám pár RUNNING SHOES pro\n"
+    .string "moje zlatíčko na cestách.\p"
+    .string "Pamatuj, že ti vždycky budu\n"
+    .string "fandit! Nikdy se nevzdávej!\p"
+    .string "Máma$"
 

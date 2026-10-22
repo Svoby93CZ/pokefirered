@@ -1,12 +1,11 @@
 SafariZone_East_Text_RestHouse::
-    .string "REST HOUSE$"
+    .string "ODPOČÍVÁRNA$"
 
 SafariZone_East_Text_TimeDeclinesOnlyWhileYouWalk::
-    .string "TRAINER TIPS\p"
-    .string "The remaining time declines only\n"
-    .string "while you walk.$"
+    .string "RADY PRO TRENÉRY\p"
+    .string "Zbývající čas ubývá jen při chůzi.$"
 
 SafariZone_East_Text_AreaSign::
-    .string "AREA 1\n"
-    .string "WEST: CENTER AREA$"
+    .string "OBLAST 1\n"
+    .string "ZÁPAD: STŘEDNÍ OBLAST$"
 

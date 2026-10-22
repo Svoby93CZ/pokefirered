@@ -1,2720 +1,2523 @@
 const u8 gDummyPokedexText[] = _(
-    "This is a newly discovered POKéMON. It is\n"
-    "currently under investigation. No detailed\n"
-    "information is available at this time.");
+    "Nově objevený POKéMON. Zatím se zkoumá.\n"
+    "Podrobné údaje nejsou zatím k dispozici.");
 
 const u8 gDummyPokedexTextUnused[] = _("");
 
 const u8 gBulbasaurPokedexText[] = _(
-    "There is a plant seed on its back right\n"
-    "from the day this POKéMON is born.\n"
-    "The seed slowly grows larger.");
+    "Hned od narození má na zádech semínko\n"
+    "rostliny. Semínko pomalu roste.");
 
 const u8 gBulbasaurPokedexTextUnused[] = _("");
 
 const u8 gIvysaurPokedexText[] = _(
-    "There is a plant bulb on its back.\n"
-    "When it absorbs nutrients, the bulb is said\n"
-    "to blossom into a large flower.");
+    "Na zádech má cibulku. Prý když vstřebává\n"
+    "živiny, rozvine se ve velký květ.");
 
 const u8 gIvysaurPokedexTextUnused[] = _("");
 
 const u8 gVenusaurPokedexText[] = _(
-    "A bewitching aroma wafts from its flower.\n"
-    "The fragrance becalms those engaged in\n"
-    "a battle.");
+    "Z jeho květu se line okouzlující vůně.\n"
+    "Ta uklidňuje všechny, kdo zrovna bojují.");
 
 const u8 gVenusaurPokedexTextUnused[] = _("");
 
 const u8 gCharmanderPokedexText[] = _(
-    "From the time it is born, a flame burns\n"
-    "at the tip of its tail. Its life would end\n"
-    "if the flame were to go out.");
+    "Od narození mu na špičce ocasu hoří\n"
+    "plamen. Kdyby plamen zhasl, jeho život\n"
+    "by skončil.");
 
 const u8 gCharmanderPokedexTextUnused[] = _("");
 
 const u8 gCharmeleonPokedexText[] = _(
-    "It lashes about with its tail to knock\n"
-    "down its foe. It then tears up the fallen\n"
-    "opponent with sharp claws.");
+    "Ocasem srazí soupeře k zemi. Pak padlého\n"
+    "protivníka roztrhá ostrými drápy.");
 
 const u8 gCharmeleonPokedexTextUnused[] = _("");
 
 const u8 gCharizardPokedexText[] = _(
-    "Its wings can carry this POKéMON close to\n"
-    "an altitude of 4,600 feet. It blows out\n"
-    "fire at very high temperatures.");
+    "Na křídlech vystoupá až do výšky 1 400\n"
+    "m. Chrlí oheň o velmi vysoké teplotě.");
 
 const u8 gCharizardPokedexTextUnused[] = _("");
 
 const u8 gSquirtlePokedexText[] = _(
-    "When it retracts its long neck into its\n"
-    "shell, it squirts out water with vigorous\n"
-    "force.");
+    "Když zatáhne dlouhý krk do krunýře,\n"
+    "prudce vystříkne vodu.");
 
 const u8 gSquirtlePokedexTextUnused[] = _("");
 
 const u8 gWartortlePokedexText[] = _(
-    "This POKéMON is very popular as a pet.\n"
-    "Its fur-covered tail is a symbol of its\n"
-    "longevity.");
+    "Jako domácí mazlíček je velmi oblíbený.\n"
+    "Jeho chlupatý ocas je symbolem\n"
+    "dlouhověkosti.");
 
 const u8 gWartortlePokedexTextUnused[] = _("");
 
 const u8 gBlastoisePokedexText[] = _(
-    "It crushes its foe under its heavy body\n"
-    "to cause fainting. In a pinch, it will\n"
-    "withdraw inside its shell.");
+    "Soupeře rozdrtí svým těžkým tělem, až\n"
+    "omdlí. V nouzi se stáhne do krunýře.");
 
 const u8 gBlastoisePokedexTextUnused[] = _("");
 
 const u8 gCaterpiePokedexText[] = _(
-    "It is covered with a green skin. When it\n"
-    "grows, it sheds the skin, covers itself\n"
-    "with silk, and becomes a cocoon.");
+    "Má zelenou kůži. Když roste, svlékne ji,\n"
+    "obalí se hedvábím a stane se kuklou.");
 
 const u8 gCaterpiePokedexTextUnused[] = _("");
 
 const u8 gMetapodPokedexText[] = _(
-    "Even though it is encased in a sturdy\n"
-    "shell, the body inside is tender.\n"
-    "It can't withstand a harsh attack.");
+    "Je sice v pevné skořápce, ale tělo uvnitř\n"
+    "je měkké. Tvrdý útok nevydrží.");
 
 const u8 gMetapodPokedexTextUnused[] = _("");
 
 const u8 gButterfreePokedexText[] = _(
-    "The wings are protected by rain-repellent\n"
-    "dust. As a result, this POKéMON can fly\n"
-    "about even in rain.");
+    "Křídla chrání prach, který odpuzuje\n"
+    "vodu. Díky tomu může létat i v dešti.");
 
 const u8 gButterfreePokedexTextUnused[] = _("");
 
 const u8 gWeedlePokedexText[] = _(
-    "Often found in forests and grasslands.\n"
-    "It has a sharp, toxic barb of around two\n"
-    "inches on top of its head.");
+    "Žije v lesích a na loukách. Na hlavě má\n"
+    "ostrý jedovatý osten dlouhý asi 5 cm.");
 
 const u8 gWeedlePokedexTextUnused[] = _("");
 
 const u8 gKakunaPokedexText[] = _(
-    "This POKéMON is in a temporary stage\n"
-    "while making its body. It is almost\n"
-    "completely unable to move on its own.");
+    "Tento POKéMON je v přechodném stadiu,\n"
+    "kdy si vytváří tělo. Sám se skoro nemůže\n"
+    "hýbat.");
 
 const u8 gKakunaPokedexTextUnused[] = _("");
 
 const u8 gBeedrillPokedexText[] = _(
-    "May appear in a swarm. Flies at violent\n"
-    "speeds, all the while stabbing with the\n"
-    "toxic stinger on its rear.");
+    "Objevuje se v rojích. Létá zběsilou\n"
+    "rychlostí a bodá jedovatým žihadlem na\n"
+    "zadečku.");
 
 const u8 gBeedrillPokedexTextUnused[] = _("");
 
 const u8 gPidgeyPokedexText[] = _(
-    "Does not like to fight. It hides in\n"
-    "tall grass and so on, foraging for food\n"
-    "such as small bugs.");
+    "Nerad bojuje. Schovává se ve vysoké\n"
+    "trávě a podobně a hledá potravu jako\n"
+    "malý hmyz.");
 
 const u8 gPidgeyPokedexTextUnused[] = _("");
 
 const u8 gPidgeottoPokedexText[] = _(
-    "The claws on its feet are well developed.\n"
-    "It can carry prey such as an EXEGGCUTE\n"
-    "to its nest over 60 miles away.");
+    "Má silné drápy na nohou. Kořist jako\n"
+    "EXEGGCUTE unese do hnízda přes 100 km\n"
+    "daleko.");
 
 const u8 gPidgeottoPokedexTextUnused[] = _("");
 
 const u8 gPidgeotPokedexText[] = _(
-    "It spreads its gorgeous wings widely to\n"
-    "intimidate enemies. It races through the\n"
-    "skies at Mach-2 speed.");
+    "Roztahuje nádherná křídla, aby zastrašil\n"
+    "nepřátele. Oblohou se řítí rychlostí 2\n"
+    "Machů.");
 
 const u8 gPidgeotPokedexTextUnused[] = _("");
 
 const u8 gRattataPokedexText[] = _(
-    "Its fangs are long and very sharp.\n"
-    "They grow continuously, so it gnaws on\n"
-    "hard things to whittle them down.");
+    "Má dlouhé a velmi ostré zuby. Pořád\n"
+    "rostou, a tak hlodá tvrdé věci, aby si je\n"
+    "obrousil.");
 
 const u8 gRattataPokedexTextUnused[] = _("");
 
 const u8 gRaticatePokedexText[] = _(
-    "Its rear feet have three toes each.\n"
-    "They are webbed, enabling it to swim\n"
-    "across rivers.");
+    "Na zadních nohou má po třech prstech.\n"
+    "Mezi nimi má blány, takže přeplave i řeku.");
 
 const u8 gRaticatePokedexTextUnused[] = _("");
 
 const u8 gSpearowPokedexText[] = _(
-    "It busily flits around here and there.\n"
-    "Even if it is frail, it can be a tough\n"
-    "foe that uses MIRROR MOVE.");
+    "Čile poletuje sem a tam. I když je slabý,\n"
+    "s útokem MIRROR MOVE umí být tvrdým\n"
+    "soupeřem.");
 
 const u8 gSpearowPokedexTextUnused[] = _("");
 
 const u8 gFearowPokedexText[] = _(
-    "Its huge and magnificent wings can keep it\n"
-    "aloft in the sky. It can remain flying a\n"
-    "whole day without landing.");
+    "Obrovská nádherná křídla ho udrží ve\n"
+    "vzduchu. Dokáže létat celý den bez\n"
+    "přistání.");
 
 const u8 gFearowPokedexTextUnused[] = _("");
 
 const u8 gEkansPokedexText[] = _(
-    "A very common sight in grassland, etc.\n"
-    "It flicks its tongue in and out to sense\n"
-    "danger in its surroundings.");
+    "Na loukách a podobně je velmi běžný.\n"
+    "Kmitá jazykem, aby vycítil nebezpečí\n"
+    "v okolí.");
 
 const u8 gEkansPokedexTextUnused[] = _("");
 
 const u8 gArbokPokedexText[] = _(
-    "The pattern on its belly appears to be a\n"
-    "frightening face. Weak foes will flee just\n"
-    "at the sight of the pattern.");
+    "Vzor na jeho břiše vypadá jako děsivá\n"
+    "tvář. Slabí soupeři utečou, jen co ho\n"
+    "uvidí.");
 
 const u8 gArbokPokedexTextUnused[] = _("");
 
 const u8 gPikachuPokedexText[] = _(
-    "It has small electric sacs on both its\n"
-    "cheeks. If threatened, it looses electric\n"
-    "charges from the sacs.");
+    "Na obou tvářích má malé elektrické váčky.\n"
+    "Když je v ohrožení, vypouští z nich\n"
+    "elektřinu.");
 
 const u8 gPikachuPokedexTextUnused[] = _("");
 
 const u8 gRaichuPokedexText[] = _(
-    "Its electric charges can reach even\n"
-    "100,000 volts. Careless contact can cause\n"
-    "even an Indian elephant to faint.");
+    "Jeho výboje dosahují až 100 000 voltů.\n"
+    "Neopatrný dotyk omráčí i slona.");
 
 const u8 gRaichuPokedexTextUnused[] = _("");
 
 const u8 gSandshrewPokedexText[] = _(
-    "It burrows and lives underground.\n"
-    "If threatened, it curls itself up into a\n"
-    "ball for protection.");
+    "Hrabe si nory a žije pod zemí. Když je\n"
+    "v ohrožení, stočí se do klubíčka.");
 
 const u8 gSandshrewPokedexTextUnused[] = _("");
 
 const u8 gSandslashPokedexText[] = _(
-    "It is adept at attacking with the spines\n"
-    "on its back and its sharp claws while\n"
-    "quickly scurrying about.");
+    "Rychle pobíhá a obratně útočí ostny na\n"
+    "zádech i ostrými drápy.");
 
 const u8 gSandslashPokedexTextUnused[] = _("");
 
 const u8 gNidoranFPokedexText[] = _(
-    "Though small, it must be treated with\n"
-    "caution because of its powerfully toxic\n"
-    "barbs. The female has smaller horns.");
+    "Je sice malý, ale kvůli silně jedovatým\n"
+    "ostnům je potřeba opatrnost. Samice mají\n"
+    "menší rohy.");
 
 const u8 gNidoranFPokedexTextUnused[] = _("");
 
 const u8 gNidorinaPokedexText[] = _(
-    "The female has a gentle temperament.\n"
-    "It emits ultrasonic cries that have the\n"
-    "power to befuddle foes.");
+    "Samice má mírnou povahu. Vydává\n"
+    "ultrazvukové výkřiky, které soupeře\n"
+    "zmatou.");
 
 const u8 gNidorinaPokedexTextUnused[] = _("");
 
 const u8 gNidoqueenPokedexText[] = _(
-    "The body is covered by stiff, needle-\n"
-    "like scales. If it becomes excited,\n"
-    "the needles bristle outwards.");
+    "Tělo jí pokrývají tvrdé šupiny jako\n"
+    "jehly. Když se rozruší, jehly se naježí.");
 
 const u8 gNidoqueenPokedexTextUnused[] = _("");
 
 const u8 gNidoranMPokedexText[] = _(
-    "Its large ears are flapped like wings\n"
-    "when it is listening to distant sounds.\n"
-    "It extends toxic barbs when angered.");
+    "Když poslouchá vzdálené zvuky, mává\n"
+    "velkýma ušima jako křídly. Ve vzteku\n"
+    "vysune jedovaté ostny.");
 
 const u8 gNidoranMPokedexTextUnused[] = _("");
 
 const u8 gNidorinoPokedexText[] = _(
-    "It is easily angered. By swinging its well-\n"
-    "developed horn wildly, it can even punch\n"
-    "through diamond.");
+    "Snadno se rozzlobí. Když divoce máchá\n"
+    "silným rohem, prorazí i diamant.");
 
 const u8 gNidorinoPokedexTextUnused[] = _("");
 
 const u8 gNidokingPokedexText[] = _(
-    "It is recognized by its rock-hard hide\n"
-    "and its extended horn. Be careful with\n"
-    "the horn as it contains venom.");
+    "Pozná se podle kůže tvrdé jako skála\n"
+    "a dlouhého rohu. Pozor na roh, je v něm\n"
+    "jed.");
 
 const u8 gNidokingPokedexTextUnused[] = _("");
 
 const u8 gClefairyPokedexText[] = _(
-    "Its adorable appearance makes it popular\n"
-    "as a pet. However, it is rare and\n"
-    "difficult to find.");
+    "Díky roztomilému vzhledu je oblíbeným\n"
+    "mazlíčkem. Je ale vzácný a těžko se\n"
+    "hledá.");
 
 const u8 gClefairyPokedexTextUnused[] = _("");
 
 const u8 gClefablePokedexText[] = _(
-    "It has an acute sense of hearing. It can\n"
-    "easily hear a pin being dropped nearly\n"
-    "1,100 yards away.");
+    "Má velmi citlivý sluch. Snadno uslyší\n"
+    "špendlík, který spadne skoro 1 km daleko.");
 
 const u8 gClefablePokedexTextUnused[] = _("");
 
 const u8 gVulpixPokedexText[] = _(
-    "While young, it has six gorgeous tails.\n"
-    "When it grows, several new tails are\n"
-    "sprouted.");
+    "Mládě má šest nádherných ocasů. Jak\n"
+    "roste, vyraší mu několik nových.");
 
 const u8 gVulpixPokedexTextUnused[] = _("");
 
 const u8 gNinetalesPokedexText[] = _(
-    "It has nine long tails and fur that \n"
-    "gleams gold. It is said to live for \n"
-    "1,000 years.");
+    "Má devět dlouhých ocasů a srst, která se\n"
+    "leskne zlatem. Prý žije 1 000 let.");
 
 const u8 gNinetalesPokedexTextUnused[] = _("");
 
 const u8 gJigglypuffPokedexText[] = _(
-    "It captivates foes with its huge, round\n"
-    "eyes, then lulls them to sleep by singing\n"
-    "a soothing melody.");
+    "Soupeře uchvátí velkýma kulatýma očima\n"
+    "a pak je ukolébá konejšivou písní.");
 
 const u8 gJigglypuffPokedexTextUnused[] = _("");
 
 const u8 gWigglytuffPokedexText[] = _(
-    "Its fur is extremely fine, dense, and\n"
-    "supple. The exquisitely pleasant fur\n"
-    "conveys an image of luxury.");
+    "Jeho srst je nesmírně jemná, hustá\n"
+    "a pružná. Ta nádherná srst působí\n"
+    "přepychově.");
 
 const u8 gWigglytuffPokedexTextUnused[] = _("");
 
 const u8 gZubatPokedexText[] = _(
-    "It has no eyes. Instead, it relies on\n"
-    "its ultrasonic cries for echo location to\n"
-    "flit about in darkness.");
+    "Nemá oči. Ve tmě se orientuje pomocí\n"
+    "ultrazvuku a ozvěny.");
 
 const u8 gZubatPokedexTextUnused[] = _("");
 
 const u8 gGolbatPokedexText[] = _(
-    "It clamps down on its prey with needle-\n"
-    "sharp fangs and drains over 10 ounces of\n"
-    "blood in one gulp.");
+    "Zakousne se do kořisti tesáky ostrými jako\n"
+    "jehly a jedním douškem vysaje přes 300\n"
+    "ml krve.");
 
 const u8 gGolbatPokedexTextUnused[] = _("");
 
 const u8 gOddishPokedexText[] = _(
-    "Its scientific name is “Oddium Wanderus.”\n"
-    "At night, it is said to walk nearly 1,000\n"
-    "feet on its two roots.");
+    "Vědecky se jmenuje “Oddium Wanderus”.\n"
+    "V noci prý ujde na dvou kořenech skoro\n"
+    "300 m.");
 
 const u8 gOddishPokedexTextUnused[] = _("");
 
 const u8 gGloomPokedexText[] = _(
-    "Its pistils exude an incredibly foul odor.\n"
-    "The horrid stench can cause fainting at a\n"
-    "distance of 1.25 miles.");
+    "Jeho pestíky vydávají neuvěřitelný puch.\n"
+    "Ten hrozný zápach omráčí na vzdálenost 2\n"
+    "km.");
 
 const u8 gGloomPokedexTextUnused[] = _("");
 
 const u8 gVileplumePokedexText[] = _(
-    "Its petals are the largest in the world.\n"
-    "It fiendishly scatters allergy-causing\n"
-    "pollen from its petals.");
+    "Má největší okvětní lístky na světě.\n"
+    "Zákeřně z nich rozprašuje pyl, který\n"
+    "způsobuje alergie.");
 
 const u8 gVileplumePokedexTextUnused[] = _("");
 
 const u8 gParasPokedexText[] = _(
-    "Growing out of the bug's back are\n"
-    "mushrooms called tochukaso. The mushrooms\n"
-    "grow with the bug host.");
+    "Na zádech mu rostou houby zvané\n"
+    "tochukaso. Houby rostou spolu se svým\n"
+    "hostitelem.");
 
 const u8 gParasPokedexTextUnused[] = _("");
 
 const u8 gParasectPokedexText[] = _(
-    "It scatters toxic spores from the\n"
-    "mushroom cap. In China, the spores are\n"
-    "used as herbal medicine.");
+    "Z klobouku houby rozprašuje jedovaté\n"
+    "spory. V Číně se spory používají jako\n"
+    "bylinný lék.");
 
 const u8 gParasectPokedexTextUnused[] = _("");
 
 const u8 gVenonatPokedexText[] = _(
-    "Its eyes act as radar, enabling it to be\n"
-    "active in darkness. The eyes can also\n"
-    "shoot powerful beams.");
+    "Oči mu slouží jako radar, takže je\n"
+    "aktivní i ve tmě. Umí z nich vystřelit\n"
+    "silné paprsky.");
 
 const u8 gVenonatPokedexTextUnused[] = _("");
 
 const u8 gVenomothPokedexText[] = _(
-    "The wings are covered with dustlike\n"
-    "scales. Every time it flaps its wings, it\n"
-    "looses highly toxic dust.");
+    "Křídla pokrývají šupinky jako prach. Při\n"
+    "každém mávnutí rozpráší velmi jedovatý\n"
+    "prach.");
 
 const u8 gVenomothPokedexTextUnused[] = _("");
 
 const u8 gDiglettPokedexText[] = _(
-    "It burrows through the ground at a\n"
-    "shallow depth. It leaves raised earth in\n"
-    "its wake, making it easy to spot.");
+    "Ryje se zemí těsně pod povrchem. Za\n"
+    "sebou nechává vyvýšenou hlínu, takže se\n"
+    "snadno najde.");
 
 const u8 gDiglettPokedexTextUnused[] = _("");
 
 const u8 gDugtrioPokedexText[] = _(
-    "In battle, it digs through the ground and\n"
-    "strikes the unsuspecting foe from an\n"
-    "unexpected direction.");
+    "V boji se proryje zemí a zaútočí na nic\n"
+    "netušícího soupeře z nečekaného směru.");
 
 const u8 gDugtrioPokedexTextUnused[] = _("");
 
 const u8 gMeowthPokedexText[] = _(
-    "All it does is sleep during the daytime.\n"
-    "At night, it patrols its territory with its\n"
-    "eyes aglow.");
+    "Přes den jen spí. V noci obchází své\n"
+    "území se svítícíma očima.");
 
 const u8 gMeowthPokedexTextUnused[] = _("");
 
 const u8 gPersianPokedexText[] = _(
-    "Has a vicious temperament. Beware if it\n"
-    "raises its tail straight up. It is a signal\n"
-    "that it is about to pounce and bite.");
+    "Má krutou povahu. Pozor, když zvedne\n"
+    "ocas rovně vzhůru. Je to znamení, že se\n"
+    "chystá skočit a kousnout.");
 
 const u8 gPersianPokedexTextUnused[] = _("");
 
 const u8 gPsyduckPokedexText[] = _(
-    "It is constantly wracked by a headache.\n"
-    "When the headache turns intense, it begins\n"
-    "using mysterious powers.");
+    "Pořád ho trápí bolest hlavy. Když se\n"
+    "bolest zhorší, začne používat záhadné\n"
+    "schopnosti.");
 
 const u8 gPsyduckPokedexTextUnused[] = _("");
 
 const u8 gGolduckPokedexText[] = _(
-    "The forelegs are webbed, helping to make\n"
-    "it an adept swimmer. It can be seen\n"
-    "swimming elegantly in lakes, etc.");
+    "Přední nohy mají blány, takže je zdatný\n"
+    "plavec. Často elegantně plave\n"
+    "v jezerech.");
 
 const u8 gGolduckPokedexTextUnused[] = _("");
 
 const u8 gMankeyPokedexText[] = _(
-    "Light and agile on its feet, and ferocious\n"
-    "in temperament. When angered, it flies into\n"
-    "an uncontrollable frenzy.");
+    "Je lehký, hbitý a divoké povahy. Když se\n"
+    "rozzlobí, propadne nezvladatelné\n"
+    "zuřivosti.");
 
 const u8 gMankeyPokedexTextUnused[] = _("");
 
 const u8 gPrimeapePokedexText[] = _(
-    "It is always outrageously furious. If it\n"
-    "gives chase, it will tenaciously track the\n"
-    "target no matter how far.");
+    "Pořád nehorázně zuří. Když se pustí do\n"
+    "honičky, cíl neúnavně sleduje, ať je\n"
+    "kdekoli.");
 
 const u8 gPrimeapePokedexTextUnused[] = _("");
 
 const u8 gGrowlithePokedexText[] = _(
-    "Very friendly and faithful to people.\n"
-    "It will try to repel enemies by barking\n"
-    "and biting.");
+    "K lidem je velmi přátelský a věrný.\n"
+    "Nepřátele se snaží zahnat štěkáním\n"
+    "a kousáním.");
 
 const u8 gGrowlithePokedexTextUnused[] = _("");
 
 const u8 gArcaninePokedexText[] = _(
-    "A POKéMON that is described in Chinese\n"
-    "legends. It is said to race at an\n"
-    "unbelievable speed.");
+    "POKéMON, o kterém vyprávějí čínské\n"
+    "legendy. Prý běhá neuvěřitelnou\n"
+    "rychlostí.");
 
 const u8 gArcaninePokedexTextUnused[] = _("");
 
 const u8 gPoliwagPokedexText[] = _(
-    "Its slick black skin is thin and damp.\n"
-    "A part of its internal organs can be seen\n"
-    "through the skin as a spiral pattern.");
+    "Jeho hladká černá kůže je tenká a vlhká.\n"
+    "Část vnitřností prosvítá kůží jako\n"
+    "spirála.");
 
 const u8 gPoliwagPokedexTextUnused[] = _("");
 
 const u8 gPoliwhirlPokedexText[] = _(
-    "Its two legs are well developed.\n"
-    "Even though it can live on the ground,\n"
-    "it prefers living in water.");
+    "Má silné nohy. Na souši sice žít může,\n"
+    "ale radši žije ve vodě.");
 
 const u8 gPoliwhirlPokedexTextUnused[] = _("");
 
 const u8 gPoliwrathPokedexText[] = _(
-    "An adept swimmer, it knows the front\n"
-    "crawl, butterfly, and more. It is faster\n"
-    "than the best human swimmers.");
+    "Zdatný plavec, umí kraul, motýlka i další\n"
+    "styly. Je rychlejší než nejlepší lidští\n"
+    "plavci.");
 
 const u8 gPoliwrathPokedexTextUnused[] = _("");
 
 const u8 gAbraPokedexText[] = _(
-    "It sleeps for 18 hours a day. It uses a\n"
-    "variety of extrasensory powers even\n"
-    "while asleep.");
+    "Spí 18 hodin denně. Nejrůznější\n"
+    "nadsmyslové schopnosti používá i ve\n"
+    "spánku.");
 
 const u8 gAbraPokedexTextUnused[] = _("");
 
 const u8 gKadabraPokedexText[] = _(
-    "It happened one morning - a boy with\n"
-    "extrasensory powers awoke in bed\n"
-    "transformed into KADABRA.");
+    "Stalo se to jednoho rána. Chlapec\n"
+    "s nadsmyslovými schopnostmi se v posteli\n"
+    "probudil jako KADABRA.");
 
 const u8 gKadabraPokedexTextUnused[] = _("");
 
 const u8 gAlakazamPokedexText[] = _(
-    "It does not like physical attacks very \n"
-    "much. Instead, it freely uses extra-\n"
-    "sensory powers to defeat foes.");
+    "Fyzické útoky moc nemá rád. Soupeře\n"
+    "raději poráží nadsmyslovými schopnostmi.");
 
 const u8 gAlakazamPokedexTextUnused[] = _("");
 
 const u8 gMachopPokedexText[] = _(
-    "Its whole body is composed of muscles.\n"
-    "Even though it's the size of a human\n"
-    "child, it can hurl 100 grown-ups.");
+    "Celé tělo má ze svalů. Je velký jako\n"
+    "lidské dítě, ale odhodí i 100 dospělých.");
 
 const u8 gMachopPokedexTextUnused[] = _("");
 
 const u8 gMachokePokedexText[] = _(
-    "Its formidable body never gets tired.\n"
-    "It helps people by doing work such as\n"
-    "the moving of heavy goods.");
+    "Jeho mocné tělo se nikdy neunaví. Pomáhá\n"
+    "lidem s prací, třeba se stěhováním\n"
+    "těžkých věcí.");
 
 const u8 gMachokePokedexTextUnused[] = _("");
 
 const u8 gMachampPokedexText[] = _(
-    "Its four ruggedly developed arms can\n"
-    "launch a flurry of 1,000 punches in just\n"
-    "two seconds.");
+    "Čtyřma mohutnýma rukama zasadí příval 1\n"
+    "000 úderů za pouhé dvě sekundy.");
 
 const u8 gMachampPokedexTextUnused[] = _("");
 
 const u8 gBellsproutPokedexText[] = _(
-    "Its bud looks like a human face. Because\n"
-    "of the bud, it is rumored to be a type of\n"
-    "legendary mandrake plant.");
+    "Jeho poupě vypadá jako lidská tvář.\n"
+    "Proto se o něm říká, že je to druh\n"
+    "legendární mandragory.");
 
 const u8 gBellsproutPokedexTextUnused[] = _("");
 
 const u8 gWeepinbellPokedexText[] = _(
-    "The leafy parts act as cutters for\n"
-    "slashing foes. It spits a fluid that\n"
-    "dissolves everything.");
+    "Listy mu slouží jako čepele na sekání\n"
+    "soupeřů. Plive tekutinu, která rozpustí\n"
+    "všechno.");
 
 const u8 gWeepinbellPokedexTextUnused[] = _("");
 
 const u8 gVictreebelPokedexText[] = _(
-    "Lures prey into its mouth with a honeylike\n"
-    "aroma. The helpless prey is melted with\n"
-    "a dissolving fluid.");
+    "Láká kořist do tlamy vůní jako med.\n"
+    "Bezmocnou kořist rozpustí žíravou\n"
+    "tekutinou.");
 
 const u8 gVictreebelPokedexTextUnused[] = _("");
 
 const u8 gTentacoolPokedexText[] = _(
-    "Its eyes are as transparent as crystals.\n"
-    "From them, it shoots mysterious\n"
-    "beams of light.");
+    "Oči má průzračné jako krystaly.\n"
+    "Vystřeluje z nich záhadné paprsky světla.");
 
 const u8 gTentacoolPokedexTextUnused[] = _("");
 
 const u8 gTentacruelPokedexText[] = _(
-    "It has 80 tentacles that move about\n"
-    "freely. They can sting, causing poisoning\n"
-    "and sharp, stabbing pain.");
+    "Má 80 chapadel, která se volně pohybují.\n"
+    "Žahají a způsobují otravu a ostrou\n"
+    "bodavou bolest.");
 
 const u8 gTentacruelPokedexTextUnused[] = _("");
 
 const u8 gGeodudePokedexText[] = _(
-    "Its round form makes it easy to pick up.\n"
-    "Some people have used them to hurl\n"
-    "at each other in a snowball fight.");
+    "Díky kulatému tvaru se snadno zvedá.\n"
+    "Někteří lidé po sobě GEODUDE házeli jako\n"
+    "sněhové koule.");
 
 const u8 gGeodudePokedexTextUnused[] = _("");
 
 const u8 gGravelerPokedexText[] = _(
-    "Be careful while hiking on mountain trails.\n"
-    "GRAVELER may come rolling down the path\n"
-    "without slowing.");
+    "Při túrách po horských stezkách dávej\n"
+    "pozor. GRAVELER se může skutálet dolů\n"
+    "bez zpomalení.");
 
 const u8 gGravelerPokedexTextUnused[] = _("");
 
 const u8 gGolemPokedexText[] = _(
-    "It is enclosed in a hard shell that is as\n"
-    "rugged as slabs of rock. It sheds skin\n"
-    "once a year to grow larger.");
+    "Kryje ho tvrdý krunýř drsný jako skalní\n"
+    "desky. Jednou za rok svléká kůži, aby\n"
+    "vyrostl.");
 
 const u8 gGolemPokedexTextUnused[] = _("");
 
 const u8 gPonytaPokedexText[] = _(
-    "Its body is light, and its legs are\n"
-    "incredibly powerful. It can clear\n"
-    "Ayers Rock in one leap.");
+    "Má lehké tělo a neuvěřitelně silné nohy.\n"
+    "Ayers Rock přeskočí jedním skokem.");
 
 const u8 gPonytaPokedexTextUnused[] = _("");
 
 const u8 gRapidashPokedexText[] = _(
-    "It can gallop at a top speed of 150\n"
-    "miles per hour. It can race as fast as a\n"
-    "bullet train while ablaze.");
+    "Cvalem dosáhne rychlosti 240 km/h. Když\n"
+    "hoří, je rychlý jako rychlovlak.");
 
 const u8 gRapidashPokedexTextUnused[] = _("");
 
 const u8 gSlowpokePokedexText[] = _(
-    "It is always vacantly lost in thought, but\n"
-    "no one knows what it is thinking about.\n"
-    "It is good at fishing with its tail.");
+    "Pořád je zamyšlený, ale nikdo neví, na co\n"
+    "myslí. Ocasem umí dobře rybařit.");
 
 const u8 gSlowpokePokedexTextUnused[] = _("");
 
 const u8 gSlowbroPokedexText[] = _(
-    "When a SLOWPOKE went hunting in the sea,\n"
-    "its tail was bitten by a SHELLDER. That\n"
-    "made it evolve into SLOWBRO.");
+    "Když SLOWPOKE lovil v moři, do ocasu ho\n"
+    "kousl SHELLDER. Tak se vyvinul ve\n"
+    "SLOWBRO.");
 
 const u8 gSlowbroPokedexTextUnused[] = _("");
 
 const u8 gMagnemitePokedexText[] = _(
-    "It moves while constantly hovering.\n"
-    "It discharges THUNDER WAVE and so on\n"
-    "from the units at its sides.");
+    "Pohybuje se v neustálém vznášení.\n"
+    "Z jednotek po stranách vypouští THUNDER\n"
+    "WAVE a podobně.");
 
 const u8 gMagnemitePokedexTextUnused[] = _("");
 
 const u8 gMagnetonPokedexText[] = _(
-    "A linked cluster formed of several\n"
-    "MAGNEMITE. It discharges powerful\n"
-    "magnetic waves at high voltage.");
+    "Spojený shluk několika MAGNEMITE.\n"
+    "Vypouští silné magnetické vlny o vysokém\n"
+    "napětí.");
 
 const u8 gMagnetonPokedexTextUnused[] = _("");
 
 const u8 gFarfetchdPokedexText[] = _(
-    "It always walks about with a plant stalk\n"
-    "clamped in its beak. The stalk is used for\n"
-    "building its nest.");
+    "Pořád chodí se stonkem rostliny v zobáku.\n"
+    "Stonek mu slouží ke stavbě hnízda.");
 
 const u8 gFarfetchdPokedexTextUnused[] = _("");
 
 const u8 gDoduoPokedexText[] = _(
-    "A two-headed POKéMON that was discovered\n"
-    "as a sudden mutation. It runs at a pace\n"
-    "of over 60 miles per hour.");
+    "Dvouhlavý POKéMON, který vznikl náhlou\n"
+    "mutací. Běhá rychlostí přes 100 km/h.");
 
 const u8 gDoduoPokedexTextUnused[] = _("");
 
 const u8 gDodrioPokedexText[] = _(
-    "An odd species that is rarely found.\n"
-    "The three heads respectively represent\n"
-    "joy, sadness, and anger.");
+    "Zvláštní a vzácný druh. Tři hlavy\n"
+    "představují radost, smutek a hněv.");
 
 const u8 gDodrioPokedexTextUnused[] = _("");
 
 const u8 gSeelPokedexText[] = _(
-    "Covered with light blue fur, its hide is\n"
-    "thick and tough. It is active in bitter\n"
-    "cold of minus 40 degrees Fahrenheit.");
+    "Kryje ho světle modrá srst a tlustá,\n"
+    "odolná kůže. Je aktivní i v krutém mrazu\n"
+    "40 stupňů pod nulou.");
 
 const u8 gSeelPokedexTextUnused[] = _("");
 
 const u8 gDewgongPokedexText[] = _(
-    "Its body is covered with a pure white\n"
-    "fur. The colder the weather, the more\n"
-    "active it becomes.");
+    "Tělo mu pokrývá čistě bílá srst. Čím je\n"
+    "zima větší, tím je aktivnější.");
 
 const u8 gDewgongPokedexTextUnused[] = _("");
 
 const u8 gGrimerPokedexText[] = _(
-    "Sludge exposed to X rays from the moon\n"
-    "transformed into GRIMER. It loves feeding\n"
-    "on filthy things.");
+    "Kal ozářený rentgenovými paprsky z Měsíce\n"
+    "se proměnil v GRIMER. Rád žere špinavé\n"
+    "věci.");
 
 const u8 gGrimerPokedexTextUnused[] = _("");
 
 const u8 gMukPokedexText[] = _(
-    "It is usually undetectable because it\n"
-    "blends in with the ground. Touching it can\n"
-    "cause terrible poisoning.");
+    "Obvykle ho nejde zahlédnout, protože\n"
+    "splývá se zemí. Dotyk může způsobit\n"
+    "hroznou otravu.");
 
 const u8 gMukPokedexTextUnused[] = _("");
 
 const u8 gShellderPokedexText[] = _(
-    "It is encased in a shell that is harder\n"
-    "than diamond. Inside, however, it is\n"
-    "surprisingly tender.");
+    "Je uzavřený v lastuře tvrdší než diamant.\n"
+    "Uvnitř je ale překvapivě měkký.");
 
 const u8 gShellderPokedexTextUnused[] = _("");
 
 const u8 gCloysterPokedexText[] = _(
-    "Its shell is extremely hard. It cannot be\n"
-    "shattered, even with a bomb. The shell\n"
-    "opens only when it is attacking.");
+    "Jeho lastura je nesmírně tvrdá. Nerozbije\n"
+    "ji ani bomba. Otevírá se, jen když útočí.");
 
 const u8 gCloysterPokedexTextUnused[] = _("");
 
 const u8 gGastlyPokedexText[] = _(
-    "A being that exists as a thin gas. It can\n"
-    "topple an Indian elephant by enveloping\n"
-    "the prey in two seconds.");
+    "Bytost z řídkého plynu. Když kořist\n"
+    "obalí, za dvě sekundy porazí i slona.");
 
 const u8 gGastlyPokedexTextUnused[] = _("");
 
 const u8 gHaunterPokedexText[] = _(
-    "If you get the feeling of being watched\n"
-    "in darkness when nobody is around,\n"
-    "HAUNTER is there.");
+    "Když máš ve tmě pocit, že tě někdo\n"
+    "sleduje, i když nikdo není kolem, je tam\n"
+    "HAUNTER.");
 
 const u8 gHaunterPokedexTextUnused[] = _("");
 
 const u8 gGengarPokedexText[] = _(
-    "It is said to emerge from darkness to\n"
-    "steal the lives of those who become lost\n"
-    "in mountains.");
+    "Prý se vynořuje ze tmy a krade životy\n"
+    "těm, kdo zabloudí v horách.");
 
 const u8 gGengarPokedexTextUnused[] = _("");
 
 const u8 gOnixPokedexText[] = _(
-    "It usually lives underground. It searches\n"
-    "for food while boring its way through the\n"
-    "ground at 50 miles per hour.");
+    "Obvykle žije pod zemí. Potravu hledá,\n"
+    "když se zemí provrtává rychlostí 80\n"
+    "km/h.");
 
 const u8 gOnixPokedexTextUnused[] = _("");
 
 const u8 gDrowzeePokedexText[] = _(
-    "A descendent of the legendary animal\n"
-    "baku, which is said to eat dreams. It is\n"
-    "skilled at hypnotism.");
+    "Potomek legendárního zvířete baku, které\n"
+    "prý jí sny. Umí skvěle hypnotizovat.");
 
 const u8 gDrowzeePokedexTextUnused[] = _("");
 
 const u8 gHypnoPokedexText[] = _(
-    "It carries a pendulum-like device. There\n"
-    "once was an incident in which it took \n"
-    "away a child it hypnotized.");
+    "Nosí s sebou něco jako kyvadlo. Jednou\n"
+    "se stalo, že odvedl dítě, které\n"
+    "zhypnotizoval.");
 
 const u8 gHypnoPokedexTextUnused[] = _("");
 
 const u8 gKrabbyPokedexText[] = _(
-    "It can be found near the sea. The large\n"
-    "pincers grow back if they are torn out of\n"
-    "their sockets.");
+    "Žije u moře. Když mu velká klepeta\n"
+    "vytrhnou, znovu mu dorostou.");
 
 const u8 gKrabbyPokedexTextUnused[] = _("");
 
 const u8 gKinglerPokedexText[] = _(
-    "Its large and hard pincer has 10,000-\n"
-    "horsepower strength. However, being so\n"
-    "big, it is unwieldy to move.");
+    "Jeho velké tvrdé klepeto má sílu 10 000\n"
+    "koní. Je ale tak velké, že se s ním těžko\n"
+    "hýbe.");
 
 const u8 gKinglerPokedexTextUnused[] = _("");
 
 const u8 gVoltorbPokedexText[] = _(
-    "A life-form whose identity is unknown.\n"
-    "It is said to SCREECH or suddenly\n"
-    "SELFDESTRUCT.");
+    "Bytost neznámého původu. Prý používá\n"
+    "SCREECH nebo náhle použije SELFDESTRUCT.");
 
 const u8 gVoltorbPokedexTextUnused[] = _("");
 
 const u8 gElectrodePokedexText[] = _(
-    "It explodes in response to even minor\n"
-    "stimuli. It is feared, with the nickname\n"
-    "of “The Bomb Ball.”");
+    "Vybuchne i při slabém podnětu. Všichni se\n"
+    "ho bojí a přezdívají mu “Bombová\n"
+    "koule”.");
 
 const u8 gElectrodePokedexTextUnused[] = _("");
 
 const u8 gExeggcutePokedexText[] = _(
-    "Even though it appears to be eggs of\n"
-    "some sort, it was discovered to be a life-\n"
-    "form more like plant seeds.");
+    "Vypadá jako nějaká vejce, ale ukázalo\n"
+    "se, že je to spíš forma života podobná\n"
+    "semenům.");
 
 const u8 gExeggcutePokedexTextUnused[] = _("");
 
 const u8 gExeggutorPokedexText[] = _(
-    "It is called “The Walking Tropical\n"
-    "Rainforest.” Each of the nuts has\n"
-    "a face and a will of its own.");
+    "Říká se mu “Chodící tropický prales”.\n"
+    "Každý ořech má tvář a vlastní vůli.");
 
 const u8 gExeggutorPokedexTextUnused[] = _("");
 
 const u8 gCubonePokedexText[] = _(
-    "It wears the skull of its dead mother on\n"
-    "its head. When it becomes lonesome, it is\n"
-    "said to cry loudly.");
+    "Na hlavě nosí lebku své mrtvé matky. Prý\n"
+    "když se cítí osamělý, hlasitě pláče.");
 
 const u8 gCubonePokedexTextUnused[] = _("");
 
 const u8 gMarowakPokedexText[] = _(
-    "It is small and was originally very weak.\n"
-    "Its temperament turned ferocious when it\n"
-    "began using bones.");
+    "Je malý a původně byl velmi slabý. Když\n"
+    "začal používat kosti, jeho povaha\n"
+    "zdivočela.");
 
 const u8 gMarowakPokedexTextUnused[] = _("");
 
 const u8 gHitmonleePokedexText[] = _(
-    "The legs freely contract and stretch.\n"
-    "The stretchy legs allow it to hit a\n"
-    "distant foe with a rising kick.");
+    "Nohy se volně smršťují a natahují. Díky\n"
+    "tomu zasáhne vzdáleného soupeře kopem ze\n"
+    "spodu.");
 
 const u8 gHitmonleePokedexTextUnused[] = _("");
 
 const u8 gHitmonchanPokedexText[] = _(
-    "The spirit of a pro boxer has infused this\n"
-    "POKéMON. It throws punches that are\n"
-    "faster than a bullet train.");
+    "Vstoupil do něj duch profesionálního\n"
+    "boxera. Jeho údery jsou rychlejší než\n"
+    "rychlovlak.");
 
 const u8 gHitmonchanPokedexTextUnused[] = _("");
 
 const u8 gLickitungPokedexText[] = _(
-    "Its tongue is twice the length of its\n"
-    "body. It can be moved like an arm for\n"
-    "grabbing food and attacking.");
+    "Jazyk má dvakrát delší než tělo.\n"
+    "Pohybuje jím jako rukou, chytá potravu\n"
+    "i útočí.");
 
 const u8 gLickitungPokedexTextUnused[] = _("");
 
 const u8 gKoffingPokedexText[] = _(
-    "Its thin, balloon-like body is inflated by\n"
-    "horribly toxic gases. It reeks when it is\n"
-    "nearby.");
+    "Jeho tenké tělo jako balónek nafukují\n"
+    "strašně jedovaté plyny. Když je poblíž,\n"
+    "páchne.");
 
 const u8 gKoffingPokedexTextUnused[] = _("");
 
 const u8 gWeezingPokedexText[] = _(
-    "Very rarely, a sudden mutation can result\n"
-    "in two small KOFFING twins becoming\n"
-    "conjoined as a WEEZING.");
+    "Velmi vzácně se při náhlé mutaci dvě\n"
+    "dvojčata KOFFING spojí ve WEEZING.");
 
 const u8 gWeezingPokedexTextUnused[] = _("");
 
 const u8 gRhyhornPokedexText[] = _(
-    "Strong, but not too bright, this POKéMON\n"
-    "can shatter even a skyscraper with its\n"
-    "charging TACKLES.");
+    "Silný, ale ne moc chytrý POKéMON. Útokem\n"
+    "TACKLE rozbije i mrakodrap.");
 
 const u8 gRhyhornPokedexTextUnused[] = _("");
 
 const u8 gRhydonPokedexText[] = _(
-    "It begins walking on its hind legs after\n"
-    "evolution. It can punch holes through\n"
-    "boulders with its horn.");
+    "Po vývoji začne chodit po zadních nohou.\n"
+    "Rohem prorazí díry do balvanů.");
 
 const u8 gRhydonPokedexTextUnused[] = _("");
 
 const u8 gChanseyPokedexText[] = _(
-    "It lays several eggs a day. The eggs are\n"
-    "apparently rich in nutrients and extremely\n"
-    "delicious.");
+    "Snese několik vajec denně. Vejce jsou prý\n"
+    "velmi výživná a nesmírně chutná.");
 
 const u8 gChanseyPokedexTextUnused[] = _("");
 
 const u8 gTangelaPokedexText[] = _(
-    "Blue plant vines cloak the POKéMON's\n"
-    "identity in a tangled mass. It entangles\n"
-    "anything that gets close.");
+    "Modré šlahouny zahalují POKéMONA ve\n"
+    "spletité mase. Zaplete do sebe vše, co se\n"
+    "přiblíží.");
 
 const u8 gTangelaPokedexTextUnused[] = _("");
 
 const u8 gKangaskhanPokedexText[] = _(
-    "The female raises its offspring in a pouch\n"
-    "on its belly. It is skilled at attacking\n"
-    "using COMET PUNCH.");
+    "Samice vychovává mládě ve vaku na břiše.\n"
+    "Umí skvěle útočit pomocí COMET PUNCH.");
 
 const u8 gKangaskhanPokedexTextUnused[] = _("");
 
 const u8 gHorseaPokedexText[] = _(
-    "It maintains balance using its tail, which\n"
-    "is wound up like a coil. It may spray ink\n"
-    "from its mouth.");
+    "Rovnováhu udržuje ocasem stočeným do\n"
+    "spirály. Z tlamy může stříkat inkoust.");
 
 const u8 gHorseaPokedexTextUnused[] = _("");
 
 const u8 gSeadraPokedexText[] = _(
-    "Its body bristles with sharp spikes.\n"
-    "Carelessly trying to touch it could cause\n"
-    "fainting from the spikes.");
+    "Tělo má samý ostrý bodec. Kdo se ho\n"
+    "neopatrně dotkne, může z bodců omdlít.");
 
 const u8 gSeadraPokedexTextUnused[] = _("");
 
 const u8 gGoldeenPokedexText[] = _(
-    "Its dorsal and pectoral fins are strongly\n"
-    "developed like muscles. It can swim at a\n"
-    "speed of five knots.");
+    "Hřbetní a prsní ploutve má silné jako\n"
+    "svaly. Plave rychlostí pět uzlů.");
 
 const u8 gGoldeenPokedexTextUnused[] = _("");
 
 const u8 gSeakingPokedexText[] = _(
-    "The horn on its head is sharp like a\n"
-    "drill. It bores a hole in a boulder to\n"
-    "make its nest.");
+    "Roh na hlavě má ostrý jako vrták. Vyvrtá\n"
+    "díru do balvanu a udělá si v ní hnízdo.");
 
 const u8 gSeakingPokedexTextUnused[] = _("");
 
 const u8 gStaryuPokedexText[] = _(
-    "It appears in large numbers by seashores.\n"
-    "At night, its central core flashes with a\n"
-    "red light.");
+    "Na mořském pobřeží se objevuje ve velkém\n"
+    "počtu. V noci jeho jádro bliká červeným\n"
+    "světlem.");
 
 const u8 gStaryuPokedexTextUnused[] = _("");
 
 const u8 gStarmiePokedexText[] = _(
-    "This POKéMON has a geometric body.\n"
-    "Because of its body, the locals suspect\n"
-    "that it is an alien creature.");
+    "Tento POKéMON má geometrické tělo. Proto\n"
+    "si místní myslí, že je to mimozemšťan.");
 
 const u8 gStarmiePokedexTextUnused[] = _("");
 
 const u8 gMrmimePokedexText[] = _(
-    "It is adept at conning people. It is said\n"
-    "to be able to create walls out of thin\n"
-    "air by miming.");
+    "Umí skvěle obelhávat lidi. Prý pantomimou\n"
+    "dokáže vytvořit zdi ze vzduchu.");
 
 const u8 gMrmimePokedexTextUnused[] = _("");
 
 const u8 gScytherPokedexText[] = _(
-    "It tears and shreds prey with its wickedly\n"
-    "sharp scythes. It very rarely spreads its\n"
-    "wings to fly.");
+    "Kořist trhá a cupuje zlověstně ostrými\n"
+    "kosami. Křídla roztáhne k letu jen velmi\n"
+    "zřídka.");
 
 const u8 gScytherPokedexTextUnused[] = _("");
 
 const u8 gJynxPokedexText[] = _(
-    "It speaks using a language that sounds\n"
-    "human. Research is under way to determine\n"
-    "what is being said.");
+    "Mluví řečí, která zní jako lidská.\n"
+    "Probíhá výzkum, co vlastně říká.");
 
 const u8 gJynxPokedexTextUnused[] = _("");
 
 const u8 gElectabuzzPokedexText[] = _(
-    "It loves to feed on strong electricity.\n"
-    "It occasionally appears around large\n"
-    "power plants and so on.");
+    "Rád se živí silnou elektřinou. Občas se\n"
+    "objeví u velkých elektráren a podobně.");
 
 const u8 gElectabuzzPokedexTextUnused[] = _("");
 
 const u8 gMagmarPokedexText[] = _(
-    "Found near the mouth of a volcano.\n"
-    "This fire-breather's body temperature is\n"
-    "nearly 2,200 degrees Fahrenheit.");
+    "Žije u kráterů sopek. Tento chrlič ohně\n"
+    "má tělesnou teplotu skoro 1 200 stupňů.");
 
 const u8 gMagmarPokedexTextUnused[] = _("");
 
 const u8 gPinsirPokedexText[] = _(
-    "Its two long pincer horns are powerful.\n"
-    "Once they grip an enemy, they won't\n"
-    "release until the foe is torn.");
+    "Jeho dva dlouhé klepetové rohy jsou\n"
+    "silné. Když sevřou nepřítele, pustí ho,\n"
+    "až když je roztrhaný.");
 
 const u8 gPinsirPokedexTextUnused[] = _("");
 
 const u8 gTaurosPokedexText[] = _(
-    "When it is about to TACKLE, it whips\n"
-    "its body repeatedly with its three\n"
-    "long tails.");
+    "Když se chystá k útoku TACKLE, opakovaně\n"
+    "se šlehá svými třemi dlouhými ocasy.");
 
 const u8 gTaurosPokedexTextUnused[] = _("");
 
 const u8 gMagikarpPokedexText[] = _(
-    "It is virtually worthless in terms of both\n"
-    "power and speed. It is the most weak and\n"
-    "pathetic POKéMON in the world.");
+    "Silou i rychlostí je prakticky k ničemu.\n"
+    "Je to nejslabší a nejubožejší POKéMON na\n"
+    "světě.");
 
 const u8 gMagikarpPokedexTextUnused[] = _("");
 
 const u8 gGyaradosPokedexText[] = _(
-    "It has an extremely aggressive nature.\n"
-    "The HYPER BEAM it shoots from its mouth\n"
-    "totally incinerates all targets.");
+    "Má nesmírně agresivní povahu. HYPER\n"
+    "BEAM, který chrlí z tlamy, spálí všechny\n"
+    "cíle.");
 
 const u8 gGyaradosPokedexTextUnused[] = _("");
 
 const u8 gLaprasPokedexText[] = _(
-    "Its high intelligence enables it to\n"
-    "understand human speech. It likes to ferry\n"
-    "people on its back.");
+    "Díky vysoké inteligenci rozumí lidské\n"
+    "řeči. Rád převáží lidi na zádech.");
 
 const u8 gLaprasPokedexTextUnused[] = _("");
 
 const u8 gDittoPokedexText[] = _(
-    "It can freely recombine its own cellular\n"
-    "structure to transform into other life-\n"
-    "forms.");
+    "Volně přeskupuje stavbu svých buněk\n"
+    "a mění se v jiné formy života.");
 
 const u8 gDittoPokedexTextUnused[] = _("");
 
 const u8 gEeveePokedexText[] = _(
-    "An extremely rare POKéMON that may\n"
-    "evolve in a number of different ways\n"
-    "depending on stimuli.");
+    "Nesmírně vzácný POKéMON, který se podle\n"
+    "podnětů může vyvinout mnoha různými\n"
+    "způsoby.");
 
 const u8 gEeveePokedexTextUnused[] = _("");
 
 const u8 gVaporeonPokedexText[] = _(
-    "Its body's cellular structure is similar to\n"
-    "the molecular composition of water.\n"
-    "It can melt invisibly in water.");
+    "Stavba jeho buněk se podobá molekulám\n"
+    "vody. Ve vodě se dokáže neviditelně\n"
+    "rozpustit.");
 
 const u8 gVaporeonPokedexTextUnused[] = _("");
 
 const u8 gJolteonPokedexText[] = _(
-    "If it is angered or startled, the fur all\n"
-    "over its body bristles like sharp needles\n"
-    "that pierce foes.");
+    "Když se rozzlobí nebo lekne, srst na\n"
+    "celém těle se mu naježí jako ostré\n"
+    "jehly.");
 
 const u8 gJolteonPokedexTextUnused[] = _("");
 
 const u8 gFlareonPokedexText[] = _(
-    "It has a flame bag inside its body. After\n"
-    "inhaling deeply, it blows out flames of\n"
-    "nearly 3,100 degrees Fahrenheit.");
+    "V těle má plamenný vak. Po hlubokém\n"
+    "nádechu vychrlí plameny o teplotě skoro\n"
+    "1 700 stupňů.");
 
 const u8 gFlareonPokedexTextUnused[] = _("");
 
 const u8 gPorygonPokedexText[] = _(
-    "Using the most advanced technologies,\n"
-    "scientists finally succeeded in making the\n"
-    "first artificial POKéMON.");
+    "Vědcům se pomocí nejmodernějších\n"
+    "technologií konečně podařilo vytvořit\n"
+    "prvního umělého POKéMONA.");
 
 const u8 gPorygonPokedexTextUnused[] = _("");
 
 const u8 gOmanytePokedexText[] = _(
-    "A prehistoric POKéMON that lived in the\n"
-    "primordial sea, it swims by twisting its\n"
-    "10 tentacles about.");
+    "Pravěký POKéMON z prvotního moře. Plave\n"
+    "tak, že kroutí svými 10 chapadly.");
 
 const u8 gOmanytePokedexTextUnused[] = _("");
 
 const u8 gOmastarPokedexText[] = _(
-    "Its tentacles are highly developed as if\n"
-    "they are hands and feet. As soon as it\n"
-    "ensnares prey, it bites.");
+    "Chapadla má vyvinutá jako ruce a nohy.\n"
+    "Jakmile kořist chytí, kousne ji.");
 
 const u8 gOmastarPokedexTextUnused[] = _("");
 
 const u8 gKabutoPokedexText[] = _(
-    "This POKéMON was regenerated from the\n"
-    "fossil of an ancient creature. It protects\n"
-    "itself with a hard shell.");
+    "Tento POKéMON byl obnoven z fosilie\n"
+    "dávného tvora. Chrání se tvrdým krunýřem.");
 
 const u8 gKabutoPokedexTextUnused[] = _("");
 
 const u8 gKabutopsPokedexText[] = _(
-    "It swims freely through water. It catches\n"
-    "prey with its scythe-like arms and drains\n"
-    "the victim's fluids.");
+    "Volně plave ve vodě. Kořist chytá pažemi\n"
+    "jako kosy a vysává z ní tekutiny.");
 
 const u8 gKabutopsPokedexTextUnused[] = _("");
 
 const u8 gAerodactylPokedexText[] = _(
-    "It was regenerated from a dinosaur's\n"
-    "genetic matter that was found in amber.\n"
-    "It flies with high-pitched cries.");
+    "Byl obnoven z genetického materiálu\n"
+    "dinosaura nalezeného v jantaru. Při letu\n"
+    "vydává pronikavé skřeky.");
 
 const u8 gAerodactylPokedexTextUnused[] = _("");
 
 const u8 gSnorlaxPokedexText[] = _(
-    "It is not satisfied unless it eats over 880\n"
-    "pounds of food every day. When it is done\n"
-    "eating, it goes promptly to sleep.");
+    "Není spokojený, dokud nesní přes 400 kg\n"
+    "jídla denně. Když dojí, hned usne.");
 
 const u8 gSnorlaxPokedexTextUnused[] = _("");
 
 const u8 gArticunoPokedexText[] = _(
-    "One of the legendary bird POKéMON.\n"
-    "With its long tail trailing behind, its\n"
-    "flying form is magnificent.");
+    "Jeden z legendárních ptačích POKéMONŮ.\n"
+    "Když letí s dlouhým ocasem za sebou, je\n"
+    "nádherný.");
 
 const u8 gArticunoPokedexTextUnused[] = _("");
 
 const u8 gZapdosPokedexText[] = _(
-    "One of the legendary bird POKéMON.\n"
-    "While it is flying, it makes crackling and\n"
-    "snapping sounds.");
+    "Jeden z legendárních ptačích POKéMONŮ.\n"
+    "Když letí, ozývá se praskání a lupání.");
 
 const u8 gZapdosPokedexTextUnused[] = _("");
 
 const u8 gMoltresPokedexText[] = _(
-    "One of the legendary bird POKéMON.\n"
-    "Those seeing it are overwhelmed by its\n"
-    "orange wings that seem to be on fire.");
+    "Jeden z legendárních ptačích POKéMONŮ.\n"
+    "Kdo ho uvidí, žasne nad jeho oranžovými\n"
+    "křídly, která jako by hořela.");
 
 const u8 gMoltresPokedexTextUnused[] = _("");
 
 const u8 gDratiniPokedexText[] = _(
-    "Even the young can exceed 6.5 feet in\n"
-    "length. It grows larger by repeatedly\n"
-    "shedding skin.");
+    "I mláďata mohou měřit přes 2 m. Roste\n"
+    "tím, že opakovaně svléká kůži.");
 
 const u8 gDratiniPokedexTextUnused[] = _("");
 
 const u8 gDragonairPokedexText[] = _(
-    "It is said to live in seas and lakes.\n"
-    "Even though it has no wings, it has been\n"
-    "seen flying occasionally.");
+    "Prý žije v mořích a jezerech. I když\n"
+    "nemá křídla, občas ho někdo viděl létat.");
 
 const u8 gDragonairPokedexTextUnused[] = _("");
 
 const u8 gDragonitePokedexText[] = _(
-    "It can fly in spite of its big and bulky\n"
-    "physique. It circles the globe in just\n"
-    "16 hours.");
+    "I přes svou velkou a mohutnou postavu\n"
+    "umí létat. Obletí zeměkouli za pouhých\n"
+    "16 hodin.");
 
 const u8 gDragonitePokedexTextUnused[] = _("");
 
 const u8 gMewtwoPokedexText[] = _(
-    "A POKéMON whose genetic code was\n"
-    "repeatedly recombined for research.\n"
-    "It turned vicious as a result.");
+    "POKéMON, jehož genetický kód byl kvůli\n"
+    "výzkumu opakovaně přeskupován. Díky tomu\n"
+    "se stal krutým.");
 
 const u8 gMewtwoPokedexTextUnused[] = _("");
 
 const u8 gMewPokedexText[] = _(
-    "A POKéMON of South America that was\n"
-    "thought to have been extinct. It is very\n"
-    "intelligent and learns any move.");
+    "POKéMON z Jižní Ameriky, o kterém se\n"
+    "myslelo, že vyhynul. Je velmi inteligentní\n"
+    "a naučí se jakýkoli útok.");
 
 const u8 gMewPokedexTextUnused[] = _("");
 
 const u8 gChikoritaPokedexText[] = _(
-#if REVISION == 0
-    "Its pleasantly aromatic leaves have the\n"
-    #else
-    "Its pleasantly aromatic leaf has the\n"
-    #endif
-    "ability to check the humidity and\n"
-    "temperature."
-);
+    "Jeho příjemně vonící list dokáže\n"
+    "zjišťovat vlhkost a teplotu.");
 
 const u8 gChikoritaPokedexTextUnused[] = _("");
 
 const u8 gBayleefPokedexText[] = _(
-    "A spicy aroma emanates from around its\n"
-    "neck. The aroma acts as a stimulant to\n"
-    "restore health.");
+    "Kolem krku se mu line kořeněná vůně. Ta\n"
+    "působí povzbudivě a vrací zdraví.");
 
 const u8 gBayleefPokedexTextUnused[] = _("");
 
 const u8 gMeganiumPokedexText[] = _(
-    "MEGANIUM's breath has the power to revive\n"
-    "dead grass and plants. It can make them\n"
-    "healthy again.");
+    "Dech MEGANIUM umí oživit uschlou trávu\n"
+    "a rostliny. Dokáže je znovu uzdravit.");
 
 const u8 gMeganiumPokedexTextUnused[] = _("");
 
 const u8 gCyndaquilPokedexText[] = _(
-    "It usually stays hunched over. If it is\n"
-    "angry or surprised, it shoots flames out\n"
-    "of its back.");
+    "Obvykle chodí shrbený. Když se rozzlobí\n"
+    "nebo lekne, vyšlehnou mu ze zad plameny.");
 
 const u8 gCyndaquilPokedexTextUnused[] = _("");
 
 const u8 gQuilavaPokedexText[] = _(
-    "This POKéMON is fully covered by\n"
-    "nonflammable fur. It can withstand any\n"
-    "kind of fire attack.");
+    "Celého ho pokrývá nehořlavá srst. Vydrží\n"
+    "jakýkoli ohnivý útok.");
 
 const u8 gQuilavaPokedexTextUnused[] = _("");
 
 const u8 gTyphlosionPokedexText[] = _(
-    "It has a secret, devastating move. It\n"
-    "rubs its blazing fur together to cause\n"
-    "huge explosions.");
+    "Má tajný ničivý útok. Tře o sebe svou\n"
+    "hořící srst a způsobuje obrovské\n"
+    "výbuchy.");
 
 const u8 gTyphlosionPokedexTextUnused[] = _("");
 
 const u8 gTotodilePokedexText[] = _(
-    "It is small but rough and tough. It won't\n"
-    "hesitate to take a bite out of anything\n"
-    "that moves.");
+    "Je malý, ale drsný a odolný. Bez váhání\n"
+    "se zakousne do všeho, co se hýbe.");
 
 const u8 gTotodilePokedexTextUnused[] = _("");
 
 const u8 gCroconawPokedexText[] = _(
-    "It opens its huge jaws wide when\n"
-    "attacking. If it loses any fangs while\n"
-    "biting, they grow back in.");
+    "Při útoku široce rozevírá obrovské\n"
+    "čelisti. Když při kousání ztratí zuby,\n"
+    "znovu mu dorostou.");
 
 const u8 gCroconawPokedexTextUnused[] = _("");
 
 const u8 gFeraligatrPokedexText[] = _(
-    "It is hard for it to support its own\n"
-    "weight out of water, so it gets down on\n"
-    "all fours. But it moves fast.");
+    "Mimo vodu těžko unese vlastní váhu, a tak\n"
+    "chodí po čtyřech. Pohybuje se ale\n"
+    "rychle.");
 
 const u8 gFeraligatrPokedexTextUnused[] = _("");
 
 const u8 gSentretPokedexText[] = _(
-    "It stands on its tail so it can see a long\n"
-    "way. If it spots an enemy, it cries loudly\n"
-    "to warn its kind.");
+    "Staví se na ocas, aby viděl daleko. Když\n"
+    "zahlédne nepřítele, hlasitě varuje\n"
+    "ostatní.");
 
 const u8 gSentretPokedexTextUnused[] = _("");
 
 const u8 gFurretPokedexText[] = _(
-    "There is no telling where its tail begins.\n"
-    "Despite its short legs, it is quick at\n"
-    "hunting RATTATA.");
+    "Nejde poznat, kde mu začíná ocas. I přes\n"
+    "krátké nohy rychle loví RATTATA.");
 
 const u8 gFurretPokedexTextUnused[] = _("");
 
 const u8 gHoothootPokedexText[] = _(
-    "It has a perfect sense of time. Whatever\n"
-    "happens, it keeps rhythm by precisely\n"
-    "tilting its head in time.");
+    "Má dokonalý smysl pro čas. Ať se děje\n"
+    "cokoli, přesně do rytmu naklání hlavu.");
 
 const u8 gHoothootPokedexTextUnused[] = _("");
 
 const u8 gNoctowlPokedexText[] = _(
-    "When it needs to think, it rotates its head\n"
-    "180 degrees to sharpen its intellectual\n"
-    "power.");
+    "Když potřebuje přemýšlet, otočí hlavu\n"
+    "o 180 stupňů, aby zbystřil rozum.");
 
 const u8 gNoctowlPokedexTextUnused[] = _("");
 
 const u8 gLedybaPokedexText[] = _(
-    "When the weather turns cold, numerous\n"
-    "LEDYBA gather from everywhere to cluster\n"
-    "and keep each other warm.");
+    "Když se ochladí, slétnou se odevšad\n"
+    "spousty LEDYBA a navzájem se zahřívají.");
 
 const u8 gLedybaPokedexTextUnused[] = _("");
 
 const u8 gLedianPokedexText[] = _(
-    "The star patterns on its back grow larger\n"
-    "or smaller depending on the number of\n"
-    "stars in the night sky.");
+    "Hvězdný vzor na zádech se zvětšuje nebo\n"
+    "zmenšuje podle počtu hvězd na noční\n"
+    "obloze.");
 
 const u8 gLedianPokedexTextUnused[] = _("");
 
 const u8 gSpinarakPokedexText[] = _(
-    "It spins a web using fine--but durable--\n"
-    "thread. It then waits patiently for prey\n"
-    "to be trapped.");
+    "Spřádá síť z tenkého, ale pevného vlákna.\n"
+    "Pak trpělivě čeká, až se do ní chytí\n"
+    "kořist.");
 
 const u8 gSpinarakPokedexTextUnused[] = _("");
 
 const u8 gAriadosPokedexText[] = _(
-    "A single strand of a special string is\n"
-    "endlessly spun out of its rear. The string\n"
-    "leads back to its nest.");
+    "Ze zadečku nekonečně spřádá jediné\n"
+    "zvláštní vlákno. To vede zpátky k jeho\n"
+    "hnízdu.");
 
 const u8 gAriadosPokedexTextUnused[] = _("");
 
 const u8 gCrobatPokedexText[] = _(
-    "The development of wings on its legs\n"
-    "enables it to fly fast but also makes it\n"
-    "tough to stop and rest.");
+    "Díky křídlům i na nohou létá rychle, ale\n"
+    "těžko se mu zastavuje a odpočívá.");
 
 const u8 gCrobatPokedexTextUnused[] = _("");
 
 const u8 gChinchouPokedexText[] = _(
-    "On the dark ocean floor, its only means\n"
-    "of communication is its constantly\n"
-    "flashing lights.");
+    "Na temném oceánském dně se dorozumívá\n"
+    "jen neustále blikajícími světly.");
 
 const u8 gChinchouPokedexTextUnused[] = _("");
 
 const u8 gLanturnPokedexText[] = _(
-    "It blinds prey with an intense burst of\n"
-    "light, then swallows the immobilized prey\n"
-    "in a single gulp.");
+    "Kořist oslepí prudkým zábleskem světla\n"
+    "a pak ji ochromenou spolkne jedním\n"
+    "douškem.");
 
 const u8 gLanturnPokedexTextUnused[] = _("");
 
 const u8 gPichuPokedexText[] = _(
-    "Despite its small size, it can zap even\n"
-    "adult humans. However, if it does so, it\n"
-    "also surprises itself.");
+    "I když je malý, dá ránu i dospělému\n"
+    "člověku. Sám se ale přitom taky lekne.");
 
 const u8 gPichuPokedexTextUnused[] = _("");
 
 const u8 gCleffaPokedexText[] = _(
-    "When numerous meteors illuminate the\n"
-    "night sky, sightings of CLEFFA strangely\n"
-    "increase.");
+    "Když noční oblohu ozáří spousta meteorů,\n"
+    "podivně přibývá pozorování CLEFFA.");
 
 const u8 gCleffaPokedexTextUnused[] = _("");
 
 const u8 gIgglybuffPokedexText[] = _(
-    "Its extremely flexible and elastic body\n"
-    "makes it bounce continuously--anytime,\n"
-    "anywhere.");
+    "Díky nesmírně ohebnému a pružnému tělu\n"
+    "neustále poskakuje, kdykoli a kdekoli.");
 
 const u8 gIgglybuffPokedexTextUnused[] = _("");
 
 const u8 gTogepiPokedexText[] = _(
-    "A proverb claims that happiness will come\n"
-    "to anyone who can make a sleeping TOGEPI\n"
-    "stand up.");
+    "Podle přísloví přijde štěstí ke každému,\n"
+    "kdo dokáže postavit spícího TOGEPI.");
 
 const u8 gTogepiPokedexTextUnused[] = _("");
 
 const u8 gTogeticPokedexText[] = _(
-    "It grows dispirited if it is not with kind\n"
-    "people. It can float in midair without\n"
-    "moving its wings.");
+    "Když není s laskavými lidmi, posmutní.\n"
+    "Vznáší se ve vzduchu, aniž by mával\n"
+    "křídly.");
 
 const u8 gTogeticPokedexTextUnused[] = _("");
 
 const u8 gNatuPokedexText[] = _(
-    "It usually forages for food on the ground\n"
-    "but may, on rare occasions, hop onto\n"
-    "branches to peck at shoots.");
+    "Potravu obvykle hledá na zemi, ale\n"
+    "vzácně vyskočí i na větve a ozobává\n"
+    "výhonky.");
 
 const u8 gNatuPokedexTextUnused[] = _("");
 
 const u8 gXatuPokedexText[] = _(
-    "In South America, it is said that its right\n"
-    "eye sees the future and its left eye\n"
-    "views the past.");
+    "V Jižní Americe se říká, že pravým okem\n"
+    "vidí budoucnost a levým minulost.");
 
 const u8 gXatuPokedexTextUnused[] = _("");
 
 const u8 gMareepPokedexText[] = _(
-    "Its fleece grows continually. In the\n"
-    "summer, the fleece is fully shed, but it\n"
-    "grows back in a week.");
+    "Vlna mu pořád roste. V létě ji celou\n"
+    "shodí, ale do týdne mu doroste.");
 
 const u8 gMareepPokedexTextUnused[] = _("");
 
 const u8 gFlaaffyPokedexText[] = _(
-    "Its fluffy fleece easily stores\n"
-    "electricity. Its rubbery hide keeps it\n"
-    "from being electrocuted.");
+    "Jeho nadýchaná vlna snadno uchovává\n"
+    "elektřinu. Gumová kůže ho chrání před\n"
+    "úrazem proudem.");
 
 const u8 gFlaaffyPokedexTextUnused[] = _("");
 
 const u8 gAmpharosPokedexText[] = _(
-    "The bright light on its tail can be seen\n"
-    "far away. It has been treasured since\n"
-    "ancient times as a beacon.");
+    "Jasné světlo na jeho ocasu je vidět\n"
+    "zdaleka. Odedávna je ceněný jako maják.");
 
 const u8 gAmpharosPokedexTextUnused[] = _("");
 
 const u8 gBellossomPokedexText[] = _(
-    "Plentiful in the tropics. When it dances,\n"
-    "its petals rub together and make a\n"
-    "pleasant ringing sound.");
+    "V tropech je ho hojně. Když tančí,\n"
+    "okvětní lístky se o sebe třou a příjemně\n"
+    "zvoní.");
 
 const u8 gBellossomPokedexTextUnused[] = _("");
 
 const u8 gMarillPokedexText[] = _(
-    "The end of its tail serves as a buoy that\n"
-    "keeps it from drowning, even in a vicious\n"
-    "current.");
+    "Konec ocasu mu slouží jako bóje, takže\n"
+    "se neutopí ani v prudkém proudu.");
 
 const u8 gMarillPokedexTextUnused[] = _("");
 
 const u8 gAzumarillPokedexText[] = _(
-    "When it plays in water, it rolls up its\n"
-    "elongated ears to prevent their insides\n"
-    "from getting wet.");
+    "Když si hraje ve vodě, sroluje si dlouhé\n"
+    "uši, aby se mu uvnitř nenamočily.");
 
 const u8 gAzumarillPokedexTextUnused[] = _("");
 
 const u8 gSudowoodoPokedexText[] = _(
-    "It disguises itself as a tree to avoid\n"
-    "attack. It hates water, so it will\n"
-    "disappear if it starts raining.");
+    "Aby se vyhnul útoku, převléká se za\n"
+    "strom. Nesnáší vodu, takže když začne\n"
+    "pršet, zmizí.");
 
 const u8 gSudowoodoPokedexTextUnused[] = _("");
 
 const u8 gPolitoedPokedexText[] = _(
-    "Whenever three or more of these get\n"
-    "together, they sing in a loud voice that\n"
-    "sounds like bellowing.");
+    "Kdykoli se sejdou tři a víc, zpívají\n"
+    "hlasem, který zní jako bučení.");
 
 const u8 gPolitoedPokedexTextUnused[] = _("");
 
 const u8 gHoppipPokedexText[] = _(
-    "Its body is so light, it must grip the\n"
-    "ground firmly with its feet to keep from\n"
-    "being blown away.");
+    "Jeho tělo je tak lehké, že se musí pevně\n"
+    "držet nohama země, aby ho neodfouklo.");
 
 const u8 gHoppipPokedexTextUnused[] = _("");
 
 const u8 gSkiploomPokedexText[] = _(
-    "It spreads its petals to absorb sunlight.\n"
-    "It also floats in the air to get closer to\n"
-    "the sun.");
+    "Roztahuje okvětní lístky, aby vstřebával\n"
+    "sluneční světlo. Vznáší se, aby byl blíž\n"
+    "slunci.");
 
 const u8 gSkiploomPokedexTextUnused[] = _("");
 
 const u8 gJumpluffPokedexText[] = _(
-    "It drifts on seasonal winds and spreads\n"
-    "its cotton-like spores all over the world \n"
-    "to make more offspring.");
+    "Unáší ho sezónní větry a rozsévá spory\n"
+    "jako vatu po celém světě, aby měl víc\n"
+    "potomků.");
 
 const u8 gJumpluffPokedexTextUnused[] = _("");
 
 const u8 gAipomPokedexText[] = _(
-    "It lives atop tall trees. When leaping\n"
-    "from branch to branch, it deftly uses its\n"
-    "tail for balance.");
+    "Žije v korunách vysokých stromů. Při\n"
+    "skocích z větve na větev si ocasem\n"
+    "obratně drží rovnováhu.");
 
 const u8 gAipomPokedexTextUnused[] = _("");
 
 const u8 gSunkernPokedexText[] = _(
-    "It lives by drinking only dewdrops from\n"
-    "under the leaves of plants. It is said\n"
-    "that it eats nothing else.");
+    "Živí se jen kapkami rosy zpod listů\n"
+    "rostlin. Prý nic jiného nejí.");
 
 const u8 gSunkernPokedexTextUnused[] = _("");
 
 const u8 gSunfloraPokedexText[] = _(
-    "In the daytime, it rushes about in a\n"
-    "hectic manner, but it comes to a complete\n"
-    "stop when the sun sets.");
+    "Přes den horečně pobíhá, ale když slunce\n"
+    "zapadne, úplně se zastaví.");
 
 const u8 gSunfloraPokedexTextUnused[] = _("");
 
 const u8 gYanmaPokedexText[] = _(
-    "Its large eyes can scan 360 degrees.\n"
-    "It looks in all directions to seek out\n"
-    "insects as its prey.");
+    "Velkýma očima vidí na 360 stupňů.\n"
+    "Rozhlíží se na všechny strany a hledá\n"
+    "hmyz jako kořist.");
 
 const u8 gYanmaPokedexTextUnused[] = _("");
 
 const u8 gWooperPokedexText[] = _(
-    "When it walks around on the ground,\n"
-    "it coats its body with a slimy, poisonous\n"
-    "film.");
+    "Když chodí po zemi, pokrývá své tělo\n"
+    "slizkou jedovatou vrstvou.");
 
 const u8 gWooperPokedexTextUnused[] = _("");
 
 const u8 gQuagsirePokedexText[] = _(
-    "Due to its relaxed and carefree attitude,\n"
-    "it often bumps its head on boulders and\n"
-    "boat hulls as it swims.");
+    "Je tak uvolněný a bezstarostný, že při\n"
+    "plavání často narazí hlavou do balvanů\n"
+    "a lodí.");
 
 const u8 gQuagsirePokedexTextUnused[] = _("");
 
 const u8 gEspeonPokedexText[] = _(
-    "By reading air currents, it can predict\n"
-    "things such as the weather or its foe's\n"
-    "next move.");
+    "Ze vzdušných proudů dokáže předpovědět\n"
+    "třeba počasí nebo další tah soupeře.");
 
 const u8 gEspeonPokedexTextUnused[] = _("");
 
 const u8 gUmbreonPokedexText[] = _(
-    "When darkness falls, the rings on its body\n"
-    "begin to glow, striking fear in the hearts\n"
-    "of anyone nearby.");
+    "Když se setmí, kruhy na jeho těle začnou\n"
+    "zářit a nahánějí strach všem v okolí.");
 
 const u8 gUmbreonPokedexTextUnused[] = _("");
 
 const u8 gMurkrowPokedexText[] = _(
-    "It is said that when chased, it lures its\n"
-    "attacker onto dark mountain trails where\n"
-    "the foe will get lost.");
+    "Prý když ho někdo honí, naláká ho na\n"
+    "temné horské stezky, kde pronásledovatel\n"
+    "zabloudí.");
 
 const u8 gMurkrowPokedexTextUnused[] = _("");
 
 const u8 gSlowkingPokedexText[] = _(
-    "When its head was bitten, toxins entered\n"
-    "SLOWPOKE's head and unlocked an\n"
-    "extraordinary power.");
+    "Když ho kousli do hlavy, jedy pronikly do\n"
+    "hlavy SLOWPOKE a probudily mimořádnou\n"
+    "sílu.");
 
 const u8 gSlowkingPokedexTextUnused[] = _("");
 
 const u8 gMisdreavusPokedexText[] = _(
-    "It loves to bite and yank people's hair\n"
-    "from behind without warning, just to see\n"
-    "their shocked reactions.");
+    "Rád lidi bez varování kousne a tahá za\n"
+    "vlasy zezadu, jen aby viděl jejich šok.");
 
 const u8 gMisdreavusPokedexTextUnused[] = _("");
 
 const u8 gUnownPokedexText[] = _(
-    "Its flat, thin body is always stuck on\n"
-    "walls. Its shape appears to have some\n"
-    "meaning.");
+    "Jeho ploché tenké tělo je vždy přilepené\n"
+    "na zdech. Jeho tvar zřejmě něco znamená.");
 
 const u8 gUnownPokedexTextUnused[] = _("");
 
 const u8 gWobbuffetPokedexText[] = _(
-    "To keep its pitch-black tail hidden, it\n"
-    "lives quietly in the darkness. It is never\n"
-    "first to attack.");
+    "Aby skryl svůj černý ocas, žije potichu\n"
+    "ve tmě. Nikdy neútočí jako první.");
 
 const u8 gWobbuffetPokedexTextUnused[] = _("");
 
 const u8 gGirafarigPokedexText[] = _(
-    "Its tail, which also contains a small\n"
-    "brain, may bite on its own if it notices an\n"
-    "alluring smell.");
+    "Jeho ocas, ve kterém je i malý mozek,\n"
+    "může sám kousnout, když ucítí lákavou\n"
+    "vůni.");
 
 const u8 gGirafarigPokedexTextUnused[] = _("");
 
 const u8 gPinecoPokedexText[] = _(
-    "It hangs and waits for flying-insect prey\n"
-    "to come near. It does not move about\n"
-    "much on its own.");
+    "Visí a čeká, až se přiblíží létající\n"
+    "hmyz. Sám se moc nehýbe.");
 
 const u8 gPinecoPokedexTextUnused[] = _("");
 
 const u8 gForretressPokedexText[] = _(
-    "It remains immovably rooted to its tree.\n"
-    "It scatters pieces of its hard shell to\n"
-    "drive its enemies away.");
+    "Nehnutě drží na svém stromě. Rozhazuje\n"
+    "kusy tvrdé skořápky, aby zahnal\n"
+    "nepřátele.");
 
 const u8 gForretressPokedexTextUnused[] = _("");
 
 const u8 gDunsparcePokedexText[] = _(
-    "If spotted, it escapes by burrowing with\n"
-    "its tail. It can hover just slightly using\n"
-    "its wings.");
+    "Když ho někdo zahlédne, uteče tak, že se\n"
+    "zavrtá ocasem. Křídly se umí trochu\n"
+    "vznášet.");
 
 const u8 gDunsparcePokedexTextUnused[] = _("");
 
 const u8 gGligarPokedexText[] = _(
-    "It usually clings to cliffs. When it spots\n"
-    "its prey, it spreads its wings and glides\n"
-    "down to attack.");
+    "Obvykle visí na útesech. Když zahlédne\n"
+    "kořist, roztáhne křídla a snese se\n"
+    "k útoku.");
 
 const u8 gGligarPokedexTextUnused[] = _("");
 
 const u8 gSteelixPokedexText[] = _(
-    "It is said that if an ONIX lives for over\n"
-    "100 years, its composition changes to\n"
-    "become diamond-like.");
+    "Prý když ONIX žije přes 100 let, změní\n"
+    "se jeho složení a je podobné diamantu.");
 
 const u8 gSteelixPokedexTextUnused[] = _("");
 
 const u8 gSnubbullPokedexText[] = _(
-    "It has an active, playful nature. Many\n"
-    "women like to frolic with it because of\n"
-    "its affectionate ways.");
+    "Má živou a hravou povahu. Spousta žen si\n"
+    "s ním ráda hraje, protože je tak\n"
+    "přítulný.");
 
 const u8 gSnubbullPokedexTextUnused[] = _("");
 
 const u8 gGranbullPokedexText[] = _(
-    "Because its fangs are too heavy, it\n"
-    "always keeps its head tilted down.\n"
-    "However, its BITE is powerful.");
+    "Tesáky má moc těžké, takže má hlavu\n"
+    "pořád skloněnou. Jeho BITE je ale silný.");
 
 const u8 gGranbullPokedexTextUnused[] = _("");
 
 const u8 gQwilfishPokedexText[] = _(
-    "The small spikes covering its body\n"
-    "developed from scales. They inject a\n"
-    "toxin that causes fainting.");
+    "Malé bodce na těle se vyvinuly ze šupin.\n"
+    "Vstřikují jed, který omráčí.");
 
 const u8 gQwilfishPokedexTextUnused[] = _("");
 
 const u8 gScizorPokedexText[] = _(
-    "Its wings are not used for flying.\n"
-    "They are flapped at high speed to adjust\n"
-    "its body temperature.");
+    "Křídla nepoužívá k létání. Rychle jimi\n"
+    "mává, aby si upravil tělesnou teplotu.");
 
 const u8 gScizorPokedexTextUnused[] = _("");
 
 const u8 gShucklePokedexText[] = _(
-    "It stores BERRIES inside its shell.\n"
-    "To avoid attacks, it hides beneath rocks\n"
-    "and remains completely still.");
+    "V krunýři si schovává BOBULE. Před útoky\n"
+    "se skrývá pod kameny a nehýbe se.");
 
 const u8 gShucklePokedexTextUnused[] = _("");
 
 const u8 gHeracrossPokedexText[] = _(
-    "Usually docile, but if disturbed while\n"
-    "sipping honey, it chases off the intruder\n"
-    "with its horn.");
+    "Obvykle je mírný, ale když ho někdo\n"
+    "vyruší při pití medu, zažene ho rohem.");
 
 const u8 gHeracrossPokedexTextUnused[] = _("");
 
 const u8 gSneaselPokedexText[] = _(
-    "Vicious in nature, it drives PIDGEY from\n"
-    "their nests and feasts on the eggs that\n"
-    "are left behind.");
+    "Má krutou povahu. Vyhání PIDGEY z hnízd\n"
+    "a hoduje na vejcích, která tam zůstala.");
 
 const u8 gSneaselPokedexTextUnused[] = _("");
 
 const u8 gTeddiursaPokedexText[] = _(
-    "Before food becomes scarce in wintertime,\n"
-    "its habit is to hoard food in many hidden\n"
-    "locations.");
+    "Než v zimě začne docházet jídlo, má ve\n"
+    "zvyku schovávat zásoby na mnoha skrytých\n"
+    "místech.");
 
 const u8 gTeddiursaPokedexTextUnused[] = _("");
 
 const u8 gUrsaringPokedexText[] = _(
-    "With its ability to distinguish any smell,\n"
-    "it unfailingly finds all food buried deep\n"
-    "underground.");
+    "Rozezná jakýkoli pach, takže neomylně\n"
+    "najde všechno jídlo zahrabané hluboko\n"
+    "pod zemí.");
 
 const u8 gUrsaringPokedexTextUnused[] = _("");
 
 const u8 gSlugmaPokedexText[] = _(
-    "A common sight in volcanic areas, it\n"
-    "slowly slithers around in a constant\n"
-    "search for warm places.");
+    "V sopečných oblastech je běžný. Pomalu\n"
+    "se plazí a pořád hledá teplá místa.");
 
 const u8 gSlugmaPokedexTextUnused[] = _("");
 
 const u8 gMagcargoPokedexText[] = _(
-    "Its brittle shell occasionally spouts\n"
-    "intense flames that circulate throughout\n"
-    "its body.");
+    "Z jeho křehké skořápky občas vyšlehnou\n"
+    "prudké plameny, které mu proudí tělem.");
 
 const u8 gMagcargoPokedexTextUnused[] = _("");
 
 const u8 gSwinubPokedexText[] = _(
-    "If it smells something enticing, it dashes\n"
-    "off headlong to find the source of the\n"
-    "aroma.");
+    "Když ucítí něco lákavého, vyrazí\n"
+    "bezhlavě hledat zdroj té vůně.");
 
 const u8 gSwinubPokedexTextUnused[] = _("");
 
 const u8 gPiloswinePokedexText[] = _(
-    "If it charges at an enemy, the hairs on\n"
-    "its back stand up straight. It is very\n"
-    "sensitive to sound.");
+    "Když se řítí na nepřítele, chlupy na\n"
+    "zádech se mu naježí. Je velmi citlivý na\n"
+    "zvuk.");
 
 const u8 gPiloswinePokedexTextUnused[] = _("");
 
 const u8 gCorsolaPokedexText[] = _(
-    "In a south sea nation, the people live in\n"
-    "communities that are built on groups of\n"
-    "these POKéMON.");
+    "V jedné zemi v jižních mořích žijí lidé\n"
+    "v osadách postavených na skupinách těchto\n"
+    "POKéMONŮ.");
 
 const u8 gCorsolaPokedexTextUnused[] = _("");
 
 const u8 gRemoraidPokedexText[] = _(
-    "Using its dorsal fin as a suction pad, it\n"
-    "clings to a MANTINE's underside to\n"
-    "scavenge for leftovers.");
+    "Hřbetní ploutví se jako přísavkou\n"
+    "přichytí na spodek MANTINE a sbírá\n"
+    "zbytky jídla.");
 
 const u8 gRemoraidPokedexTextUnused[] = _("");
 
 const u8 gOctilleryPokedexText[] = _(
-    "It instinctively sneaks into rocky holes.\n"
-    "If it gets sleepy, it steals the nest of a\n"
-    "fellow OCTILLERY.");
+    "Instinktivně se plíží do skalních děr.\n"
+    "Když je ospalý, ukradne hnízdo jinému\n"
+    "OCTILLERY.");
 
 const u8 gOctilleryPokedexTextUnused[] = _("");
 
 const u8 gDelibirdPokedexText[] = _(
-    "It nests at the edge of sharp cliffs.\n"
-    "It spends all day carrying food to its\n"
-    "awaiting chicks.");
+    "Hnízdí na okraji ostrých útesů. Celý den\n"
+    "nosí jídlo svým čekajícím mláďatům.");
 
 const u8 gDelibirdPokedexTextUnused[] = _("");
 
 const u8 gMantinePokedexText[] = _(
-    "Swimming freely in open seas, it may fly\n"
-    "out of the water and over the waves if it\n"
-    "builds up enough speed.");
+    "Volně plave v otevřeném moři. Když nabere\n"
+    "dost rychlosti, vyletí z vody nad vlny.");
 
 const u8 gMantinePokedexTextUnused[] = _("");
 
 const u8 gSkarmoryPokedexText[] = _(
-    "After nesting in bramble bushes, the wings\n"
-    "of its chicks grow hard from scratches by\n"
-    "thorns.");
+    "Mláďata hnízdí v trnitém křoví, a jak je\n"
+    "trny škrábou, jejich křídla tvrdnou.");
 
 const u8 gSkarmoryPokedexTextUnused[] = _("");
 
 const u8 gHoundourPokedexText[] = _(
-    "To corner prey, they check each other's\n"
-    "location using barks that only they can\n"
-    "understand.");
+    "Když zahání kořist, ověřují si navzájem\n"
+    "polohu štěkotem, kterému rozumí jen oni.");
 
 const u8 gHoundourPokedexTextUnused[] = _("");
 
 const u8 gHoundoomPokedexText[] = _(
-    "Upon hearing its eerie howls, other\n"
-    "POKéMON get the shivers and head straight\n"
-    "back to their nests.");
+    "Když ostatní POKéMONI uslyší jeho\n"
+    "strašidelné vytí, roztřesou se a utečou\n"
+    "do hnízd.");
 
 const u8 gHoundoomPokedexTextUnused[] = _("");
 
 const u8 gKingdraPokedexText[] = _(
-    "It sleeps deep on the ocean floor to\n"
-    "build its energy. It is said to cause\n"
-    "tornadoes as it wakes.");
+    "Spí hluboko na dně oceánu a nabírá\n"
+    "energii. Prý když se probudí, způsobí\n"
+    "tornáda.");
 
 const u8 gKingdraPokedexTextUnused[] = _("");
 
 const u8 gPhanpyPokedexText[] = _(
-    "As a sign of affection, it bumps with its\n"
-    "snout. However, it is so strong, it may\n"
-    "send you flying.");
+    "Na znamení náklonnosti do tebe šťouchne\n"
+    "chobotem. Je ale tak silný, že tě může\n"
+    "odhodit.");
 
 const u8 gPhanpyPokedexTextUnused[] = _("");
 
 const u8 gDonphanPokedexText[] = _(
-    "The longer and bigger its tusks, the\n"
-    "higher its rank in its herd. The tusks take\n"
-    "a long time to grow.");
+    "Čím delší a větší kly má, tím výš je ve\n"
+    "stádě. Kly rostou velmi dlouho.");
 
 const u8 gDonphanPokedexTextUnused[] = _("");
 
 const u8 gPorygon2PokedexText[] = _(
-    "Further research enhanced its abilities.\n"
-    "Sometimes, it may exhibit motions that\n"
-    "were not programmed.");
+    "Další výzkum vylepšil jeho schopnosti.\n"
+    "Občas předvádí pohyby, které nikdo\n"
+    "nenaprogramoval.");
 
 const u8 gPorygon2PokedexTextUnused[] = _("");
 
 const u8 gStantlerPokedexText[] = _(
-    "Those who stare at its antlers will\n"
-    "gradually lose control of their senses\n"
-    "and be unable to stand.");
+    "Kdo se dívá na jeho parohy, pomalu\n"
+    "ztrácí vládu nad smysly a neudrží se na\n"
+    "nohou.");
 
 const u8 gStantlerPokedexTextUnused[] = _("");
 
 const u8 gSmearglePokedexText[] = _(
-    "Once it becomes an adult, it has a\n"
-    "tendency to let its comrades plant\n"
-    "footprints on its back.");
+    "Když dospěje, nechává si od kamarádů\n"
+    "dělat stopy na zádech.");
 
 const u8 gSmearglePokedexTextUnused[] = _("");
 
 const u8 gTyroguePokedexText[] = _(
-    "Even though it is small, it can't be\n"
-    "ignored because it will slug any handy\n"
-    "target without warning.");
+    "I když je malý, nejde ho přehlížet,\n"
+    "protože bez varování udeří do čehokoli\n"
+    "poblíž.");
 
 const u8 gTyroguePokedexTextUnused[] = _("");
 
 const u8 gHitmontopPokedexText[] = _(
-    "It launches kicks while spinning. If it\n"
-    "spins at high speed, it may bore its way\n"
-    "into the ground.");
+    "Kope a přitom se točí. Když se točí\n"
+    "rychle, může se zavrtat do země.");
 
 const u8 gHitmontopPokedexTextUnused[] = _("");
 
 const u8 gSmoochumPokedexText[] = _(
-    "It always rocks its head slowly backwards\n"
-    "and forwards as if it is trying to kiss\n"
-    "someone.");
+    "Pořád pomalu kývá hlavou dopředu\n"
+    "a dozadu, jako by se snažil někoho\n"
+    "políbit.");
 
 const u8 gSmoochumPokedexTextUnused[] = _("");
 
 const u8 gElekidPokedexText[] = _(
-    "Even in the most vicious storm, this\n"
-    "POKéMON plays happily if thunder rumbles\n"
-    "in the sky.");
+    "I v té nejhorší bouři si šťastně hraje,\n"
+    "když na obloze hřmí.");
 
 const u8 gElekidPokedexTextUnused[] = _("");
 
 const u8 gMagbyPokedexText[] = _(
-    "It is found in volcanic craters. Its body\n"
-    "heat exceeds 1,100 degrees Fahrenheit,\n"
-    "so don't underestimate it.");
+    "Žije v sopečných kráterech. Teplota jeho\n"
+    "těla přesahuje 600 stupňů, tak ho\n"
+    "nepodceňuj.");
 
 const u8 gMagbyPokedexTextUnused[] = _("");
 
 const u8 gMiltankPokedexText[] = _(
-    "If it has just had a baby, the milk it\n"
-    "produces contains much more nutrition than\n"
-    "usual.");
+    "Když má zrovna mládě, její mléko je\n"
+    "mnohem výživnější než obvykle.");
 
 const u8 gMiltankPokedexTextUnused[] = _("");
 
 const u8 gBlisseyPokedexText[] = _(
-    "It has a very compassionate nature. If it\n"
-    "sees a sick POKéMON, it will nurse the\n"
-    "sufferer back to health.");
+    "Má velmi soucitnou povahu. Když vidí\n"
+    "nemocného POKéMONA, ošetřuje ho, dokud\n"
+    "se neuzdraví.");
 
 const u8 gBlisseyPokedexTextUnused[] = _("");
 
 const u8 gRaikouPokedexText[] = _(
-    "This POKéMON races across the\n"
-    "land while barking a cry that sounds\n"
-    "like crashing thunder.");
+    "Tento POKéMON se žene krajinou a vydává\n"
+    "štěkot, který zní jako burácení hromu.");
 
 const u8 gRaikouPokedexTextUnused[] = _("");
 
 const u8 gEnteiPokedexText[] = _(
-    "A POKéMON that races across the land.\n"
-    "It is said that one is born every time a\n"
-    "new volcano appears.");
+    "POKéMON, který se žene krajinou. Prý se\n"
+    "jeden narodí pokaždé, když vznikne nová\n"
+    "sopka.");
 
 const u8 gEnteiPokedexTextUnused[] = _("");
 
 const u8 gSuicunePokedexText[] = _(
-    "This POKéMON races across the land.\n"
-    "It is said that north winds will somehow\n"
-    "blow whenever it appears.");
+    "Tento POKéMON se žene krajinou. Prý\n"
+    "kdykoli se objeví, záhadně zavane severní\n"
+    "vítr.");
 
 const u8 gSuicunePokedexTextUnused[] = _("");
 
 const u8 gLarvitarPokedexText[] = _(
-    "It is born deep underground. It can't\n"
-    "emerge until it has entirely consumed the\n"
-    "soil around it.");
+    "Rodí se hluboko pod zemí. Ven se\n"
+    "dostane, až když sní všechnu hlínu kolem\n"
+    "sebe.");
 
 const u8 gLarvitarPokedexTextUnused[] = _("");
 
 const u8 gPupitarPokedexText[] = _(
-    "Even sealed in its shell, it can move\n"
-    "freely. Hard and fast, it has outstanding\n"
-    "destructive power.");
+    "I zavřený v krunýři se volně pohybuje. Je\n"
+    "tvrdý a rychlý a má obrovskou ničivou\n"
+    "sílu.");
 
 const u8 gPupitarPokedexTextUnused[] = _("");
 
 const u8 gTyranitarPokedexText[] = _(
-#if REVISION == 0
-    "Its body can't be harmed by any sort of\n"
-    "attack, so it is very eager to make\n"
-    "challenges against enemies."
-#else
-"It has an impudent nature. Having great\n"
-    "strength, it can even change surrounding\n"
-    "landforms."
-#endif
-);
+    "Jeho tělo nepoškodí žádný útok, a tak\n"
+    "velmi rád vyzývá nepřátele na souboj.");
 
 const u8 gTyranitarPokedexTextUnused[] = _("");
 
 const u8 gLugiaPokedexText[] = _(
-    "It is said to be the guardian of the seas.\n"
-    "It is rumored to have been seen on the\n"
-    "night of a storm.");
+    "Prý je to strážce moří. Říká se, že ho\n"
+    "někdo viděl v noci za bouře.");
 
 const u8 gLugiaPokedexTextUnused[] = _("");
 
 const u8 gHoOhPokedexText[] = _(
-    "A legend says that its body glows in\n"
-    "seven colors. A rainbow is said to form\n"
-    "behind it when it flies.");
+    "Podle legendy jeho tělo září sedmi\n"
+    "barvami. Když letí, prý za ním vzniká\n"
+    "duha.");
 
 const u8 gHoOhPokedexTextUnused[] = _("");
 
 const u8 gCelebiPokedexText[] = _(
-    "When CELEBI disappears deep in a forest,\n"
-    "it is said to leave behind an egg it\n"
-    "brought from the future.");
+    "Když CELEBI zmizí hluboko v lese, prý po\n"
+    "sobě zanechá vejce, které přinesl\n"
+    "z budoucnosti.");
 
 const u8 gCelebiPokedexTextUnused[] = _("");
 
 const u8 gTreeckoPokedexText[] = _(
-    "It quickly scales even vertical walls.\n"
-    "It senses humidity with its tail to predict\n"
-    "the next day's weather.");
+    "Rychle šplhá i po svislých zdech. Ocasem\n"
+    "vycítí vlhkost a předpoví počasí na\n"
+    "další den.");
 
 const u8 gTreeckoPokedexTextUnused[] = _("");
 
 const u8 gGrovylePokedexText[] = _(
-    "Its strongly developed thigh muscles\n"
-    "give it astounding agility and jumping\n"
-    "performance.");
+    "Díky silným stehenním svalům je úžasně\n"
+    "hbitý a skvěle skáče.");
 
 const u8 gGrovylePokedexTextUnused[] = _("");
 
 const u8 gSceptilePokedexText[] = _(
-    "The leaves on its forelegs are as sharp\n"
-    "as swords. It agilely leaps about the\n"
-    "branches of trees to strike.");
+    "Listy na předních nohou má ostré jako\n"
+    "meče. Hbitě skáče po větvích stromů\n"
+    "a útočí.");
 
 const u8 gSceptilePokedexTextUnused[] = _("");
 
 const u8 gTorchicPokedexText[] = _(
-    "It has a flame sac inside its belly that\n"
-    "perpetually burns. It feels warm if it is\n"
-    "hugged.");
+    "V břiše má plamenný vak, který neustále\n"
+    "hoří. Když ho obejmeš, hřeje.");
 
 const u8 gTorchicPokedexTextUnused[] = _("");
 
 const u8 gCombuskenPokedexText[] = _(
-    "It boosts its concentration by emitting\n"
-    "harsh cries. Its kicks have outstanding\n"
-    "destructive power.");
+    "Ostrými výkřiky zvyšuje své soustředění.\n"
+    "Jeho kopy mají obrovskou ničivou sílu.");
 
 const u8 gCombuskenPokedexTextUnused[] = _("");
 
 const u8 gBlazikenPokedexText[] = _(
-    "When facing a tough foe, it looses flames\n"
-    "from its wrists. Its powerful legs let it\n"
-    "jump clear over buildings.");
+    "Proti tvrdému soupeři mu ze zápěstí\n"
+    "vyšlehnou plameny. Silné nohy mu umožní\n"
+    "přeskočit budovy.");
 
 const u8 gBlazikenPokedexTextUnused[] = _("");
 
 const u8 gMudkipPokedexText[] = _(
-    "Its large tail fin propels it through\n"
-    "water with powerful acceleration. It is\n"
-    "strong in spite of its size.");
+    "Velká ocasní ploutev ho žene vodou\n"
+    "s prudkým zrychlením. Na svou velikost je\n"
+    "silný.");
 
 const u8 gMudkipPokedexTextUnused[] = _("");
 
 const u8 gMarshtompPokedexText[] = _(
-    "It is at its best when on muddy ground\n"
-    "with poor footing. It quickly overwhelms\n"
-    "foes struggling in mud.");
+    "Nejlépe si vede v blátě, kde se špatně\n"
+    "stojí. Soupeře, kteří se v blátě plácají,\n"
+    "rychle přemůže.");
 
 const u8 gMarshtompPokedexTextUnused[] = _("");
 
 const u8 gSwampertPokedexText[] = _(
-    "Its arms are rock-hard. With one swing,\n"
-    "they can batter down its foe. It makes its\n"
-    "nest on beautiful beaches.");
+    "Paže má tvrdé jako skála. Jedním\n"
+    "máchnutím soupeře srazí. Hnízdí na\n"
+    "krásných plážích.");
 
 const u8 gSwampertPokedexTextUnused[] = _("");
 
 const u8 gPoochyenaPokedexText[] = _(
-    "It has a very tenacious nature. Its acute\n"
-    "sense of smell lets it chase a chosen\n"
-    "prey without ever losing track.");
+    "Má velmi houževnatou povahu. Díky\n"
+    "citlivému čichu sleduje vybranou kořist\n"
+    "a nikdy ji neztratí.");
 
 const u8 gPoochyenaPokedexTextUnused[] = _("");
 
 const u8 gMightyenaPokedexText[] = _(
-    "It will always obey the commands of a\n"
-    "skilled TRAINER. Its behavior arises from\n"
-    "its living in packs in ancient times.");
+    "Zkušeného TRENÉRA vždy poslechne. Toto\n"
+    "chování má z dávných dob, kdy žil ve\n"
+    "smečkách.");
 
 const u8 gMightyenaPokedexTextUnused[] = _("");
 
 const u8 gZigzagoonPokedexText[] = _(
-    "A POKéMON with abundant curiosity.\n"
-    "It shows an interest in everything, so it\n"
-    "always zigs and zags.");
+    "POKéMON plný zvědavosti. Zajímá se\n"
+    "o všechno, a tak pořád chodí cik cak.");
 
 const u8 gZigzagoonPokedexTextUnused[] = _("");
 
 const u8 gLinoonePokedexText[] = _(
-    "When running in a straight line, it can top\n"
-    "60 miles per hour. However, it has a\n"
-    "tough time with curved roads.");
+    "V přímé čáře přesáhne rychlost 100 km/h.\n"
+    "Se zatáčkami si ale moc neporadí.");
 
 const u8 gLinoonePokedexTextUnused[] = _("");
 
 const u8 gWurmplePokedexText[] = _(
-    "It lives amidst tall grass and in forests.\n"
-    "When attacked, it resists by pointing its\n"
-    "venomous spikes at the foe.");
+    "Žije ve vysoké trávě a v lesích. Když ho\n"
+    "někdo napadne, brání se jedovatými ostny.");
 
 const u8 gWurmplePokedexTextUnused[] = _("");
 
 const u8 gSilcoonPokedexText[] = _(
-    "It conserves its energy by moving as\n"
-    "little as possible. It awaits evolution\n"
-    "while drinking only a little rainwater.");
+    "Šetří energii tím, že se co nejméně hýbe.\n"
+    "Pije jen trochu dešťové vody a čeká na\n"
+    "vývoj.");
 
 const u8 gSilcoonPokedexTextUnused[] = _("");
 
 const u8 gBeautiflyPokedexText[] = _(
-    "Despite its appearance, it has an\n"
-    "aggressive nature. It attacks by jabbing\n"
-    "with its long, thin mouth.");
+    "Navzdory vzhledu má agresivní povahu.\n"
+    "Útočí bodáním dlouhým tenkým sosákem.");
 
 const u8 gBeautiflyPokedexTextUnused[] = _("");
 
 const u8 gCascoonPokedexText[] = _(
-    "Its body, which is made of soft silk,\n"
-    "hardens over time. When cracks appear,\n"
-    "evolution is near.");
+    "Jeho tělo z měkkého hedvábí časem\n"
+    "tvrdne. Když se objeví praskliny, vývoj\n"
+    "je blízko.");
 
 const u8 gCascoonPokedexTextUnused[] = _("");
 
 const u8 gDustoxPokedexText[] = _(
-    "It scatters horribly toxic dust when it\n"
-    "senses danger. They tend to gather in the\n"
-    "glow of streetlamps at night.");
+    "Když vycítí nebezpečí, rozpráší strašně\n"
+    "jedovatý prach. V noci se slétají ke\n"
+    "světlu lamp.");
 
 const u8 gDustoxPokedexTextUnused[] = _("");
 
 const u8 gLotadPokedexText[] = _(
-    "It searches about for clean water. If it\n"
-    "does not drink water for too long, the\n"
-    "leaf on its head wilts.");
+    "Hledá čistou vodu. Když dlouho nepije,\n"
+    "list na hlavě mu povadne.");
 
 const u8 gLotadPokedexTextUnused[] = _("");
 
 const u8 gLombrePokedexText[] = _(
-    "It lives at the water's edge where it is\n"
-    "sunny. It sleeps on a bed of water grass\n"
-    "by day and becomes active at night.");
+    "Žije na slunném břehu vody. Přes den spí\n"
+    "na loži z vodní trávy a v noci je\n"
+    "aktivní.");
 
 const u8 gLombrePokedexTextUnused[] = _("");
 
 const u8 gLudicoloPokedexText[] = _(
-    "The rhythm of bright, festive music\n"
-    "activates LUDICOLO's cells, making it more\n"
-    "powerful.");
+    "Rytmus veselé, sváteční hudby probudí\n"
+    "buňky LUDICOLO a dodá mu sílu.");
 
 const u8 gLudicoloPokedexTextUnused[] = _("");
 
 const u8 gSeedotPokedexText[] = _(
-    "If it remains still, it becomes impossible\n"
-    "to distinguish from real nuts. It delights\n"
-    "in surprising foraging PIDGEY.");
+    "Když se nehýbe, nejde ho rozeznat od\n"
+    "skutečných ořechů. Rád straší PIDGEY,\n"
+    "kteří hledají potravu.");
 
 const u8 gSeedotPokedexTextUnused[] = _("");
 
 const u8 gNuzleafPokedexText[] = _(
-    "They live in holes bored in large trees.\n"
-    "The sound of NUZLEAF's grass flute fills\n"
-    "listeners with dread.");
+    "Žijí v dírách vyvrtaných ve velkých\n"
+    "stromech. Zvuk jeho travní flétny naplní\n"
+    "posluchače hrůzou.");
 
 const u8 gNuzleafPokedexTextUnused[] = _("");
 
 const u8 gShiftryPokedexText[] = _(
-    "A POKéMON that was feared as a forest\n"
-    "guardian. It can read the foe's mind and\n"
-    "take preemptive action.");
+    "POKéMON, kterého se báli jako strážce\n"
+    "lesa. Čte soupeřovy myšlenky a jedná\n"
+    "předem.");
 
 const u8 gShiftryPokedexTextUnused[] = _("");
 
 const u8 gTaillowPokedexText[] = _(
-    "It dislikes cold seasons. They migrate to\n"
-    "other lands in search of warmth, flying\n"
-    "over 180 miles a day.");
+    "Nemá rád chladná období. Za teplem se\n"
+    "stěhuje do jiných zemí a uletí přes 300\n"
+    "km denně.");
 
 const u8 gTaillowPokedexTextUnused[] = _("");
 
 const u8 gSwellowPokedexText[] = _(
-    "If its two tail feathers are standing at\n"
-    "attention, it is proof of good health.\n"
-    "It soars elegantly in the sky.");
+    "Když má dvě ocasní pera vztyčená, je to\n"
+    "důkaz dobrého zdraví. Elegantně se\n"
+    "vznáší na obloze.");
 
 const u8 gSwellowPokedexTextUnused[] = _("");
 
 const u8 gWingullPokedexText[] = _(
-    "It rides upon ocean winds as if it were\n"
-    "a glider. In the winter, it hides food\n"
-    "around its nest.");
+    "Klouže na mořských větrech jako kluzák.\n"
+    "V zimě schovává potravu kolem hnízda.");
 
 const u8 gWingullPokedexTextUnused[] = _("");
 
 const u8 gPelipperPokedexText[] = _(
-    "It is a flying transporter that carries\n"
-    "small POKéMON in its beak. It bobs on the\n"
-    "waves to rest its wings.");
+    "Létající přepravce, který nosí malé\n"
+    "POKéMONY v zobáku. Odpočívá na vlnách.");
 
 const u8 gPelipperPokedexTextUnused[] = _("");
 
 const u8 gRaltsPokedexText[] = _(
-    "It is highly attuned to the emotions of\n"
-    "people and POKéMON. It hides if it senses\n"
-    "hostility.");
+    "Velmi citlivě vnímá emoce lidí\n"
+    "i POKéMONŮ. Když vycítí nepřátelství,\n"
+    "schová se.");
 
 const u8 gRaltsPokedexTextUnused[] = _("");
 
 const u8 gKirliaPokedexText[] = _(
-    "The cheerful spirit of its TRAINER gives\n"
-    "it energy for its psychokinetic power.\n"
-    "It spins and dances when happy.");
+    "Veselá nálada TRENÉRA mu dodává energii\n"
+    "pro psychokinezi. Když je šťastný, točí\n"
+    "se a tančí.");
 
 const u8 gKirliaPokedexTextUnused[] = _("");
 
 const u8 gGardevoirPokedexText[] = _(
-    "It has the power to predict the future.\n"
-    "Its power peaks when it is protecting its\n"
-    "TRAINER.");
+    "Dokáže předpovídat budoucnost. Největší\n"
+    "sílu má, když chrání svého TRENÉRA.");
 
 const u8 gGardevoirPokedexTextUnused[] = _("");
 
 const u8 gSurskitPokedexText[] = _(
-    "They usually live on ponds, but after an\n"
-    "evening shower, they may appear on\n"
-    "puddles in towns.");
+    "Obvykle žijí na rybnících, ale po\n"
+    "večerní přeháňce se objevují\n"
+    "i v kalužích ve městech.");
 
 const u8 gSurskitPokedexTextUnused[] = _("");
 
 const u8 gMasquerainPokedexText[] = _(
-    "The antennae have distinctive patterns\n"
-    "that look like eyes. When it rains, they\n"
-    "grow heavy, making flight impossible.");
+    "Tykadla mají vzor jako oči. Když prší,\n"
+    "ztěžknou a nemůže létat.");
 
 const u8 gMasquerainPokedexTextUnused[] = _("");
 
 const u8 gShroomishPokedexText[] = _(
-    "It prefers damp places. By day it remains\n"
-    "still in the forest shade. It releases\n"
-    "toxic powder from its head.");
+    "Má rád vlhká místa. Přes den nehybně čeká\n"
+    "v lesním stínu. Z hlavy vypouští\n"
+    "jedovatý prášek.");
 
 const u8 gShroomishPokedexTextUnused[] = _("");
 
 const u8 gBreloomPokedexText[] = _(
-    "The seeds on its tail are made of toxic\n"
-    "spores. It knocks out foes with quick,\n"
-    "virtually invisible punches.");
+    "Semena na ocasu jsou z jedovatých spor.\n"
+    "Soupeře srazí rychlými, skoro\n"
+    "neviditelnými údery.");
 
 const u8 gBreloomPokedexTextUnused[] = _("");
 
 const u8 gSlakothPokedexText[] = _(
-    "It sleeps for 20 hours every day. Making\n"
-    "drowsy those that see it is one of\n"
-    "its abilities.");
+    "Spí 20 hodin denně. Jednou z jeho\n"
+    "schopností je uspávat ty, kdo se na něj\n"
+    "dívají.");
 
 const u8 gSlakothPokedexTextUnused[] = _("");
 
 const u8 gVigorothPokedexText[] = _(
-    "It is always hungry because it won't stop\n"
-    "rampaging. Even while it is eating, it\n"
-    "can't keep still.");
+    "Pořád má hlad, protože nepřestává řádit.\n"
+    "Ani při jídle nevydrží v klidu.");
 
 const u8 gVigorothPokedexTextUnused[] = _("");
 
 const u8 gSlakingPokedexText[] = _(
-    "It is the world's most slothful POKéMON.\n"
-    "However, it can exert horrifying power by\n"
-    "releasing pent-up energy all at once.");
+    "Nejlínější POKéMON na světě. Když ale\n"
+    "naráz uvolní nahromaděnou energii, má\n"
+    "děsivou sílu.");
 
 const u8 gSlakingPokedexTextUnused[] = _("");
 
 const u8 gNincadaPokedexText[] = _(
-    "Because it lived almost entirely\n"
-    "underground, it is nearly blind.\n"
-    "It uses its antennae instead.");
+    "Žil skoro celý život pod zemí, takže je\n"
+    "téměř slepý. Místo očí používá tykadla.");
 
 const u8 gNincadaPokedexTextUnused[] = _("");
 
 const u8 gNinjaskPokedexText[] = _(
-    "This POKéMON is so quick, it is said to\n"
-    "be able to avoid any attack. It loves to\n"
-    "feed on tree sap.");
+    "Je tak rychlý, že se prý vyhne jakémukoli\n"
+    "útoku. Rád se živí mízou stromů.");
 
 const u8 gNinjaskPokedexTextUnused[] = _("");
 
 const u8 gShedinjaPokedexText[] = _(
-    "A most peculiar POKéMON that somehow\n"
-    "appears in a POKé BALL when a NINCADA\n"
-    "evolves.");
+    "Nesmírně zvláštní POKéMON, který se nějak\n"
+    "objeví v POKé BALLU, když se vyvine\n"
+    "NINCADA.");
 
 const u8 gShedinjaPokedexTextUnused[] = _("");
 
 const u8 gWhismurPokedexText[] = _(
-    "It usually murmurs, but starts crying\n"
-    "loudly if it senses danger. It stops when\n"
-    "its ear covers are shut.");
+    "Obvykle šeptá, ale když vycítí\n"
+    "nebezpečí, začne hlasitě křičet. Přestane,\n"
+    "když si zakryje uši.");
 
 const u8 gWhismurPokedexTextUnused[] = _("");
 
 const u8 gLoudredPokedexText[] = _(
-    "When it stamps its feet and bellows, it\n"
-    "generates ultrasonic waves that can blow\n"
-    "apart a house.");
+    "Když dupe a řve, vytváří ultrazvukové\n"
+    "vlny, které rozmetají i dům.");
 
 const u8 gLoudredPokedexTextUnused[] = _("");
 
 const u8 gExploudPokedexText[] = _(
-    "It emits a variety of sounds from the \n"
-    "holes all over its body. Its loud cries\n"
-    "can be heard from over six miles away.");
+    "Z děr po celém těle vydává nejrůznější\n"
+    "zvuky. Jeho hlasitý křik je slyšet přes 10\n"
+    "km daleko.");
 
 const u8 gExploudPokedexTextUnused[] = _("");
 
 const u8 gMakuhitaPokedexText[] = _(
-    "It grows stronger by enduring harsh\n"
-    "training. It is a gutsy POKéMON that can\n"
-    "withstand any attack.");
+    "Sílí tím, že vydrží tvrdý trénink. Je to\n"
+    "odvážný POKéMON, který vydrží jakýkoli\n"
+    "útok.");
 
 const u8 gMakuhitaPokedexTextUnused[] = _("");
 
 const u8 gHariyamaPokedexText[] = _(
-    "It stomps on the ground to build power.\n"
-    "It can send a 10-ton truck flying with a\n"
-    "straight-arm punch.");
+    "Dupáním nabírá sílu. Přímým úderem\n"
+    "odhodí i desetitunový náklaďák.");
 
 const u8 gHariyamaPokedexTextUnused[] = _("");
 
 const u8 gAzurillPokedexText[] = _(
-    "It battles by flinging around its tail,\n"
-    "which is bigger than its body. The\n"
-    "tail is a flotation device in water.");
+    "Bojuje tak, že máchá ocasem, který je\n"
+    "větší než jeho tělo. Ve vodě mu ocas\n"
+    "slouží jako plovák.");
 
 const u8 gAzurillPokedexTextUnused[] = _("");
 
 const u8 gNosepassPokedexText[] = _(
-    "Its magnetic nose consistently faces\n"
-    "north. Travelers check NOSEPASS to get\n"
-    "their bearings.");
+    "Jeho magnetický nos vždy míří na sever.\n"
+    "Cestovatelé se podle NOSEPASS orientují.");
 
 const u8 gNosepassPokedexTextUnused[] = _("");
 
 const u8 gSkittyPokedexText[] = _(
-    "It is said to be difficult to earn its\n"
-    "trust. However, it is extremely popular\n"
-    "for its cute looks and behavior.");
+    "Prý je těžké získat jeho důvěru. Pro\n"
+    "roztomilý vzhled a chování je ale\n"
+    "nesmírně oblíbený.");
 
 const u8 gSkittyPokedexTextUnused[] = _("");
 
 const u8 gDelcattyPokedexText[] = _(
-    "The favorite of trend-conscious\n"
-    "female TRAINERS, they are used in\n"
-    "competition for their style and fur.");
+    "Oblíbený u módně založených TRENÉREK.\n"
+    "Pro svůj styl a srst se používá\n"
+    "v soutěžích.");
 
 const u8 gDelcattyPokedexTextUnused[] = _("");
 
 const u8 gSableyePokedexText[] = _(
-    "It feeds on gemstone crystals.\n"
-    "In darkness, its eyes sparkle with the\n"
-    "glitter of jewels.");
+    "Živí se krystaly drahokamů. Ve tmě se mu\n"
+    "oči třpytí jako šperky.");
 
 const u8 gSableyePokedexTextUnused[] = _("");
 
 const u8 gMawilePokedexText[] = _(
-    "It uses its docile-looking face to lull\n"
-    "foes into complacency, then bites with its\n"
-    "huge, relentless jaws.");
+    "Mírnou tváří soupeře ukolébá a pak ho\n"
+    "kousne obrovskými, nemilosrdnými čelistmi.");
 
 const u8 gMawilePokedexTextUnused[] = _("");
 
 const u8 gAronPokedexText[] = _(
-    "It eats iron to build its steel body.\n"
-    "It is a pest that descends from mountains\n"
-    "to eat bridges and train tracks.");
+    "Jí železo, aby si vybudoval ocelové\n"
+    "tělo. Je to škůdce, který slézá z hor\n"
+    "a jí mosty a koleje.");
 
 const u8 gAronPokedexTextUnused[] = _("");
 
 const u8 gLaironPokedexText[] = _(
-    "It habitually shows off its strength with\n"
-    "the size of sparks it creates by ramming\n"
-    "its steel body into boulders.");
+    "Rád předvádí svou sílu velikostí jisker,\n"
+    "které vykřeše nárazem ocelového těla do\n"
+    "balvanů.");
 
 const u8 gLaironPokedexTextUnused[] = _("");
 
 const u8 gAggronPokedexText[] = _(
-    "It claims a large mountain as its sole\n"
-    "territory. It mercilessly thrashes those\n"
-    "that violate its space.");
+    "Celou velkou horu si nárokuje jako své\n"
+    "území. Nemilosrdně ztluče každého, kdo ho\n"
+    "naruší.");
 
 const u8 gAggronPokedexTextUnused[] = _("");
 
 const u8 gMedititePokedexText[] = _(
-    "It never skips its daily yoga training.\n"
-    "It heightens its inner strength through\n"
-    "meditation.");
+    "Nikdy nevynechá každodenní jógu. Meditací\n"
+    "posiluje svou vnitřní sílu.");
 
 const u8 gMedititePokedexTextUnused[] = _("");
 
 const u8 gMedichamPokedexText[] = _(
-    "It elegantly avoids attacks with dance-\n"
-    "like steps, then launches a devastating\n"
-    "blow in the same motion.");
+    "Elegantně se vyhýbá útokům taneční krokem\n"
+    "a stejným pohybem zasadí ničivou ránu.");
 
 const u8 gMedichamPokedexTextUnused[] = _("");
 
 const u8 gElectrikePokedexText[] = _(
-    "It stores static electricity in its fur\n"
-    "for discharging. It gives off sparks if a\n"
-    "storm approaches.");
+    "Ve srsti si ukládá statickou elektřinu.\n"
+    "Když se blíží bouřka, jiskří.");
 
 const u8 gElectrikePokedexTextUnused[] = _("");
 
 const u8 gManectricPokedexText[] = _(
-    "It rarely appears before people.\n"
-    "It is said to nest where lightning has\n"
-    "fallen.");
+    "Před lidmi se objevuje jen zřídka. Prý\n"
+    "hnízdí tam, kam udeřil blesk.");
 
 const u8 gManectricPokedexTextUnused[] = _("");
 
 const u8 gPluslePokedexText[] = _(
-    "It cheers on partners while scattering\n"
-    "sparks from its body. It climbs telephone\n"
-    "poles to absorb electricity.");
+    "Povzbuzuje parťáky a sype z těla jiskry.\n"
+    "Šplhá na telefonní sloupy a vstřebává\n"
+    "elektřinu.");
 
 const u8 gPluslePokedexTextUnused[] = _("");
 
 const u8 gMinunPokedexText[] = _(
-    "Its dislike of water makes it take shelter\n"
-    "under the eaves of houses in rain. It uses\n"
-    "pom-poms made of sparks for cheering.");
+    "Nemá rád vodu, takže se v dešti schovává\n"
+    "pod střechami. K fandění používá třásně\n"
+    "z jisker.");
 
 const u8 gMinunPokedexTextUnused[] = _("");
 
 const u8 gVolbeatPokedexText[] = _(
-    "It lives around clean ponds. At night,\n"
-    "its rear lights up. It converses with\n"
-    "others by flashing its light.");
+    "Žije u čistých rybníků. V noci mu svítí\n"
+    "zadeček. S ostatními se dorozumívá\n"
+    "blikáním.");
 
 const u8 gVolbeatPokedexTextUnused[] = _("");
 
 const u8 gIllumisePokedexText[] = _(
-    "It guides VOLBEAT to draw signs in night\n"
-    "skies. There are scientists that study the\n"
-    "patterns it creates.");
+    "Vede VOLBEAT, aby kreslili znaky na noční\n"
+    "obloze. Někteří vědci zkoumají vzory,\n"
+    "které vytváří.");
 
 const u8 gIllumisePokedexTextUnused[] = _("");
 
 const u8 gRoseliaPokedexText[] = _(
-    "Its flowers give off a relaxing fragrance.\n"
-    "The stronger its aroma, the healthier\n"
-    "the ROSELIA is.");
+    "Jeho květy voní uklidňující vůní. Čím\n"
+    "silnější vůně, tím zdravější ROSELIA je.");
 
 const u8 gRoseliaPokedexTextUnused[] = _("");
 
 const u8 gGulpinPokedexText[] = _(
-    "There is nothing its stomach can't digest.\n"
-    "While it is digesting, vile, overpowering\n"
-    "gases are expelled.");
+    "Jeho žaludek stráví úplně všechno. Při\n"
+    "trávení vypouští odporné, dusivé plyny.");
 
 const u8 gGulpinPokedexTextUnused[] = _("");
 
 const u8 gSwalotPokedexText[] = _(
-    "It can swallow a tire whole in one gulp.\n"
-    "It secretes a horribly toxic fluid from\n"
-    "the pores on its body.");
+    "Jedním douškem spolkne celou pneumatiku.\n"
+    "Z pórů na těle vylučuje strašně\n"
+    "jedovatou tekutinu.");
 
 const u8 gSwalotPokedexTextUnused[] = _("");
 
 const u8 gCarvanhaPokedexText[] = _(
-    "It lives in massive rivers that course\n"
-    "through jungles. It swarms prey that\n"
-    "enter its territory.");
+    "Žije v mohutných řekách v džunglích. Na\n"
+    "kořist, která vnikne na jeho území, se\n"
+    "vrhne v hejnu.");
 
 const u8 gCarvanhaPokedexTextUnused[] = _("");
 
 const u8 gSharpedoPokedexText[] = _(
-    "The ruffian of the seas, it has fangs that\n"
-    "crunch through iron. It swims by jetting\n"
-    "water from its rear.");
+    "Mořský hrubián, jehož tesáky překousnou\n"
+    "i železo. Plave tak, že stříká vodu ze\n"
+    "zadní části těla.");
 
 const u8 gSharpedoPokedexTextUnused[] = _("");
 
 const u8 gWailmerPokedexText[] = _(
-    "When it sucks in a large volume of\n"
-    "seawater, it becomes like a big, bouncy\n"
-    "ball. It eats a ton of food daily.");
+    "Když nasaje hodně mořské vody, je jako\n"
+    "velký skákací míč. Denně sní tunu jídla.");
 
 const u8 gWailmerPokedexTextUnused[] = _("");
 
 const u8 gWailordPokedexText[] = _(
-    "It is among the largest of all POKéMON.\n"
-    "It herds prey in a pack then swallows the\n"
-    "massed prey in one gulp.");
+    "Patří k největším POKéMONŮM. Kořist\n"
+    "nažene do hejna a pak ji spolkne jedním\n"
+    "douškem.");
 
 const u8 gWailordPokedexTextUnused[] = _("");
 
 const u8 gNumelPokedexText[] = _(
-    "Magma of almost 2,200 degrees Fahrenheit\n"
-    "courses through its body. When it grows\n"
-    "cold, the magma hardens and slows it.");
+    "Tělem mu proudí magma o teplotě skoro 1\n"
+    "200 stupňů. Když vychladne, ztuhne\n"
+    "a zpomalí ho.");
 
 const u8 gNumelPokedexTextUnused[] = _("");
 
 const u8 gCameruptPokedexText[] = _(
-    "If angered, the humps on its back erupt\n"
-    "in a shower of molten lava. It lives in\n"
-    "the craters of volcanoes.");
+    "Když se rozzlobí, hrby na zádech vychrlí\n"
+    "spršku žhavé lávy. Žije v kráterech\n"
+    "sopek.");
 
 const u8 gCameruptPokedexTextUnused[] = _("");
 
 const u8 gTorkoalPokedexText[] = _(
-    "It burns coal inside its shell. If it is\n"
-    "attacked, it belches thick, black smoke\n"
-    "and flees.");
+    "V krunýři pálí uhlí. Když ho někdo\n"
+    "napadne, vypustí hustý černý kouř\n"
+    "a uteče.");
 
 const u8 gTorkoalPokedexTextUnused[] = _("");
 
 const u8 gSpoinkPokedexText[] = _(
-    "It apparently dies if it stops bouncing\n"
-    "about. It carries a pearl from CLAMPERL\n"
-    "on its head.");
+    "Prý když přestane poskakovat, zemře. Na\n"
+    "hlavě nosí perlu z CLAMPERL.");
 
 const u8 gSpoinkPokedexTextUnused[] = _("");
 
 const u8 gGrumpigPokedexText[] = _(
-    "It can gain control over foes by doing\n"
-    "odd dance steps. The black pearls on its\n"
-    "forehead are precious gems.");
+    "Zvláštními tanečními kroky dokáže ovládat\n"
+    "soupeře. Černé perly na čele jsou vzácné\n"
+    "drahokamy.");
 
 const u8 gGrumpigPokedexTextUnused[] = _("");
 
 const u8 gSpindaPokedexText[] = _(
-    "No two SPINDA are said to have identical\n"
-    "patterns. It confuses foes with its\n"
-    "stumbling motions.");
+    "Prý nemají žádní dva SPINDA stejný vzor.\n"
+    "Soupeře mate svým vrávoráním.");
 
 const u8 gSpindaPokedexTextUnused[] = _("");
 
 const u8 gTrapinchPokedexText[] = _(
-    "It lives in arid deserts. It makes a\n"
-    "sloping pit trap in sand where it\n"
-    "patiently awaits prey.");
+    "Žije ve vyprahlých pouštích. Vyhrabe si\n"
+    "v písku šikmou jámu a trpělivě čeká na\n"
+    "kořist.");
 
 const u8 gTrapinchPokedexTextUnused[] = _("");
 
 const u8 gVibravaPokedexText[] = _(
-    "It generates ultrasonic waves by violently\n"
-    "flapping its wings. After making its prey\n"
-    "faint, it melts the prey with acid.");
+    "Zběsilým máváním křídel vytváří\n"
+    "ultrazvuk. Když kořist omráčí, rozpustí ji\n"
+    "kyselinou.");
 
 const u8 gVibravaPokedexTextUnused[] = _("");
 
 const u8 gFlygonPokedexText[] = _(
-    "It hides itself by kicking up desert sand\n"
-    "with its wings. Red covers shield its eyes\n"
-    "from sand.");
+    "Křídly zvíří pouštní písek a ukryje se\n"
+    "v něm. Červené kryty mu chrání oči před\n"
+    "pískem.");
 
 const u8 gFlygonPokedexTextUnused[] = _("");
 
 const u8 gCacneaPokedexText[] = _(
-    "It prefers harsh environments such as\n"
-    "deserts. It can survive for 30 days on\n"
-    "water stored in its body.");
+    "Má rád drsná prostředí jako pouště.\n"
+    "S vodou uloženou v těle přežije 30 dní.");
 
 const u8 gCacneaPokedexTextUnused[] = _("");
 
 const u8 gCacturnePokedexText[] = _(
-    "It lives in deserts. It becomes active at\n"
-    "night when it hunts for prey exhausted\n"
-    "from the desert's heat.");
+    "Žije v pouštích. V noci ožívá a loví\n"
+    "kořist vyčerpanou pouštním vedrem.");
 
 const u8 gCacturnePokedexTextUnused[] = _("");
 
 const u8 gSwabluPokedexText[] = _(
-    "It constantly grooms its cotton-like\n"
-    "wings. It takes a shower to clean\n"
-    "itself if it becomes dirty.");
+    "Pořád si upravuje křídla podobná vatě.\n"
+    "Když se ušpiní, osprchuje se.");
 
 const u8 gSwabluPokedexTextUnused[] = _("");
 
 const u8 gAltariaPokedexText[] = _(
-    "If you hear a beautiful melody trilling\n"
-    "deep among mountains far from people,\n"
-    "it is ALTARIA's humming.");
+    "Když hluboko v horách daleko od lidí\n"
+    "uslyšíš krásnou melodii, je to broukání\n"
+    "ALTARIA.");
 
 const u8 gAltariaPokedexTextUnused[] = _("");
 
 const u8 gZangoosePokedexText[] = _(
-    "If it comes across a SEVIPER, its fur\n"
-    "bristles and it assumes its battle pose.\n"
-    "Its sharp claws are its best weapon.");
+    "Když narazí na SEVIPER, naježí se mu\n"
+    "srst a zaujme bojový postoj. Ostré drápy\n"
+    "jsou jeho nejlepší zbraň.");
 
 const u8 gZangoosePokedexTextUnused[] = _("");
 
 const u8 gSeviperPokedexText[] = _(
-    "It sharpens its swordlike tail on hard\n"
-    "rocks. It hides in tall grass and strikes\n"
-    "unwary prey with venomous fangs.");
+    "Ocas jako meč si brousí o tvrdé skály.\n"
+    "Skrývá se ve vysoké trávě a útočí\n"
+    "jedovatými tesáky.");
 
 const u8 gSeviperPokedexTextUnused[] = _("");
 
 const u8 gLunatonePokedexText[] = _(
-    "Its health ebbs and flows with the lunar\n"
-    "cycle. It brims with power when exposed\n"
-    "to the light of the full moon.");
+    "Jeho zdraví se mění podle fází Měsíce.\n"
+    "Při úplňku přetéká silou.");
 
 const u8 gLunatonePokedexTextUnused[] = _("");
 
 const u8 gSolrockPokedexText[] = _(
-    "It absorbs solar energy during the day.\n"
-    "Always expressionless, it can sense what\n"
-    "its foe is thinking.");
+    "Přes den vstřebává sluneční energii. Je\n"
+    "vždy bez výrazu, ale vycítí, na co\n"
+    "soupeř myslí.");
 
 const u8 gSolrockPokedexTextUnused[] = _("");
 
 const u8 gBarboachPokedexText[] = _(
-    "It probes muddy riverbeds with its two\n"
-    "long whiskers. A slimy film protects its\n"
-    "body.");
+    "Dvěma dlouhými vousy prohledává bahnitá\n"
+    "říční dna. Tělo mu chrání slizká vrstva.");
 
 const u8 gBarboachPokedexTextUnused[] = _("");
 
 const u8 gWhiscashPokedexText[] = _(
-    "It makes its nest at the bottom of \n"
-    "swamps. It will eat anything - if it is\n"
-    "alive, WHISCASH will eat it.");
+    "Hnízdí na dně bažin. Jí cokoli. Co je\n"
+    "živé, to WHISCASH sní.");
 
 const u8 gWhiscashPokedexTextUnused[] = _("");
 
 const u8 gCorphishPokedexText[] = _(
-    "It came from overseas. It is a very hardy\n"
-    "creature that will quickly proliferate,\n"
-    "even in polluted streams.");
+    "Připlul ze zámoří. Je velmi odolný\n"
+    "a rychle se množí i ve znečištěných\n"
+    "potocích.");
 
 const u8 gCorphishPokedexTextUnused[] = _("");
 
 const u8 gCrawdauntPokedexText[] = _(
-    "A rough customer that wildly flails its\n"
-    "giant claws. It is said to be extremely\n"
-    "hard to raise.");
+    "Hrubián, který divoce mává obřími\n"
+    "klepety. Prý se nesmírně těžko vychovává.");
 
 const u8 gCrawdauntPokedexTextUnused[] = _("");
 
 const u8 gBaltoyPokedexText[] = _(
-    "It was discovered in ancient ruins.\n"
-    "While moving, it constantly spins. It\n"
-    "stands on one foot even when asleep.");
+    "Objevili ho v dávných ruinách. Při pohybu\n"
+    "se neustále točí. I ve spánku stojí na\n"
+    "jedné noze.");
 
 const u8 gBaltoyPokedexTextUnused[] = _("");
 
 const u8 gClaydolPokedexText[] = _(
-    "It appears to have been born from clay\n"
-    "dolls made by ancient people. It uses\n"
-    "telekinesis to float and move.");
+    "Zřejmě vznikl z hliněných panenek dávných\n"
+    "lidí. Telekinezí se vznáší a pohybuje.");
 
 const u8 gClaydolPokedexTextUnused[] = _("");
 
 const u8 gLileepPokedexText[] = _(
-    "It became extinct roughly 100 million\n"
-    "years ago. It was regenerated from a\n"
-    "fossil using advanced techniques.");
+    "Vyhynul asi před 100 miliony let.\n"
+    "Pokročilými technikami byl obnoven\n"
+    "z fosilie.");
 
 const u8 gLileepPokedexTextUnused[] = _("");
 
 const u8 gCradilyPokedexText[] = _(
-    "It ensnares prey with its eight tentacles.\n"
-    "It then melts the prey with a strong acid\n"
-    "before feeding.");
+    "Kořist zaplete osmi chapadly. Pak ji před\n"
+    "jídlem rozpustí silnou kyselinou.");
 
 const u8 gCradilyPokedexTextUnused[] = _("");
 
 const u8 gAnorithPokedexText[] = _(
-    "It is a kind of POKéMON progenitor.\n"
-    "It uses its extending claws to catch prey\n"
-    "hiding among rocks on the seafloor.");
+    "Je to jakýsi předek POKéMONŮ.\n"
+    "Vysouvacími drápy chytá kořist skrytou\n"
+    "mezi kameny na mořském dně.");
 
 const u8 gAnorithPokedexTextUnused[] = _("");
 
 const u8 gArmaldoPokedexText[] = _(
-    "Protected by a hard shell, its body is\n"
-    "very sturdy. It skewers prey with its\n"
-    "claws to feed.");
+    "Chráněné tvrdým krunýřem je jeho tělo\n"
+    "velmi odolné. Kořist napichuje na drápy.");
 
 const u8 gArmaldoPokedexTextUnused[] = _("");
 
 const u8 gFeebasPokedexText[] = _(
-    "Ridiculed for its shabby appearance,\n"
-    "it is ignored by researchers. It lives in\n"
-    "ponds choked with weeds.");
+    "Pro svůj ošuntělý vzhled je terčem\n"
+    "posměchu a vědci si ho nevšímají. Žije\n"
+    "v zarostlých rybnících.");
 
 const u8 gFeebasPokedexTextUnused[] = _("");
 
 const u8 gMiloticPokedexText[] = _(
-    "MILOTIC is breathtakingly beautiful.\n"
-    "Those that see it are said to forget their\n"
-    "combative spirits.");
+    "MILOTIC je dechberoucí krasavec. Prý kdo\n"
+    "ho uvidí, zapomene na bojovného ducha.");
 
 const u8 gMiloticPokedexTextUnused[] = _("");
 
 const u8 gCastformPokedexText[] = _(
-    "It has the ability to change its form into\n"
-    "the sun, the rain, or a snow cloud, \n"
-    "depending on the weather.");
+    "Podle počasí dokáže měnit podobu na\n"
+    "slunce, déšť nebo sněhový mrak.");
 
 const u8 gCastformPokedexTextUnused[] = _("");
 
 const u8 gKecleonPokedexText[] = _(
-    "It changes body color to blend in with\n"
-    "its surroundings. It also changes color if\n"
-    "it is happy or sad.");
+    "Mění barvu těla, aby splynul s okolím.\n"
+    "Barvu mění i podle toho, jestli je\n"
+    "šťastný, nebo smutný.");
 
 const u8 gKecleonPokedexTextUnused[] = _("");
 
 const u8 gShuppetPokedexText[] = _(
-    "It loves to feed on feelings like envy and\n"
-    "malice. Its upright horn catches the\n"
-    "emotions of people.");
+    "Rád se živí pocity jako závist a zloba.\n"
+    "Vztyčený roh zachytává emoce lidí.");
 
 const u8 gShuppetPokedexTextUnused[] = _("");
 
 const u8 gBanettePokedexText[] = _(
-    "Strong feelings of hatred turned a puppet\n"
-    "into a POKéMON. If it opens its mouth,\n"
-    "its cursed energy escapes.");
+    "Silná nenávist proměnila loutku\n"
+    "v POKéMONA. Když otevře ústa, unikne\n"
+    "z nich prokletá energie.");
 
 const u8 gBanettePokedexTextUnused[] = _("");
 
 const u8 gDuskullPokedexText[] = _(
-    "Making itself invisible, it silently sneaks\n"
-    "up to prey. It has the ability to slip\n"
-    "through thick walls.");
+    "Zneviditelní se a tiše se připlíží ke\n"
+    "kořisti. Umí proklouznout i tlustou zdí.");
 
 const u8 gDuskullPokedexTextUnused[] = _("");
 
 const u8 gDusclopsPokedexText[] = _(
-    "Its body is entirely hollow. When it opens\n"
-    "its mouth, it sucks everything in as if it\n"
-    "were a black hole.");
+    "Jeho tělo je úplně duté. Když otevře\n"
+    "ústa, nasaje všechno jako černá díra.");
 
 const u8 gDusclopsPokedexTextUnused[] = _("");
 
 const u8 gTropiusPokedexText[] = _(
-    "It lives in tropical jungles. The bunch of\n"
-    "fruit around its neck is delicious.\n"
-    "The fruit grows twice a year.");
+    "Žije v tropických džunglích. Trs ovoce\n"
+    "kolem jeho krku je lahodný. Ovoce roste\n"
+    "dvakrát za rok.");
 
 const u8 gTropiusPokedexTextUnused[] = _("");
 
 const u8 gChimechoPokedexText[] = _(
-    "It travels by riding on winds. It cleverly\n"
-    "uses its long tail to pluck nuts and\n"
-    "berries, which it loves to eat.");
+    "Cestuje na větru. Dlouhým ocasem chytře\n"
+    "trhá ořechy a bobule, které rád jí.");
 
 const u8 gChimechoPokedexTextUnused[] = _("");
 
 const u8 gAbsolPokedexText[] = _(
-    "It appears when it senses an impending\n"
-    "natural disaster. As a result, it was\n"
-    "mistaken as a doom-bringer.");
+    "Objevuje se, když vycítí blížící se\n"
+    "přírodní katastrofu. Proto ho mylně\n"
+    "považovali za posla zkázy.");
 
 const u8 gAbsolPokedexTextUnused[] = _("");
 
 const u8 gWynautPokedexText[] = _(
-    "It tends to move in a pack with others.\n"
-    "They cluster in a tight group to sleep in\n"
-    "a cave.");
+    "Rád se pohybuje ve skupině s ostatními.\n"
+    "Spí v jeskyni natěsnaní u sebe.");
 
 const u8 gWynautPokedexTextUnused[] = _("");
 
 const u8 gSnoruntPokedexText[] = _(
-    "It is said that a home visited by a\n"
-    "SNORUNT will prosper. It can withstand\n"
-    "cold of minus 150 degrees Fahrenheit.");
+    "Prý domov, který navštíví SNORUNT, bude\n"
+    "prosperovat. Vydrží mráz 100 stupňů pod\n"
+    "nulou.");
 
 const u8 gSnoruntPokedexTextUnused[] = _("");
 
 const u8 gGlaliePokedexText[] = _(
-    "It has a body of ice that won't melt,\n"
-    "even with fire. It can instantly freeze\n"
-    "moisture in the atmosphere.");
+    "Má tělo z ledu, který neroztaje ani\n"
+    "ohněm. Okamžitě dokáže zmrazit vlhkost ve\n"
+    "vzduchu.");
 
 const u8 gGlaliePokedexTextUnused[] = _("");
 
 const u8 gSphealPokedexText[] = _(
-    "Its body is covered in fluffy fur. The\n"
-    "fur keeps it from feeling cold while\n"
-    "it is rolling on ice.");
+    "Tělo mu pokrývá nadýchaná srst. Díky ní\n"
+    "mu není zima, když se kutálí po ledu.");
 
 const u8 gSphealPokedexTextUnused[] = _("");
 
 const u8 gSealeoPokedexText[] = _(
-    "It touches new things with its nose to\n"
-    "test for smell and feel. It plays by\n"
-    "spinning SPHEAL on its nose.");
+    "Nových věcí se dotýká nosem, aby poznal\n"
+    "jejich vůni a povrch. Hraje si tak, že na\n"
+    "nose točí SPHEAL.");
 
 const u8 gSealeoPokedexTextUnused[] = _("");
 
 const u8 gWalreinPokedexText[] = _(
-    "It swims through icy seas while shattering\n"
-    "ice floes with its large tusks. It is\n"
-    "protected by its thick blubber.");
+    "Plave ledovými moři a velkými kly rozbíjí\n"
+    "ledové kry. Chrání ho tlustá vrstva tuku.");
 
 const u8 gWalreinPokedexTextUnused[] = _("");
 
 const u8 gClamperlPokedexText[] = _(
-    "It is protected by a sturdy shell.\n"
-    "Once in a lifetime, it makes a magnificent\n"
-    "pearl.");
+    "Chrání ho pevná lastura. Jednou za život\n"
+    "vytvoří nádhernou perlu.");
 
 const u8 gClamperlPokedexTextUnused[] = _("");
 
 const u8 gHuntailPokedexText[] = _(
-    "It lives deep in the sea where no light\n"
-    "ever filters down. It lights up its small\n"
-    "fishlike tail to attract prey.");
+    "Žije hluboko v moři, kam nikdy nepronikne\n"
+    "světlo. Rozsvítí svůj malý rybí ocas\n"
+    "a láká kořist.");
 
 const u8 gHuntailPokedexTextUnused[] = _("");
 
 const u8 gGorebyssPokedexText[] = _(
-    "Its swimming form is exquisitely elegant.\n"
-    "With its thin mouth, it feeds on seaweed\n"
-    "that grows between rocks.");
+    "Když plave, je nesmírně elegantní.\n"
+    "Tenkými ústy se živí řasami, které rostou\n"
+    "mezi skalami.");
 
 const u8 gGorebyssPokedexTextUnused[] = _("");
 
 const u8 gRelicanthPokedexText[] = _(
-    "It has remained unchanged for 100\n"
-    "million years. It was discovered\n"
-    "during a deep-sea exploration.");
+    "Za 100 milionů let se nezměnil. Objevili\n"
+    "ho při hlubinném průzkumu moře.");
 
 const u8 gRelicanthPokedexTextUnused[] = _("");
 
 const u8 gLuvdiscPokedexText[] = _(
-    "During the spawning season, countless\n"
-    "LUVDISC congregate at coral reefs,\n"
-    "turning the waters pink.");
+    "V období tření se u korálových útesů\n"
+    "shromáždí nespočet LUVDISC a voda\n"
+    "zrůžoví.");
 
 const u8 gLuvdiscPokedexTextUnused[] = _("");
 
 const u8 gBagonPokedexText[] = _(
-    "Its steel-hard head can shatter boulders.\n"
-    "It longingly hopes for wings to grow so it\n"
-    "can fly.");
+    "Hlavou tvrdou jako ocel roztříští\n"
+    "balvany. Toužebně doufá, že mu narostou\n"
+    "křídla a bude létat.");
 
 const u8 gBagonPokedexTextUnused[] = _("");
 
 const u8 gShelgonPokedexText[] = _(
-    "Its armored body makes all attacks bounce\n"
-    "off. The armor is too tough, however,\n"
-    "making it heavy and somewhat sluggish.");
+    "Od jeho obrněného těla se odrazí všechny\n"
+    "útoky. Pancíř je ale tak tvrdý, že je\n"
+    "těžký a pomalý.");
 
 const u8 gShelgonPokedexTextUnused[] = _("");
 
 const u8 gSalamencePokedexText[] = _(
-    "It becomes uncontrollable if it is\n"
-    "enraged. It destroys everything with\n"
-    "shredding claws and fire.");
+    "Když se rozzuří, je nezvladatelný.\n"
+    "Všechno zničí trhajícími drápy a ohněm.");
 
 const u8 gSalamencePokedexTextUnused[] = _("");
 
 const u8 gBeldumPokedexText[] = _(
-    "It uses magnetic waves to converse with\n"
-    "its kind. All the cells in its body are\n"
-    "magnetic.");
+    "S ostatními se dorozumívá magnetickými\n"
+    "vlnami. Všechny buňky v jeho těle jsou\n"
+    "magnetické.");
 
 const u8 gBeldumPokedexTextUnused[] = _("");
 
 const u8 gMetangPokedexText[] = _(
-    "It floats midair using magnetism. Its body\n"
-    "is so tough, even a crash with a jet\n"
-    "plane won't leave a scratch.");
+    "Magnetismem se vznáší ve vzduchu. Jeho\n"
+    "tělo je tak tvrdé, že ho nepoškrábe ani\n"
+    "srážka s tryskáčem.");
 
 const u8 gMetangPokedexTextUnused[] = _("");
 
 const u8 gMetagrossPokedexText[] = _(
-    "It is formed by two METANG fusing.\n"
-    "Its four brains are said to be superior\n"
-    "to a supercomputer.");
+    "Vzniká spojením dvou METANG. Jeho čtyři\n"
+    "mozky prý předčí superpočítač.");
 
 const u8 gMetagrossPokedexTextUnused[] = _("");
 
 const u8 gRegirockPokedexText[] = _(
-    "It is entirely composed of rocks with no\n"
-    "sign of a brain or heart. It is a mystery\n"
-    "even to modern scientists.");
+    "Je celý z kamení bez známky mozku či\n"
+    "srdce. Je záhadou i pro dnešní vědce.");
 
 const u8 gRegirockPokedexTextUnused[] = _("");
 
 const u8 gRegicePokedexText[] = _(
-    "Research revealed that its body is made\n"
-    "of the same kind of ice that is found at\n"
-    "the South Pole.");
+    "Výzkum odhalil, že jeho tělo je ze\n"
+    "stejného ledu, jaký se nachází na jižním\n"
+    "pólu.");
 
 const u8 gRegicePokedexTextUnused[] = _("");
 
 const u8 gRegisteelPokedexText[] = _(
-    "It is sturdier than any kind of metal.\n"
-    "It hardened due to pressure underground\n"
-    "over tens of thousands of years.");
+    "Je pevnější než jakýkoli kov. Ztvrdl\n"
+    "tlakem pod zemí za desítky tisíc let.");
 
 const u8 gRegisteelPokedexTextUnused[] = _("");
 
 const u8 gLatiasPokedexText[] = _(
-    "It can telepathically communicate with\n"
-    "people. It changes its appearance using\n"
-    "its down that refracts light.");
+    "Umí s lidmi telepaticky komunikovat. Mění\n"
+    "vzhled pomocí peří, které láme světlo.");
 
 const u8 gLatiasPokedexTextUnused[] = _("");
 
 const u8 gLatiosPokedexText[] = _(
-    "It has a docile temperament and dislikes\n"
-    "fighting. Tucking in its forelegs, it can\n"
-    "fly faster than a jet plane.");
+    "Má mírnou povahu a nerad bojuje. Když\n"
+    "přitáhne přední končetiny, letí rychleji\n"
+    "než tryskáč.");
 
 const u8 gLatiosPokedexTextUnused[] = _("");
 
 const u8 gKyogrePokedexText[] = _(
-    "This POKéMON is said to have\n"
-    "expanded the sea by bringing heavy rains.\n"
-    "It has the power to control water.");
+    "Prý tento POKéMON přinesl silné deště\n"
+    "a rozšířil moře. Má moc ovládat vodu.");
 
 const u8 gKyogrePokedexTextUnused[] = _("");
 
 const u8 gGroudonPokedexText[] = _(
-    "This legendary POKéMON is said to\n"
-    "represent the land. It went to sleep after\n"
-    "dueling KYOGRE.");
+    "Prý tento legendární POKéMON představuje\n"
+    "pevninu. Po souboji s KYOGRE usnul.");
 
 const u8 gGroudonPokedexTextUnused[] = _("");
 
 const u8 gRayquazaPokedexText[] = _(
-    "It has lived for hundreds of millions of\n"
-    "years in the ozone layer. Its flying form\n"
-    "looks like a meteor.");
+    "Stovky milionů let žije v ozonové vrstvě.\n"
+    "Když letí, vypadá jako meteor.");
 
 const u8 gRayquazaPokedexTextUnused[] = _("");
 
 const u8 gJirachiPokedexText[] = _(
-    "It is said to make any wish come true.\n"
-    "It is awake for only seven days out of\n"
-    "a thousand years.");
+    "Prý splní jakékoli přání. Za tisíc let je\n"
+    "vzhůru jen sedm dní.");
 
 const u8 gJirachiPokedexTextUnused[] = _("");
 
 const u8 gDeoxysPokedexText[] = _(
-    "This DEOXYS has transformed into its\n"
-    "aggressive guise. It can fool enemies by\n"
-    "altering its appearance.");
+    "Tento DEOXYS se proměnil do útočné\n"
+    "podoby. Změnou vzhledu dokáže oklamat\n"
+    "nepřátele.");
 
 const u8 gDeoxysPokedexTextUnused[] = _("");

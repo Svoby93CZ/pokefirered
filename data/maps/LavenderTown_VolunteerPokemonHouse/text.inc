@@ -1,25 +1,26 @@
 LavenderTown_PokemonCenter_1F_Text_HearMrFujiNotFromAroundHere::
-    .string "I recently moved to this town.\p"
-    .string "I hear that MR. FUJI's not from\n"
-    .string "these parts originally, either.$"
+    .string "Nedávno jsem se do tohohle města\n"
+    .string "přistěhoval.\p"
+    .string "Slyšel jsem, že ani MR. FUJI\n"
+    .string "původně není odsud.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_WhereDidMrFujiGo::
-    .string "That's odd, MR. FUJI isn't here.\n"
-    .string "Where'd he go?$"
+    .string "To je divné, MR. FUJI tu není.\n"
+    .string "Kam šel?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiWasPrayingForCubonesMother::
-    .string "MR. FUJI had been praying alone\n"
-    .string "for CUBONE's mother.$"
+    .string "MR. FUJI se o samotě modlil za\n"
+    .string "matku CUBONE.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons::
-    .string "This is really MR. FUJI's house.\p"
-    .string "He's really kind.\p"
-    .string "He looks after abandoned and\n"
-    .string "orphaned POKéMON.$"
+    .string "Ve skutečnosti tu bydlí MR. FUJI.\p"
+    .string "Je moc hodný.\p"
+    .string "Stará se o opuštěné a osiřelé\n"
+    .string "POKéMONY.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug::
-    .string "It's so warm!\n"
-    .string "POKéMON are so nice to hug.$"
+    .string "Je tak teplý!\n"
+    .string "POKéMONY je tak příjemné objímat.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Nidorino::
     .string "NIDORINO: Gaoo!$"
@@ -29,39 +30,40 @@ LavenderTown_VolunteerPokemonHouse_Text_Psyduck::
 
 LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
     .string "MR. FUJI: {PLAYER}…\p"
-    .string "Your POKéDEX quest is one that\n"
-    .string "requires strong dedication.\p"
-    .string "Without deep love for POKéMON,\n"
-    .string "your quest may fail.\p"
-    .string "I'm not sure if this will help you,\n"
-    .string "but I'd like you to have it.$"
+    .string "Tvůj úkol s POKéDEXEM vyžaduje\n"
+    .string "velké odhodlání.\p"
+    .string "Bez hluboké lásky k POKéMONŮM se\n"
+    .string "ti to možná nepodaří.\p"
+    .string "Nevím, jestli ti to pomůže, ale\n"
+    .string "rád bych ti dal tohle.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
-    .string "{PLAYER} received a POKé FLUTE\n"
-    .string "from MR. FUJI.$"
+    .string "{PLAYER} dostává od MR. FUJIHO\n"
+    .string "POKé FLUTE.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
-    .string "Upon hearing the POKé FLUTE,\n"
-    .string "sleeping POKéMON will spring awake.\p"
-    .string "Try using it on POKéMON that are\n"
-    .string "sleeping obstacles.$"
+    .string "Když spící POKéMONI uslyší POKé\n"
+    .string "FLUTE, hned se proberou.\p"
+    .string "Zkus ji použít na spící POKéMONY,\n"
+    .string "kteří ti stojí v cestě.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis::
-    .string "You must make room for this!$"
+    .string "Musíš na tohle udělat místo!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
-    .string "MR. FUJI: Has my POKé FLUTE\n"
-    .string "helped you?$"
+    .string "MR. FUJI: Pomohla ti moje POKé\n"
+    .string "FLUTE?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::
     .string "POKéMON FAN MAGAZINE\n"
-    .string "Monthly Grand Prize Drawing!\p"
-    .string "The application form is…\p"
-    .string "Gone! It's been clipped out.\n"
-    .string "Someone must have applied already.$"
+    .string "Měsíční slosování o hlavní cenu!\p"
+    .string "Přihláška je…\p"
+    .string "Pryč! Někdo ji vystřihl.\n"
+    .string "Už se asi někdo přihlásil.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelf::
-    .string "POKéMON magazines line the shelf.\p"
+    .string "Police je plná časopisů\n"
+    .string "o POKéMONECH.\p"
     .string "POKéMON INSIDER…\p"
     .string "POKéMON FAN…$"
 

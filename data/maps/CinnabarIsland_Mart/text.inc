@@ -1,9 +1,9 @@
 CinnabarIsland_Mart_Text_DontTheyHaveXAttack::
-    .string "Don't they have X ATTACK?\p"
-    .string "I like it because it raises the\n"
-    .string "ATTACK stat in battle.$"
+    .string "Nemají tu X ATTACK?\p"
+    .string "Mám ho ráda, protože v souboji\n"
+    .string "zvyšuje ÚTOK.$"
 
 CinnabarIsland_Mart_Text_ExtraItemsNeverHurt::
-    .string "It never hurts to have extra items.\n"
-    .string "You never know what might happen.$"
+    .string "Předmětů navíc není nikdy dost.\n"
+    .string "Člověk nikdy neví, co se stane.$"
 

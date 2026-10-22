@@ -1,54 +1,53 @@
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
-    .string "Okay, set six POKé BALLS in my\n"
-    .string "belt…\p"
-    .string "Yeah, that'll do it. At most, you\n"
-    .string "can have six POKéMON with you.$"
+    .string "Tak, šest POKé BALLŮ za opasek…\p"
+    .string "Jo, to bude stačit. S sebou můžeš\n"
+    .string "mít nejvýš šest POKéMONŮ.$"
 
 Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
-    .string "TEAM ROCKET attacks CERULEAN\n"
-    .string "citizens…\p"
-    .string "Not a day goes by without TEAM\n"
-    .string "ROCKET being in the news.$"
+    .string "TEAM ROCKET útočí na obyvatele\n"
+    .string "CERULEANU…\p"
+    .string "Neuplyne den, aby o TEAM ROCKET\n"
+    .string "nepsali v novinách.$"
 
 Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
-    .string "MAN: Hello there, laddie!\n"
-    .string "Have I got a deal just for you!\p"
-    .string "I'll let you have a secret POKéMON\n"
-    .string "- a MAGIKARP - for just ¥500!\p"
-    .string "So, you'll buy it, am I right?$"
+    .string "MUŽ: Nazdar, chlapče!\n"
+    .string "Mám pro tebe nabídku!\p"
+    .string "Přenechám ti tajného POKéMONA za\n"
+    .string "pouhých ¥500! Je to MAGIKARP!\p"
+    .string "Tak co, koupíš si ho, že jo?$"
 
 Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
-    .string "MAN: Hello there, sweetie pie!\n"
-    .string "Have I got a deal just for you!\p"
-    .string "I'll let you have a secret POKéMON\n"
-    .string "- a MAGIKARP - for just ¥500!\p"
-    .string "So, you'll buy it, am I right?$"
+    .string "MUŽ: Nazdar, zlatíčko!\n"
+    .string "Mám pro tebe nabídku!\p"
+    .string "Přenechám ti tajného POKéMONA za\n"
+    .string "pouhých ¥500! Je to MAGIKARP!\p"
+    .string "Tak co, koupíš si ho, že jo?$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
-    .string "{PLAYER} paid an outrageous ¥500\n"
-    .string "and bought the MAGIKARP…$"
+    .string "{PLAYER} platí nehorázných ¥500 za\n"
+    .string "MAGIKARP…$"
 
 Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou::
-    .string "No? You say no? I'm only doing this\n"
-    .string "as a favor to you!$"
+    .string "Ne? Říkáš ne? Vždyť to dělám jen\n"
+    .string "kvůli tobě!$"
 
 Route4_PokemonCenter_1F_Text_NoRoomForMorePokemon::
-    .string "There's no more room for any more\n"
-    .string "POKéMON, it looks like.$"
+    .string "Vypadá to, že na dalšího POKéMONA\n"
+    .string "už nemáš místo.$"
 
 Route4_PokemonCenter_1F_Text_YoullNeedMoreMoney::
-    .string "You'll need more money than that!$"
+    .string "Na to budeš potřebovat víc peněz!$"
 
 Route4_PokemonCenter_1F_Text_IDontGiveRefunds::
-    .string "MAN: Well, I don't give refunds.\n"
-    .string "You knew what you were getting!$"
+    .string "MUŽ: No, peníze nevracím.\n"
+    .string "Obchod je obchod!$"
 
 Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPC::
-    .string "Sometimes, you'll have too many\n"
-    .string "POKéMON with you to add any more.\p"
-    .string "In that case, you should just\n"
-    .string "store some using any PC.$"
+    .string "Občas budeš mít u sebe tolik\n"
+    .string "POKéMONŮ, že dalšího nepřidáš.\p"
+    .string "V tom případě některé ulož do\n"
+    .string "libovolného PC.$"
 
 Route4_PokemonCenter_1F_Text_ItsANewspaper::
-    .string "It's a newspaper.$"
+    .string "Jsou to noviny.$"
 
