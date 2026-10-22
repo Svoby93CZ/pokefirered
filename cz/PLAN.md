@@ -44,6 +44,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
   - [x] 5a popisy předmětů (`src/data/items.json`, TM/HM berou popis útoku)
   - [x] 5b popisy útoků (`src/move_descriptions.c`)
   - [x] 5c popisy schopností a povahy (`abilities.h`, `nature_names.h`; povahy v ženském rodě kvůli „Povaha: …“)
+  - [x] 5d kategorie v Pokédexu (`pokedex_entries.h`, jedno slovo max 11 znaků, přídavné jméno k „POKéMON“)
 - [ ] **6. Nápověda a Fame Checker**: `help_system.inc`, `fame_checker.inc`, `gFameCheckerText_*` v `strings.c`.
 - [ ] **7. Ostatní**: klávesnice pro jména s češtinou (`naming_screen.c`; tlačítka lower/BACK/OK/START/SELECT
   jsou obrázky v `graphics/naming_screen/`, ověřeno v mGBA), Trainer Tower, Union Room, Wireless,
