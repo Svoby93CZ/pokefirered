@@ -1,7 +1,7 @@
 SevenIsland_Mart_Text_MonHavePersonalitiesOfTheirOwn::
     .string "POKéMONI mají vlastní povahy,\n"
     .string "stejně jako lidé.\p"
-    .string "Můj PIKACHU má povahu HASTY,\n"
+    .string "Můj PIKACHU má UNÁHLENOU povahu,\n"
     .string "takže z něj vyrostl rychlý\l"
     .string "POKéMON.$"
 
