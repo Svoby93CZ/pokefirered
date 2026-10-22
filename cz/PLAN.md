@@ -41,6 +41,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     - [x] Six Island (Pattern Bush, Ruin Valley, Water Path)
     - [x] Seven Island, Sevault Canyon, Tanoby Ruins, Trainer Tower
 - [ ] **5. Popisy**: útoky, předměty, Pokédex, bobule.
+  - [x] 5a popisy předmětů (`src/data/items.json`, TM/HM berou popis útoku)
 - [ ] **6. Nápověda a Fame Checker**: `help_system.inc`, `fame_checker.inc`, `gFameCheckerText_*` v `strings.c`.
 - [ ] **7. Ostatní**: klávesnice pro jména s češtinou (`naming_screen.c`; tlačítka lower/BACK/OK/START/SELECT
   jsou obrázky v `graphics/naming_screen/`, ověřeno v mGBA), Trainer Tower, Union Room, Wireless,
@@ -74,6 +75,11 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
   jméno s předponou („Divoký “/„Soupeřův “, spojenec „Tvůj“) vždy v 1. pádě — jinak dvojtečka
   („{B_SCR_ACTIVE_NAME_WITH_PREFIX}: {B_SCR_ACTIVE_ABILITY}!“) nebo věta bez jména.
   Okno zpráv 224 px, limit 216 px. Bojové menu: 2. sloupec max 40 px (x=56 v okně 96 px).
+- **Popisy** se tisknou bez čekání, takže řádky jen přes `\n` (nástroj: argument `popis`).
+  Předměty: `python3 cz/preloz.py src/data/items.json popis sirka=198 radku=3` (okno batohu 200 px).
+  Útoky: `src/move_descriptions.c popis sirka=112 radku=4` (přehled 113 px, učení útoků 118 px).
+  Pokédex: font s mezerou 1 px mezi písmeny, okno 240 px, 3 řádky; kategorie max 11 znaků bez mezery
+  (`DexScreen_PrintMonCategory` u revize 0 končí na mezeře), malý font, za ní „ POKéMON“.
 - Pozor na buffery: kousky kopírované do `gBattleTextBuff1–3` mají max 15 znaků (pole 16 B),
   třídy trenérů max 12 znaků (`gTrainerClassNames[][13]`, `{PKMN}` = 2 znaky).
 

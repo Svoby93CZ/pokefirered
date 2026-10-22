@@ -14,6 +14,9 @@ Výpis: šířka nejdelšího řádku v px (normální font, s argumentem 'maly'
 argument 'boj' = texty soubojů (limit 216 px, jména s předponou „Soupeřův “);
 '!' = nový text je širší než původní, ověř okno; '!!' = širší než dialogové okno;
 'R' = možná rodový tvar vůči hráči (jsi chytil, bys musel…), přeformuluj.
+Popisy (útoky, předměty, Pokédex): argument 'popis' = řádky jen přes \n (ne \l),
+'sirka=N' = limit řádku v px, 'radku=N' = víc řádků je '!!'.
+Funguje i pro src/data/items.json (název = itemId, mění description_english).
 """
 import re
 import sys
@@ -21,6 +24,10 @@ from pathlib import Path
 
 BOJ = "boj" in sys.argv[2:]  # texty soubojů: okno 224 px, nejširší anglický řádek ~213 px
 DIALOG_PX = 216 if BOJ else 196  # nejširší anglický řádek v dialozích (okno 208 px, vpravo šipka)
+POPIS = "popis" in sys.argv[2:]  # popisy se tisknou bez čekání: každý řádek jen \n
+_param = dict(a.split("=", 1) for a in sys.argv[2:] if "=" in a)
+DIALOG_PX = int(_param.get("sirka", DIALOG_PX))
+RADKU = int(_param.get("radku", 0))  # 0 = bez kontroly počtu řádků
 ZASTUPCI = {"PLAYER": 42, "RIVAL": 42}  # ostatní {STR_VAR_x} apod. počítá jako 60 px
 PREDPONA_PX = 53  # "Soupeřův " před jménem pokémona v boji
 # 2. osoba + příčestí na -l = rodový tvar vůči hráči („jsi chytil“, „bys musel“) -> varování R
@@ -112,7 +119,7 @@ def zalom(text):
                 radky_[-1] += " " + slovo
             else:
                 radky_.append(slovo)
-        odstavce.append("".join(("\\n" if i == 1 else "\\l" if i else "") + r for i, r in enumerate(radky_)))
+        odstavce.append("".join(("\\n" if i == 1 or i and POPIS else "\\l" if i else "") + r for i, r in enumerate(radky_)))
     return "\\p".join(odstavce)
 
 
@@ -128,7 +135,12 @@ def main():
     soubor = Path(sys.argv[1])
     zdroj = soubor.read_text(encoding="utf-8")
     inc = soubor.suffix in (".inc", ".s")  # Label:: + řádky .string "…"
+    js = soubor.suffix == ".json"  # src/data/items.json: "itemId": "NAZEV" … "description_english": "…"
     if "vypis" in sys.argv[2:]:
+        if js:
+            for m in re.finditer(r'"itemId": "(\w+)",(?:\n[^\n]*){0,8}?\n\s*"description_english": "((?:[^"\\]|\\.)*)"', zdroj):
+                print(m.group(1), "=", m.group(2).replace("\\\\", "\\"))
+            return
         return vypis(zdroj)
     for radek in sys.stdin.read().splitlines():
         if not radek.strip() or radek.startswith("#"):
@@ -136,7 +148,9 @@ def main():
         nazev, novy = radek.split(" = ", 1)  # mezeru na konci textu nechat
         nazev = nazev.strip()
         n = re.escape(nazev)
-        if inc:
+        if js:
+            vzor = re.compile(r'("itemId": "' + n + r'",(?:\n[^\n]*){0,8}?\n\s*"description_english": ")((?:[^"\\]|\\.)*)(")')
+        elif inc:
             vzor = re.compile(r"(^" + n + r"::?[ \t]*\n(?:\w+::?[ \t]*\n)*)((?:[ \t]*\.string \"[^\"\n]*\"[^\n]*\n)+)", re.M)
         else:  # NAZEV[] = _("…"); nebo [NAZEV] = _("…"), v poli; i _( "…" "…" ) na víc řádků
             vzor = re.compile(r"((?:\b" + n + r"\[\]|\[" + n + r'\])\s*=\s*_\()(\s*(?:"(?:[^"\\]|\\.)*"\s*)+)(\))')
@@ -144,7 +158,11 @@ def main():
         if len(nalezy) != 1:
             raise SystemExit(f"{nazev}: nalezeno {len(nalezy)}×, nic nezapsáno")
         m = nalezy[0]
-        if inc:
+        if js:
+            stary = m.group(2).replace("\\\\", "\\")
+            novy = zalom(novy)
+            nahrada = m.group(1) + novy.replace("\\", "\\\\") + m.group(3)
+        elif inc:
             stary = "".join(re.findall(r'\.string "([^"\n]*)"', m.group(2)))
             konec = "$" if stary.endswith("$") else ""
             stary = stary.removesuffix("$")
@@ -163,7 +181,8 @@ def main():
             else:
                 nahrada = m.group(1) + '"' + novy + '"' + m.group(3)
         s, n = max(radky(stary)), max(radky(novy))
-        znacka = "!!" if n > DIALOG_PX else "!" if n > s else ""
+        prilis_radku = RADKU and len(re.split(r"\\[nlp]", novy)) > RADKU
+        znacka = "!!" if n > DIALOG_PX or prilis_radku else "!" if n > s else ""
         znacka = ("R" if ROD.search(novy) else "") + znacka
         print(f"{znacka:3} {s:3} -> {n:3}  {nazev}: {novy}")
         zdroj = zdroj[:m.start()] + nahrada + zdroj[m.end():]
