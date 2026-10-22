@@ -73,7 +73,7 @@ PokedexRating_Text_LessThan130::
 
 PokedexRating_Text_LessThan140::
 	.string "Vynikající!\n"
-	.string "Jsi v tom opravdový profík!$"
+	.string "Na tohle máš opravdový talent!$"
 
 PokedexRating_Text_LessThan150::
 	.string "Už nemám co dodat!\n"

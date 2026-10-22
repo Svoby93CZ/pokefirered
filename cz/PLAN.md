@@ -49,6 +49,8 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
   - Nepřeloženo záměrně: `pokedex_text_lg.h` (jen pro sestavení LeafGreen) a popisy bobulí v `src/berry.c`
     (FireRed je nikde nezobrazuje, bobule v batohu mají popis z `items.json`).
 - [ ] **6. Nápověda a Fame Checker**: `help_system.inc`, `fame_checker.inc`, `gFameCheckerText_*` v `strings.c`.
+  - [x] 6a nápověda (`data/text/help_system.inc`: řádek 208 px, `\p` i `\l` = nový řádek, odpověď max 7 řádků,
+    položky nabídky jeden řádek: `sirka=209 radku=1`, ostatní `sirka=212 radku=7`)
 - [ ] **7. Ostatní**: klávesnice pro jména s češtinou (`naming_screen.c`; tlačítka lower/BACK/OK/START/SELECT
   jsou obrázky v `graphics/naming_screen/`, ověřeno v mGBA), Trainer Tower, Union Room, Wireless,
   minihry (Berry Crush, Pokémon Jump, Dodrio), Mystery Gift, Easy Chat, titulky — vše v `strings.c` ještě anglicky.
@@ -60,7 +62,7 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
 - **Hráč** (`{PLAYER}`) může být kluk i holka, proto žádné minulé časy s rodem.
   Místo „{PLAYER} použil“ piš „{PLAYER} používá“ nebo „Použito: …“.
 - **Pokémon** jako podmět je v mužském rodě („{STR_VAR_1} se naučil…“).
-- Nástroj značí `R` možný rodový tvar vůči hráči (jsi chytil, bys musel, jsi dobrý…) — vždy přeformuluj,
+- Nástroj značí `R` možný rodový tvar (i přes zalomení řádku) vůči hráči (jsi chytil, bys musel, jsi dobrý…) — vždy přeformuluj,
   pokud věta míří na hráče (u NPC k NPC je rod v pořádku).
 - Pozor na minulý čas ve 2. osobě („Všiml sis…“, „Už jsi chytil…“) — je rodový, přeformuluj („Vidíš…“, „Už máš…“).
 - NPC mluví v 1. osobě podle svého rodu (podle jména a třídy: „Nasbírala jsem…“); věty o hráči

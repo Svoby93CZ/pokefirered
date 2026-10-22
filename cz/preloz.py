@@ -183,7 +183,7 @@ def main():
         s, n = max(radky(stary)), max(radky(novy))
         prilis_radku = RADKU and len(re.split(r"\\[nlp]", novy)) > RADKU
         znacka = "!!" if n > DIALOG_PX or prilis_radku else "!" if n > s else ""
-        znacka = ("R" if ROD.search(novy) else "") + znacka
+        znacka = ("R" if ROD.search(re.sub(r"\\[nl]", " ", novy)) else "") + znacka
         print(f"{znacka:3} {s:3} -> {n:3}  {nazev}: {novy}")
         zdroj = zdroj[:m.start()] + nahrada + zdroj[m.end():]
     soubor.write_text(zdroj, encoding="utf-8")
