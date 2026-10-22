@@ -40,11 +40,14 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     - [x] Four Island, Five Island (LORELEI, Rocket Warehouse, SELPHY)
     - [x] Six Island (Pattern Bush, Ruin Valley, Water Path)
     - [x] Seven Island, Sevault Canyon, Tanoby Ruins, Trainer Tower
-- [ ] **5. Popisy**: útoky, předměty, Pokédex, bobule.
+- [x] **5. Popisy**: útoky, předměty, Pokédex, bobule.
   - [x] 5a popisy předmětů (`src/data/items.json`, TM/HM berou popis útoku)
   - [x] 5b popisy útoků (`src/move_descriptions.c`)
   - [x] 5c popisy schopností a povahy (`abilities.h`, `nature_names.h`; povahy v ženském rodě kvůli „Povaha: …“)
   - [x] 5d kategorie v Pokédexu (`pokedex_entries.h`, jedno slovo max 11 znaků, přídavné jméno k „POKéMON“)
+  - [x] 5e texty Pokédexu pro FireRed (`pokedex_text_fr.h`, jednotky převedené na metry, km/h, kg, stupně Celsia)
+  - Nepřeloženo záměrně: `pokedex_text_lg.h` (jen pro sestavení LeafGreen) a popisy bobulí v `src/berry.c`
+    (FireRed je nikde nezobrazuje, bobule v batohu mají popis z `items.json`).
 - [ ] **6. Nápověda a Fame Checker**: `help_system.inc`, `fame_checker.inc`, `gFameCheckerText_*` v `strings.c`.
 - [ ] **7. Ostatní**: klávesnice pro jména s češtinou (`naming_screen.c`; tlačítka lower/BACK/OK/START/SELECT
   jsou obrázky v `graphics/naming_screen/`, ověřeno v mGBA), Trainer Tower, Union Room, Wireless,
