@@ -1509,7 +1509,7 @@ Help_Text_UsingTypeMatchupList::
 	.string "Použití tabulky typů$"
 
 Help_Text_OwnMoveDark::
-	.string "Vlastní útok typu: DARK$"
+	.string "Tvůj útok typu: DARK$"
 
 Help_Text_OwnPokemonDark::
 	.string "Tvůj POKéMON typu: DARK$"
