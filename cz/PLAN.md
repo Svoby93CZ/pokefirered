@@ -53,9 +53,18 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
     položky nabídky jeden řádek: `sirka=209 radku=1`, ostatní `sirka=212 radku=7`)
   - [x] 6b Fame Checker (`data/text/fame_checker.inc`: texty jako dialog; místo a zdroj malým fontem
     max 84 px: `maly sirka=84 radku=1`), články POKéMON JOURNAL, ovládání v `strings.c`
-- [ ] **7. Ostatní**: klávesnice pro jména s češtinou (`naming_screen.c`; tlačítka lower/BACK/OK/START/SELECT
-  jsou obrázky v `graphics/naming_screen/`, ověřeno v mGBA), Trainer Tower, Union Room, Wireless,
-  minihry (Berry Crush, Pokémon Jump, Dodrio), Mystery Gift, Easy Chat, titulky — vše v `strings.c` ještě anglicky.
+- [ ] **7. Ostatní rozhraní**
+  - [x] 7a `strings.c`: spojení kabelem i bezdrátově, výměna, minihry, Easy Chat, chat v Union Roomu, Mystery Gift
+    (okna: Mystery Gift volby 56 px a zprávy 224 px, Easy Chat pokyny 176 px, záznamy soubojů 216 px)
+  - [x] 7b `src/union_room_message.c` (nástěnka výměn, chat, souboje, trenérské karty; `sirka=210`,
+    texty druhého hráče mají mužskou/ženskou variantu, hráč zůstává bezrodý)
+  - [x] 7c Berry Crush, výměna, TIME BOARD v Trainer Tower, `mystery_event_msg.c`, názvy funkcí v titulcích
+    (jména tvůrců zůstávají)
+  - [ ] 7d klávesnice pro jména s češtinou (`naming_screen.c` + `keyboard_text.c`; tlačítka lower/BACK/OK/START/SELECT
+    jsou obrázky v `graphics/naming_screen/`, ověřeno v mGBA) — větší zásah do kódu a grafiky
+  - Nepřeloženo záměrně: slova pro Easy Chat (`src/data/easy_chat/*`, ~1000 slov, abecední řazení),
+    WONDER CARDS/NEWS, MYSTERY GIFT, nepoužívané texty z Ruby/Sapphire (Battle Tower, dekorace, soutěže,
+    `sText_CollectedAllStamps`).
 
 ## Pravidla
 
