@@ -125,7 +125,7 @@ def zalom(text):
 
 def vypis(zdroj):
     """Vypíše texty .inc/.s souboru jako „Label = text“ (bez japonských)."""
-    for m in re.finditer(r"^(\w+)::?[ \t]*\n((?:[ \t]*\.string \"[^\"\n]*\"[^\n]*\n)+)", zdroj, re.M):
+    for m in re.finditer(r"^(\w+)::?[ \t]*(?:@[^\n]*)?\n((?:[ \t]*\.string \"[^\"\n]*\"[^\n]*\n)+)", zdroj, re.M):
         text = "".join(re.findall(r'\.string "([^"\n]*)"', m.group(2))).removesuffix("$")
         if text.strip() and not re.search("[\u3040-\u30ff]", text):
             print(m.group(1), "=", text)
@@ -151,7 +151,7 @@ def main():
         if js:
             vzor = re.compile(r'("itemId": "' + n + r'",(?:\n[^\n]*){0,8}?\n\s*"description_english": ")((?:[^"\\]|\\.)*)(")')
         elif inc:
-            vzor = re.compile(r"(^" + n + r"::?[ \t]*\n(?:\w+::?[ \t]*\n)*)((?:[ \t]*\.string \"[^\"\n]*\"[^\n]*\n)+)", re.M)
+            vzor = re.compile(r"(^" + n + r"::?[ \t]*(?:@[^\n]*)?\n(?:\w+::?[ \t]*(?:@[^\n]*)?\n)*)((?:[ \t]*\.string \"[^\"\n]*\"[^\n]*\n)+)", re.M)
         else:  # NAZEV[] = _("…"); nebo [NAZEV] = _("…"), v poli; i _( "…" "…" ) na víc řádků
             vzor = re.compile(r"((?:\b" + n + r"\[\]|\[" + n + r'\])\s*=\s*_\()(\s*(?:"(?:[^"\\]|\\.)*"\s*)+)(\))')
         nalezy = list(vzor.finditer(zdroj))

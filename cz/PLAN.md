@@ -48,9 +48,11 @@ Každá část = jeden commit na větvi `cestina`. Hotové části odškrtávej.
   - [x] 5e texty Pokédexu pro FireRed (`pokedex_text_fr.h`, jednotky převedené na metry, km/h, kg, stupně Celsia)
   - Nepřeloženo záměrně: `pokedex_text_lg.h` (jen pro sestavení LeafGreen) a popisy bobulí v `src/berry.c`
     (FireRed je nikde nezobrazuje, bobule v batohu mají popis z `items.json`).
-- [ ] **6. Nápověda a Fame Checker**: `help_system.inc`, `fame_checker.inc`, `gFameCheckerText_*` v `strings.c`.
+- [x] **6. Nápověda a Fame Checker**: `help_system.inc`, `fame_checker.inc`, `gFameCheckerText_*` v `strings.c`.
   - [x] 6a nápověda (`data/text/help_system.inc`: řádek 208 px, `\p` i `\l` = nový řádek, odpověď max 7 řádků,
     položky nabídky jeden řádek: `sirka=209 radku=1`, ostatní `sirka=212 radku=7`)
+  - [x] 6b Fame Checker (`data/text/fame_checker.inc`: texty jako dialog; místo a zdroj malým fontem
+    max 84 px: `maly sirka=84 radku=1`), články POKéMON JOURNAL, ovládání v `strings.c`
 - [ ] **7. Ostatní**: klávesnice pro jména s češtinou (`naming_screen.c`; tlačítka lower/BACK/OK/START/SELECT
   jsou obrázky v `graphics/naming_screen/`, ověřeno v mGBA), Trainer Tower, Union Room, Wireless,
   minihry (Berry Crush, Pokémon Jump, Dodrio), Mystery Gift, Easy Chat, titulky — vše v `strings.c` ještě anglicky.
