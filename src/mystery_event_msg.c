@@ -1,13 +1,13 @@
 #include "global.h"
 
-const u8 gText_MysteryGiftBerry[] = _("Obtained a {STR_VAR_2} BERRY!\nDad has it at PETALBURG GYM.");
-const u8 gText_MysteryGiftBerryTransform[] = _("The {STR_VAR_1} BERRY transformed into\none {STR_VAR_2} BERRY.");
-const u8 gText_MysteryGiftBerryObtained[] = _("The {STR_VAR_1} BERRY has already been\nobtained.");
-const u8 gText_MysteryGiftSpecialRibbon[] = _("A special RIBBON was awarded to\nyour party POKéMON.");
-const u8 gText_MysteryGiftNationalDex[] = _("The POKéDEX has been upgraded\nwith the NATIONAL MODE.");
-const u8 gText_MysteryGiftRareWord[] = _("A rare word has been added.");
-const u8 gText_MysteryGiftSentOver[] = _("{STR_VAR_1} was sent over!");
-const u8 gText_MysteryGiftFullParty[] = _("Your party is full.\n{STR_VAR_1} could not be sent over.");
-const u8 gText_MysteryGiftNewTrainer[] = _("A new TRAINER has arrived in\nHOENN.");
+const u8 gText_MysteryGiftBerry[] = _("Získáno: {STR_VAR_2} BERRY!\nTáta ji má v PETALBURG GYM.");
+const u8 gText_MysteryGiftBerryTransform[] = _("{STR_VAR_1} BERRY se proměnila\nv jednu {STR_VAR_2} BERRY.");
+const u8 gText_MysteryGiftBerryObtained[] = _("{STR_VAR_1} BERRY už byla\nzískána.");
+const u8 gText_MysteryGiftSpecialRibbon[] = _("POKéMON v tvém týmu dostal\nzvláštní RIBBON.");
+const u8 gText_MysteryGiftNationalDex[] = _("POKéDEX byl vylepšen\no NATIONAL MODE.");
+const u8 gText_MysteryGiftRareWord[] = _("Přibylo vzácné slovo.");
+const u8 gText_MysteryGiftSentOver[] = _("Odesláno: {STR_VAR_1}!");
+const u8 gText_MysteryGiftFullParty[] = _("Tvůj tým je plný.\n{STR_VAR_1} nejde odeslat.");
+const u8 gText_MysteryGiftNewTrainer[] = _("V regionu HOENN se objevil\nnový TRENÉR.");
 const u8 gText_MysteryGiftNewAdversaryInBattleTower[] = _("バトルタワーに　あらたな\nたいせんしゃが　あらわれた！");
-const u8 gText_MysteryGiftCantBeUsed[] = _("This data can't be used in\nthis version.");
+const u8 gText_MysteryGiftCantBeUsed[] = _("Tato data nejde v této\nverzi použít.");
